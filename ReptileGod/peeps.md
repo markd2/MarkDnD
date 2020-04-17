@@ -49,6 +49,14 @@ Bold indicates cultists.
 * **Derek Desleigh** - building 6 assasin
 * **Snigrot Dogroot** - building 6
 * **Iggy Olivero** - building 6
+* **Misha Devi** - room M3
+* **Abramo** 0 - room M16
+* Cirilli Finla
+* **Explictica Defilus** - room D37
+* **Jarvis Inigar** - room D14
+* **Blayze Gobbar** - room D14
+* **Benn Griff ** - room D14
+* **Garath Primo** - room D26
 
 Buildings
 
@@ -114,6 +122,20 @@ Buildings
   * Kenton Miller
 * 27 - Grove of Stately Elms
   * Ramne
-  * Whiskers 
+  * Whiskers
 
-Stopped at Temple of Merikka
+* M3 - Central Sanctuary
+  * **Misha Devi**
+* M16 - Antechamber
+  * **Abramo**
+* M18 - Secret Altar Room
+  * Cirilli Finla
+* D14 - Lieutenant's Quarters
+  * **Jarvis Inigar**
+  * **Blayze Gobbar**
+  * **Benn Griff **
+* D26 - Zombie Factory
+  * **Garath Primo**
+* D37 - Throne Room of Explictica Defilus
+  * **Explictica Defilus**
+
