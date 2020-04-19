@@ -7,3 +7,4 @@ Rumors about Orlane
 5. Savage crocodiles are straying far from the marsh. _(true)_
 6. People in Orlane are being altered _(true)_ and the "changeling" can be
 recognized by fang marks in their throats _(false)_
+7. Something about giant evil snakes. _(misleading)_

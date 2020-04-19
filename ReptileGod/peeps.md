@@ -27,7 +27,7 @@ Bold indicates cultists.
 * **Garath Primo** - room D26
 * **Grover Ruskadal** - building 2
 * Haskall Ull - building 7
-* Haskall Ull Family - wife
+* Haskall Ull Family - ~wife~ husband
 * Hewitt Twaine - building 1
 * Hewitt Twaine Family: Son #1, Son #2, Wife, Daughter
 * **Hulbar Onfre** - building 2
@@ -55,7 +55,7 @@ Bold indicates cultists.
 * **Village Store Husband** - building 12
 * Vilma Merridie - building 20
 * Whiskers - building 27 (weasel)
-* Wylie Dunn - building 7
+* **Wylie Dunn** - building 7
 * Zakaris Ormond - building 10
 
 Buildings
@@ -79,7 +79,7 @@ Buildings
 * 7 - Jeweler and Moneychanger
   * Haskall Ull
   * Erroll Rocktyn
-  * Wylie Dunn
+  * **Wylie Dunn** - cult member waiting for the right moment to betray Haskall
 * 8 - Livery Stable
   * Kilian Gade
 * 9 - Small Cottage
