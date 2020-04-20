@@ -4,3 +4,5 @@
 # finder droppings
 .DS_Store
 
+# things with commercial PDFs in them
+dont-check-in
