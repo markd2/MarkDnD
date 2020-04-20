@@ -13,8 +13,8 @@ Physically weak and unable to walk more than a few feet between rests.
 
 An astute observer of occurrences in Orlane.
 
-She and her husband moved to the village 50 years ago, occupying
-24 (abandoned farm) together until his death.
+She and her husband moved to the village 50 years ago, occupying a farm
+together until his death.
 
 For last 8 years she has lived here, doing small mending and tending
 chores for neighbors to earn a few coppers.

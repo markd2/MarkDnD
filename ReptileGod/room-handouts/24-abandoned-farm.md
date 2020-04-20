@@ -16,4 +16,8 @@ is likewise empty.
 
 The widow Merridie (20) used to live here.
 
+This is where Karosha (Tamida's sister) family used to live.  
+Aelric is husband.
+
+They got cult-napped and never returned.
 

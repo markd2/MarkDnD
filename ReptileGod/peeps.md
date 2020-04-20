@@ -2,6 +2,8 @@
 
 Bold indicates cultists.
 
+* **Karosha** - Tamida's sister
+
 * **Abramo** - room M16
 * Alan Clayborn - building 23
 * Belba Cralloon - building 25
