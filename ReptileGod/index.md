@@ -14,3 +14,11 @@ Tamida's sister is in trouble in Orlane.  They need some help!
 ### Actual Planning
 
 * [Dramatis Personae](peeps.md)
+* [Handouts for Orlane](room-handouts)
+
+### TODO
+
+* John names throughout for cultists
+* Genderswap or same-sex as appropriate
+* Put HP into villager tokens
+
