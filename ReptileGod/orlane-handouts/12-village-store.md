@@ -13,9 +13,12 @@ Family converted three months ago.
 
 NEED JOHN NAMES
 
+John Smallberries
+Jen Smallberries
+
 Husband, wife, and three grown sons will all fight if necessary.
 
-Husband, wife greet customers in the store.  Sones remain screened by
+Husband, wife greet customers in the store.  Sons remain screened by
 a curtain leading to the back porch, aiming cocked crossbows at strangers.
 
 if the visitors are hostile or too curious, the sons will step forward

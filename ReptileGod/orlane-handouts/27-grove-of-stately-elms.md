@@ -4,7 +4,7 @@ Box text:
 
 The narrow trail winds among majetic elms, at times disappearing into
 thick shrubbery.  The bushes between the trees are dense, rising to
-a height of 8 or 10 feet. The elms themselves average 75' tall, and they
+a height of 8 or 10 feet. The elms themselves average 75' tall, and theya
 are the only trees here. They are widly spaced, allowing much sunlight to
 pour between their ancient boughs.
 

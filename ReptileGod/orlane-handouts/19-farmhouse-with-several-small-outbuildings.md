@@ -7,6 +7,7 @@ many chickens scratch about the yard.  While a rooster and
 several turkeys strut regally. A teenage boy watches from the
 porch of the house.
 
+Jefferson Davis (Hogg :-)
 
 If anyone approaches the house the lad will run inside, returning
 with his father.

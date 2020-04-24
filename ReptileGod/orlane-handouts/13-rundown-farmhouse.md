@@ -7,7 +7,10 @@ indeed inhabited.
 
 Cult members!
 
-Farm and adult son live here.
+Farmer and adult son live here.
+
+JOHN MANY JARS
+JOHN EDWARDS
 
 Wife became the victim of the reptile god 6 months ago, but was
 not charmed

@@ -19,3 +19,4 @@ he occasionally comes in to the inn to purchase supplies.  KNows that he
 is someting more than he seems, and senses that the oldtimer is of good
 alignment. If a party expresses a desire to get to the bottom of the town's
 mystery, Ollwin will suggest that they see Ramne
+

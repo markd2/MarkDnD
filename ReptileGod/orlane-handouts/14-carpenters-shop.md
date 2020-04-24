@@ -12,6 +12,9 @@ Cult members!
 
 Carpenter and his wife are very recent cult initiates.
 
+JOHN GOMEZ
+JEN JOSEPH
+
 Their teenage son and daughter may stillbe alive in the snakepits
 (resisted the Naga's charm)
 

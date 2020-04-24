@@ -7,6 +7,7 @@ barn beyond.  A teenage girl is churning butter on the porch, but she sees
 your group and runs into the house at your approach.  Shadowy forms are
 visible behind closed curtains.
 
+
 Farmer HEWITT TWAINE
 Two grown sons
 

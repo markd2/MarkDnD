@@ -8,14 +8,18 @@ is the tall millhouse, but it is obvious that afamily lives in another
 wing of the building.  Two children play in the yard, but stop and stare
 at the sight of your group.
 
+
 If the group approaches, the youngest will run for the house.
 The other, 10 yo, will squint at the party as it advances, mimicking
 the tance of a belligerent adult.
 
+
 Obviously the home of the village miller and his family (wife and 9 children)
-Shortly after the child enters the house, the miller, Kenton Miller,
+Shortly after the child enters the house, the miller, 
+Kenton Miller,
 and four adult sons, will emerge. The man will call his younger son back to
 him and await the party on the porch.
+
 
 The miller is by nature a friendly man, but recent events have made him
 suspicious of even his neighbors.  He will feel farily safe with his

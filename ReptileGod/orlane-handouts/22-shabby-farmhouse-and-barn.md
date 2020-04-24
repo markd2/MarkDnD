@@ -15,6 +15,16 @@ The family has been recently converted.
 Consists of a husband, wife, adult daughter, their son, son-in-law,
 and the younger couple's small child.
 
+JOHN O'OCONNOR
+JEN OMAR
+
+JEN TURK
+JOHN TAKE COVER
+
+
+
+
+
 Farm is well-run, though battered (it has looked that way since long
 before the family's indoctrination) Large stores of barley wheat and corm
 are in the barn.

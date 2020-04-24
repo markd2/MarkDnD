@@ -1,42 +1,42 @@
 John Barnett
-John Bigboote
+X John Bigboote
 John Camp
 John Careful Walker
 John Chief Crier
-John Cooper
+X John Cooper
 John Coyote
-John Edwards
+X John Edwards
 John Fat Eating
 John Fish
-John Fledgling
-John Gomez
+X John Fledgling
+X John Gomez
 John Grim
 John Guardian
 John Icicle Boy
-John Jones
-John Joseph
+X John Jones
+X John Joseph
 John Kim Chi
 John Lee
-John Littlejohn
-John Many Jars
+X John Littlejohn
+X John Many Jars
 John Milton
-John Mud Head
-John Nephew
+X John Mud Head
+X John Nephew
 John Nolan
-John O'Connor
+X John O'Connor
 John Omar
-John Parrot
+X John Parrot
 John Rajeesh
 John Ready to Fly
 John Repeat Dance
 John Roberts
 John Scott
 John Shaw
-John Smallberries
+X John Smallberries
 John Starbird
-John Take Cover
+X John Take Cover
 John Thorny Stick
-John Turk
+X John Turk
 John Two Horns
 John Web
 John Whorfin
@@ -50,5 +50,5 @@ Freedom Loving Forces (Black Lectroids)
 John Valuk
 John Emdall
 John Gant
-John Parker
+X John Parker
 

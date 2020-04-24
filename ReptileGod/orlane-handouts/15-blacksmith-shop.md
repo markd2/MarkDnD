@@ -3,7 +3,7 @@
 Box text:
 
 This is obviously a smithy though no sign hangs here. The shop part of the
-building is unwalled, and two  brawny lads operate a bellows while a giant of
+building is unwalled, and two brawny lads operate a bellows while a giant of
 a man hammers thunderously upon a piece of metal that will soon becoe
 the blade of the shovel. Soot and smoke abound.
 
@@ -12,6 +12,16 @@ Cult members!
 
 The smith, his wife, and their two sons and daughters have been members
 for nearly a year.
+
+JOHN BIGBOOTE smith
+
+JOHN COOPER son
+JOHN FLEDGLING son
+
+JEN LITTLEJOHN
+
+
+
 
 Man still does his work with the mechanical precision that has allowed him
 to maintain the quality that he has been known for.

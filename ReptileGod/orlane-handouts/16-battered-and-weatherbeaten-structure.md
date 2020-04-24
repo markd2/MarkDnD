@@ -24,6 +24,10 @@ Not really abandoned. If the party should break in or discover the secret door
 in the rear wall, will find the ground floor in a state of total disarray, left
 as if following the fight.
 
+
+VVV ALREADY DONE VVV
+
+
 A cellar door is visible, hanging on one hinge and a creaky staircase leads
 into darkness.
 
@@ -33,10 +37,10 @@ one large room with several crates of spoiled foodstores and three
 kegs of wine (still good).
 
 Two doors lead to smaller storage rooms: 
-  * fruit cellar  empty) 
-  * and a toolroom - the source of the odor, 3 troglodytes
+L  * fruit cellar  empty
+R  * and a toolroom - the source of the odor, 3 troglodytes
 
-THey will have heard the party descend the stairs and will be hiding.
+They will have heard the party descend the stairs and will be hiding.
 if the door to the toolroom is opened, they wil l attack savagely.
 
 Small sack in an empty toolcrate behind the door, contains 7pp 80gp

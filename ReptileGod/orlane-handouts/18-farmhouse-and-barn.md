@@ -13,6 +13,12 @@ Cult members!
 Home of a woman and her three grown sons.  Husband died many years ago,
 but the four of them have managed the farm quite well.
 
+JEN JONES
+
+JOHN MUD HEAD
+JOHN NEPHEW
+JOHN PARROT
+
 Been cult members for nearly a yer, and men quite active in recruting new
 members - help trogs subdue captives of the cult and use a farm cart
 (now behind golden grain (6))
