@@ -7,7 +7,7 @@ with an unopened wine bottle and two clean glasses on a shelf
 in the corner.
 
 
-As soon as a party enters room 13 or 14, the goblims in room 15
+As soon as a party enters room 13 or 14, the goblins in room 15
 will spy upon them through slits in the secret doors.
 
 All the secret doors are one-way only, from 15 into 13 or 14.

@@ -4,7 +4,7 @@
 
 Box text:
 
-This bare room contains only some wooden benches and 8 skeletons
+This bare room contains only some wooden benches and 7 skeletons
 standing aginst the walls between them.
 
 

@@ -9,7 +9,7 @@ still held to keep up the prtense, the clerics are among the cult's most
 adamant proponents.  They play an active role in the deception of
 unsuspecting victims.
 
-The granite wall around the temple is 20' high.  
+The granite wall around the temple is 20' high.
 The gates are strong and wooden.
 Carved into them with precise craftsmanship is an ornate carving of
 the chaotic good goddess Merikka, portrayed as a beautiful young woman.

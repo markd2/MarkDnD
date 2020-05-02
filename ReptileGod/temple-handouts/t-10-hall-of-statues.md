@@ -1,4 +1,4 @@
-# 10. Hall of Statues
+g# 10. Hall of Statues
 
 Box text:
 
@@ -29,4 +29,6 @@ Saving throughvs spells is allowed for each curse, with those saving
 suffering a -2 penaltiy for all dice rolls for three days.  Failure means
 the curse will be permanent until a cleric of at least 12th level casts
 remove curse and atonement on the culprit
+
+keep out.
 

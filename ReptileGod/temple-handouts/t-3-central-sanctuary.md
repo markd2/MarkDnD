@@ -2,7 +2,7 @@
 
 Box text:
 
-THis large room has a tile floor decorated with an abstract mosaic 
+This large room has a tile floor decorated with an abstract mosaic 
 pattern in orange, tan, brown, and blue.
 Several tapestries decorate the walls, all depicting scenes of lush farmland
 and crops in various stages of maturity. Five huge elm trunks serve as
@@ -23,4 +23,5 @@ Or the DM could have the characters meet a temple servant, with
 similar results.
 
 statue is worth 5000 gp but weighs 10,000 gp
+
 
