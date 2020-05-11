@@ -8,7 +8,7 @@ Within, four thick columns support the beams of an arched chamber ceiling,
 25' high. A 20' wide, 20' high corridor leads from the southern side
 of the room.
 
-As soon as the harpy in room 17 hears the creatures nter, the evil
+As soon as the harpy in room 17 hears the creatures enter, the evil
 birdwoman will attempt to work the magic of her song.
 
 https://www.dndbeyond.com/monsters/harpy

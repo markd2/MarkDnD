@@ -25,3 +25,5 @@ similar results.
 statue is worth 5000 gp but weighs 10,000 gp
 
 
+JOHN STARBIRD
+

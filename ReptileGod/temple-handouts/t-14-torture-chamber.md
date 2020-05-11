@@ -12,6 +12,9 @@ and WEGETABLES that the faithful provided for their cleric's
 disposal has now been outrageously defiled. It is here that
 **Derek Desleigh** does much of his dirty work.
 
-Misha and Abramo also use the devices as a means of coaxing 
+Misha and **Maneer Ecords** also use the devices as a means of coaxing 
 information from reluctant citizens before they have been converted.
+
+The door to the south has **Maneer Ecords** on a nameplate, like the 
+Misha Devi door downstairs that Muiri saw.
 

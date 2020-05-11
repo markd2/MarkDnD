@@ -10,6 +10,8 @@ with strange markings. Loose chips of stone lie scattered on the
 floor.  Aside from teh southeast exist, the room appears empty.
 
 
+**Maneer Ecords**
+
 This is the antechamber to the quarters **Abramo**, originally a
 cleric of the gentle Merikka.  His charming by the naga and resultant
 alignment change has seriously unbalanced his mind.
@@ -21,7 +23,8 @@ Abramo will always be around the double corner at position (b)
 watch the party. He will flee if the party appears too strong,
 but will otherwise attack as suggested later.
 
-7th level cleric (!) chainmail +2, sheild and mace
+
+7th level cleric (!) chainmail +2, sheild and mace (1d6)
 
 spells:
   first level: curse, command, cure light wounds, detect good, cause fear
@@ -29,6 +32,16 @@ spells:
       detect charm, silence
   third level: animate dead, cause blindness, prayer
   fourth level: undetectable lie
+
+SILENCE: 20-foot radius sphere centered on a point.
+      10 minutes  no save https://www.dndbeyond.com/spells/silence
+SPIRATUL WEAPON: https://www.dndbeyond.com/sources/phb/spells#SpiritualWeapon
+      1 minute  1d8 + spellcasting ability modifier
+COMMAND: WIS Save.  https://www.dndbeyond.com/spells/command
+      e.g. Approach / Drop (what it's holding) / Grovel (falls prone)
+
+
+
 
 "A good strategy for Abramo"
   - prayer self, with party in area of spell effect
