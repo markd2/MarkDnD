@@ -5,3 +5,7 @@
 * make some characters and practice some combat
 * practice harpy combat
 * Read up on grapple rules for crocs
+* locked door - picking or forcing
+* poison rules
+* not-looking-at-attacks.
+* charm and save
