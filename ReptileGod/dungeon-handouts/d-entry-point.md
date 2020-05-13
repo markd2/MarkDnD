@@ -1,5 +1,8 @@
 # The Dungeon of the Reptile God
 
+----------
+LEVEL 1
+
 General Conditions
 
 It's been excavated in an area of soggy dirt, not rock.
@@ -21,5 +24,13 @@ pumproom (29). "mention frequenlty to distract the players"
 There's wandering monsters and monster tables.
 
 
-MYMNOS - movies you might not otherwise seen.
+----------
+LEVEL 2
+
+The walls of the lower level are irregular and winding.
+Timbers are still used as supports, but not necessarily at the neat
+5' intervals of the first level. The trickling noise of
+water is more pronounced, and the smells are, if anything, worse.
+
+There's wandering monsters and monster tables.
 
