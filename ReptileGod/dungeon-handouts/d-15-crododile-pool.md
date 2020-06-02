@@ -2,7 +2,7 @@
 
 This large room has no doors.  The cooridors leading to it
 simpy end at the water's edge. While very shallow around its 
-perimeter, the bool reaches a depth of 4' in the center.
+erimeter, the bool reaches a depth of 4' in the center.
 The muck on the bottom will reduce movement to 1/4 normal speed.
 
 2 or 3 crocodiles

@@ -17,7 +17,7 @@ Treat as Giant Frog
 https://www.dndbeyond.com/monsters/giant-frog
 AC 11; hp 15; 1d6+1
 
-THey will attack anyone stepping through the door. The pool is 3'
+They will attack anyone stepping through the door. The pool is 3'
 deep throughout with an additional 1' of mud on the bottom.
 
 Wading is 1/4 the usual movement rate.  No treasure.
