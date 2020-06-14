@@ -12,11 +12,16 @@ only be carried through the dungeon at a fully encumbered movement rate.
 
 The chamber is much like chamber 16, except for the four columns in
 the southern chamber have been connected to each other with
-branch-like perches, 5-10' off the floor.  The harpy has collected
+branch-like perches, 5-10' off the floor.  
+
+Like Canary Perches.
+
+The harpy has collected
 jewlry and medallions as her prizes. And these are draped decoratively
 from her perches.
 
 Jewelry is worth 250gp.  100gp x2, 90pgp, 75gp, and 50gp.
 A ruby medallion writh 800gp, and a _necklace of adaptation_ which loks
 like a 50gp necklace.  A hole in the ceiling, unreachable by climbing,
-leads to an exit through a hummock in the march.
+leads to an exit through a hummock in the marsh.
+
