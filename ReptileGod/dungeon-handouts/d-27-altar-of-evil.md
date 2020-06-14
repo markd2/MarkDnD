@@ -9,10 +9,49 @@ This is a long room whose walls are covered by wooden panels.
 At the far end is a raised wooden dais with an altar supporting a statue
 of the reptile god - a snake with a human head (face).
 Next to the altar is a man dressed in clerical robes who seems to be
-expecting you.  The shadowy human form of what might be his
-assistant can be seen skulking behind the statue of the reptile god.
+hovering over the altar with his back to you.
+The shadowy human form of what might be his
+assistant can be seen skulking next to him
 
-He wears chain mail and carries a sheidl and a wicked hammer with a head
+Hearing the door open, he glances over his shoulder without recognition.
+
+"oh good, you're here. Take those boxes up to John Parker before he finishes
+unloading the new recruits"
+
+and then he goes back to what he's doing.
+
+There's five crates, about two to three foot cubes, with mailing labels
+(HANDOUT if someone looks).  One is really heavy (for BONK), the rest are
+bulky but liftable.
+
+Contents:
+
+Boxes:
+  #1 - sort of heavy.  Has paper, some notebooks, and the Cover letter (below)
+  #2 - light but bulky. Has turnips
+  #3 - Ratty pieces of padded armor, some skany weapons. Smells like goblins
+  #4 - a box of clean bones
+  #5 - *Heavy* Iron pieces for a torture device, maybe parts for another Iron Maiden
+
+
+In box # 1
+
+  Maneer,
+
+  Good Gods have you not figured out why that little wench of yours
+  is immune?  Chompy is getting fat from all our rejects, and She
+  is displeased.
+
+  When She is displeased, I am displeased.
+
+  Neighborly,
+  Garath
+
+----------
+
+
+
+He wears chain mail and carries a sheild and a wicked hammer with a head
 like that of a snake.
 
 He has a ring of keys n his belt which contains the keys for all the
@@ -34,3 +73,17 @@ passage.
 
 The door is indetectable by normal seraching until the statue's head
 is moved.
+
+----------
+
+DC 17 Perception for the statue secret mechanism.
+
+----------
+
+In addition to the ghoul, Garteh can summon a swarm of Crawling Claws.
+
+----------
+
+
+
+

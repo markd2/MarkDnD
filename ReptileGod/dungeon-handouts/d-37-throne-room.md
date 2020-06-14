@@ -65,6 +65,11 @@ danger. The ace in the hole.
 Give the players every opportunity to come up with this one
 themselves, and don't use it if they don't need it.
 
+If things are going really badly, some trogs come in - depending on how the
+characters entered the lair, they come from the other way (so if players came
+in from boat, they'd come in from the secret passage, and vice versa.)
+
+
 For stronger parties, the DM should adjust the above sequence for
 balance - maybe the lightning bolt or dispel has been used, or
 she will order charmed characters to fight.  Or maybe a few more crocodiles
@@ -110,3 +115,5 @@ ESPECIALLY $HUSBAND)
 
 Trogs were not charmed, and still consider humans as mortal
 enemies.
+
+
