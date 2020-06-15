@@ -64,6 +64,8 @@ They Cover a wide range of levels.  Here's a cheatsheet.
 
 ## By Level
 
+### Any
+
 * All that Remains - Any
 * Coin Flip - Any
 * Council of Three - Any
@@ -72,8 +74,9 @@ They Cover a wide range of levels.  Here's a cheatsheet.
 * Mirrors of the Soul - Any
 * Pay to Play - Any (low-to-mid levels)
 * Shadow of Your Former Self - Any
-
 * Shell Game - 1-3 (scalable)
+
+### Level 2
 
 * One Crow, Two Crow, Three Crow, Scarecrow - 2 (easy)
 * Backstabber - 2 (easy)
@@ -82,12 +85,16 @@ They Cover a wide range of levels.  Here's a cheatsheet.
 * Aces High - 2 (hard)
 * Rube's Cube - 2 (hard)
 
+### Level 3
+
 * Feeling Buggy - 3+
 * Mirror, Mirror - 3 (easy)
 * Wooden Dragon - 3 (medium)
 * Fountain of Fortunes - 3 (hard)
 * Gone but not Forgotten - 3 (hard)
 * Golden Test - 3 (deadly)
+
+### Level 4
 
 * Dance Macabre - 3 - 4 (hard)
 
@@ -98,6 +105,8 @@ They Cover a wide range of levels.  Here's a cheatsheet.
 * Dogs of War - 4 (hard)
 * Standing Warning - 4 (hard)
 * Watchdog - 4 (deadly)
+
+### Level 5
 
 * Counting SHeep - 5 (easy)
 * Beast of Bellard - 5 (medium)
@@ -110,6 +119,8 @@ They Cover a wide range of levels.  Here's a cheatsheet.
 * Scaling Up - 5 (hard)
 * Three Eyes are Better - 5 (hard)
 
+### Level 6
+
 * Gang of One - 6 (easy)
 * Albatross - 6+ (medium / hard)
 * Heart of Darkness - 6 (hard)
@@ -117,9 +128,13 @@ They Cover a wide range of levels.  Here's a cheatsheet.
 * Eyes Have It - 6 (deadly)
 * Keeper's Teavern - 6 (deadly)
 
+### Level 7
+
 * Enemy at the Gate - 7 (medium)
 * Menagerie - 7 (medium)
 * Girl with the Sragon SNAFU - 7 (hard)
+
+### Level 8+
 
 * Procession - 8 (hard)
 * All that Glitters - 8 (hard)
