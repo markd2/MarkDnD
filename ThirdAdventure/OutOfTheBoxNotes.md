@@ -74,6 +74,9 @@ They Cover a wide range of levels.  Here's a cheatsheet.
 * Mirrors of the Soul - Any
 * Pay to Play - Any (low-to-mid levels)
 * Shadow of Your Former Self - Any
+
+### Level 1
+
 * Shell Game - 1-3 (scalable)
 
 ### Level 2
