@@ -84,6 +84,68 @@ In addition to the ghoul, Garteh can summon a swarm of Crawling Claws.
 
 ----------
 
+WHO WHAT WHEN WHERE HOW WHY
+
+----------
+
+Been going on for year and a half or so
+
+---
+
+Expicitica Defilus
+
+WHO - the Reptile God
+WHAT = Spirit Naga (AD&D style)
+WHEN - She started planning 3 years ago. First conversion 2 years ago.
+WHERE - This dungeon was started 3 years ago.
+HOW - Originally slinked around converting folks until there was enough converts
+     (specifically John Parker and the Golden Grain Inn - quite efficient)
+WHY - Collecting bodies and souls for an eventually demonic ritual / summoning
+      / apotheosis / layer of the Abyss
+
+Individuals first. Oralane was the first entire town converted. Mistakes were made,
+lessons learned.
+
+Hochoch and Hookhill are in-progress.  Nextia has a sleeper agent (!)
 
 
+---
+Gareth - not converted
+
+WHO - Cleric / Nercomancer
+WHAT - Right-hand of the Reptile God
+WHEN - One of the first Employees of the Reptile God. Say about 2 1/2 years ago
+WHERE - Helped design this part of the dungeon (hence the secret connection to the lair)
+HOW - Resisted a conversion. Convinced E.D. to hire him on as an assistant
+WHY - Dude digs necromancy.  He's proud of the zombies in the water-draining wheel.
+      Doesn't actually belive the apotheosis is possible, but is along for the
+      money and power
+
+Originally from Orlane, why that was the first full town conversion attempt.
+Gareth doesn't like Orlane.
+
+---
+Maneer
+
+WHO - Priest / Cleric
+WHAT - head priest of the temple of Merrika, then researcher on why conversions failed
+WHEN - An early conversion, that kind of went wrong (why he was such a weirdo)
+WHERE - Orlane. He grew up in the temple
+HOW - 
+WHY - Since conversion, he's been assigned the task of figuring (with Gareth) out why
+      some folks convert, and some don't.  He's been unable to do that.  This also
+      contributed to his genera insanity
+
+
+---
+Misha Devi - Priest / Cleric / Monk
+
+WHO - junior priest of the temple of Merrika.  Head of the small cabal of Monks there
+WHEN - a couple of months after Maneers - so she's not as screwed up as he was.
+WHERE - Orlane.  Recent-ish (like 5 years ago) transfer from Hochoch. (hence why
+        that was the second town converted)
+HOW - Noticed Maneer getting weirder and weirder. Noticing some folks disappearing
+      or getting weird.
+WHY - Since conversion, she's been putting of a facade of being a Merrika temple,
+      even though it was a clearing house of stolen treasures
 
