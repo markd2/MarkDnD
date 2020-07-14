@@ -23,6 +23,9 @@ The spirit naga ha proclaimed herself "reptile god", coiled atop a collection
 of her favorite treasures, as well as the skulls of her most hated
 enemies.
 
+PLAYING A HAMMER DULCIMER, with mage hand of course since SHE HAS NO ARMS.
+
+
 In addition to the permanent charm cast on any creature meeting her
 evil gaze, she can use the following and magic-user and clerical spells.
 

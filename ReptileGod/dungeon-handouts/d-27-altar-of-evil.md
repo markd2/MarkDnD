@@ -15,8 +15,9 @@ assistant can be seen skulking next to him
 
 Hearing the door open, he glances over his shoulder without recognition.
 
-"oh good, you're here. Take those boxes up to John Parker before he finishes
-unloading the new recruits"
+"oh good, you're here. Wasn't expecting you for a couple of days.
+Take those boxes up to John Parker before he finishes unloading the new recruits"
+(evil laugh)
 
 and then he goes back to what he's doing.
 
