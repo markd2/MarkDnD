@@ -128,8 +128,8 @@ WHAT - Right-hand of the Reptile God
 WHEN - One of the first Employees of the Reptile God. Say about 2 1/2 years ago
 WHERE - Helped design this part of the dungeon (hence the secret connection to the lair)
 HOW - Resisted a conversion. Convinced E.D. to hire him on as an assistant
-WHY - Dude digs necromancy.  He's proud of the zombies in the water-draining wheel.
-      Doesn't actually belive the apotheosis is possible, but is along for the
+WHY - Dude digs necromancy.  He's proud of the zombies in the water-draining wheel. (d-29)
+      He doesn't actually belive the apotheosis is possible, but is along for the
       money and power
 
 Originally from Orlane, why that was the first full town conversion attempt.
@@ -139,7 +139,12 @@ Why doesn't Gareth like Orlane?
   * he was a nerd. Granted, necromancy is a weird thing to nerd out about
   * had latent magical talent early on, worked at the Temple of Merikka
   * Too lovey-dovey there.  Found a darker God that was much more interesting.
-  
+  * Unrequited love for a farmer's daughter.  She didn't survive the process.
+    (shrugs)  Zolga Glev
+  * Ramne is really cool.  We'd talk magic, he'd listen to my complaints.
+    Mr. Whiskers would curl up in my lap.
+  * Hated Belba Cralloon (see below).  "Everyone loves her. I couldn't stand 
+    her."  She teased him, called him names.  Hey scrawnystick
 
 ---
 Maneer
@@ -151,7 +156,7 @@ WHERE - Orlane. He grew up in the temple
 HOW - 
 WHY - Since conversion, he's been assigned the task of figuring (with Gareth) out why
       some folks convert, and some don't.  He's been unable to do that.  This also
-      contributed to his genera insanity
+      contributed to his general insanity
 
 
 ---
