@@ -76,19 +76,25 @@ is moved.
 
 ----------
 
-DC 17 Perception for the statue secret mechanism.
-
-----------
-
 In addition to the ghoul, Garteh can summon a swarm of Crawling Claws.
 
 ----------
+
+
+~DC 17 Perception for the statue secret mechanism.~
+
+The altar - made of wood, with paraments, and some hanging ropes (three)
+The ropes go *in* to the altar (DC 12).
+comes out a couple of inches, then you feel it taking some load
+* first rope pulled - hear a chime from beyond the wall to the N (the secret door)
+* second rope - hear a CLICK behind them, and the wall opens a little bit,
+  secret door into the secret corridor.
 
 WHO WHAT WHEN WHERE HOW WHY
 
 ----------
 
-Been going on for year and a half or so
+All this cult stuff been going on Been going on for 3 years
 
 ---
 
@@ -106,10 +112,14 @@ WHY - Collecting bodies and souls for an eventually demonic ritual / summoning
 Individuals first. Oralane was the first entire town converted. Mistakes were made,
 lessons learned.
 
-Hochoch and Hookhill are in-progress.  Nextia has a sleeper agent (!)
+Hochoch and Hookhill are in-progress.
+Nextia (farther away) has a sleeper agent (!)
+
+(Orlane is tiny. Hochoch is small, and Hookhill is medium. Nextia is small)
 
 
 ---
+
 Gareth - not converted
 
 WHO - Cleric / Nercomancer
@@ -123,6 +133,12 @@ WHY - Dude digs necromancy.  He's proud of the zombies in the water-draining whe
 
 Originally from Orlane, why that was the first full town conversion attempt.
 Gareth doesn't like Orlane.
+
+Why doesn't Gareth like Orlane?
+  * he was a nerd. Granted, necromancy is a weird thing to nerd out about
+  * had latent magical talent early on, worked at the Temple of Merikka
+  * Too lovey-dovey there.  Found a darker God that was much more interesting.
+  
 
 ---
 Maneer
