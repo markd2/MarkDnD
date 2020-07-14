@@ -149,3 +149,20 @@ HOW - Noticed Maneer getting weirder and weirder. Noticing some folks disappeari
 WHY - Since conversion, she's been putting of a facade of being a Merrika temple,
       even though it was a clearing house of stolen treasures
 
+----------
+
+Chompy - Let's just call him our garbage disposal.
+
+Screetchy - the Harpy.  "She's been needing hundreds of pounds of harpy poop.
+Do you have any idea how expensive that stuff is?  Been cheaper to just keep one
+and feed it the occasional... volunteer"
+
+
+----------
+
+"Hello Neighbor"
+
+Oh gods I hated Belba Cralloon, and her fake Sacchrine Hello Neighbor. I figured it'd
+be hilarious having our verbal handshake.  Maybe cast some doubt on the oh-so-perfect
+Belba. <spits>
+
