@@ -10,4 +10,7 @@ creature who enters the room from either end.  There is no
 treasure here.
 
 
+----------
+
+lots of foot prints and whatnot.
 

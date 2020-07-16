@@ -7,7 +7,7 @@ into the darkness. Creaking at splashing noises can be heard
 from further along the passage.
 
 
-This is the lowest room in teh dungeon.  The water that seeps and 
+This is the lowest room in the dungeon.  The water that seeps and 
 trickles through the labyrinth finally collects in a muddy pool.
 
 Five zombies (always strike last in a round operate a system of

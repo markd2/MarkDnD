@@ -146,6 +146,12 @@ Why doesn't Gareth like Orlane?
   * Hated Belba Cralloon (see below).  "Everyone loves her. I couldn't stand 
     her."  She teased him, called him names.  Hey scrawnystick
 
+IF HE GETS KILLED
+
+On the last blow, locks eyes with character.  _Remember this day, for
+I have marked you_ and see a ghastly smoke come out and pass through
+$CHARACTER and up through the ceiling
+
 ---
 Maneer
 
