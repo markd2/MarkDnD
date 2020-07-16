@@ -54,3 +54,33 @@ Kari took some femurs and BONK took a big chunk of iron.
 The party schemed and planned, with BONK to (reply hazy) kneecap Gareth Primo and also drive him south to the rest of the party? (I think?).  Gareth's assistant turned out to be a Ghoul (but kind of an ineffective one. Maybe it was a new hire.)  Long story short - knees capped, wrists darted, turnips scattered, Ghoul eliminated, crawling claws summoned, and cleric surrendered.
 
 
+
+==================================================
+# Session 9 - Meeting The Chompster
+
+July 14, 2020
+
+Sam and Kari possess slightly different personalities this time through.
+
+The party defeated Gareth Primo, leaving him on the floor with a broken knee and an arrow in the wrist.  BONK playing intimidating presence while Tamida gently interrogated Gareth.  "Tell me of the reptile god"  "how can we find her?"
+
+TL;DR
+- Gareth has been working with Explicitca Defilus, the Reptile Gold forabout 2 1/2 - 3 years.  He's not a "convert".  Orlane was the first whole-town takeover. He's really into necromancy.  He doesn't know what Explicitca Defilus actually wants, just that she's collecting harpy poop (and apparently it's a rare / valuable substance), and uses terms like "apotheosis", and plays a hammer dulcimer (even having no hands).  Gareth gets to play with live and dead bodies - plus money. He sketched out a map on how to get to her audience chamber.
+
+Once his usefulness came to an end, BONK attempted to bash his head in, and Kari, finally having one of her tormenters at her mercy, bashes him dead.  Before the final blow landed, he locked eyes with BONK, then Kari, and in one last soliloquy, "Remember this day. I have marked you".  Once dead, a smoky spirit(?) emerged from Gareth Primo, split in two, passed through BONK and Kari, re-formed, and passed up through the ceiling.
+
+Kari double-checked the map, declaring it accurate.  Her first visit to this place was burlap sack over her head as she was led through damp places, through a large smelly room, passing next to a some kind of loud gnashing monster, until put on a boat and taken in front of the Reptile God.
+
+Off into the caves!  Taking the most direct route goes through the muddy cave that Sam first reconnoiter. There's a lot of foot-trafficin the mud going both directions (boots and a kind webbed foot). Also some holes in the mud around the perimeter, and what looks like cross-hatching across the surface. The path was not terribly muddy, with the bulk of the mud shoved towards the walls.  A quick prestidigitation from Tamida after crossing helped clean up people's shoes.
+
+Continuing following the map, into a large (smelly) room with a lot of Troglodytes.  Sam BONK and Kari perfected a swarming technique for taking them down.  Tamida's magic slept one (coup-de-grace by Mui) and HeldPerson another (ditto).
+
+Exiting the now-decimated home of the Froglodytes, the path forks, with horrible sounds coming from the northwest. Kari directs the party up that way because that's the path she went through earlier.  In there they met Chompy™, a giant thundery lizard thing, bound by a neck chain.  Nearby is a rowboat on (yet another) underground lake.
+
+As the camera pulls back, BONK starts feeding Trog bodies to Chompy™ in an attempt to tame it.
+
+
+
+
+
+
