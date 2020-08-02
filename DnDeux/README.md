@@ -14,6 +14,7 @@ TODO:
 * [ ] Outfit monsters
 * [ ] Come up with some RP elements - none of these really has any RP
 * [ ] See if there's some Lore I can dump?
+* [ ] Update _Council of Three_ details
 
 ----------
 
