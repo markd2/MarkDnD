@@ -79,8 +79,37 @@ Exiting the now-decimated home of the Froglodytes, the path forks, with horrible
 
 As the camera pulls back, BONK starts feeding Trog bodies to Chompy™ in an attempt to tame it.
 
+==================================================
+# Session 10 - We Are The Chompians
 
+BONK fed some troglodytes to Chompy.  Sam cast Speak With Animals, and had a  nice chat with Lord Peter Chompsy.  Quite erudite when communicating with Sam.  Through an offering of more troglodytes, along with using Gareth Primo's key ring, released Chompy from his neck collar and chain.  The party floated the idea of Chompy using his tail to fling BONK at their target.  A bit of practice, and BONK's sea-legs, showed that it was a tenable strategy.
 
+Outside of Chompy's lair, the party found a boat and large indoor lake, which our new friend could easily ford.  Finding themselves on a large beach, they met Expliciitica Defilus, the Reptile God - playing a five-hammer dulcimer, via Mage Hand because she has no arms.  Large human face on an even larger snake body.
 
+After a bit of cheerful banter, Chompy flung BONK at Explicitica Defilus, where she immediately produced a small(ish) movable magical barrier, bouncing BONK off of it. An attempt at mind-bending Klar did not work.
 
+Epic Battle ensued.  Chompy taking a bite ~out of crime~ the shield!  Raging! Lightneninining!  More Lightening!  Sandworming! Flurries of Blows! 
 
+Chompy was also instructed to harass the Reptile God. After a particular good tail-chomp (Lord Peter does earn the name), she unloaded a brutal chained lightning  attack on those who seemed to be controlling, or at least influencing, their pet T-Rex. They both drop!  Tamida hands off the Globe of Invulnerability scroll (they got from Ramne) to Mui. Kari leaps up on The Reptile God's Back!
+
+BONK and Sam are dead.  Or so it seems.
+
+A glowing oval appears before Sam.  Two small green hands reach out and pull him in.  A little slowly at first, then a disturbingly fast _schlorp_.  It disappears.
+
+Seconds later, the glowing oval appears before BONK.  Again, two small green hands reach out and pull him in.  Slowly at first, then even more disturbingly fast (given BONK's size) is _schlorped_ away.  The oval disappears.
+
+Camera pans back, showing a dark ... room?  Sam and BONK lying on the ground.  The space is illuminated by one wall.  A small green goblin with mottled skin is fussing over Sam's wounds. "Dammit Figboot is gonna hand me my ass if he finds out." An older gentleman beside him says "Don't tell him. What he doesn't know can't hurt him. This one is important" as he nods to BONK.
+
+As Sam has all his HP restored, he looks up at the green face of Boz'Lee, Figboot's assistant.  Next to him is Ramne, the wizard from Orlane.  Sam sees Ramne put a hand on his chest, a flow of energy, replenishing his spent magic stores.
+
+They proceed to patch up BONK as well.  Looking out the "window", Sam sees a frozen tableau - a wounded Explicitica Defilus being harried by a gigantic thunderlizard.  Kari in mid-leap.  Tamida handing off a scroll relay-race style to Mui.  But it's not really frozen.  Kari is actually slowly arcing.  Mui finishes grasping the scroll.  Sam sees power lines moving (slowly) around everyone.  Some are curved and swirly, like around the Reptile God, Klar, Mui.  Some are absolutely straight, surrounding Kari, Tamida,  Laeryn.
+
+BONK stands up.  Boz'Lee shouts "dammit go out there and finish her off", planting a (small) foot in the middle Sam's back and giving a shove.
+
+BONK and Sam reappear on the beach.  Magic is cast, attacks are made.  Laeryn, dodging through the chaotic melee, finds a weakness, and decapitates  ~Shia LaBeouf~ The Reptile God.  She falls to the ground, bleeding over the sand. 
+
+Klär expertly removes the skin, giving it to Tamida.  Over the course of the day, a new pair of Spirit Naga clogs, a stylish apron (of unstainability), and a Chompy-Sized vest (of lightning resistance) are made.
+
+The camera pans out, showing the upper levels of the swamp-lair, with the cultists on the floor or slumped against the wall, looking dazed and confused.  Days pass getting to Orlane.  We see Aelric crying and saying "I'm so sorry... I'm so sorry" over and over to Kari, as Tamida leans in to offer support. Ramne is helping folks out. The Golden Grain Inn has been burned to the ground and John Parker, purveyor of "recruits", hanged from a tree.  Misha Devi in the Temple of Merrika is cleaning up the blasphemy, attempting to beginning to atone for her participation in the entire Unpleasantness.  Bilba Cralloon has turned the Sleeping Serpent Inn into a makeshift psych ward to help the people of Orlane recover.
+
+_fin_
