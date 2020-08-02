@@ -9,6 +9,12 @@ Level 8 Characters
 * ** JASA **    : Human Barbarian - Path of the Totem Warrior _(Reviewbrah)_
 * ** Nonnahs ** : Tiefling Sorcerer - Wild Magic  _(shannoN)_  (pronounced Na-noos)
 
+TODO:
+
+* [ ] Outfit monsters
+* [ ] Come up with some RP elements - none of these really has any RP
+* [ ] See if there's some Lore I can dump?
+
 ----------
 
 ## OotB Encounters for levels 7+
