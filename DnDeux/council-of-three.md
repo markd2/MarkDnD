@@ -1,4 +1,4 @@
-# Menagerie
+# Council of Three
 
 Page 43 in _Out of the Box Encounters_. https://nerdarchy.com/product-category/adventures-supplements/out-of-the-box/
 

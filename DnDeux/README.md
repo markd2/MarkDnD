@@ -27,7 +27,7 @@ go to page _printed page # + 2_
 
 ### Tier 2
 
-- **[All that Glitters](all-that-glitters.md)** (pg 14) : golden horse chases anyone who has grabbed treasure
+- **All that Glitters** (pg 14) : golden horse chases anyone who has grabbed treasure
       until they drop it
 - Deep Breaths (pg 53) : Lizard Folk ruler / swamp 
 - Enemy at the Gate (pg 68) : Shape-changing Oni with a polearm, taking over a character
