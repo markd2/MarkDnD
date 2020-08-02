@@ -4,6 +4,7 @@ Page 17 in _Out of the Box Encounters_. https://nerdarchy.com/product-category/a
 
 ## TL;DR
 
+* DC 10 climb (vertical free climb with hand/foot holds / rope climb)
 * DC 14 history check to learn name of King Torg
 * If anyone in the party says "All Hail King Torg", the large
   statue comes to life and converses with them.
@@ -13,12 +14,12 @@ Page 17 in _Out of the Box Encounters_. https://nerdarchy.com/product-category/a
   stone surface.
 * Dig in the ground, find a relic (roll on table at end)
 
+
 ## Box Text
 
 On a foggy day, the adventuring party encounters a cliffside
 sheared away with precision.  From your vantage point, you can
 see what looks like statues?
-
 
 (If get down there)
 
