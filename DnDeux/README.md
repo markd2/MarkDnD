@@ -11,14 +11,20 @@ Level 8 Characters
 
 TODO:
 
-* [ ] Outfit monsters
-* [ ] Come up with some RP elements - none of these really has any RP
-* [ ] See if there's some Lore I can dump?
-* [ ] Update _Council of Three_ details
+Specific Adventures:
+
+Maybe change every half hour?
+
+* All that Glitters - intro of everything.  Some Combat.
+* All That Remains - Ambient.  Small bit of humor if folks get it.
+* Council of Three - Puzzle. Combat
+* Pay to Play - Puzzle, Mayhem
+* Menagerie - Mayhem
 
 ----------
 
 ## OotB Encounters for levels 7+
+
 
 Maybe a couple prepped.  Once they figure out (say the golden horse), then they dream-wipe
 to the menagerie.
@@ -27,7 +33,7 @@ go to page _printed page # + 2_
 
 ### Tier 2
 
-- **All that Glitters** (pg 14) : golden horse chases anyone who has grabbed treasure
+- **[All that Glitters](all-that-glitters.md)** (pg 14) : golden horse chases anyone who has grabbed treasure
       until they drop it
 - Deep Breaths (pg 53) : Lizard Folk ruler / swamp 
 - Enemy at the Gate (pg 68) : Shape-changing Oni with a polearm, taking over a character

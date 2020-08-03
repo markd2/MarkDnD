@@ -9,6 +9,8 @@ Page 43 in _Out of the Box Encounters_. https://nerdarchy.com/product-category/a
 - [ ] Come up with something for the wooden head to say.  Wood Golem.
 - [ ] Not totally happy with the Stone head.
 - [ ] Need something for the mummified head to say. Zombie T-Rex
+      "Welcome... I don't know you.  Let me introduce to you, Lord William Chompsey,
+      deceased"
 
 maybe have the heads interrogate the PCs (get some RP in), and if the
 answer incorrectly, they get the bad thing.  Maybe stone head always
