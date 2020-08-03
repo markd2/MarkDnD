@@ -20,6 +20,7 @@ Page 14 in _Out of the Box Encounters_. https://nerdarchy.com/product-category/a
 * (nonrepresnetational charcoal sketch) _P2P_ Kind of round floating sphere (?), with
   four curved lines coming out of the top, lurking in shadows
 
+* Horse about to hoove someone that's down is a great place to cut away
 
 ## Stat Blocks
 

@@ -1,5 +1,7 @@
 # Guest Annoyer of DnDeux
 
+### The Players
+
 Level 8 Characters
 
 * ** Aralin **  : Aasimar Warlock - Hexblade _(Liv)_
@@ -14,17 +16,34 @@ Level 8 Characters
 * Gname - DEX + 4, STR -1
 * Nonnahs - CHA + 5
 
-TODO:
+### Start of Game
 
-Specific Adventures:
+* [ ] Burning Wheel joke
+* [ ] Thank everyone. "My job is to make Mikey look good".
+* [ ] Might want to get on to roll 20
+* [ ] Consent - ping Shannon or Alex if you don't want to say anything to the group.
+      Even if you're just getting bored by the scenario.  "Wait, this puzzle
+      is actually sudoku with dwarven runes. I *hate* sudoku"  No way I'd do that to anyone.
+      That'd be mean beyond comprehension.
+* [ ] Ready to go?  (go to borkduko)  "so you see before you a grid, with some
+      dwarven rules
+* [ ] ok, before we actually go on, everyone roll initiative now.  And we'll keep
+      that order whenever we need it.  For my players, we'll do traditional 5e style
+      rather than our mishmash.
+* [ ] fill out the combat tracker
 
-Maybe change every half hour?
 
-* All that Glitters - intro of everything.  Some Combat.
-* All That Remains - Ambient.  Small bit of humor if folks get it.
-* Menagerie - Mayhem
-* Pay to Play - Puzzle, Mayhem
-* Council of Three - Puzzle. Combat
+### The Adventures
+
+Maybe change every half hour?  3 hour _max_, aim for 2 1/2.  With a couple of
+biobreaks.
+
+* [All that Glitters](all-that-glitters.md) - intro of everything.  Some Combat.
+* [All that Remains](all-that-remains.md)- Ambient.  Small bit of humor if folks get it.
+* [Menagerie](menagerie.md) - Mayhem
+* [Pay to Play](pay-to-play.md) - Puzzle, Mayhem
+* [Council of Three](council-of-three.md) - Puzzle. Combat
+
 
 
 ----------
@@ -38,7 +57,7 @@ to the menagerie.
 go to page _printed page # + 2_
 
 ### Tier 2
-
+a
 - **[All that Glitters](all-that-glitters.md)** (pg 14) : golden horse chases anyone who has grabbed treasure
       until they drop it
 - Deep Breaths (pg 53) : Lizard Folk ruler / swamp 
