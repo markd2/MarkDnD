@@ -98,6 +98,36 @@ havoc in a community
   the characters and fight them.  - Maybe conspire with someone or two or twelve ahead
   of time.  They've done something similar before.
 
+## Character bios
 
-  
-  
+**Aralin** (Liv) the Aasimar Warlock, has already manifested her wings a
+  couple times but doesn’t do it frequently. Prefers to get up close and
+  personal with her pact greatsword or glaive.  Snarky and flippant.
+
+**Bre** (Downie) serious and brooding. Very athletic/acrobatic melee monk. Has trust issues.
+
+**Feratu** (ABailey) half-Drow druid, is like that emo kid from school. Party rescued
+  him in a dungeon a long time ago.Can turn into a bat more
+  easily than other animals, and can fly limited distances as one.
+  has been on the hunt for vampires, because he hates how much society
+  seems to think he is one. F.ex, he has a mild silver and sunlight
+  allergies, and doesn’t have a reflection, but that’s leftover from a
+  witch’s curse.
+
+**Gname** (Pfrog) gnomish rogue/scout, Seems like a nervous sort so far.
+
+**JASA** (Madison) is a human barbarian and longish time friend of Bre (the
+  halfling monk). Jasa has a ring with a bear magically stored in it
+  which she can summon, but she might have forgotten about it. She
+  doesn’t like magic, is a bit freaked out by it. But, has an almost
+  druidic relationship with the Earth Mother, a guardian spirit of the
+  forest.
+
+**Nonnahs** (Tamida) is the empath of the group. Largely pacificst, but that
+  view is changing in light of the frequency in which the world tries
+  to kill her and her friends.
+  She’s a wild-magic sorceress, so don’t hesitate to lean on tides of
+  chaos and wild magic surge. Nonnahs has a bit of a complex about her
+  wild magic, because it’s done serious damage to her family in the
+  past, and she’s been on a spirit quest to learn how to control it.
+
