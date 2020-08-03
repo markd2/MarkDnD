@@ -7,10 +7,11 @@ Page 43 in _Out of the Box Encounters_. https://nerdarchy.com/product-category/a
 - There's a handout of the three heads
 
 - [ ] Come up with something for the wooden head to say.  Wood Golem.
-- [ ] Not totally happy with the Stone head.
+- [ ] "Welcome.... From Stone... To Stone" - basilisk egg.  Followed up by
+      real ones.  - maybe they come in, eventually zap everyone _but_ JASA. Then
+      fades out.
 - [ ] Need something for the mummified head to say. Zombie T-Rex
-      "Welcome... I don't know you.  Let me introduce to you, Lord William Chompsey,
-      deceased"
+      "Welcome... I don't know you.  Let me introduce to you, Lord William Chompsey, deceased"
 
 maybe have the heads interrogate the PCs (get some RP in), and if the
 answer incorrectly, they get the bad thing.  Maybe stone head always
@@ -66,6 +67,16 @@ gives it the Basislisk egg.
 	an action or a bonus action, but not both.  1 minute (10 rounds).
         can repeat the save at the end of its turn ending the effect on success
 
+* Basilisk
+  - AC 15
+  - HP 52
+  - 20ft
+  - Petrifying Gaze - if can see each other, DC12 CON save.  Fail - creature
+    turns to stone and is restrained.  Repeat save on next turn. Success ends
+    effect. On failure, petrified.  If sees itself in a mirror, targets
+    itself (+2 CON bonus)
+  - Bite - +5 to hit, 2d6 + 3 piercing plus 2d6 poison
+  
 
 ## Box Text
 
@@ -95,8 +106,8 @@ Rays of light or energy beam down through the leaves. _(tree golem)_
   around it.  _(basislisk egg)_
 
 - The left wall behind the plinth depicts a jungle, with prostrate
-  figures in a child's pose, worshipping (?) something off-the-edge.
-  _(zombie t-rex)_
+  figures in a child's pose, worshipping what looks to be a large
+  creature.  Lizard like. Large head.  Small arms.   _(zombie t-rex)_
 
 
 On the plinth,
