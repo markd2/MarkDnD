@@ -5,6 +5,8 @@ Page 43 in _Out of the Box Encounters_. https://nerdarchy.com/product-category/a
 ## TL;DR
 
 - There's a handout of the three heads
+- Handout of the T-Rex
+- Handout of the Basislisk
 
 - [ ] Come up with something for the wooden head to say.  Wood Golem.
 - [ ] "Welcome.... From Stone... To Stone" - basilisk egg.  Followed up by

@@ -9,6 +9,11 @@ Level 8 Characters
 * ** JASA **    : Human Barbarian - Path of the Totem Warrior _(Reviewbrah)_
 * ** Nonnahs ** : Tiefling Sorcerer - Wild Magic  _(shannoN)_  (pronounced Na-noos)
 
+* Aralin - CHA + 5
+* Feratu - perception +7, INT -2
+* Gname - DEX + 4, STR -1
+* Nonnahs - CHA + 5
+
 TODO:
 
 Specific Adventures:
@@ -17,9 +22,10 @@ Maybe change every half hour?
 
 * All that Glitters - intro of everything.  Some Combat.
 * All That Remains - Ambient.  Small bit of humor if folks get it.
-* Council of Three - Puzzle. Combat
-* Pay to Play - Puzzle, Mayhem
 * Menagerie - Mayhem
+* Pay to Play - Puzzle, Mayhem
+* Council of Three - Puzzle. Combat
+
 
 ----------
 
