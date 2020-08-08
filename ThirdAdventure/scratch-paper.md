@@ -5,6 +5,8 @@
 * Link to adventure: https://drive.google.com/file/d/1Bc2BJdsdJPZ1s6k_2IC-4bcjwx6URJhF/view?usp=sharing
 * Creative Commons BY-SA 3.0 license: https://creativecommons.org/licenses/by-sa/3.0/
 * I've definitely remixed, transformed, or built-upon.  Enjoy!
+* Tower picture can from Google Image Search, with this as th base page
+  https://busy.org/@cyber009/origami-tower (even though the image wasn't on here...)x
 
 
 ## TODO
