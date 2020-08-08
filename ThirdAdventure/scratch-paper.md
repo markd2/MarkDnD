@@ -43,10 +43,12 @@
 
 ### Outside
 
-A one-story building, kind of like [this image](assets/tower.jpg) but
-with enclosd walls.  You do see a (paper) door on one side.
 
-Got the tower from Google Image Search - not sure who it originally came from yet.
+* A one-story building, kind of like [this image](assets/tower.jpg) but
+  with enclosd walls.  You do see a (paper) door on one side.
+
+* Handout of origami tower
+
 
 
 ----------
