@@ -26,3 +26,9 @@
   - Fan of Klar
   - Makes a mean Rose Water Agua Fresca
 
+## Stores
+
+* Armory - Azizah Ironhammer
+* Bookstore (publisher's bookshop) - closed
+* Apothecary - scrolls and potions - Grindlebrew
+* Stables - 10gp to rent a horse -  Yoree Fensys
