@@ -186,6 +186,7 @@ NPCs
 
 Scene from POV of one of the PCs (hopefully one with a magic or speacial weapon)
 
+* It's been about a month since some of the crew came back from Orlane
 * Seeing a giant lizard next to pen of cows
     - Bugbear scooping dinopoop
     - Dwarf screaming at the monster, monster screaming back
@@ -215,6 +216,10 @@ Things are getting strange in $TOWN_NAME.  Unexplainable circumstances have
 the village in a tizzy!  Pigs turned to paper!  Exceptional stationery stolen!
 Tales torn from Tantalizing Tomes!  Rumors suggest that these events happen in the
 wake of visits from an elderly man who roams the region.
+
+For the last month
+
+----
 
 Dude is a papermancer named Falthier, doesn't appear to have a
 permanent residence, but hunters have repored sightings of a
@@ -253,8 +258,19 @@ collapsible hut that literally seems to pop out of nowhere.
       (but... wrong question...)
     - so what can he accomplish via papermancy?
     - Paper elementals?  Accessing elemental Plane of Paper?
+    - Origami Army?  ORIGARMY
     - maybe he's trying to weaken the Prime Material / Plane of Paper
       boundary?
       - ooh, maybe the books in the upper floor are portals, channeling the
         given elemental creature
     - still... why?
+    - maybe an evil power vacuum now that Explicitica Defilus is gone
+        - Fundamentally what Figboot is trying to work against
+        - Or maybe E.D. was subcontracting out to various other evil folk
+	  for research purposes.  If the human cult didn't take over, then
+	  maybe the origarmy will take over
+	- the money dried up, so he's out on his own
+	- maybe shifting from the origarmy to something else to pay the bills
+	    - like "turning" pigs into origami, but actually stealing them
+	    - or "turning" a person into origami, but actually kidnap them
+	      and use for ransom
