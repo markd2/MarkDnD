@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<UIStates>
+    <Binder Show="Yes">
+        <ShowCollections>No</ShowCollections>
+        <SelectedCollection>0</SelectedCollection>
+        <SubdocumentCounts>No</SubdocumentCounts>
+        <ExpandedItems>
+            <ItemID>D11D91BB-EA60-499A-A0F6-FABEB844732D</ItemID>
+        </ExpandedItems>
+        <Selection>
+            <ItemID>A78B7F7E-FE68-4B2F-B67B-E4BB242E134C</ItemID>
+        </Selection>
+        <SearchResultsSort Titles="Ascending" Dates="Ascending">None</SearchResultsSort>
+    </Binder>
+    <Inspector Show="No" View="Notes">
+        <ShowProjectBookmarks>No</ShowProjectBookmarks>
+        <ShowSimilarTexts>No</ShowSimilarTexts>
+        <Collapse>CustomMetaData</Collapse>
+        <FootnoteNumbers Prompt="No">No</FootnoteNumbers>
+    </Inspector>
+    <Split>None</Split>
+    <BinderAffects>Current</BinderAffects>
+    <Labels>
+        <Binder FullWidth="No">No</Binder>
+        <Icons>No</Icons>
+        <IndexCards>No</IndexCards>
+        <OutlinerRows>No</OutlinerRows>
+        <ScriveningsTitles>No</ScriveningsTitles>
+    </Labels>
+    <Corkboards>
+        <LabelIndicators>Yes</LabelIndicators>
+        <Stamps>No</Stamps>
+        <Keywords>No</Keywords>
+        <Numbers Restart="No">No</Numbers>
+        <SnapToGrid>No</SnapToGrid>
+        <BlankCardsAGhosts>No</BlankCardsAGhosts>
+    </Corkboards>
+    <Text>
+        <ShowFormatBar>Yes</ShowFormatBar>
+        <UseVerticalLayout>No</UseVerticalLayout>
+        <ShowScriveningsTitles>No</ShowScriveningsTitles>
+        <ShowInvisibles>No</ShowInvisibles>
+        <RevisionMode>0</RevisionMode>
+        <TextChecking>
+            <Spelling>Yes</Spelling>
+            <Grammar>No</Grammar>
+            <SmartQuotes>No</SmartQuotes>
+            <SmartDashes>No</SmartDashes>
+        </TextChecking>
+    </Text>
+    <FullScreen>
+        <ShowRuler>No</ShowRuler>
+        <PageLayout Facing="No">No</PageLayout>
+        <TypewriterScrolling>Yes</TypewriterScrolling>
+    </FullScreen>
+    <Editors Primary="Editor1">
+        <Editor1>
+            <View>
+                <ShowHeader>Yes</ShowHeader>
+                <ShowFooter>Yes</ShowFooter>
+                <GroupsViewMode>Corkboard</GroupsViewMode>
+                <CurrentViewMode>Single</CurrentViewMode>
+                <SelectionAffects>None</SelectionAffects>
+                <Content>
+                    <ItemID>A78B7F7E-FE68-4B2F-B67B-E4BB242E134C</ItemID>
+                </Content>
+                <NavigationHistory CurrentIndex="17">
+                    <HistoryItem Type="BinderItems" ViewMode="Single">25BFE0F0-0DC6-49D9-AF38-AED3843C3764</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">0698C1D8-43C1-4B95-B77B-EF5E57A2A1B4</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">EFA2AB3B-0313-460B-BBAF-F9A26404A333</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">F78A501B-C5FD-4397-B430-43D9FAAFB885</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">B3E364F0-9AE5-47ED-8DE4-5278EB876B6E</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">1F57D305-E1D5-4561-8964-836090B74F87</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">B2712EA4-048C-460B-ABEF-218BD1B7FAFB</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">EA0396A3-D7A2-44D7-8879-246A9E90FCDA</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">7AAA141E-AC2B-4312-A9B8-5EFFF53CC280</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">2C202A1A-13ED-45AF-8CAB-AC3A05F0BEB2</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">9BB9E249-4155-4158-912C-16D43534F843</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">32ED872F-074F-46F5-B019-3BFFA86FB9DE</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Corkboard">6A89A498-D448-4B59-8F2F-4F4DFC976CC1</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">32ED872F-074F-46F5-B019-3BFFA86FB9DE</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">1427A7EA-E2BD-4F8A-889C-A1182983FF14</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">31377741-72C3-4B7D-B5D1-32D8CDB6CCA4</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">86DD1C70-672B-46E9-AEE1-594E0C645533</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">A78B7F7E-FE68-4B2F-B67B-E4BB242E134C</HistoryItem>
+                </NavigationHistory>
+            </View>
+            <Text>
+                <ShowRuler>No</ShowRuler>
+                <PageLayout Facing="No">No</PageLayout>
+                <TypewriterScrolling>No</TypewriterScrolling>
+                <LineNumbers Interval="1">No</LineNumbers>
+                <Selection>0,0</Selection>
+            </Text>
+            <Outliner>
+                <Columns>
+                    <ColID>title</ColID>
+                    <ColID>label</ColID>
+                    <ColID>status</ColID>
+                    <ColID>sectionType</ColID>
+                </Columns>
+                <TitlesOnly>No</TitlesOnly>
+                <HideIcons>No</HideIcons>
+                <ShowNumbers>No</ShowNumbers>
+                <KeywordsAsChips>Yes</KeywordsAsChips>
+                <FixedRowHeights>No</FixedRowHeights>
+            </Outliner>
+            <Corkboard>
+                <CardsAcross>-1</CardsAcross>
+                <KeywordChips>5</KeywordChips>
+                <SizeCardsToFit>Yes</SizeCardsToFit>
+                <CardHeightRatio>0.6666</CardHeightRatio>
+                <SectionsArrangement>Wrap</SectionsArrangement>
+                <LabelThreadsUseColumns>No</LabelThreadsUseColumns>
+            </Corkboard>
+            <Copyholder PreferredOrientation="Vertical" VerticalPos="Right" HorizontalPos="Bottom">
+                <Text>
+                    <ShowRuler>No</ShowRuler>
+                    <PageLayout Facing="No">No</PageLayout>
+                    <TypewriterScrolling>No</TypewriterScrolling>
+                    <LineNumbers Interval="1">No</LineNumbers>
+                </Text>
+            </Copyholder>
+        </Editor1>
+        <Editor2>
+            <View>
+                <ShowHeader>Yes</ShowHeader>
+                <ShowFooter>Yes</ShowFooter>
+                <GroupsViewMode>Corkboard</GroupsViewMode>
+                <SelectionAffects>None</SelectionAffects>
+            </View>
+            <Text>
+                <ShowRuler>No</ShowRuler>
+                <PageLayout Facing="No">No</PageLayout>
+                <TypewriterScrolling>No</TypewriterScrolling>
+                <LineNumbers Interval="1">No</LineNumbers>
+                <Selection>0,0</Selection>
+            </Text>
+            <Outliner>
+                <Columns>
+                    <ColID>title</ColID>
+                    <ColID>label</ColID>
+                    <ColID>status</ColID>
+                    <ColID>sectionType</ColID>
+                </Columns>
+                <TitlesOnly>No</TitlesOnly>
+                <HideIcons>No</HideIcons>
+                <ShowNumbers>No</ShowNumbers>
+                <KeywordsAsChips>Yes</KeywordsAsChips>
+                <FixedRowHeights>No</FixedRowHeights>
+            </Outliner>
+            <Corkboard>
+                <CardsAcross>-1</CardsAcross>
+                <KeywordChips>5</KeywordChips>
+                <SizeCardsToFit>Yes</SizeCardsToFit>
+                <CardHeightRatio>0.6666</CardHeightRatio>
+                <SectionsArrangement>Wrap</SectionsArrangement>
+                <LabelThreadsUseColumns>No</LabelThreadsUseColumns>
+            </Corkboard>
+            <Copyholder PreferredOrientation="Vertical" VerticalPos="Right" HorizontalPos="Bottom">
+                <Text>
+                    <ShowRuler>No</ShowRuler>
+                    <PageLayout Facing="No">No</PageLayout>
+                    <TypewriterScrolling>No</TypewriterScrolling>
+                    <LineNumbers Interval="1">No</LineNumbers>
+                </Text>
+            </Copyholder>
+        </Editor2>
+    </Editors>
+</UIStates>

@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ScrivenerProject Identifier="229024D0-2943-4776-8765-761DFA3AB2BF" Version="2.0" Creator="SCRMAC-3.1.3-11945" Device="pheasantbook" Author="Mark Dalrymple" Modified="2020-08-17 11:10:38 -0400" ModID="BC98A3F3-BB98-4B8D-B8CA-180BD8B3DFB6">
+    <Binder>
+        <BinderItem UUID="D11D91BB-EA60-499A-A0F6-FABEB844732D" Type="DraftFolder" Created="2020-08-17 09:00:11 -0400" Modified="2020-08-17 09:00:11 -0400">
+            <Title>Draft</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <Children>
+                <BinderItem UUID="25BFE0F0-0DC6-49D9-AF38-AED3843C3764" Type="Text" Created="2020-08-17 09:00:11 -0400" Modified="2020-08-17 11:08:36 -0400">
+                    <Title>Adventure Name</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="0698C1D8-43C1-4B95-B77B-EF5E57A2A1B4" Type="Text" Created="2020-08-17 11:09:13 -0400" Modified="2020-08-17 11:09:20 -0400">
+                    <Title>Major Villains</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="EFA2AB3B-0313-460B-BBAF-F9A26404A333" Type="Text" Created="2020-08-17 11:09:20 -0400" Modified="2020-08-17 11:09:22 -0400">
+                    <Title>Factions</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="F78A501B-C5FD-4397-B430-43D9FAAFB885" Type="Text" Created="2020-08-17 11:09:22 -0400" Modified="2020-08-17 11:09:23 -0400">
+                    <Title>Theme</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="B3E364F0-9AE5-47ED-8DE4-5278EB876B6E" Type="Text" Created="2020-08-17 11:09:24 -0400" Modified="2020-08-17 11:09:27 -0400">
+                    <Title>Dramatic Question</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="1F57D305-E1D5-4561-8964-836090B74F87" Type="Text" Created="2020-08-17 11:09:27 -0400" Modified="2020-08-17 11:09:30 -0400">
+                    <Title>The Crucible</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="B2712EA4-048C-460B-ABEF-218BD1B7FAFB" Type="Text" Created="2020-08-17 11:09:30 -0400" Modified="2020-08-17 11:09:32 -0400">
+                    <Title>Special Conditions</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="EA0396A3-D7A2-44D7-8879-246A9E90FCDA" Type="Text" Created="2020-08-17 11:09:33 -0400" Modified="2020-08-17 11:09:35 -0400">
+                    <Title>Bakground Notes</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="7AAA141E-AC2B-4312-A9B8-5EFFF53CC280" Type="Text" Created="2020-08-17 11:09:35 -0400" Modified="2020-08-17 11:09:38 -0400">
+                    <Title>Key Locations</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="2C202A1A-13ED-45AF-8CAB-AC3A05F0BEB2" Type="Text" Created="2020-08-17 11:09:39 -0400" Modified="2020-08-17 11:09:41 -0400">
+                    <Title>Key NPCs</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="9BB9E249-4155-4158-912C-16D43534F843" Type="Text" Created="2020-08-17 11:09:41 -0400" Modified="2020-08-17 11:09:48 -0400">
+                    <Title>Traps, Hazards, Dilemmas</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="32ED872F-074F-46F5-B019-3BFFA86FB9DE" Type="Text" Created="2020-08-17 11:09:49 -0400" Modified="2020-08-17 11:09:56 -0400">
+                    <Title>Treasures and Rewards</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="1427A7EA-E2BD-4F8A-889C-A1182983FF14" Type="Text" Created="2020-08-17 11:09:59 -0400" Modified="2020-08-17 11:10:04 -0400">
+                    <Title>Twists, Secrets and Mysteries</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="31377741-72C3-4B7D-B5D1-32D8CDB6CCA4" Type="Text" Created="2020-08-17 11:10:05 -0400" Modified="2020-08-17 11:10:08 -0400">
+                    <Title>Grand Finale Ideas</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="86DD1C70-672B-46E9-AEE1-594E0C645533" Type="Text" Created="2020-08-17 11:10:09 -0400" Modified="2020-08-17 11:10:14 -0400">
+                    <Title>Character Hooks</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="A78B7F7E-FE68-4B2F-B67B-E4BB242E134C" Type="Text" Created="2020-08-17 11:10:15 -0400" Modified="2020-08-17 11:10:36 -0400">
+                    <Title>Campaign Integration</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem UUID="A595B45F-E485-4E09-B9DC-30AA76E4B354" Type="ResearchFolder" Created="2020-08-17 09:00:11 -0400" Modified="2020-08-17 09:00:11 -0400">
+            <Title>Research</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+        </BinderItem>
+        <BinderItem UUID="6A89A498-D448-4B59-8F2F-4F4DFC976CC1" Type="TrashFolder" Created="2020-08-17 09:00:11 -0400" Modified="2020-08-17 09:00:11 -0400">
+            <Title>Trash</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+        </BinderItem>
+    </Binder>
+    <Collections>
+        <Collection Type="Binder" ID="926E09A6-FF4B-4E95-8053-B84376144231" Color="0.924849 0.924014 0.949681">
+            <Title>Binder</Title>
+        </Collection>
+        <Collection Type="RecentSearch" ID="F8A13C86-CCAA-4B3A-8F10-1C04B1A8CDBC" Color="0.922176 0.818589 0.999618">
+            <Title>Search Results</Title>
+        </Collection>
+    </Collections>
+    <SectionTypes>
+        <TypeDefinitions>
+            <Type ID="980AFD5C-427F-4BF9-B8FB-725F660A9A95">Heading</Type>
+            <Type ID="0B311B1A-2129-4821-8826-1128E4ECE649">Sub-Heading</Type>
+            <Type ID="CB260DB7-C81C-4F13-879D-A8DFE8253688">Section</Type>
+        </TypeDefinitions>
+        <LevelTypes>
+            <Folders>
+                <Type>980AFD5C-427F-4BF9-B8FB-725F660A9A95</Type>
+            </Folders>
+            <Containers>
+                <Type>CB260DB7-C81C-4F13-879D-A8DFE8253688</Type>
+            </Containers>
+            <Files>
+                <Type>CB260DB7-C81C-4F13-879D-A8DFE8253688</Type>
+            </Files>
+        </LevelTypes>
+    </SectionTypes>
+    <LabelSettings>
+        <Title>Label</Title>
+        <DefaultLabelID>-1</DefaultLabelID>
+        <Labels>
+            <Label ID="-1">No Label</Label>
+            <Label ID="0" Color="0.993495 0.701207 0.732587">Red</Label>
+            <Label ID="1" Color="0.995418 0.790946 0.652385">Orange</Label>
+            <Label ID="2" Color="0.997722 0.89273 0.652569">Yellow</Label>
+            <Label ID="3" Color="0.715855 0.948712 0.697692">Green</Label>
+            <Label ID="4" Color="0.702319 0.888276 0.974252">Blue</Label>
+            <Label ID="5" Color="0.957566 0.766747 0.999616">Purple</Label>
+        </Labels>
+    </LabelSettings>
+    <StatusSettings>
+        <Title>Status</Title>
+        <DefaultStatusID>-1</DefaultStatusID>
+        <StatusItems>
+            <Status ID="-1">No Status</Status>
+            <Status ID="0">To Do</Status>
+            <Status ID="1">In Progress</Status>
+            <Status ID="2">First Draft</Status>
+            <Status ID="3">Revised Draft</Status>
+            <Status ID="4">Final Draft</Status>
+            <Status ID="5">Done</Status>
+        </StatusItems>
+    </StatusSettings>
+    <ProjectTargets Notify="No">
+        <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2020-08-17 09:00:10 -0400" IgnoreDeadline="Yes">0</DraftTarget>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2020-08-18 01:00:00 -0400" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
+        <PreviousSession Words="0" Characters="0" Date="2020-08-17 09:00:10 -0400"/>
+    </ProjectTargets>
+    <RecentWritingHistory Date="2020-08-17 09:00:10 -0400">
+        <DraftWordCount>0</DraftWordCount>
+        <DraftCharCount>0</DraftCharCount>
+        <OtherWordCount>0</OtherWordCount>
+        <OtherCharCount>0</OtherCharCount>
+    </RecentWritingHistory>
+    <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
+</ScrivenerProject>
