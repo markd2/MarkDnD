@@ -24,3 +24,15 @@ runs on Countdown Clocks.
 ----------
 
 * villain of chance
+
+----------
+
+example of just how screwed up characters can end up as a result of those critical hit and fumble tables
+
+Dungeon Crawl Classics - fantasy in mold of dnd -super weird. if gary and dave instead of
+shoe salesman and lawyer , were hippies, or stoners, and did a lot of mushrooms, and made
+a roleplaying game.
+
+Uses d13s and d4s - pysical dice. All the art is so srange and goofy and awkward in a charming
+way.
+
