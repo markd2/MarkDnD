@@ -36,3 +36,6 @@ a roleplaying game.
 Uses d13s and d4s - pysical dice. All the art is so srange and goofy and awkward in a charming
 way.
 
+----------
+
+https://www.themonstersknow.com
