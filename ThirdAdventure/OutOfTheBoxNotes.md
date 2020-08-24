@@ -5,11 +5,11 @@ They Cover a wide range of levels.  Here's a cheatsheet.
 
 ## Alphabetical
 
-* Aces High - 2 (hard)
+* Aces High - 2 (hard) - Aerial combat
 * Albatross - 6+ (medium / hard)
-* All that Glitters - 8 (hard)
-* All that Remains - Any
-* Argument - 4 (medium)
+* All that Glitters - 8 (hard) - Killer Golden Horse
+* All that Remains - Any - King Torg Cliff-face
+* Argument - 4 (medium) - Ettin with help of opposite alignment
 * Auntie Knows Best - 4 (hard)
 * Backstabber - 2 (easy)
 * Balance - 4 (hard)
