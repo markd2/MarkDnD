@@ -39,3 +39,10 @@ way.
 ----------
 
 https://www.themonstersknow.com
+
+----------
+
+monster manual slice and dice
+
+https://www.aidedd.org/dnd-filters/monsters.php
+
