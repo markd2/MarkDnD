@@ -46,3 +46,6 @@ monster manual slice and dice
 
 https://www.aidedd.org/dnd-filters/monsters.php
 
+----------
+
+Stars Without Number - scifi OSR RPG
