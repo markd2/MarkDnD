@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="229024D0-2943-4776-8765-761DFA3AB2BF" Version="2.0" Creator="SCRMAC-3.1.3-11945" Device="pheasantbook" Author="Mark Dalrymple" Modified="2020-08-17 11:10:38 -0400" ModID="BC98A3F3-BB98-4B8D-B8CA-180BD8B3DFB6">
+<ScrivenerProject Identifier="229024D0-2943-4776-8765-761DFA3AB2BF" Version="2.0" Creator="SCRMAC-3.1.5-12258" Device="pheasantbook" Author="Mark Dalrymple" Modified="2020-08-31 18:42:52 -0400" ModID="3240D82F-C869-4204-B9B1-3C9EDF6C45DB">
     <Binder>
-        <BinderItem UUID="D11D91BB-EA60-499A-A0F6-FABEB844732D" Type="DraftFolder" Created="2020-08-17 09:00:11 -0400" Modified="2020-08-17 09:00:11 -0400">
-            <Title>Draft</Title>
+        <BinderItem UUID="D11D91BB-EA60-499A-A0F6-FABEB844732D" Type="DraftFolder" Created="2020-08-17 09:00:11 -0400" Modified="2020-08-31 17:19:28 -0400">
+            <Title>J4 Adventure dealie</Title>
             <MetaData>
                 <IncludeInCompile>Yes</IncludeInCompile>
             </MetaData>
@@ -153,6 +153,66 @@
                 </BinderItem>
             </Children>
         </BinderItem>
+        <BinderItem UUID="F195F492-CE2A-4178-8EEC-7D2B4F1CED73" Type="Text" Created="2020-08-31 17:19:32 -0400" Modified="2020-08-31 17:19:52 -0400">
+            <Title>Nerdarchy Article</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>0,0</TextSelection>
+            </TextSettings>
+            <Children>
+                <BinderItem UUID="6E0AD2BB-304D-4A3D-B8C9-5603791DE9A0" Type="Text" Created="2020-08-31 17:35:53 -0400" Modified="2020-08-31 17:36:07 -0400">
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>24,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="EBB60579-8098-4185-9478-76BC62EBCA2F" Type="Text" Created="2020-08-31 17:21:45 -0400" Modified="2020-08-31 17:35:08 -0400">
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>642,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="3CF56F2C-38D1-45B8-8F02-6EF0BD818D76" Type="Text" Created="2020-08-31 17:33:12 -0400" Modified="2020-08-31 17:57:47 -0400">
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>1082,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="93C7D66E-E133-4636-AAC0-2540AF9191F2" Type="Text" Created="2020-08-31 17:40:32 -0400" Modified="2020-08-31 18:01:35 -0400">
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>1446,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="3889B9E1-3679-4171-AD39-7B0AAC2C2752" Type="Text" Created="2020-08-31 18:01:43 -0400" Modified="2020-08-31 18:34:48 -0400">
+                    <Title>The Adventure</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>4400,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="61B88014-1E0A-43FC-A7D9-3F51E8EAE434" Type="Text" Created="2020-08-31 18:34:53 -0400" Modified="2020-08-31 18:40:45 -0400">
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>667,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
         <BinderItem UUID="A595B45F-E485-4E09-B9DC-30AA76E4B354" Type="ResearchFolder" Created="2020-08-17 09:00:11 -0400" Modified="2020-08-17 09:00:11 -0400">
             <Title>Research</Title>
             <MetaData>
@@ -164,6 +224,16 @@
             <MetaData>
                 <IncludeInCompile>Yes</IncludeInCompile>
             </MetaData>
+            <Children>
+                <BinderItem UUID="A3638694-3DDA-4D57-8EA8-BE330E05B0B8" Type="Text" Created="2020-08-31 18:42:46 -0400" Modified="2020-08-31 18:42:52 -0400">
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
         </BinderItem>
     </Binder>
     <Collections>
@@ -220,14 +290,14 @@
     </StatusSettings>
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2020-08-17 09:00:10 -0400" IgnoreDeadline="Yes">0</DraftTarget>
-        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2020-08-18 01:00:00 -0400" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2020-08-17 09:00:10 -0400"/>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2020-09-01 01:00:00 -0400" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
+        <PreviousSession Words="0" Characters="0" Date="2020-08-31 17:25:56 -0400"/>
     </ProjectTargets>
-    <RecentWritingHistory Date="2020-08-17 09:00:10 -0400">
+    <RecentWritingHistory Date="2020-08-31 00:00:00 -0400">
         <DraftWordCount>0</DraftWordCount>
         <DraftCharCount>0</DraftCharCount>
-        <OtherWordCount>0</OtherWordCount>
-        <OtherCharCount>0</OtherCharCount>
+        <OtherWordCount>1464</OtherWordCount>
+        <OtherCharCount>8283</OtherCharCount>
     </RecentWritingHistory>
-    <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
+    <PrintSettings PaperSize="611.999993,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
 </ScrivenerProject>

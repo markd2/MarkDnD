@@ -4,10 +4,58 @@
 <dict>
 	<key>NotesScaleFactor</key>
 	<real>1</real>
+	<key>QRPanelSettings</key>
+	<dict>
+		<key>25BFE0F0-0DC6-49D9-AF38-AED3843C3764</key>
+		<dict>
+			<key>BinderUUID</key>
+			<string>25BFE0F0-0DC6-49D9-AF38-AED3843C3764</string>
+			<key>CurrentMetaData</key>
+			<integer>-1</integer>
+			<key>MainPaneWidth</key>
+			<real>475</real>
+			<key>ProjectBookmarksSplitInfo</key>
+			<array>
+				<string>{{0, 0}, {225, 495}}</string>
+				<string>{{235, 0}, {443, 495}}</string>
+			</array>
+			<key>ProjectBookmarksVisible</key>
+			<false/>
+			<key>ShowsFormatBar</key>
+			<true/>
+			<key>ShowsMetaData</key>
+			<false/>
+			<key>SplitInfo</key>
+			<array>
+				<string>{{0, 277}, {475, 167}}</string>
+			</array>
+			<key>TextSettings</key>
+			<dict>
+				<key>hasMultiplePages</key>
+				<false/>
+				<key>isRulerVisible</key>
+				<false/>
+				<key>lineNumberingInterval</key>
+				<integer>1</integer>
+				<key>showsLineNumbers</key>
+				<false/>
+				<key>textFocusMode</key>
+				<integer>0</integer>
+				<key>textScaleFactor</key>
+				<real>1</real>
+				<key>usesFacingPages</key>
+				<false/>
+				<key>usesTypewriterScrolling</key>
+				<false/>
+			</dict>
+			<key>WindowFrame</key>
+			<string>602 378 475 522 0 0 1680 1027 </string>
+		</dict>
+	</dict>
 	<key>binderSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {265, 650}}</string>
-		<string>{{266, 0}, {734, 650}}</string>
+		<string>{{0, 0}, {265, 689}}</string>
+		<string>{{266, 0}, {676, 689}}</string>
 	</array>
 	<key>bookmarksSelectionInfo</key>
 	<dict>
@@ -46,6 +94,26 @@
 			<key>Row</key>
 			<integer>-1</integer>
 		</dict>
+		<key>3889B9E1-3679-4171-AD39-7B0AAC2C2752</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>3CF56F2C-38D1-45B8-8F02-6EF0BD818D76</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>61B88014-1E0A-43FC-A7D9-3F51E8EAE434</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>6E0AD2BB-304D-4A3D-B8C9-5603791DE9A0</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
 		<key>7AAA141E-AC2B-4312-A9B8-5EFFF53CC280</key>
 		<dict>
 			<key>Row</key>
@@ -56,7 +124,17 @@
 			<key>Row</key>
 			<integer>-1</integer>
 		</dict>
+		<key>93C7D66E-E133-4636-AAC0-2540AF9191F2</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
 		<key>9BB9E249-4155-4158-912C-16D43534F843</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>A3638694-3DDA-4D57-8EA8-BE330E05B0B8</key>
 		<dict>
 			<key>Row</key>
 			<integer>-1</integer>
@@ -81,7 +159,17 @@
 			<key>Row</key>
 			<integer>-1</integer>
 		</dict>
+		<key>EBB60579-8098-4185-9478-76BC62EBCA2F</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
 		<key>EFA2AB3B-0313-460B-BBAF-F9A26404A333</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>F195F492-CE2A-4178-8EEC-7D2B4F1CED73</key>
 		<dict>
 			<key>Row</key>
 			<integer>-1</integer>
@@ -106,7 +194,7 @@
 	</dict>
 	<key>inspectorSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {336, 640}}</string>
+		<string>{{0, 0}, {336, 679}}</string>
 	</array>
 	<key>inspectorWidth</key>
 	<real>245</real>
@@ -116,14 +204,14 @@
 		<real>1</real>
 	</dict>
 	<key>mainDocumentEditor.scrollRect</key>
-	<string>{{0, 0}, {719, 564}}</string>
+	<string>{{0, 0}, {661, 603}}</string>
 	<key>mainDocumentEditor.textEditorState</key>
 	<dict>
 		<key>textScaleFactor</key>
 		<real>1</real>
 	</dict>
 	<key>mainWindowFrame</key>
-	<string>24 355 1000 672 0 0 1680 1027 </string>
+	<string>614 316 942 711 0 0 1680 1027 </string>
 	<key>supportingDocumentEditor.dockedQRTextSettings</key>
 	<dict>
 		<key>textScaleFactor</key>
