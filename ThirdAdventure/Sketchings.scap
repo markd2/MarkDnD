@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ScappleDocument Version="1.1" ID="69EB24C6-16AA-4BF3-BCBA-EA5DE48E373E">
     <Notes>
-        <Note ID="0" FontSize="12.0" Position="226.734375,176.214844" Width="112.0">
+        <Note ID="0" FontSize="12.0" Position="227.0,176.0" Width="112.0">
             <Appearance>
                 <Alignment>Center</Alignment>
                 <Border Weight="1"></Border>
@@ -10,7 +10,7 @@
             <String>Figboot’s</String>
             <ConnectedNoteIDs>2, 26, 33</ConnectedNoteIDs>
         </Note>
-        <Note ID="2" FontSize="12.0" Position="165.316406,235.417969" Width="81.0">
+        <Note ID="2" FontSize="12.0" Position="165.0,235.0" Width="81.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -18,7 +18,7 @@
             <String>Castle-Latern</String>
             <ConnectedNoteIDs>0, 3, 32</ConnectedNoteIDs>
         </Note>
-        <Note ID="3" FontSize="12.0" Position="263.167969,312.882812" Width="70.0">
+        <Note ID="3" FontSize="12.0" Position="263.0,313.0" Width="70.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -26,7 +26,7 @@
             <String>Earth Borer</String>
             <ConnectedNoteIDs>2, 4</ConnectedNoteIDs>
         </Note>
-        <Note ID="4" FontSize="12.0" Position="324.882812,398.984375" Width="99.0">
+        <Note ID="4" FontSize="12.0" Position="325.0,399.0" Width="99.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -34,7 +34,7 @@
             <String>Past Civilizations</String>
             <ConnectedNoteIDs>3, 9, 18</ConnectedNoteIDs>
         </Note>
-        <Note ID="5" FontSize="12.0" Position="840.09375,477.351562" Width="79.0">
+        <Note ID="5" FontSize="12.0" Position="840.0,477.0" Width="79.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -43,7 +43,7 @@
             <ConnectedNoteIDs>6, 12-14</ConnectedNoteIDs>
             <PointsToNoteIDs>6</PointsToNoteIDs>
         </Note>
-        <Note ID="6" FontSize="12.0" Position="822.09375,604.351562" Width="107.0">
+        <Note ID="6" FontSize="12.0" Position="822.0,604.0" Width="107.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -51,7 +51,7 @@
             <String>Airship / Skywhale</String>
             <ConnectedNoteIDs>5, 44</ConnectedNoteIDs>
         </Note>
-        <Note ID="7" FontSize="12.0" Position="873.507812,294.894531" Width="106.0">
+        <Note ID="7" FontSize="12.0" Position="874.0,295.0" Width="106.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -60,7 +60,7 @@
 Gameshow in Hell</String>
             <ConnectedNoteIDs>8</ConnectedNoteIDs>
         </Note>
-        <Note ID="8" FontSize="12.0" Position="926.164062,360.609375" Width="147.0">
+        <Note ID="8" FontSize="12.0" Position="926.0,361.0" Width="147.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -68,7 +68,7 @@ Gameshow in Hell</String>
             <String>maybe for a TPK situation</String>
             <ConnectedNoteIDs>7</ConnectedNoteIDs>
         </Note>
-        <Note ID="9" FontSize="12.0" Position="250.089844,454.011719" Width="67.0">
+        <Note ID="9" FontSize="12.0" Position="250.0,454.0" Width="67.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -76,21 +76,21 @@ Gameshow in Hell</String>
             <String>Battle Bots</String>
             <ConnectedNoteIDs>4</ConnectedNoteIDs>
         </Note>
-        <Note ID="10" FontSize="12.0" Position="630.832031,50.148438" Width="83.0">
+        <Note ID="10" FontSize="12.0" Position="631.0,50.0" Width="83.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
             </Appearance>
             <String>Infinite Falling</String>
         </Note>
-        <Note ID="11" FontSize="12.0" Position="373.929688,602.578125" Width="110.0">
+        <Note ID="11" FontSize="12.0" Position="374.0,603.0" Width="110.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
             </Appearance>
             <String>Magical Assault (?)</String>
         </Note>
-        <Note ID="12" FontSize="12.0" Position="995.847656,431.796875" Width="86.0">
+        <Note ID="12" FontSize="12.0" Position="996.0,432.0" Width="86.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -98,7 +98,7 @@ Gameshow in Hell</String>
             <String>Pandemonium</String>
             <ConnectedNoteIDs>5</ConnectedNoteIDs>
         </Note>
-        <Note ID="13" FontSize="12.0" Position="1008.476562,534.085938" Width="92.0">
+        <Note ID="13" FontSize="12.0" Position="1008.0,534.0" Width="92.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -106,7 +106,7 @@ Gameshow in Hell</String>
             <String>Outer Planes</String>
             <ConnectedNoteIDs>5</ConnectedNoteIDs>
         </Note>
-        <Note ID="14" FontSize="12.0" Position="795.875,384.757812" Width="55.0">
+        <Note ID="14" FontSize="12.0" Position="796.0,385.0" Width="55.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -114,28 +114,28 @@ Gameshow in Hell</String>
             <String>Visit Hell</String>
             <ConnectedNoteIDs>5</ConnectedNoteIDs>
         </Note>
-        <Note ID="15" FontSize="12.0" Position="532.125,55.804688" Width="75.0">
+        <Note ID="15" FontSize="12.0" Position="532.0,56.0" Width="75.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
             </Appearance>
             <String>Talk to Gods</String>
         </Note>
-        <Note ID="16" FontSize="12.0" Position="402.785156,53.683594" Width="111.0">
+        <Note ID="16" FontSize="12.0" Position="403.0,54.0" Width="111.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
             </Appearance>
             <String>Mystery to Resolve</String>
         </Note>
-        <Note ID="17" FontSize="12.0" Position="735.34375,54.300781" Width="132.0">
+        <Note ID="17" FontSize="12.0" Position="735.0,54.0" Width="132.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
             </Appearance>
             <String>RP Against Each Other</String>
         </Note>
-        <Note ID="18" FontSize="12.0" Position="364.929688,461.8125" Width="117.0">
+        <Note ID="18" FontSize="12.0" Position="365.0,462.0" Width="117.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -143,7 +143,7 @@ Gameshow in Hell</String>
             <String>Punita Has research</String>
             <ConnectedNoteIDs>4, 19</ConnectedNoteIDs>
         </Note>
-        <Note ID="19" FontSize="12.0" Position="338.945312,527.957031" Width="82.0">
+        <Note ID="19" FontSize="12.0" Position="339.0,528.0" Width="82.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -151,7 +151,7 @@ Gameshow in Hell</String>
             <String>Race for Tech</String>
             <ConnectedNoteIDs>18</ConnectedNoteIDs>
         </Note>
-        <Note ID="20" FontSize="12.0" Position="573.703125,532.523438" Width="137.0">
+        <Note ID="20" FontSize="12.0" Position="574.0,533.0" Width="137.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -159,7 +159,7 @@ Gameshow in Hell</String>
             <String>Explicitica Defilus fallout</String>
             <ConnectedNoteIDs>21-23</ConnectedNoteIDs>
         </Note>
-        <Note ID="21" FontSize="12.0" Position="544.183594,473.5625" Width="79.0">
+        <Note ID="21" FontSize="12.0" Position="544.0,474.0" Width="79.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -167,7 +167,7 @@ Gameshow in Hell</String>
             <String>papermancer</String>
             <ConnectedNoteIDs>20</ConnectedNoteIDs>
         </Note>
-        <Note ID="22" FontSize="12.0" Position="635.46875,474.933594" Width="74.0">
+        <Note ID="22" FontSize="12.0" Position="635.0,475.0" Width="74.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -175,7 +175,7 @@ Gameshow in Hell</String>
             <String>dollomancer</String>
             <ConnectedNoteIDs>20</ConnectedNoteIDs>
         </Note>
-        <Note ID="23" FontSize="12.0" Position="615.238281,590.570312" Width="80.0">
+        <Note ID="23" FontSize="12.0" Position="615.0,591.0" Width="80.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -183,7 +183,7 @@ Gameshow in Hell</String>
             <String>Gareth Primo</String>
             <ConnectedNoteIDs>20</ConnectedNoteIDs>
         </Note>
-        <Note ID="24" FontSize="12.0" Position="463.671875,120.753906" Width="108.0">
+        <Note ID="24" FontSize="12.0" Position="464.0,121.0" Width="108.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -191,7 +191,7 @@ Gameshow in Hell</String>
             <String>Skeletal Salesman</String>
             <ConnectedNoteIDs>25</ConnectedNoteIDs>
         </Note>
-        <Note ID="25" FontSize="12.0" Position="451.667969,159.28125" Width="130.0">
+        <Note ID="25" FontSize="12.0" Position="452.0,159.0" Width="130.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -199,7 +199,7 @@ Gameshow in Hell</String>
             <String>Dracolich (or is there?)</String>
             <ConnectedNoteIDs>24</ConnectedNoteIDs>
         </Note>
-        <Note ID="26" FontSize="12.0" Position="373.929688,238.578125" Width="68.0">
+        <Note ID="26" FontSize="12.0" Position="374.0,239.0" Width="68.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -207,7 +207,7 @@ Gameshow in Hell</String>
             <String>Evil Library</String>
             <ConnectedNoteIDs>0, 28, 31</ConnectedNoteIDs>
         </Note>
-        <Note ID="27" FontSize="12.0" Position="471.230469,323.148438" Width="145.0">
+        <Note ID="27" FontSize="12.0" Position="471.0,323.0" Width="145.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -215,7 +215,7 @@ Gameshow in Hell</String>
             <String>Library off of Delian Tomb</String>
             <ConnectedNoteIDs>28-30</ConnectedNoteIDs>
         </Note>
-        <Note ID="28" FontSize="12.0" Position="450.808594,277.691406" Width="106.0">
+        <Note ID="28" FontSize="12.0" Position="451.0,278.0" Width="106.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -223,7 +223,7 @@ Gameshow in Hell</String>
             <String>“Punita’s Found It”</String>
             <ConnectedNoteIDs>26-27</ConnectedNoteIDs>
         </Note>
-        <Note ID="29" FontSize="12.0" Position="481.929688,381.578125" Width="109.0">
+        <Note ID="29" FontSize="12.0" Position="482.0,382.0" Width="109.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -231,7 +231,7 @@ Gameshow in Hell</String>
             <String>Demon Apotheosis</String>
             <ConnectedNoteIDs>27</ConnectedNoteIDs>
         </Note>
-        <Note ID="30" FontSize="12.0" Position="627.929688,378.578125" Width="97.0">
+        <Note ID="30" FontSize="12.0" Position="628.0,379.0" Width="97.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -239,7 +239,7 @@ Gameshow in Hell</String>
             <String>Devil Apotheosis</String>
             <ConnectedNoteIDs>27</ConnectedNoteIDs>
         </Note>
-        <Note ID="31" FontSize="12.0" Position="473.375,231.410156" Width="189.0">
+        <Note ID="31" FontSize="12.0" Position="473.0,231.0" Width="189.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -247,7 +247,7 @@ Gameshow in Hell</String>
             <String>Maybe Quon is involved in search</String>
             <ConnectedNoteIDs>26</ConnectedNoteIDs>
         </Note>
-        <Note ID="32" FontSize="12.0" Position="92.136719,294.566406" Width="132.0">
+        <Note ID="32" FontSize="12.0" Position="92.0,295.0" Width="132.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -263,7 +263,7 @@ Gameshow in Hell</String>
             <String>Mundane Quests / Tropes</String>
             <ConnectedNoteIDs>0</ConnectedNoteIDs>
         </Note>
-        <Note ID="35" FontSize="12.0" Position="814.425781,111.523438" Width="81.0">
+        <Note ID="35" FontSize="12.0" Position="814.0,112.0" Width="81.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -271,7 +271,7 @@ Gameshow in Hell</String>
             <String>Story Feature</String>
             <ConnectedNoteIDs>36-40</ConnectedNoteIDs>
         </Note>
-        <Note ID="36" FontSize="12.0" Position="928.355469,89.839844" Width="50.0">
+        <Note ID="36" FontSize="12.0" Position="928.0,90.0" Width="50.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -279,7 +279,7 @@ Gameshow in Hell</String>
             <String>Bargain</String>
             <ConnectedNoteIDs>35, 42</ConnectedNoteIDs>
         </Note>
-        <Note ID="37" FontSize="12.0" Position="860.917969,152.4375" Width="49.0">
+        <Note ID="37" FontSize="12.0" Position="861.0,152.0" Width="49.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -287,7 +287,7 @@ Gameshow in Hell</String>
             <String>Jessica</String>
             <ConnectedNoteIDs>35, 45</ConnectedNoteIDs>
         </Note>
-        <Note ID="38" FontSize="12.0" Position="980.828125,124.699219" Width="28.0">
+        <Note ID="38" FontSize="12.0" Position="981.0,125.0" Width="28.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -295,7 +295,7 @@ Gameshow in Hell</String>
             <String>Mui</String>
             <ConnectedNoteIDs>35</ConnectedNoteIDs>
         </Note>
-        <Note ID="39" FontSize="12.0" Position="807.972656,155.925781" Width="33.0">
+        <Note ID="39" FontSize="12.0" Position="808.0,156.0" Width="33.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -303,7 +303,7 @@ Gameshow in Hell</String>
             <String>Sam</String>
             <ConnectedNoteIDs>35, 43</ConnectedNoteIDs>
         </Note>
-        <Note ID="40" FontSize="12.0" Position="948.167969,155.054688" Width="45.0">
+        <Note ID="40" FontSize="12.0" Position="948.0,155.0" Width="45.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -311,7 +311,7 @@ Gameshow in Hell</String>
             <String>Laeryn</String>
             <ConnectedNoteIDs>35</ConnectedNoteIDs>
         </Note>
-        <Note ID="42" FontSize="12.0" Position="1005.175781,89.316406" Width="90.0">
+        <Note ID="42" FontSize="12.0" Position="1005.0,89.0" Width="90.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -319,7 +319,7 @@ Gameshow in Hell</String>
             <String>Quon-Related?</String>
             <ConnectedNoteIDs>36</ConnectedNoteIDs>
         </Note>
-        <Note ID="43" FontSize="12.0" Position="808.425781,189.523438" Width="67.0">
+        <Note ID="43" FontSize="12.0" Position="808.0,190.0" Width="67.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -327,7 +327,7 @@ Gameshow in Hell</String>
             <String>Seafaring?</String>
             <ConnectedNoteIDs>39</ConnectedNoteIDs>
         </Note>
-        <Note ID="44" FontSize="12.0" Position="880.035156,649.210938" Width="85.0">
+        <Note ID="44" FontSize="12.0" Position="880.0,649.0" Width="85.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -335,7 +335,7 @@ Gameshow in Hell</String>
             <String>Aerial Combat</String>
             <ConnectedNoteIDs>6</ConnectedNoteIDs>
         </Note>
-        <Note ID="45" FontSize="12.0" Position="923.425781,189.523438" Width="63.0">
+        <Note ID="45" FontSize="12.0" Position="923.0,190.0" Width="63.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -366,19 +366,19 @@ Gameshow in Hell</String>
             </Appearance>
             <String>Ostrich Dude</String>
         </Note>
-        <Note ID="49" FontSize="12.0" Position="769.183594,293.144531" Width="200.0">
+        <Note ID="51" FontSize="12.0" Position="1044.054688,239.910156" Width="91.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
             </Appearance>
-            <String>New Note</String>
+            <String>Panda Owlbear</String>
         </Note>
     </Notes>
     <BackgroundShapes></BackgroundShapes>
     <Labels>
         <Label IDs="5,6">Kharos stones?</Label>
     </Labels>
-    <AutoFit>2-7, 9-12, 14-33, 35-40, 42-48</AutoFit>
+    <AutoFit>2-7, 9-12, 14-33, 35-40, 42-48, 51</AutoFit>
     <NoteStyles>
         <Style Name="Bubble (Blue)" ID="935AE891-5596-42F0-BCA5-0E750FF722DD" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="No" AffectNoteBody="Yes" AffectFade="No">
             <BorderThickness>1</BorderThickness>
