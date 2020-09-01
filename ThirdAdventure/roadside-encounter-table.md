@@ -40,8 +40,11 @@ Subset of the Johnn FOur "1372 roadside encounters"
 
 18. 672. You see a strange cloud formation in the sky.
 
+
 19. 677. A new sign pointing down a narrow path off the road saying, "Fresh Berries - Pick Your Own."
 
 20. 783. A man on an ostrich hurtles by, yelling to the PCs to give way.
    "on your left!  Give Way!  On your left!  Give way!"
+
+----------
 

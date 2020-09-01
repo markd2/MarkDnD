@@ -12,6 +12,7 @@
     - https://5ebackgrounds.com/far-traveler/
         - from the Sword Coast Adventurer's Guide
             - https://www.dndbeyond.com/sources/scag/backgrounds#FarTraveler
+blond/straw, individual
 
         - Your accent, mannerisms, figures of speech, and perhaps even your appearance all mark you as foreign
 
