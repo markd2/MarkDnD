@@ -114,9 +114,6 @@ again, but in an erratic fashion, like a housefly buzzing around.  This
 goes on for quite the distance, until it stops.  Which happens to be around
 where you are on the great map of the area.
 
-During this time, Bargain has been taking notes of the unfamiliar words(?).
-Perhaps someone back in Nextia can decipher them.
-
 ![](assets/borer.png)
 
 # Area Map
