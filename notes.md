@@ -49,3 +49,8 @@ https://www.aidedd.org/dnd-filters/monsters.php
 ----------
 
 Stars Without Number - scifi OSR RPG
+
+----------
+
+Night Witches - female soviet bomber RPG
+

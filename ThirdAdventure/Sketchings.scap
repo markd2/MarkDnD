@@ -1,384 +1,691 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ScappleDocument Version="1.1" ID="69EB24C6-16AA-4BF3-BCBA-EA5DE48E373E">
     <Notes>
-        <Note ID="0" FontSize="12.0" Position="227.0,176.0" Width="112.0">
+        <Note ID="0" FontSize="12.0" Position="281.0,178.0" Width="112.0">
             <Appearance>
                 <Alignment>Center</Alignment>
                 <Border Weight="1"></Border>
-                <Fill>0.91276 0.988914 0.999828</Fill>
+                <Fill>0.897589 1.0 0.939882</Fill>
             </Appearance>
             <String>Figboot’s</String>
-            <ConnectedNoteIDs>2, 26, 33</ConnectedNoteIDs>
+            <ConnectedNoteIDs>2, 26, 33, 61-62</ConnectedNoteIDs>
         </Note>
-        <Note ID="2" FontSize="12.0" Position="165.0,235.0" Width="81.0">
+        <Note ID="2" FontSize="12.0" Position="211.0,250.0" Width="81.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
+                <Fill>0.999757 0.988054 0.951631</Fill>
             </Appearance>
             <String>Castle-Latern</String>
             <ConnectedNoteIDs>0, 3, 32</ConnectedNoteIDs>
         </Note>
-        <Note ID="3" FontSize="12.0" Position="263.0,313.0" Width="70.0">
+        <Note ID="3" FontSize="12.0" Position="333.0,301.0" Width="70.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
+                <Fill>0.999757 0.988054 0.951631</Fill>
             </Appearance>
             <String>Earth Borer</String>
             <ConnectedNoteIDs>2, 4</ConnectedNoteIDs>
         </Note>
-        <Note ID="4" FontSize="12.0" Position="325.0,399.0" Width="99.0">
+        <Note ID="4" FontSize="12.0" Position="357.0,338.0" Width="99.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
+                <Fill>0.999757 0.988054 0.951631</Fill>
             </Appearance>
             <String>Past Civilizations</String>
-            <ConnectedNoteIDs>3, 9, 18</ConnectedNoteIDs>
+            <ConnectedNoteIDs>3, 9, 18, 70</ConnectedNoteIDs>
         </Note>
-        <Note ID="5" FontSize="12.0" Position="840.0,477.0" Width="79.0">
+        <Note ID="5" FontSize="12.0" Position="894.0,477.0" Width="79.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
+                <Fill>0.999757 0.988054 0.951631</Fill>
             </Appearance>
             <String>Planar Travel</String>
             <ConnectedNoteIDs>6, 12-14</ConnectedNoteIDs>
             <PointsToNoteIDs>6</PointsToNoteIDs>
         </Note>
-        <Note ID="6" FontSize="12.0" Position="822.0,604.0" Width="107.0">
+        <Note ID="6" FontSize="12.0" Position="876.0,604.0" Width="107.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
+                <Fill>0.999757 0.988054 0.951631</Fill>
             </Appearance>
             <String>Airship / Skywhale</String>
             <ConnectedNoteIDs>5, 44</ConnectedNoteIDs>
         </Note>
-        <Note ID="7" FontSize="12.0" Position="874.0,295.0" Width="106.0">
+        <Note ID="7" FontSize="12.0" Position="1063.0,300.0" Width="106.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
+                <Fill>0.999757 0.988054 0.951631</Fill>
             </Appearance>
             <String>All Die
 Gameshow in Hell</String>
             <ConnectedNoteIDs>8</ConnectedNoteIDs>
         </Note>
-        <Note ID="8" FontSize="12.0" Position="926.0,361.0" Width="147.0">
+        <Note ID="8" FontSize="12.0" Position="980.0,361.0" Width="147.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
+                <Fill>0.999757 0.988054 0.951631</Fill>
             </Appearance>
             <String>maybe for a TPK situation</String>
             <ConnectedNoteIDs>7</ConnectedNoteIDs>
         </Note>
-        <Note ID="9" FontSize="12.0" Position="250.0,454.0" Width="67.0">
+        <Note ID="9" FontSize="12.0" Position="322.0,366.0" Width="67.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
+                <Fill>0.999757 0.988054 0.951631</Fill>
             </Appearance>
             <String>Battle Bots</String>
             <ConnectedNoteIDs>4</ConnectedNoteIDs>
         </Note>
-        <Note ID="10" FontSize="12.0" Position="631.0,50.0" Width="83.0">
+        <Note ID="10" FontSize="12.0" Position="685.0,50.0" Width="83.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
+                <Fill>0.999757 0.988054 0.951631</Fill>
             </Appearance>
             <String>Infinite Falling</String>
         </Note>
-        <Note ID="11" FontSize="12.0" Position="374.0,603.0" Width="110.0">
+        <Note ID="11" FontSize="12.0" Position="428.0,603.0" Width="110.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
+                <Fill>0.999757 0.988054 0.951631</Fill>
             </Appearance>
             <String>Magical Assault (?)</String>
         </Note>
-        <Note ID="12" FontSize="12.0" Position="996.0,432.0" Width="86.0">
+        <Note ID="12" FontSize="12.0" Position="1050.0,432.0" Width="86.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
+                <Fill>0.999757 0.988054 0.951631</Fill>
             </Appearance>
             <String>Pandemonium</String>
             <ConnectedNoteIDs>5</ConnectedNoteIDs>
         </Note>
-        <Note ID="13" FontSize="12.0" Position="1008.0,534.0" Width="92.0">
+        <Note ID="13" FontSize="12.0" Position="1062.0,534.0" Width="92.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
+                <Fill>0.999757 0.988054 0.951631</Fill>
             </Appearance>
             <String>Outer Planes</String>
             <ConnectedNoteIDs>5</ConnectedNoteIDs>
         </Note>
-        <Note ID="14" FontSize="12.0" Position="796.0,385.0" Width="55.0">
+        <Note ID="14" FontSize="12.0" Position="850.0,385.0" Width="55.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
+                <Fill>0.999757 0.988054 0.951631</Fill>
             </Appearance>
             <String>Visit Hell</String>
             <ConnectedNoteIDs>5</ConnectedNoteIDs>
         </Note>
-        <Note ID="15" FontSize="12.0" Position="532.0,56.0" Width="75.0">
+        <Note ID="15" FontSize="12.0" Position="586.0,56.0" Width="75.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
+                <Fill>0.999757 0.988054 0.951631</Fill>
             </Appearance>
             <String>Talk to Gods</String>
         </Note>
-        <Note ID="16" FontSize="12.0" Position="403.0,54.0" Width="111.0">
+        <Note ID="16" FontSize="12.0" Position="457.0,54.0" Width="111.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
+                <Fill>0.999757 0.988054 0.951631</Fill>
             </Appearance>
             <String>Mystery to Resolve</String>
         </Note>
-        <Note ID="17" FontSize="12.0" Position="735.0,54.0" Width="132.0">
+        <Note ID="17" FontSize="12.0" Position="789.0,54.0" Width="132.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
+                <Fill>0.999757 0.988054 0.951631</Fill>
             </Appearance>
             <String>RP Against Each Other</String>
         </Note>
-        <Note ID="18" FontSize="12.0" Position="365.0,462.0" Width="117.0">
+        <Note ID="18" FontSize="12.0" Position="406.0,373.0" Width="117.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
+                <Fill>0.999757 0.988054 0.951631</Fill>
             </Appearance>
             <String>Punita Has research</String>
             <ConnectedNoteIDs>4, 19</ConnectedNoteIDs>
         </Note>
-        <Note ID="19" FontSize="12.0" Position="339.0,528.0" Width="82.0">
+        <Note ID="19" FontSize="12.0" Position="433.0,403.0" Width="80.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
+                <Fill>0.999757 0.988054 0.951631</Fill>
             </Appearance>
             <String>Race for Tech</String>
             <ConnectedNoteIDs>18</ConnectedNoteIDs>
         </Note>
-        <Note ID="20" FontSize="12.0" Position="574.0,533.0" Width="137.0">
+        <Note ID="20" FontSize="12.0" Position="628.0,533.0" Width="137.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
+                <Fill>0.999757 0.988054 0.951631</Fill>
             </Appearance>
             <String>Explicitica Defilus fallout</String>
-            <ConnectedNoteIDs>21-23</ConnectedNoteIDs>
+            <ConnectedNoteIDs>21-23, 77</ConnectedNoteIDs>
         </Note>
-        <Note ID="21" FontSize="12.0" Position="544.0,474.0" Width="79.0">
+        <Note ID="21" FontSize="12.0" Position="598.0,474.0" Width="79.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
+                <Fill>0.999757 0.988054 0.951631</Fill>
             </Appearance>
             <String>papermancer</String>
             <ConnectedNoteIDs>20</ConnectedNoteIDs>
         </Note>
-        <Note ID="22" FontSize="12.0" Position="635.0,475.0" Width="74.0">
+        <Note ID="22" FontSize="12.0" Position="689.0,475.0" Width="74.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
+                <Fill>0.999757 0.988054 0.951631</Fill>
             </Appearance>
             <String>dollomancer</String>
-            <ConnectedNoteIDs>20</ConnectedNoteIDs>
+            <ConnectedNoteIDs>20, 71-72</ConnectedNoteIDs>
         </Note>
-        <Note ID="23" FontSize="12.0" Position="615.0,591.0" Width="80.0">
+        <Note ID="23" FontSize="12.0" Position="736.0,592.0" Width="80.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
+                <Fill>0.999757 0.988054 0.951631</Fill>
             </Appearance>
             <String>Gareth Primo</String>
             <ConnectedNoteIDs>20</ConnectedNoteIDs>
         </Note>
-        <Note ID="24" FontSize="12.0" Position="464.0,121.0" Width="108.0">
+        <Note ID="24" FontSize="12.0" Position="518.0,121.0" Width="108.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
+                <Fill>0.999757 0.988054 0.951631</Fill>
             </Appearance>
             <String>Skeletal Salesman</String>
             <ConnectedNoteIDs>25</ConnectedNoteIDs>
         </Note>
-        <Note ID="25" FontSize="12.0" Position="452.0,159.0" Width="130.0">
+        <Note ID="25" FontSize="12.0" Position="506.0,159.0" Width="130.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
+                <Fill>0.999757 0.988054 0.951631</Fill>
             </Appearance>
             <String>Dracolich (or is there?)</String>
             <ConnectedNoteIDs>24</ConnectedNoteIDs>
         </Note>
-        <Note ID="26" FontSize="12.0" Position="374.0,239.0" Width="68.0">
+        <Note ID="26" FontSize="12.0" Position="428.0,239.0" Width="68.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
+                <Fill>0.999757 0.988054 0.951631</Fill>
             </Appearance>
             <String>Evil Library</String>
             <ConnectedNoteIDs>0, 28, 31</ConnectedNoteIDs>
         </Note>
-        <Note ID="27" FontSize="12.0" Position="471.0,323.0" Width="145.0">
+        <Note ID="27" FontSize="12.0" Position="525.0,323.0" Width="145.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
+                <Fill>0.999757 0.988054 0.951631</Fill>
             </Appearance>
             <String>Library off of Delian Tomb</String>
             <ConnectedNoteIDs>28-30</ConnectedNoteIDs>
         </Note>
-        <Note ID="28" FontSize="12.0" Position="451.0,278.0" Width="106.0">
+        <Note ID="28" FontSize="12.0" Position="507.0,287.0" Width="106.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
+                <Fill>0.999757 0.988054 0.951631</Fill>
             </Appearance>
             <String>“Punita’s Found It”</String>
             <ConnectedNoteIDs>26-27</ConnectedNoteIDs>
         </Note>
-        <Note ID="29" FontSize="12.0" Position="482.0,382.0" Width="109.0">
+        <Note ID="29" FontSize="12.0" Position="535.0,350.0" Width="109.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
+                <Fill>0.999757 0.988054 0.951631</Fill>
             </Appearance>
             <String>Demon Apotheosis</String>
             <ConnectedNoteIDs>27</ConnectedNoteIDs>
         </Note>
-        <Note ID="30" FontSize="12.0" Position="628.0,379.0" Width="97.0">
+        <Note ID="30" FontSize="12.0" Position="653.0,348.0" Width="97.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
+                <Fill>0.999757 0.988054 0.951631</Fill>
             </Appearance>
             <String>Devil Apotheosis</String>
             <ConnectedNoteIDs>27</ConnectedNoteIDs>
         </Note>
-        <Note ID="31" FontSize="12.0" Position="473.0,231.0" Width="189.0">
+        <Note ID="31" FontSize="12.0" Position="521.0,243.0" Width="189.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
+                <Fill>0.999757 0.988054 0.951631</Fill>
             </Appearance>
             <String>Maybe Quon is involved in search</String>
             <ConnectedNoteIDs>26</ConnectedNoteIDs>
         </Note>
-        <Note ID="32" FontSize="12.0" Position="92.0,295.0" Width="132.0">
+        <Note ID="32" FontSize="12.0" Position="146.0,295.0" Width="132.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
+                <Fill>0.999757 0.988054 0.951631</Fill>
             </Appearance>
             <String>“hey, while you’re here”</String>
-            <ConnectedNoteIDs>2</ConnectedNoteIDs>
+            <ConnectedNoteIDs>2, 65</ConnectedNoteIDs>
         </Note>
-        <Note ID="33" FontSize="12.0" Position="148.0,110.0" Width="147.0">
+        <Note ID="33" FontSize="12.0" Position="261.0,104.0" Width="147.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
+                <Fill>0.999757 0.988054 0.951631</Fill>
             </Appearance>
             <String>Mundane Quests / Tropes</String>
             <ConnectedNoteIDs>0</ConnectedNoteIDs>
         </Note>
-        <Note ID="35" FontSize="12.0" Position="814.0,112.0" Width="81.0">
+        <Note ID="35" FontSize="12.0" Position="868.0,112.0" Width="81.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
+                <Fill>0.999757 0.988054 0.951631</Fill>
             </Appearance>
             <String>Story Feature</String>
             <ConnectedNoteIDs>36-40</ConnectedNoteIDs>
         </Note>
-        <Note ID="36" FontSize="12.0" Position="928.0,90.0" Width="50.0">
+        <Note ID="36" FontSize="12.0" Position="982.0,90.0" Width="50.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
+                <Fill>0.999757 0.988054 0.951631</Fill>
             </Appearance>
             <String>Bargain</String>
             <ConnectedNoteIDs>35, 42</ConnectedNoteIDs>
         </Note>
-        <Note ID="37" FontSize="12.0" Position="861.0,152.0" Width="49.0">
+        <Note ID="37" FontSize="12.0" Position="915.0,152.0" Width="49.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
+                <Fill>0.999757 0.988054 0.951631</Fill>
             </Appearance>
             <String>Jessica</String>
             <ConnectedNoteIDs>35, 45</ConnectedNoteIDs>
         </Note>
-        <Note ID="38" FontSize="12.0" Position="981.0,125.0" Width="28.0">
+        <Note ID="38" FontSize="12.0" Position="1035.0,125.0" Width="28.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
+                <Fill>0.999757 0.988054 0.951631</Fill>
             </Appearance>
             <String>Mui</String>
             <ConnectedNoteIDs>35</ConnectedNoteIDs>
         </Note>
-        <Note ID="39" FontSize="12.0" Position="808.0,156.0" Width="33.0">
+        <Note ID="39" FontSize="12.0" Position="862.0,156.0" Width="33.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
+                <Fill>0.999757 0.988054 0.951631</Fill>
             </Appearance>
             <String>Sam</String>
             <ConnectedNoteIDs>35, 43</ConnectedNoteIDs>
         </Note>
-        <Note ID="40" FontSize="12.0" Position="948.0,155.0" Width="45.0">
+        <Note ID="40" FontSize="12.0" Position="1002.0,155.0" Width="45.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
+                <Fill>0.999757 0.988054 0.951631</Fill>
             </Appearance>
             <String>Laeryn</String>
             <ConnectedNoteIDs>35</ConnectedNoteIDs>
         </Note>
-        <Note ID="42" FontSize="12.0" Position="1005.0,89.0" Width="90.0">
+        <Note ID="42" FontSize="12.0" Position="1059.0,89.0" Width="90.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
+                <Fill>0.999757 0.988054 0.951631</Fill>
             </Appearance>
             <String>Quon-Related?</String>
             <ConnectedNoteIDs>36</ConnectedNoteIDs>
         </Note>
-        <Note ID="43" FontSize="12.0" Position="808.0,190.0" Width="67.0">
+        <Note ID="43" FontSize="12.0" Position="862.0,190.0" Width="67.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
+                <Fill>0.999757 0.988054 0.951631</Fill>
             </Appearance>
             <String>Seafaring?</String>
             <ConnectedNoteIDs>39</ConnectedNoteIDs>
         </Note>
-        <Note ID="44" FontSize="12.0" Position="880.0,649.0" Width="85.0">
+        <Note ID="44" FontSize="12.0" Position="934.0,649.0" Width="85.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
+                <Fill>0.999757 0.988054 0.951631</Fill>
             </Appearance>
             <String>Aerial Combat</String>
             <ConnectedNoteIDs>6</ConnectedNoteIDs>
         </Note>
-        <Note ID="45" FontSize="12.0" Position="923.0,190.0" Width="63.0">
+        <Note ID="45" FontSize="12.0" Position="977.0,190.0" Width="63.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
+                <Fill>0.999757 0.988054 0.951631</Fill>
             </Appearance>
             <String>Revenge?</String>
             <ConnectedNoteIDs>37</ConnectedNoteIDs>
         </Note>
-        <Note ID="46" FontSize="12.0" Position="78.0,465.0" Width="101.0">
+        <Note ID="46" FontSize="12.0" Position="429.0,701.0" Width="101.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
+                <Fill>0.999757 0.988054 0.951631</Fill>
             </Appearance>
             <String>Road Encounters</String>
-            <ConnectedNoteIDs>47</ConnectedNoteIDs>
+            <ConnectedNoteIDs>47, 57</ConnectedNoteIDs>
         </Note>
-        <Note ID="47" FontSize="12.0" Position="68.0,515.0" Width="56.0">
+        <Note ID="47" FontSize="12.0" Position="419.0,751.0" Width="56.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
+                <Fill>0.999757 0.988054 0.951631</Fill>
             </Appearance>
             <String>Brigands</String>
             <ConnectedNoteIDs>46</ConnectedNoteIDs>
         </Note>
-        <Note ID="48" FontSize="12.0" Position="647.0,125.0" Width="79.0">
+        <Note ID="48" FontSize="12.0" Position="701.0,125.0" Width="79.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
+                <Fill>0.999757 0.988054 0.951631</Fill>
             </Appearance>
             <String>Ostrich Dude</String>
         </Note>
-        <Note ID="51" FontSize="12.0" Position="1044.054688,239.910156" Width="91.0">
+        <Note ID="51" FontSize="12.0" Position="1098.0,240.0" Width="91.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
+                <Fill>0.999757 0.988054 0.951631</Fill>
             </Appearance>
             <String>Panda Owlbear</String>
+        </Note>
+        <Note ID="52" FontSize="12.0" Position="158.0,592.0" Width="75.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1"></Border>
+                <Fill>0.999757 0.988054 0.951631</Fill>
+            </Appearance>
+            <String>“Oh, Orlane”</String>
+            <ConnectedNoteIDs>53</ConnectedNoteIDs>
+        </Note>
+        <Note ID="53" FontSize="12.0" Position="153.0,619.0" Width="149.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1"></Border>
+                <Fill>0.999757 0.988054 0.951631</Fill>
+            </Appearance>
+            <String>Pretty wild what happened</String>
+            <ConnectedNoteIDs>52, 54-56</ConnectedNoteIDs>
+        </Note>
+        <Note ID="54" FontSize="12.0" Position="88.0,647.0" Width="127.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1"></Border>
+                <Fill>0.999757 0.988054 0.951631</Fill>
+            </Appearance>
+            <String>Rumors true and false</String>
+            <ConnectedNoteIDs>53</ConnectedNoteIDs>
+        </Note>
+        <Note ID="55" FontSize="12.0" Position="235.0,652.0" Width="127.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1"></Border>
+                <Fill>0.999757 0.988054 0.951631</Fill>
+            </Appearance>
+            <String>Figboot decries credit,
+but we know he helped free them</String>
+            <ConnectedNoteIDs>53</ConnectedNoteIDs>
+        </Note>
+        <Note ID="56" FontSize="12.0" Position="102.0,681.0" Width="128.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1"></Border>
+                <Fill>0.999757 0.988054 0.951631</Fill>
+            </Appearance>
+            <String>Giant Lizard? You’re smoking something</String>
+            <ConnectedNoteIDs>53</ConnectedNoteIDs>
+        </Note>
+        <Note ID="57" FontSize="12.0" Position="512.0,756.0" Width="69.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1"></Border>
+                <Fill>0.999757 0.988054 0.951631</Fill>
+            </Appearance>
+            <String>“toll” bridge</String>
+            <ConnectedNoteIDs>46</ConnectedNoteIDs>
+        </Note>
+        <Note ID="58" FontSize="12.0" Position="816.0,241.0" Width="193.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1"></Border>
+                <Fill>0.999757 0.988054 0.951631</Fill>
+            </Appearance>
+            <String>Punita cause of more assignments</String>
+            <ConnectedNoteIDs>59-60</ConnectedNoteIDs>
+        </Note>
+        <Note ID="59" FontSize="12.0" Position="713.0,280.0" Width="191.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1"></Border>
+                <Fill>0.999757 0.988054 0.951631</Fill>
+            </Appearance>
+            <String>Not going out as much on her own</String>
+            <ConnectedNoteIDs>58</ConnectedNoteIDs>
+        </Note>
+        <Note ID="60" FontSize="12.0" Position="842.0,320.0" Width="165.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1"></Border>
+                <Fill>0.999757 0.988054 0.951631</Fill>
+            </Appearance>
+            <String>Giver of Papermancer quest?</String>
+            <ConnectedNoteIDs>58</ConnectedNoteIDs>
+        </Note>
+        <Note ID="61" FontSize="12.0" Position="76.0,140.0" Width="99.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1"></Border>
+                <Fill>0.999757 0.988054 0.951631</Fill>
+            </Appearance>
+            <String>Local area “fixer”</String>
+            <ConnectedNoteIDs>0</ConnectedNoteIDs>
+        </Note>
+        <Note ID="62" FontSize="12.0" Position="94.0,192.0" Width="110.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1"></Border>
+                <Fill>0.999757 0.988054 0.951631</Fill>
+            </Appearance>
+            <String>No one knows much about him</String>
+            <ConnectedNoteIDs>0</ConnectedNoteIDs>
+        </Note>
+        <Note ID="63" FontSize="12.0" Position="627.0,634.0" Width="139.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1"></Border>
+                <Fill>0.999757 0.988054 0.951631</Fill>
+            </Appearance>
+            <String>Letters to old employees</String>
+            <ConnectedNoteIDs>64</ConnectedNoteIDs>
+        </Note>
+        <Note ID="64" FontSize="12.0" Position="639.0,703.0" Width="130.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1"></Border>
+                <Fill>0.999757 0.988054 0.951631</Fill>
+            </Appearance>
+            <String>“She was foolish. Join up with me and we’ll achieve great things together!  —G” (areth)</String>
+            <ConnectedNoteIDs>63</ConnectedNoteIDs>
+        </Note>
+        <Note ID="65" FontSize="12.0" Position="64.0,344.0" Width="159.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1"></Border>
+                <Fill>0.999757 0.988054 0.951631</Fill>
+            </Appearance>
+            <String>Library has been vandalized</String>
+            <ConnectedNoteIDs>32, 66-68</ConnectedNoteIDs>
+        </Note>
+        <Note ID="66" FontSize="12.0" Position="167.0,376.0" Width="148.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1"></Border>
+                <Fill>0.999757 0.988054 0.951631</Fill>
+            </Appearance>
+            <String>Punita was here last week</String>
+            <ConnectedNoteIDs>65</ConnectedNoteIDs>
+        </Note>
+        <Note ID="67" FontSize="12.0" Position="32.0,408.0" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1"></Border>
+                <Fill>0.999757 0.988054 0.951631</Fill>
+            </Appearance>
+            <String>maybe someone is a week behind Punita vandalizing paper</String>
+            <ConnectedNoteIDs>65, 69</ConnectedNoteIDs>
+        </Note>
+        <Note ID="68" FontSize="12.0" Position="29.0,373.0" Width="118.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1"></Border>
+                <Fill>0.999757 0.988054 0.951631</Fill>
+            </Appearance>
+            <String>papermancer minion</String>
+            <ConnectedNoteIDs>65</ConnectedNoteIDs>
+        </Note>
+        <Note ID="69" FontSize="12.0" Position="48.0,457.0" Width="175.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1"></Border>
+                <Fill>0.999757 0.988054 0.951631</Fill>
+            </Appearance>
+            <String>Casts some doubt her direction</String>
+            <ConnectedNoteIDs>67</ConnectedNoteIDs>
+        </Note>
+        <Note ID="70" FontSize="12.0" Position="316.0,430.0" Width="98.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1"></Border>
+                <Fill>0.999757 0.988054 0.951631</Fill>
+            </Appearance>
+            <String>Kinda numenera back-story</String>
+            <ConnectedNoteIDs>4</ConnectedNoteIDs>
+        </Note>
+        <Note ID="71" FontSize="12.0" Position="740.0,430.0" Width="56.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1"></Border>
+                <Fill>0.999757 0.988054 0.951631</Fill>
+            </Appearance>
+            <String>Desvana</String>
+            <ConnectedNoteIDs>22</ConnectedNoteIDs>
+        </Note>
+        <Note ID="72" FontSize="12.0" Position="665.0,399.0" Width="100.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1"></Border>
+                <Fill>0.999757 0.988054 0.951631</Fill>
+            </Appearance>
+            <String>“Little Structures”</String>
+            <ConnectedNoteIDs>22</ConnectedNoteIDs>
+        </Note>
+        <Note ID="73" FontSize="12.0" Position="982.0,699.0" Width="147.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1"></Border>
+                <Fill>0.999757 0.988054 0.951631</Fill>
+            </Appearance>
+            <String>QBeast’s Random Encounters vid</String>
+            <ConnectedNoteIDs>74</ConnectedNoteIDs>
+        </Note>
+        <Note ID="74" FontSize="12.0" Position="949.164062,775.710938" Width="133.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1"></Border>
+                <Fill>0.999757 0.988054 0.951631</Fill>
+            </Appearance>
+            <String>Dragon flying overhead</String>
+            <ConnectedNoteIDs>73</ConnectedNoteIDs>
+        </Note>
+        <Note ID="75" FontSize="12.0" Position="1133.90625,155.039062" Width="111.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1"></Border>
+                <Fill>0.999757 0.988054 0.951631</Fill>
+            </Appearance>
+            <String>“Flora. Fauna. Fey”</String>
+        </Note>
+        <Note ID="76" FontSize="12.0" Position="1195.0,500.0" Width="87.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1"></Border>
+                <Fill>0.999757 0.988054 0.951631</Fill>
+            </Appearance>
+            <String>ug. Jog Urlong</String>
+        </Note>
+        <Note ID="77" FontSize="12.0" Position="568.164062,556.339844" Width="57.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1"></Border>
+                <Fill>0.999757 0.988054 0.951631</Fill>
+            </Appearance>
+            <String>Saucerer</String>
+            <ConnectedNoteIDs>20, 78</ConnectedNoteIDs>
+        </Note>
+        <Note ID="78" FontSize="12.0" Position="504.476562,506.058594" Width="120.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1"></Border>
+                <Fill>0.999757 0.988054 0.951631</Fill>
+            </Appearance>
+            <String>Dragon Oregno Joke</String>
+            <ConnectedNoteIDs>77</ConnectedNoteIDs>
+        </Note>
+        <Note ID="79" FontSize="12.0" Position="1193.0,665.0" Width="68.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1"></Border>
+                <Fill>0.999757 0.988054 0.951631</Fill>
+            </Appearance>
+            <String>Chawingas</String>
+            <ConnectedNoteIDs>80</ConnectedNoteIDs>
+        </Note>
+        <Note ID="80" FontSize="12.0" Position="1249.0,717.0" Width="160.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1"></Border>
+                <Fill>0.999757 0.988054 0.951631</Fill>
+            </Appearance>
+            <String>They get down, get up again</String>
+            <ConnectedNoteIDs>79</ConnectedNoteIDs>
         </Note>
     </Notes>
     <BackgroundShapes></BackgroundShapes>
     <Labels>
         <Label IDs="5,6">Kharos stones?</Label>
+        <Label IDs="0,2">assigned</Label>
     </Labels>
-    <AutoFit>2-7, 9-12, 14-33, 35-40, 42-48, 51</AutoFit>
+    <AutoFit>2-7, 9-12, 14-18, 20-33, 35-40, 42-48, 51-54, 57-61, 63, 65-66, 68-69, 71-72, 74-80</AutoFit>
     <NoteStyles>
         <Style Name="Bubble (Blue)" ID="935AE891-5596-42F0-BCA5-0E750FF722DD" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="No" AffectNoteBody="Yes" AffectFade="No">
             <BorderThickness>1</BorderThickness>
@@ -414,7 +721,7 @@ Gameshow in Hell</String>
         </Style>
     </NoteStyles>
     <UISettings>
-        <BackgroundColor>0.999767 0.98837 0.949907</BackgroundColor>
+        <BackgroundColor>0.888325 0.881195 0.857096</BackgroundColor>
         <DefaultFont>Helvetica</DefaultFont>
     </UISettings>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
