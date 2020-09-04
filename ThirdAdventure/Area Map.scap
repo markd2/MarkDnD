@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ScappleDocument Version="1.1" ID="0D080969-3450-464A-9BCD-6CC836CC8B4F">
+    <Notes>
+        <Note ID="0" FontSize="12.0" Position="380.0,475.0" Width="43.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1"></Border>
+                <Fill>0.982364 1.0 0.746397</Fill>
+            </Appearance>
+            <String>Nextia</String>
+            <ConnectedNoteIDs>1-4, 10, 12-13</ConnectedNoteIDs>
+        </Note>
+        <Note ID="1" FontSize="12.0" Position="471.0,488.0" Width="57.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1"></Border>
+                <Fill>0.999757 0.988054 0.951631</Fill>
+            </Appearance>
+            <String>Figboot’s</String>
+            <ConnectedNoteIDs>0</ConnectedNoteIDs>
+        </Note>
+        <Note ID="2" FontSize="12.0" Position="278.542969,477.0" Width="83.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1"></Border>
+                <Fill>0.999757 0.988054 0.951631</Fill>
+            </Appearance>
+            <String>General Store</String>
+            <ConnectedNoteIDs>0, 5</ConnectedNoteIDs>
+        </Note>
+        <Note ID="3" FontSize="12.0" Position="329.742188,563.78125" Width="113.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1"></Border>
+                <Fill>0.999757 0.988054 0.951631</Fill>
+            </Appearance>
+            <String>Ironhammer Smithy</String>
+            <ConnectedNoteIDs>0</ConnectedNoteIDs>
+        </Note>
+        <Note ID="4" FontSize="12.0" Position="448.136719,532.507812" Width="124.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1"></Border>
+                <Fill>0.999757 0.988054 0.951631</Fill>
+            </Appearance>
+            <String>Publisher’s Bookshop</String>
+            <ConnectedNoteIDs>0</ConnectedNoteIDs>
+        </Note>
+        <Note ID="5" FontSize="12.0" Position="214.230469,491.359375" Width="43.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1"></Border>
+                <Fill>0.999757 0.988054 0.951631</Fill>
+            </Appearance>
+            <String>Forest</String>
+            <ConnectedNoteIDs>2, 6</ConnectedNoteIDs>
+        </Note>
+        <Note ID="6" FontSize="12.0" Position="162.0,437.0" Width="75.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1"></Border>
+                <Fill>0.999757 0.988054 0.951631</Fill>
+            </Appearance>
+            <String>Delian Tomb</String>
+            <ConnectedNoteIDs>5</ConnectedNoteIDs>
+        </Note>
+        <Note ID="7" FontSize="12.0" Position="386.96875,170.386719" Width="45.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1"></Border>
+                <Fill>0.998016 0.913319 0.848773</Fill>
+            </Appearance>
+            <String>Orlane</String>
+            <ConnectedNoteIDs>8, 10, 14</ConnectedNoteIDs>
+        </Note>
+        <Note ID="8" FontSize="12.0" Position="283.0,98.0" Width="56.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1"></Border>
+                <Fill>0.994257 0.753098 0.98469</Fill>
+            </Appearance>
+            <String>Hochoch</String>
+            <ConnectedNoteIDs>7, 9</ConnectedNoteIDs>
+        </Note>
+        <Note ID="9" FontSize="12.0" Position="287.1875,50.390625" Width="51.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1"></Border>
+                <Fill>0.782356 1.0 0.767071</Fill>
+            </Appearance>
+            <String>Hookhill</String>
+            <ConnectedNoteIDs>8</ConnectedNoteIDs>
+        </Note>
+        <Note ID="10" FontSize="12.0" Position="400.0,279.945312" Width="20.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1"></Border>
+                <Fill>0.999757 0.988054 0.951631</Fill>
+            </Appearance>
+            <String><![CDATA[ ]]></String>
+            <ConnectedNoteIDs>0, 7, 11</ConnectedNoteIDs>
+        </Note>
+        <Note ID="11" FontSize="12.0" Position="270.734375,273.445312" Width="81.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1"></Border>
+                <Fill>0.998016 0.913319 0.848773</Fill>
+            </Appearance>
+            <String>Castle-Latern</String>
+            <ConnectedNoteIDs>10</ConnectedNoteIDs>
+        </Note>
+        <Note ID="12" FontSize="12.0" Position="301.34375,521.003906" Width="86.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1"></Border>
+                <Fill>0.999757 0.988054 0.951631</Fill>
+            </Appearance>
+            <String>Chompy’s Pen</String>
+            <ConnectedNoteIDs>0</ConnectedNoteIDs>
+        </Note>
+        <Note ID="13" FontSize="12.0" Position="405.726562,595.472656" Width="125.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1"></Border>
+                <Fill>0.999757 0.988054 0.951631</Fill>
+            </Appearance>
+            <String>Grindlebrew’s Potions</String>
+            <ConnectedNoteIDs>0</ConnectedNoteIDs>
+        </Note>
+        <Note ID="14" FontSize="12.0" Position="519.652344,175.542969" Width="49.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1"></Border>
+                <Fill>0.999757 0.988054 0.951631</Fill>
+            </Appearance>
+            <String>Swamp</String>
+            <ConnectedNoteIDs>7, 15</ConnectedNoteIDs>
+        </Note>
+        <Note ID="15" FontSize="12.0" Position="603.113281,178.410156" Width="93.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1"></Border>
+                <Fill>0.999757 0.988054 0.951631</Fill>
+            </Appearance>
+            <String>Chez Explicitica</String>
+            <ConnectedNoteIDs>14</ConnectedNoteIDs>
+        </Note>
+    </Notes>
+    <BackgroundShapes></BackgroundShapes>
+    <AutoFit>0-15</AutoFit>
+    <NoteStyles>
+        <Style Name="Bubble (Blue)" ID="A90A4691-7EC4-4D43-B9C3-B365DA242CE5" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="No" AffectNoteBody="Yes" AffectFade="No">
+            <BorderThickness>1</BorderThickness>
+            <BorderColor>0.561855 0.71062 0.779401</BorderColor>
+            <FillColor>0.702319 0.888276 0.974252</FillColor>
+        </Style>
+        <Style Name="Bubble (Green)" ID="8B4DC6AB-E161-4B23-BD51-811ED76B5524" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="No" AffectNoteBody="Yes" AffectFade="No">
+            <BorderThickness>1</BorderThickness>
+            <BorderColor>0.572684 0.758969 0.558154</BorderColor>
+            <FillColor>0.715855 0.948712 0.697692</FillColor>
+        </Style>
+        <Style Name="Bubble (Pink)" ID="4844DE43-5584-490C-97B5-CB62BD17D718" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="No" AffectNoteBody="Yes" AffectFade="No">
+            <BorderThickness>1</BorderThickness>
+            <BorderColor>0.794796 0.560965 0.58607</BorderColor>
+            <FillColor>0.957566 0.766747 0.999616</FillColor>
+        </Style>
+        <Style Name="Bubble (Red)" ID="60A0004B-2193-4CEF-9CE0-AA11545EE9B9" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="No" AffectNoteBody="Yes" AffectFade="No">
+            <BorderThickness>1</BorderThickness>
+            <BorderColor>0.794796 0.560965 0.58607</BorderColor>
+            <FillColor>0.993495 0.701207 0.732587</FillColor>
+        </Style>
+        <Style Name="Bubble (Yellow)" ID="84A9732F-E7A8-4EFD-96F5-73F0879A5099" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="No" AffectNoteBody="Yes" AffectFade="No">
+            <BorderThickness>1</BorderThickness>
+            <BorderColor>0.798177 0.714184 0.522055</BorderColor>
+            <FillColor>0.997722 0.89273 0.652569</FillColor>
+        </Style>
+        <Style Name="Red Text" ID="B6294F78-B025-4603-A828-736E298A28CA" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="Yes" AffectNoteBody="No" AffectFade="No">
+            <TextColor>0.985948 0.0 0.026951</TextColor>
+        </Style>
+        <Style Name="Title Text" ID="F4815267-7076-4054-9987-A863FCCA0D53" AffectFontStyle="Yes" AffectAlignment="Yes" AffectTextColor="No" AffectNoteBody="No" AffectFade="No">
+            <FontSize>28.0</FontSize>
+            <IsBold>Yes</IsBold>
+        </Style>
+    </NoteStyles>
+    <UISettings>
+        <BackgroundColor>0.999767 0.98837 0.949907</BackgroundColor>
+        <DefaultFont>Helvetica</DefaultFont>
+    </UISettings>
+    <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
+</ScappleDocument>
