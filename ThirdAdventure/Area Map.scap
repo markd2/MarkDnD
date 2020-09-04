@@ -8,7 +8,7 @@
                 <Fill>0.982364 1.0 0.746397</Fill>
             </Appearance>
             <String>Nextia</String>
-            <ConnectedNoteIDs>1-4, 10, 12-13</ConnectedNoteIDs>
+            <ConnectedNoteIDs>1-4, 10, 12-13, 21, 25</ConnectedNoteIDs>
         </Note>
         <Note ID="1" FontSize="12.0" Position="471.0,488.0" Width="57.0">
             <Appearance>
@@ -19,25 +19,25 @@
             <String>Figboot’s</String>
             <ConnectedNoteIDs>0</ConnectedNoteIDs>
         </Note>
-        <Note ID="2" FontSize="12.0" Position="278.542969,477.0" Width="83.0">
+        <Note ID="2" FontSize="12.0" Position="457.960938,443.449219" Width="83.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
                 <Fill>0.999757 0.988054 0.951631</Fill>
             </Appearance>
             <String>General Store</String>
-            <ConnectedNoteIDs>0, 5</ConnectedNoteIDs>
+            <ConnectedNoteIDs>0</ConnectedNoteIDs>
         </Note>
-        <Note ID="3" FontSize="12.0" Position="329.742188,563.78125" Width="113.0">
+        <Note ID="3" FontSize="12.0" Position="243.4375,519.066406" Width="113.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
                 <Fill>0.999757 0.988054 0.951631</Fill>
             </Appearance>
             <String>Ironhammer Smithy</String>
-            <ConnectedNoteIDs>0</ConnectedNoteIDs>
+            <ConnectedNoteIDs>0, 5</ConnectedNoteIDs>
         </Note>
-        <Note ID="4" FontSize="12.0" Position="448.136719,532.507812" Width="124.0">
+        <Note ID="4" FontSize="12.0" Position="448.0,533.0" Width="124.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -46,16 +46,16 @@
             <String>Publisher’s Bookshop</String>
             <ConnectedNoteIDs>0</ConnectedNoteIDs>
         </Note>
-        <Note ID="5" FontSize="12.0" Position="214.230469,491.359375" Width="43.0">
+        <Note ID="5" FontSize="12.0" Position="248.078125,474.023438" Width="43.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
                 <Fill>0.999757 0.988054 0.951631</Fill>
             </Appearance>
             <String>Forest</String>
-            <ConnectedNoteIDs>2, 6</ConnectedNoteIDs>
+            <ConnectedNoteIDs>3, 6</ConnectedNoteIDs>
         </Note>
-        <Note ID="6" FontSize="12.0" Position="162.0,437.0" Width="75.0">
+        <Note ID="6" FontSize="12.0" Position="189.402344,433.585938" Width="75.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -64,43 +64,43 @@
             <String>Delian Tomb</String>
             <ConnectedNoteIDs>5</ConnectedNoteIDs>
         </Note>
-        <Note ID="7" FontSize="12.0" Position="386.96875,170.386719" Width="45.0">
+        <Note ID="7" FontSize="12.0" Position="519.625,208.875" Width="45.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
                 <Fill>0.998016 0.913319 0.848773</Fill>
             </Appearance>
             <String>Orlane</String>
-            <ConnectedNoteIDs>8, 10, 14</ConnectedNoteIDs>
+            <ConnectedNoteIDs>14, 18, 22</ConnectedNoteIDs>
         </Note>
-        <Note ID="8" FontSize="12.0" Position="283.0,98.0" Width="56.0">
+        <Note ID="8" FontSize="12.0" Position="454.726562,85.78125" Width="56.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
                 <Fill>0.994257 0.753098 0.98469</Fill>
             </Appearance>
             <String>Hochoch</String>
-            <ConnectedNoteIDs>7, 9</ConnectedNoteIDs>
+            <ConnectedNoteIDs>23</ConnectedNoteIDs>
         </Note>
-        <Note ID="9" FontSize="12.0" Position="287.1875,50.390625" Width="51.0">
+        <Note ID="9" FontSize="12.0" Position="292.769531,87.042969" Width="51.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
                 <Fill>0.782356 1.0 0.767071</Fill>
             </Appearance>
             <String>Hookhill</String>
-            <ConnectedNoteIDs>8</ConnectedNoteIDs>
+            <ConnectedNoteIDs>23</ConnectedNoteIDs>
         </Note>
-        <Note ID="10" FontSize="12.0" Position="400.0,279.945312" Width="20.0">
+        <Note ID="10" FontSize="12.0" Position="400.0,280.0" Width="20.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
                 <Fill>0.999757 0.988054 0.951631</Fill>
             </Appearance>
             <String><![CDATA[ ]]></String>
-            <ConnectedNoteIDs>0, 7, 11</ConnectedNoteIDs>
+            <ConnectedNoteIDs>0, 11, 22</ConnectedNoteIDs>
         </Note>
-        <Note ID="11" FontSize="12.0" Position="270.734375,273.445312" Width="81.0">
+        <Note ID="11" FontSize="12.0" Position="271.0,273.0" Width="81.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -109,7 +109,7 @@
             <String>Castle-Latern</String>
             <ConnectedNoteIDs>10</ConnectedNoteIDs>
         </Note>
-        <Note ID="12" FontSize="12.0" Position="301.34375,521.003906" Width="86.0">
+        <Note ID="12" FontSize="12.0" Position="295.378906,573.910156" Width="86.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -118,7 +118,7 @@
             <String>Chompy’s Pen</String>
             <ConnectedNoteIDs>0</ConnectedNoteIDs>
         </Note>
-        <Note ID="13" FontSize="12.0" Position="405.726562,595.472656" Width="125.0">
+        <Note ID="13" FontSize="12.0" Position="406.0,595.0" Width="125.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -127,7 +127,7 @@
             <String>Grindlebrew’s Potions</String>
             <ConnectedNoteIDs>0</ConnectedNoteIDs>
         </Note>
-        <Note ID="14" FontSize="12.0" Position="519.652344,175.542969" Width="49.0">
+        <Note ID="14" FontSize="12.0" Position="608.753906,188.140625" Width="49.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -136,7 +136,7 @@
             <String>Swamp</String>
             <ConnectedNoteIDs>7, 15</ConnectedNoteIDs>
         </Note>
-        <Note ID="15" FontSize="12.0" Position="603.113281,178.410156" Width="93.0">
+        <Note ID="15" FontSize="12.0" Position="669.069214,167.769928" Width="93.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -145,9 +145,79 @@
             <String>Chez Explicitica</String>
             <ConnectedNoteIDs>14</ConnectedNoteIDs>
         </Note>
+        <Note ID="16" FontSize="12.0" Position="428.53125,723.007812" Width="150.0">
+            <Appearance>
+                <Alignment>Center</Alignment>
+                <Border Weight="1"></Border>
+                <Fill>0.741166 0.781903 0.995955</Fill>
+            </Appearance>
+            <String>Yawkna River</String>
+            <ConnectedNoteIDs>17</ConnectedNoteIDs>
+        </Note>
+        <Note ID="17" FontSize="12.0" Position="797.933594,46.015625" Width="150.0">
+            <Appearance>
+                <Alignment>Center</Alignment>
+                <Border Weight="1"></Border>
+                <Fill>0.741166 0.781903 0.995955</Fill>
+            </Appearance>
+            <String>Yawkna River</String>
+            <ConnectedNoteIDs>16</ConnectedNoteIDs>
+        </Note>
+        <Note ID="18" FontSize="12.0" Position="589.554688,228.164062" Width="45.0">
+            <Appearance>
+                <Alignment>Center</Alignment>
+                <Border Weight="1"></Border>
+            </Appearance>
+            <String>turnips</String>
+            <ConnectedNoteIDs>7</ConnectedNoteIDs>
+        </Note>
+        <Note ID="21" FontSize="12.0" Position="386.0,659.390625" Width="28.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1"></Border>
+                <Fill>0.999757 0.988054 0.951631</Fill>
+            </Appearance>
+            <String> •••</String>
+            <ConnectedNoteIDs>0</ConnectedNoteIDs>
+        </Note>
+        <Note ID="22" FontSize="12.0" Position="401.910156,213.265625" Width="20.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1"></Border>
+                <Fill>0.999757 0.988054 0.951631</Fill>
+            </Appearance>
+            <String><![CDATA[ ]]></String>
+            <ConnectedNoteIDs>7, 10, 23</ConnectedNoteIDs>
+        </Note>
+        <Note ID="23" FontSize="12.0" Position="397.882812,115.921875" Width="25.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1"></Border>
+                <Fill>0.999757 0.988054 0.951631</Fill>
+            </Appearance>
+            <String> •••</String>
+            <ConnectedNoteIDs>8-9, 22</ConnectedNoteIDs>
+        </Note>
+        <Note ID="24" FontSize="12.0" Position="635.28125,739.175781" Width="101.0">
+            <Appearance>
+                <Alignment>Center</Alignment>
+            </Appearance>
+            <String>not to scale</String>
+            <Formatting>
+                <FormatRange Italic="Yes">0,12</FormatRange>
+            </Formatting>
+        </Note>
+        <Note ID="25" FontSize="12.0" Position="310.140625,441.519531" Width="50.0">
+            <Appearance>
+                <Alignment>Center</Alignment>
+                <Border Weight="1"></Border>
+            </Appearance>
+            <String>Stables</String>
+            <ConnectedNoteIDs>0</ConnectedNoteIDs>
+        </Note>
     </Notes>
     <BackgroundShapes></BackgroundShapes>
-    <AutoFit>0-15</AutoFit>
+    <AutoFit>0-15, 18, 22</AutoFit>
     <NoteStyles>
         <Style Name="Bubble (Blue)" ID="A90A4691-7EC4-4D43-B9C3-B365DA242CE5" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="No" AffectNoteBody="Yes" AffectFade="No">
             <BorderThickness>1</BorderThickness>
