@@ -1,7 +1,7 @@
 # Ideas for Support Software
 
 
-# Scoutliner
+## Scoutliner
 
 Scapple + Outliner
 
@@ -16,3 +16,4 @@ and then open up "Castle-Lantern" to get an embedded document:
 
 Essentially an outliner, but with the really breezy UI of Scapple.
 
+Plus text-based document storage, for storing in source code control.
