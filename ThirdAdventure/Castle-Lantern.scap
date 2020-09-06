@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ScappleDocument Version="1.1" ID="93B7F682-333D-4452-999C-20706E955198">
     <Notes>
-        <Note ID="1" FontSize="12.0" Position="525.175781,293.441406" Width="61.0">
+        <Note ID="1" FontSize="12.0" Position="525.0,293.0" Width="61.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -10,7 +10,7 @@
             <String>Cemetery</String>
             <ConnectedNoteIDs>2</ConnectedNoteIDs>
         </Note>
-        <Note ID="2" FontSize="12.0" Position="635.558594,345.914062" Width="38.0">
+        <Note ID="2" FontSize="12.0" Position="636.0,346.0" Width="38.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -19,7 +19,7 @@
             <String>Borer</String>
             <ConnectedNoteIDs>1, 6-8, 10</ConnectedNoteIDs>
         </Note>
-        <Note ID="3" FontSize="12.0" Position="678.683594,445.136719" Width="48.0">
+        <Note ID="3" FontSize="12.0" Position="722.917969,434.140625" Width="50.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -28,7 +28,7 @@
             <String>Yansha</String>
             <ConnectedNoteIDs>11</ConnectedNoteIDs>
         </Note>
-        <Note ID="4" FontSize="12.0" Position="297.839844,221.636719" Width="142.0">
+        <Note ID="4" FontSize="12.0" Position="298.0,222.0" Width="142.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -37,7 +37,7 @@
             <String>Tavern with no innkeeper</String>
             <ConnectedNoteIDs>22</ConnectedNoteIDs>
         </Note>
-        <Note ID="6" FontSize="12.0" Position="629.988281,284.910156" Width="89.0">
+        <Note ID="6" FontSize="12.0" Position="630.0,285.0" Width="89.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -46,7 +46,7 @@
             <String>AC 18 / 175 hp</String>
             <ConnectedNoteIDs>2</ConnectedNoteIDs>
         </Note>
-        <Note ID="7" FontSize="12.0" Position="767.566406,284.71875" Width="100.0">
+        <Note ID="7" FontSize="12.0" Position="768.0,285.0" Width="100.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -55,7 +55,7 @@
             <String>Drill is DC 13 DEX save - 40 slashing</String>
             <ConnectedNoteIDs>2</ConnectedNoteIDs>
         </Note>
-        <Note ID="8" FontSize="12.0" Position="769.019531,347.238281" Width="100.0">
+        <Note ID="8" FontSize="12.0" Position="769.0,347.0" Width="100.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -64,7 +64,7 @@
             <String>Enchantment magic</String>
             <ConnectedNoteIDs>2, 9</ConnectedNoteIDs>
         </Note>
-        <Note ID="9" FontSize="12.0" Position="885.980469,393.886719" Width="89.0">
+        <Note ID="9" FontSize="12.0" Position="886.0,394.0" Width="89.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -73,7 +73,7 @@
             <String>magic is fading</String>
             <ConnectedNoteIDs>8</ConnectedNoteIDs>
         </Note>
-        <Note ID="10" FontSize="12.0" Position="801.980469,414.886719" Width="89.0">
+        <Note ID="10" FontSize="12.0" Position="802.0,415.0" Width="89.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -83,7 +83,7 @@
 back 50’ body</String>
             <ConnectedNoteIDs>2</ConnectedNoteIDs>
         </Note>
-        <Note ID="11" FontSize="12.0" Position="703.835938,499.628906" Width="100.0">
+        <Note ID="11" FontSize="12.0" Position="704.0,500.0" Width="100.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -92,7 +92,7 @@ back 50’ body</String>
             <String>Captain of the Guard</String>
             <ConnectedNoteIDs>3</ConnectedNoteIDs>
         </Note>
-        <Note ID="12" FontSize="12.0" Position="345.8125,324.367188" Width="45.0">
+        <Note ID="12" FontSize="12.0" Position="346.0,324.0" Width="45.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -101,7 +101,7 @@ back 50’ body</String>
             <String>Library</String>
             <ConnectedNoteIDs>14</ConnectedNoteIDs>
         </Note>
-        <Note ID="14" FontSize="12.0" Position="267.585938,358.613281" Width="132.0">
+        <Note ID="14" FontSize="12.0" Position="268.0,359.0" Width="132.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -110,7 +110,7 @@ back 50’ body</String>
             <String>“hey, while you’re here”</String>
             <ConnectedNoteIDs>12, 15</ConnectedNoteIDs>
         </Note>
-        <Note ID="15" FontSize="12.0" Position="181.484375,417.753906" Width="159.0">
+        <Note ID="15" FontSize="12.0" Position="181.0,418.0" Width="159.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -119,7 +119,7 @@ back 50’ body</String>
             <String>Library has been vandalized</String>
             <ConnectedNoteIDs>14, 16, 18</ConnectedNoteIDs>
         </Note>
-        <Note ID="16" FontSize="12.0" Position="311.546875,454.289062" Width="148.0">
+        <Note ID="16" FontSize="12.0" Position="312.0,454.0" Width="148.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -128,7 +128,7 @@ back 50’ body</String>
             <String>Punita was here last week</String>
             <ConnectedNoteIDs>15, 17</ConnectedNoteIDs>
         </Note>
-        <Note ID="17" FontSize="12.0" Position="272.902344,488.378906" Width="134.0">
+        <Note ID="17" FontSize="12.0" Position="273.0,488.0" Width="134.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -137,7 +137,7 @@ back 50’ body</String>
             <String>maybe someone is a week behind Punita vandalizing paper</String>
             <ConnectedNoteIDs>16, 19</ConnectedNoteIDs>
         </Note>
-        <Note ID="18" FontSize="12.0" Position="161.410156,451.019531" Width="118.0">
+        <Note ID="18" FontSize="12.0" Position="161.0,451.0" Width="118.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -146,7 +146,7 @@ back 50’ body</String>
             <String>papermancer minion</String>
             <ConnectedNoteIDs>15</ConnectedNoteIDs>
         </Note>
-        <Note ID="19" FontSize="12.0" Position="224.363281,555.601562" Width="175.0">
+        <Note ID="19" FontSize="12.0" Position="224.0,556.0" Width="175.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -155,7 +155,7 @@ back 50’ body</String>
             <String>Casts some doubt her direction</String>
             <ConnectedNoteIDs>17</ConnectedNoteIDs>
         </Note>
-        <Note ID="20" FontSize="12.0" Position="416.695312,314.296875" Width="100.0">
+        <Note ID="20" FontSize="12.0" Position="417.0,314.0" Width="100.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -164,16 +164,16 @@ back 50’ body</String>
             <String>Fancy Restaurant</String>
             <ConnectedNoteIDs>21</ConnectedNoteIDs>
         </Note>
-        <Note ID="21" FontSize="12.0" Position="448.734375,381.597656" Width="88.0">
+        <Note ID="21" FontSize="12.0" Position="449.0,382.0" Width="98.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
                 <Fill>0.999757 0.988054 0.951631</Fill>
             </Appearance>
-            <String>chef is Klär fan</String>
-            <ConnectedNoteIDs>20</ConnectedNoteIDs>
+            <String>chef *hates* Klär</String>
+            <ConnectedNoteIDs>20, 39</ConnectedNoteIDs>
         </Note>
-        <Note ID="22" FontSize="12.0" Position="316.425781,167.273438" Width="124.0">
+        <Note ID="22" FontSize="12.0" Position="316.0,167.0" Width="124.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -182,7 +182,7 @@ back 50’ body</String>
             <String>$DEAD_INKEEPER</String>
             <ConnectedNoteIDs>4</ConnectedNoteIDs>
         </Note>
-        <Note ID="23" FontSize="12.0" Position="250.253906,283.273438" Width="80.0">
+        <Note ID="23" FontSize="12.0" Position="250.0,283.0" Width="80.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -191,7 +191,7 @@ back 50’ body</String>
             <String>Guard House</String>
             <ConnectedNoteIDs>24-26, 37</ConnectedNoteIDs>
         </Note>
-        <Note ID="24" FontSize="12.0" Position="77.460938,243.882812" Width="100.0">
+        <Note ID="24" FontSize="12.0" Position="77.0,244.0" Width="100.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -200,7 +200,7 @@ back 50’ body</String>
             <String>Former military settled back home</String>
             <ConnectedNoteIDs>23</ConnectedNoteIDs>
         </Note>
-        <Note ID="25" FontSize="12.0" Position="79.390625,151.265625" Width="100.0">
+        <Note ID="25" FontSize="12.0" Position="79.0,151.0" Width="100.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -209,7 +209,7 @@ back 50’ body</String>
             <String>C-L has stronger guard than similar sized towns</String>
             <ConnectedNoteIDs>23</ConnectedNoteIDs>
         </Note>
-        <Note ID="26" FontSize="12.0" Position="82.097656,306.023438" Width="100.0">
+        <Note ID="26" FontSize="12.0" Position="82.0,306.0" Width="100.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -221,7 +221,7 @@ back 50’ body</String>
                 <FormatRange Bold="Yes">5,3</FormatRange>
             </Formatting>
         </Note>
-        <Note ID="27" FontSize="12.0" Position="474.113281,239.988281" Width="92.0">
+        <Note ID="27" FontSize="12.0" Position="474.0,240.0" Width="92.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -230,7 +230,7 @@ back 50’ body</String>
             <String>Local Churches</String>
             <ConnectedNoteIDs>28, 34</ConnectedNoteIDs>
         </Note>
-        <Note ID="28" FontSize="12.0" Position="561.597656,188.148438" Width="115.0">
+        <Note ID="28" FontSize="12.0" Position="562.0,188.0" Width="115.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -239,7 +239,7 @@ back 50’ body</String>
             <String>Temple of Merrika</String>
             <ConnectedNoteIDs>27, 29</ConnectedNoteIDs>
         </Note>
-        <Note ID="29" FontSize="12.0" Position="715.542969,182.648438" Width="100.0">
+        <Note ID="29" FontSize="12.0" Position="716.0,183.0" Width="100.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -248,7 +248,7 @@ back 50’ body</String>
             <String>“So, what happened in Orlane?”</String>
             <ConnectedNoteIDs>28, 30</ConnectedNoteIDs>
         </Note>
-        <Note ID="30" FontSize="12.0" Position="860.96875,183.566406" Width="147.0">
+        <Note ID="30" FontSize="12.0" Position="861.0,184.0" Width="147.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -257,7 +257,7 @@ back 50’ body</String>
             <String>Did you not realize something was wrong?</String>
             <ConnectedNoteIDs>29</ConnectedNoteIDs>
         </Note>
-        <Note ID="31" FontSize="12.0" Position="198.0,3.882812" Width="42.0">
+        <Note ID="31" FontSize="12.0" Position="198.0,4.0" Width="42.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -266,7 +266,7 @@ back 50’ body</String>
             <String>Farms</String>
             <ConnectedNoteIDs>33</ConnectedNoteIDs>
         </Note>
-        <Note ID="32" FontSize="12.0" Position="264.914062,3.414062" Width="59.0">
+        <Note ID="32" FontSize="12.0" Position="265.0,3.0" Width="59.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -275,7 +275,7 @@ back 50’ body</String>
             <String>Livestock</String>
             <ConnectedNoteIDs>33</ConnectedNoteIDs>
         </Note>
-        <Note ID="33" FontSize="12.0" Position="215.34375,42.082031" Width="88.0">
+        <Note ID="33" FontSize="12.0" Position="215.0,42.0" Width="88.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -284,7 +284,7 @@ back 50’ body</String>
             <String>Feeds Hookhill</String>
             <ConnectedNoteIDs>31-32</ConnectedNoteIDs>
         </Note>
-        <Note ID="34" FontSize="12.0" Position="474.070312,154.347656" Width="124.0">
+        <Note ID="34" FontSize="12.0" Position="474.0,154.0" Width="124.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -293,7 +293,7 @@ back 50’ body</String>
             <String>Greyhawk Pantheon</String>
             <ConnectedNoteIDs>27</ConnectedNoteIDs>
         </Note>
-        <Note ID="35" FontSize="12.0" Position="197.0,76.191406" Width="135.0">
+        <Note ID="35" FontSize="12.0" Position="197.0,76.0" Width="135.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -301,7 +301,7 @@ back 50’ body</String>
             </Appearance>
             <String>Larger than Nextia</String>
         </Note>
-        <Note ID="36" FontSize="12.0" Position="218.148438,108.5" Width="100.0">
+        <Note ID="36" FontSize="12.0" Position="218.0,109.0" Width="100.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -309,7 +309,7 @@ back 50’ body</String>
             </Appearance>
             <String>About same size as Orlane</String>
         </Note>
-        <Note ID="37" FontSize="12.0" Position="174.371094,370.957031" Width="32.0">
+        <Note ID="37" FontSize="12.0" Position="174.0,371.0" Width="32.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -318,7 +318,7 @@ back 50’ body</String>
             <String>Why</String>
             <ConnectedNoteIDs>23, 38</ConnectedNoteIDs>
         </Note>
-        <Note ID="38" FontSize="12.0" Position="10.503906,390.339844" Width="123.0">
+        <Note ID="38" FontSize="12.0" Position="11.0,390.0" Width="123.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -327,9 +327,20 @@ back 50’ body</String>
             <String>Larger concentration of monsters around farms and countryside</String>
             <ConnectedNoteIDs>37</ConnectedNoteIDs>
         </Note>
+        <Note ID="39" FontSize="12.0" Position="486.28125,422.796875" Width="188.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1"></Border>
+                <Fill>0.999757 0.988054 0.951631</Fill>
+            </Appearance>
+            <String>She’s a hack
+She doesn’t deserve the fame
+Out faffing around adventuring when there’s people to feed!</String>
+            <ConnectedNoteIDs>21</ConnectedNoteIDs>
+        </Note>
     </Notes>
     <BackgroundShapes></BackgroundShapes>
-    <AutoFit>1-4, 6, 9-10, 12, 14-16, 18-19, 21, 23, 27, 31-33, 37</AutoFit>
+    <AutoFit>1-2, 4, 6, 9-10, 12, 14-16, 18-19, 21, 23, 27, 31-33, 37</AutoFit>
     <NoteStyles>
         <Style Name="Bubble (Blue)" ID="32AFA7B3-4567-4463-BA6D-75FD136D413D" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="No" AffectNoteBody="Yes" AffectFade="No">
             <BorderThickness>1</BorderThickness>
