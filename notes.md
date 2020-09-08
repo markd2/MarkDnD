@@ -69,3 +69,8 @@ as answers, but if you can think about prep as questions then all you have to do
 is play the game, and the game will answer your questions for you.
 
 
+----------
+
+fairytale plot generator
+https://www.springhole.net/writing_roleplaying_randomators/fairytaleplot.htm
+

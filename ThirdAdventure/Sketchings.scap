@@ -636,7 +636,7 @@ but we know he helped free them</String>
             </Appearance>
             <String>ug. Jog Urlong</String>
         </Note>
-        <Note ID="77" FontSize="12.0" Position="619.125,764.527344" Width="79.0">
+        <Note ID="77" FontSize="12.0" Position="619.0,765.0" Width="79.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -645,7 +645,7 @@ but we know he helped free them</String>
             <String>Pastamancer</String>
             <ConnectedNoteIDs>63, 78, 86</ConnectedNoteIDs>
         </Note>
-        <Note ID="78" FontSize="12.0" Position="550.785156,808.390625" Width="120.0">
+        <Note ID="78" FontSize="12.0" Position="551.0,808.0" Width="120.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -708,7 +708,7 @@ but we know he helped free them</String>
             <String>John Parker’s crime syndicate power vacuum</String>
             <ConnectedNoteIDs>20</ConnectedNoteIDs>
         </Note>
-        <Note ID="86" FontSize="12.0" Position="679.609375,819.210938" Width="100.0">
+        <Note ID="86" FontSize="12.0" Position="680.0,819.0" Width="100.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -726,7 +726,7 @@ but we know he helped free them</String>
             <String>Hates Klär</String>
             <ConnectedNoteIDs>86, 88</ConnectedNoteIDs>
         </Note>
-        <Note ID="88" FontSize="12.0" Position="816.945312,881.542969" Width="188.0">
+        <Note ID="88" FontSize="12.0" Position="817.0,882.0" Width="188.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -737,13 +737,57 @@ She doesn’t deserve the fame
 Out faffing around adventuring when there’s people to feed!</String>
             <ConnectedNoteIDs>87</ConnectedNoteIDs>
         </Note>
+        <Note ID="89" FontSize="12.0" Position="175.28125,888.820312" Width="96.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1"></Border>
+                <Fill>0.999757 0.988054 0.951631</Fill>
+            </Appearance>
+            <String>Boz’Lee is a title</String>
+            <ConnectedNoteIDs>90-91</ConnectedNoteIDs>
+        </Note>
+        <Note ID="90" FontSize="12.0" Position="79.609375,817.523438" Width="100.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1"></Border>
+                <Fill>0.999757 0.988054 0.951631</Fill>
+            </Appearance>
+            <String>All gobbos refer to each other as “hey Boz”</String>
+            <ConnectedNoteIDs>89</ConnectedNoteIDs>
+        </Note>
+        <Note ID="91" FontSize="12.0" Position="271.34375,931.585938" Width="100.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1"></Border>
+                <Fill>0.999757 0.988054 0.951631</Fill>
+            </Appearance>
+            <String>“second in command”</String>
+            <ConnectedNoteIDs>89, 92</ConnectedNoteIDs>
+        </Note>
+        <Note ID="92" FontSize="12.0" Position="273.792969,1014.886719" Width="100.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1"></Border>
+                <Fill>0.999757 0.988054 0.951631</Fill>
+            </Appearance>
+            <String>“fig’boot” is commander</String>
+            <ConnectedNoteIDs>91</ConnectedNoteIDs>
+        </Note>
+        <Note ID="93" FontSize="12.0" Position="337.15625,830.625" Width="159.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1"></Border>
+                <Fill>0.999757 0.988054 0.951631</Fill>
+            </Appearance>
+            <String>Tieflings often in academia</String>
+        </Note>
     </Notes>
     <BackgroundShapes></BackgroundShapes>
     <Labels>
         <Label IDs="5,6">Kharos stones?</Label>
         <Label IDs="0,2">assigned</Label>
     </Labels>
-    <AutoFit>2-7, 9-12, 14-18, 20-33, 35-40, 42-48, 51-54, 57-58, 60-61, 63, 65-66, 68-69, 71-81, 83-84, 87</AutoFit>
+    <AutoFit>2-7, 9-12, 14-18, 20-33, 35-40, 42-48, 51-54, 57-58, 60-61, 63, 65-66, 68-69, 71-81, 83-84, 87, 89</AutoFit>
     <NoteStyles>
         <Style Name="Bubble (Blue)" ID="935AE891-5596-42F0-BCA5-0E750FF722DD" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="No" AffectNoteBody="Yes" AffectFade="No">
             <BorderThickness>1</BorderThickness>
