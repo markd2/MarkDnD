@@ -74,3 +74,5 @@ is play the game, and the game will answer your questions for you.
 fairytale plot generator
 https://www.springhole.net/writing_roleplaying_randomators/fairytaleplot.htm
 
+fantasy name generators
+https://www.fantasynamegenerators.com/
