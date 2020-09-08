@@ -54,3 +54,18 @@ Stars Without Number - scifi OSR RPG
 
 Night Witches - female soviet bomber RPG
 
+----------
+
+A.K.: Apocalypse world - big impact as a player and designer.  Vincent Baker
+admonishes not to play to experience the game, but to play to find out what
+happens, and have a level of curiosity about the narrative wherein your
+prep is questions, not answers.
+
+I don't write down "this is true". I don
+t write down "This is going to happen", I write down, "what am I curious about?"
+"what will the players do in this situation?"  "what kind of things _could_ happen?"
+and use play to answer the questions.  We're traditionally oriented towards prep
+as answers, but if you can think about prep as questions then all you have to do
+is play the game, and the game will answer your questions for you.
+
+

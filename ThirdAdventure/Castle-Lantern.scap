@@ -17,9 +17,9 @@
                 <Fill>0.999757 0.988054 0.951631</Fill>
             </Appearance>
             <String>Borer</String>
-            <ConnectedNoteIDs>1, 6-8, 10</ConnectedNoteIDs>
+            <ConnectedNoteIDs>1, 6-8, 10, 40</ConnectedNoteIDs>
         </Note>
-        <Note ID="3" FontSize="12.0" Position="722.917969,434.140625" Width="50.0">
+        <Note ID="3" FontSize="12.0" Position="603.148438,532.382812" Width="50.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -83,7 +83,7 @@
 back 50’ body</String>
             <ConnectedNoteIDs>2</ConnectedNoteIDs>
         </Note>
-        <Note ID="11" FontSize="12.0" Position="704.0,500.0" Width="100.0">
+        <Note ID="11" FontSize="12.0" Position="584.148438,598.382812" Width="100.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -221,14 +221,14 @@ back 50’ body</String>
                 <FormatRange Bold="Yes">5,3</FormatRange>
             </Formatting>
         </Note>
-        <Note ID="27" FontSize="12.0" Position="474.0,240.0" Width="92.0">
+        <Note ID="27" FontSize="12.0" Position="474.0,240.0" Width="79.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
                 <Fill>0.999757 0.988054 0.951631</Fill>
             </Appearance>
-            <String>Local Churches</String>
-            <ConnectedNoteIDs>28, 34</ConnectedNoteIDs>
+            <String>Local Church</String>
+            <ConnectedNoteIDs>28</ConnectedNoteIDs>
         </Note>
         <Note ID="28" FontSize="12.0" Position="562.0,188.0" Width="115.0">
             <Appearance>
@@ -284,15 +284,6 @@ back 50’ body</String>
             <String>Feeds Hookhill</String>
             <ConnectedNoteIDs>31-32</ConnectedNoteIDs>
         </Note>
-        <Note ID="34" FontSize="12.0" Position="474.0,154.0" Width="124.0">
-            <Appearance>
-                <Alignment>Left</Alignment>
-                <Border Weight="1"></Border>
-                <Fill>0.999757 0.988054 0.951631</Fill>
-            </Appearance>
-            <String>Greyhawk Pantheon</String>
-            <ConnectedNoteIDs>27</ConnectedNoteIDs>
-        </Note>
         <Note ID="35" FontSize="12.0" Position="197.0,76.0" Width="135.0">
             <Appearance>
                 <Alignment>Left</Alignment>
@@ -327,7 +318,7 @@ back 50’ body</String>
             <String>Larger concentration of monsters around farms and countryside</String>
             <ConnectedNoteIDs>37</ConnectedNoteIDs>
         </Note>
-        <Note ID="39" FontSize="12.0" Position="486.28125,422.796875" Width="188.0">
+        <Note ID="39" FontSize="12.0" Position="486.0,423.0" Width="188.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -338,9 +329,45 @@ She doesn’t deserve the fame
 Out faffing around adventuring when there’s people to feed!</String>
             <ConnectedNoteIDs>21</ConnectedNoteIDs>
         </Note>
+        <Note ID="40" FontSize="12.0" Position="716.109375,467.359375" Width="100.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1"></Border>
+                <Fill>0.999757 0.988054 0.951631</Fill>
+            </Appearance>
+            <String>Why Castle-Lantern?</String>
+            <ConnectedNoteIDs>2, 41-42</ConnectedNoteIDs>
+        </Note>
+        <Note ID="41" FontSize="12.0" Position="840.679688,521.019531" Width="100.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1"></Border>
+                <Fill>0.999757 0.988054 0.951631</Fill>
+            </Appearance>
+            <String>Attracted by Pastamancer?</String>
+            <ConnectedNoteIDs>40</ConnectedNoteIDs>
+        </Note>
+        <Note ID="42" FontSize="12.0" Position="743.167969,573.183594" Width="61.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1"></Border>
+                <Fill>0.999757 0.988054 0.951631</Fill>
+            </Appearance>
+            <String>Random?</String>
+            <ConnectedNoteIDs>40, 43</ConnectedNoteIDs>
+        </Note>
+        <Note ID="43" FontSize="12.0" Position="743.394531,618.316406" Width="82.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1"></Border>
+                <Fill>0.999757 0.988054 0.951631</Fill>
+            </Appearance>
+            <String>(Unsatisfying)</String>
+            <ConnectedNoteIDs>42</ConnectedNoteIDs>
+        </Note>
     </Notes>
     <BackgroundShapes></BackgroundShapes>
-    <AutoFit>1-2, 4, 6, 9-10, 12, 14-16, 18-19, 21, 23, 27, 31-33, 37</AutoFit>
+    <AutoFit>1-2, 4, 6, 9-10, 12, 14-16, 18-19, 21, 23, 27, 31-33, 37, 42-43</AutoFit>
     <NoteStyles>
         <Style Name="Bubble (Blue)" ID="32AFA7B3-4567-4463-BA6D-75FD136D413D" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="No" AffectNoteBody="Yes" AffectFade="No">
             <BorderThickness>1</BorderThickness>
