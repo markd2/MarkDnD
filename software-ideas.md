@@ -67,3 +67,6 @@ Free-form text document.
 
 Embedded web view for Campaign Logger?
 
+turn off spellchecking per-bubble, like for the Free Name list
+
+incremental search for bubble content

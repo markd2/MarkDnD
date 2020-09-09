@@ -737,7 +737,7 @@ She doesn’t deserve the fame
 Out faffing around adventuring when there’s people to feed!</String>
             <ConnectedNoteIDs>87</ConnectedNoteIDs>
         </Note>
-        <Note ID="89" FontSize="12.0" Position="175.28125,888.820312" Width="96.0">
+        <Note ID="89" FontSize="12.0" Position="175.0,889.0" Width="96.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -746,7 +746,7 @@ Out faffing around adventuring when there’s people to feed!</String>
             <String>Boz’Lee is a title</String>
             <ConnectedNoteIDs>90-91</ConnectedNoteIDs>
         </Note>
-        <Note ID="90" FontSize="12.0" Position="79.609375,817.523438" Width="100.0">
+        <Note ID="90" FontSize="12.0" Position="80.0,818.0" Width="100.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -755,7 +755,7 @@ Out faffing around adventuring when there’s people to feed!</String>
             <String>All gobbos refer to each other as “hey Boz”</String>
             <ConnectedNoteIDs>89</ConnectedNoteIDs>
         </Note>
-        <Note ID="91" FontSize="12.0" Position="271.34375,931.585938" Width="100.0">
+        <Note ID="91" FontSize="12.0" Position="271.0,932.0" Width="100.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -764,7 +764,7 @@ Out faffing around adventuring when there’s people to feed!</String>
             <String>“second in command”</String>
             <ConnectedNoteIDs>89, 92</ConnectedNoteIDs>
         </Note>
-        <Note ID="92" FontSize="12.0" Position="273.792969,1014.886719" Width="100.0">
+        <Note ID="92" FontSize="12.0" Position="274.0,1015.0" Width="100.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -773,7 +773,7 @@ Out faffing around adventuring when there’s people to feed!</String>
             <String>“fig’boot” is commander</String>
             <ConnectedNoteIDs>91</ConnectedNoteIDs>
         </Note>
-        <Note ID="93" FontSize="12.0" Position="337.15625,830.625" Width="159.0">
+        <Note ID="93" FontSize="12.0" Position="337.0,831.0" Width="159.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>

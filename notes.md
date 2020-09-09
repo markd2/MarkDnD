@@ -76,3 +76,11 @@ https://www.springhole.net/writing_roleplaying_randomators/fairytaleplot.htm
 
 fantasy name generators
 https://www.fantasynamegenerators.com/
+
+----------
+
+VT Enancement Suite (spotted on Mikey's Roll20
+
+"dear white people" and "black lady sketch show"
+Blabbity(?) newsletter for black mellenials
+

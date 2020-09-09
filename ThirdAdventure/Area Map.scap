@@ -19,7 +19,7 @@
             <String>Figboot’s</String>
             <ConnectedNoteIDs>0</ConnectedNoteIDs>
         </Note>
-        <Note ID="2" FontSize="12.0" Position="457.960938,443.449219" Width="83.0">
+        <Note ID="2" FontSize="12.0" Position="458.0,443.0" Width="83.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -28,7 +28,7 @@
             <String>General Store</String>
             <ConnectedNoteIDs>0</ConnectedNoteIDs>
         </Note>
-        <Note ID="3" FontSize="12.0" Position="243.4375,519.066406" Width="113.0">
+        <Note ID="3" FontSize="12.0" Position="243.0,519.0" Width="113.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -46,7 +46,7 @@
             <String>Publisher’s Bookshop</String>
             <ConnectedNoteIDs>0</ConnectedNoteIDs>
         </Note>
-        <Note ID="5" FontSize="12.0" Position="248.078125,474.023438" Width="43.0">
+        <Note ID="5" FontSize="12.0" Position="248.0,474.0" Width="43.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -55,7 +55,7 @@
             <String>Forest</String>
             <ConnectedNoteIDs>3, 6</ConnectedNoteIDs>
         </Note>
-        <Note ID="6" FontSize="12.0" Position="189.402344,433.585938" Width="75.0">
+        <Note ID="6" FontSize="12.0" Position="189.0,434.0" Width="75.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -64,7 +64,7 @@
             <String>Delian Tomb</String>
             <ConnectedNoteIDs>5</ConnectedNoteIDs>
         </Note>
-        <Note ID="7" FontSize="12.0" Position="519.625,208.875" Width="45.0">
+        <Note ID="7" FontSize="12.0" Position="520.0,209.0" Width="45.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -73,7 +73,7 @@
             <String>Orlane</String>
             <ConnectedNoteIDs>14, 18, 22</ConnectedNoteIDs>
         </Note>
-        <Note ID="8" FontSize="12.0" Position="454.726562,85.78125" Width="56.0">
+        <Note ID="8" FontSize="12.0" Position="455.0,86.0" Width="56.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -82,7 +82,7 @@
             <String>Hochoch</String>
             <ConnectedNoteIDs>23</ConnectedNoteIDs>
         </Note>
-        <Note ID="9" FontSize="12.0" Position="292.769531,87.042969" Width="51.0">
+        <Note ID="9" FontSize="12.0" Position="293.0,87.0" Width="51.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -109,7 +109,7 @@
             <String>Castle-Latern</String>
             <ConnectedNoteIDs>10</ConnectedNoteIDs>
         </Note>
-        <Note ID="12" FontSize="12.0" Position="295.378906,573.910156" Width="86.0">
+        <Note ID="12" FontSize="12.0" Position="295.0,574.0" Width="86.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -127,7 +127,7 @@
             <String>Grindlebrew’s Potions</String>
             <ConnectedNoteIDs>0</ConnectedNoteIDs>
         </Note>
-        <Note ID="14" FontSize="12.0" Position="608.753906,188.140625" Width="49.0">
+        <Note ID="14" FontSize="12.0" Position="609.0,188.0" Width="49.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -136,7 +136,7 @@
             <String>Swamp</String>
             <ConnectedNoteIDs>7, 15</ConnectedNoteIDs>
         </Note>
-        <Note ID="15" FontSize="12.0" Position="669.069214,167.769928" Width="93.0">
+        <Note ID="15" FontSize="12.0" Position="669.0,168.0" Width="93.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -145,7 +145,7 @@
             <String>Chez Explicitica</String>
             <ConnectedNoteIDs>14</ConnectedNoteIDs>
         </Note>
-        <Note ID="16" FontSize="12.0" Position="428.53125,723.007812" Width="150.0">
+        <Note ID="16" FontSize="12.0" Position="429.0,723.0" Width="150.0">
             <Appearance>
                 <Alignment>Center</Alignment>
                 <Border Weight="1"></Border>
@@ -154,7 +154,7 @@
             <String>Yawkna River</String>
             <ConnectedNoteIDs>17</ConnectedNoteIDs>
         </Note>
-        <Note ID="17" FontSize="12.0" Position="797.933594,46.015625" Width="150.0">
+        <Note ID="17" FontSize="12.0" Position="798.0,46.0" Width="150.0">
             <Appearance>
                 <Alignment>Center</Alignment>
                 <Border Weight="1"></Border>
@@ -163,7 +163,7 @@
             <String>Yawkna River</String>
             <ConnectedNoteIDs>16</ConnectedNoteIDs>
         </Note>
-        <Note ID="18" FontSize="12.0" Position="589.554688,228.164062" Width="45.0">
+        <Note ID="18" FontSize="12.0" Position="590.0,228.0" Width="45.0">
             <Appearance>
                 <Alignment>Center</Alignment>
                 <Border Weight="1"></Border>
@@ -171,7 +171,7 @@
             <String>turnips</String>
             <ConnectedNoteIDs>7</ConnectedNoteIDs>
         </Note>
-        <Note ID="21" FontSize="12.0" Position="386.0,659.390625" Width="28.0">
+        <Note ID="21" FontSize="12.0" Position="386.0,659.0" Width="28.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -180,7 +180,7 @@
             <String> •••</String>
             <ConnectedNoteIDs>0</ConnectedNoteIDs>
         </Note>
-        <Note ID="22" FontSize="12.0" Position="401.910156,213.265625" Width="20.0">
+        <Note ID="22" FontSize="12.0" Position="402.0,213.0" Width="20.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -189,7 +189,7 @@
             <String><![CDATA[ ]]></String>
             <ConnectedNoteIDs>7, 10, 23</ConnectedNoteIDs>
         </Note>
-        <Note ID="23" FontSize="12.0" Position="397.882812,115.921875" Width="25.0">
+        <Note ID="23" FontSize="12.0" Position="398.0,116.0" Width="25.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -198,7 +198,7 @@
             <String> •••</String>
             <ConnectedNoteIDs>8-9, 22</ConnectedNoteIDs>
         </Note>
-        <Note ID="24" FontSize="12.0" Position="635.28125,739.175781" Width="101.0">
+        <Note ID="24" FontSize="12.0" Position="635.0,739.0" Width="101.0">
             <Appearance>
                 <Alignment>Center</Alignment>
             </Appearance>
@@ -207,7 +207,7 @@
                 <FormatRange Italic="Yes">0,12</FormatRange>
             </Formatting>
         </Note>
-        <Note ID="25" FontSize="12.0" Position="310.140625,441.519531" Width="50.0">
+        <Note ID="25" FontSize="12.0" Position="310.0,442.0" Width="50.0">
             <Appearance>
                 <Alignment>Center</Alignment>
                 <Border Weight="1"></Border>
