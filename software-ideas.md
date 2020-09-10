@@ -70,3 +70,10 @@ Embedded web view for Campaign Logger?
 turn off spellchecking per-bubble, like for the Free Name list
 
 incremental search for bubble content
+
+modifier keys for various scenarios (like de-link one and re-link another, or "inserting this
+between two"
+
+mind map in SwiftUI: (thanks to Mikey)
+https://www.raywenderlich.com/7705231-creating-a-mind-map-ui-in-swiftui
+
