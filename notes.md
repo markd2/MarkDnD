@@ -84,3 +84,7 @@ VT Enancement Suite (spotted on Mikey's Roll20
 "dear white people" and "black lady sketch show"
 Blabbity(?) newsletter for black mellenials
 
+----------
+
+A.K. - what is wrong here, what's the tension, what would happen if the PCs didn't show up.
+
