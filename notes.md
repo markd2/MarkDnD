@@ -88,3 +88,7 @@ Blabbity(?) newsletter for black mellenials
 
 A.K. - what is wrong here, what's the tension, what would happen if the PCs didn't show up.
 
+arsmagica - for big groups.  one person is the wizard, everyoen else is underlings. Next session another wizard.
+Troop style of shifting play.
+
+
