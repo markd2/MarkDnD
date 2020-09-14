@@ -100,7 +100,7 @@
             <String>Meet pastamancer</String>
             <ConnectedNoteIDs>9, 58</ConnectedNoteIDs>
         </Note>
-        <Note ID="11" FontSize="12.0" Position="669.620361,244.124344" Width="100.0">
+        <Note ID="11" FontSize="12.0" Position="670.0,244.0" Width="100.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -145,7 +145,7 @@
             <String>Wanna run a tavern?</String>
             <ConnectedNoteIDs>1</ConnectedNoteIDs>
         </Note>
-        <Note ID="16" FontSize="12.0" Position="290.592041,446.510986" Width="100.0">
+        <Note ID="16" FontSize="12.0" Position="291.0,447.0" Width="100.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -154,7 +154,7 @@
             <String>at 50% the distance, hear the device struggling</String>
             <ConnectedNoteIDs>3, 17</ConnectedNoteIDs>
         </Note>
-        <Note ID="17" FontSize="12.0" Position="317.142517,535.633545" Width="100.0">
+        <Note ID="17" FontSize="12.0" Position="317.0,536.0" Width="100.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -208,7 +208,7 @@
             <String>Quest For Battery!</String>
             <ConnectedNoteIDs>31, 47-48</ConnectedNoteIDs>
         </Note>
-        <Note ID="25" FontSize="12.0" Position="982.610962,578.618835" Width="179.0">
+        <Note ID="25" FontSize="12.0" Position="983.0,579.0" Width="179.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -292,7 +292,7 @@
             <String>red corundum elemental gem</String>
             <ConnectedNoteIDs>18, 24</ConnectedNoteIDs>
         </Note>
-        <Note ID="33" FontSize="12.0" Position="754.697266,319.157898" Width="100.0">
+        <Note ID="33" FontSize="12.0" Position="755.0,319.0" Width="100.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -301,7 +301,7 @@
             <String>Wounded librarian</String>
             <ConnectedNoteIDs>11, 77</ConnectedNoteIDs>
         </Note>
-        <Note ID="34" FontSize="12.0" Position="463.320526,324.51355" Width="55.0">
+        <Note ID="34" FontSize="12.0" Position="463.0,325.0" Width="55.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -328,7 +328,7 @@
             <String>Notes from home</String>
             <ConnectedNoteIDs>35, 37-39</ConnectedNoteIDs>
         </Note>
-        <Note ID="37" FontSize="12.0" Position="422.209412,479.90509" Width="83.0">
+        <Note ID="37" FontSize="12.0" Position="422.0,480.0" Width="83.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -337,7 +337,7 @@
             <String>“Peersa” style</String>
             <ConnectedNoteIDs>36</ConnectedNoteIDs>
         </Note>
-        <Note ID="38" FontSize="12.0" Position="530.535889,421.965515" Width="32.0">
+        <Note ID="38" FontSize="12.0" Position="531.0,422.0" Width="32.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -346,7 +346,7 @@
             <String>Kids</String>
             <ConnectedNoteIDs>36</ConnectedNoteIDs>
         </Note>
-        <Note ID="39" FontSize="12.0" Position="520.610962,478.836884" Width="100.0">
+        <Note ID="39" FontSize="12.0" Position="521.0,479.0" Width="100.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -355,7 +355,7 @@
             <String>Someone levitates a drink</String>
             <ConnectedNoteIDs>36, 40</ConnectedNoteIDs>
         </Note>
-        <Note ID="40" FontSize="12.0" Position="568.916016,532.661194" Width="100.0">
+        <Note ID="40" FontSize="12.0" Position="569.0,533.0" Width="100.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -364,7 +364,7 @@
             <String>If anyone has magehand, same hand patterns</String>
             <ConnectedNoteIDs>39</ConnectedNoteIDs>
         </Note>
-        <Note ID="41" FontSize="12.0" Position="440.156677,594.605225" Width="79.0">
+        <Note ID="41" FontSize="12.0" Position="440.0,595.0" Width="79.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -382,7 +382,7 @@
             <String>neutral. can rock forward and back</String>
             <ConnectedNoteIDs>41</ConnectedNoteIDs>
         </Note>
-        <Note ID="43" FontSize="12.0" Position="476.383118,686.73877" Width="100.0">
+        <Note ID="43" FontSize="12.0" Position="476.0,687.0" Width="100.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -418,7 +418,7 @@
             <String>lower, off</String>
             <ConnectedNoteIDs>43</ConnectedNoteIDs>
         </Note>
-        <Note ID="47" FontSize="12.0" Position="90.365242,721.684204" Width="100.0">
+        <Note ID="47" FontSize="12.0" Position="90.0,722.0" Width="100.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -427,7 +427,7 @@
             <String>Nobody in C-L has the deets</String>
             <ConnectedNoteIDs>24</ConnectedNoteIDs>
         </Note>
-        <Note ID="48" FontSize="12.0" Position="237.674606,743.761841" Width="100.0">
+        <Note ID="48" FontSize="12.0" Position="238.0,744.0" Width="100.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -491,7 +491,7 @@ Bite: +5 to hit, 1d8 + 3 piercing. +1 HP loss each round due to paper cut</Strin
             <String>icon of machine</String>
             <ConnectedNoteIDs>43</ConnectedNoteIDs>
         </Note>
-        <Note ID="54" FontSize="12.0" Position="586.669006,619.864319" Width="100.0">
+        <Note ID="54" FontSize="12.0" Position="587.0,620.0" Width="100.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -500,7 +500,7 @@ Bite: +5 to hit, 1d8 + 3 piercing. +1 HP loss each round due to paper cut</Strin
             <String>Horizontal lever with 5 positions. dots. currently in middle.</String>
             <ConnectedNoteIDs>41</ConnectedNoteIDs>
         </Note>
-        <Note ID="55" FontSize="12.0" Position="971.162781,7.072619" Width="238.0">
+        <Note ID="55" FontSize="12.0" Position="971.0,7.0" Width="238.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -527,37 +527,37 @@ Progress: He’s the pastamancer. Hates Klär. He’s searching for ways to impr
                 <Fill>0.999757 0.988054 0.951631</Fill>
             </Appearance>
             <String>Yansha
-Captain of the guard
+Captain of the guard (met)
 
 See: Tall Human. Scars. Sela Ward. Guard uniform
 Portray: Appreciative. Professional
 Progress: Worried about safety of town.  Ruins couple of miles into the forest.  Thinks it’s connected to borer (it isn’t). Doesn’t care about Mayor’s military history, but uses it for recruiting. Thinks he’s a fraud</String>
             <Formatting>
                 <FormatRange Bold="Yes" Italic="Yes">0,7</FormatRange>
-                <FormatRange Italic="Yes">7,20</FormatRange>
-                <FormatRange Bold="Yes">29,3</FormatRange>
-                <FormatRange Bold="Yes">78,7</FormatRange>
-                <FormatRange Bold="Yes">114,8</FormatRange>
+                <FormatRange Italic="Yes">7,26</FormatRange>
+                <FormatRange Bold="Yes">35,3</FormatRange>
+                <FormatRange Bold="Yes">84,7</FormatRange>
+                <FormatRange Bold="Yes">120,8</FormatRange>
             </Formatting>
         </Note>
-        <Note ID="57" FontSize="12.0" Position="1166.990601,277.803162" Width="403.0">
+        <Note ID="57" FontSize="12.0" Position="1167.0,278.0" Width="403.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
                 <Fill>0.999757 0.988054 0.951631</Fill>
             </Appearance>
             <String>Arma Wynn
-Chief Librarian
+Chief Librarian (met)
 
 See: Red skin Tiefling (lke Judge).  She might be injured / unconcious. Wearing a gray robe
 Portray: Chief Librarian. 
 Progress: The origami dinosaur is destroying the library. Punita visited a couple of days ago.</String>
             <Formatting>
                 <FormatRange Bold="Yes">0,10</FormatRange>
-                <FormatRange Italic="Yes">10,15</FormatRange>
-                <FormatRange Bold="Yes">25,5</FormatRange>
-                <FormatRange Bold="Yes">119,7</FormatRange>
-                <FormatRange Bold="Yes">146,8</FormatRange>
+                <FormatRange Italic="Yes">10,21</FormatRange>
+                <FormatRange Bold="Yes">31,5</FormatRange>
+                <FormatRange Bold="Yes">125,7</FormatRange>
+                <FormatRange Bold="Yes">152,8</FormatRange>
             </Formatting>
         </Note>
         <Note ID="58" FontSize="12.0" Position="633.0,24.0" Width="98.0">
@@ -636,7 +636,7 @@ How to progress the story - adventure or encounter hook</String>
                 <FormatRange Bold="Yes">129,25</FormatRange>
             </Formatting>
         </Note>
-        <Note ID="66" FontSize="12.0" Position="1171.965454,406.180389" Width="416.0">
+        <Note ID="66" FontSize="12.0" Position="1172.0,406.0" Width="416.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -692,7 +692,7 @@ Progress: Curious about what happened in Orlane. Was a sleeper agent for the rep
             <String>fairytale generator</String>
             <ConnectedNoteIDs>69</ConnectedNoteIDs>
         </Note>
-        <Note ID="71" FontSize="12.0" Position="1178.853394,552.825928" Width="460.0">
+        <Note ID="71" FontSize="12.0" Position="1179.0,553.0" Width="460.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -713,7 +713,7 @@ Progress: He always worse shoes because ashamed of his feet.  Tavern was running
                 <FormatRange Bold="Yes">216,8</FormatRange>
             </Formatting>
         </Note>
-        <Note ID="72" FontSize="12.0" Position="1166.210938,158.972549" Width="395.0">
+        <Note ID="72" FontSize="12.0" Position="1166.0,159.0" Width="395.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -734,7 +734,7 @@ Progress: </String>
                 <FormatRange Bold="Yes">200,8</FormatRange>
             </Formatting>
         </Note>
-        <Note ID="73" FontSize="12.0" Position="1008.352905,351.57962" Width="117.0">
+        <Note ID="73" FontSize="12.0" Position="1008.0,352.0" Width="117.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -755,27 +755,27 @@ Ir-mas Vempati</String>
                 <FormatRange Struckthrough="Yes">11,17</FormatRange>
             </Formatting>
         </Note>
-        <Note ID="75" FontSize="12.0" Position="1177.055664,679.392151" Width="460.0">
+        <Note ID="75" FontSize="12.0" Position="1177.0,679.0" Width="460.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
                 <Fill>0.999757 0.988054 0.951631</Fill>
             </Appearance>
             <String>Darrell Southwell
-Library Assistant
+Library Assistant (met)
 
 See: Young Elf, Blonde hair, transparent blue eyes. Wearing a grey robe. Rumpled
 Portray: Nervous
 Progress: Sent to Yansha because Arma screamed “What the hell is this?  Go get Yansha!”.  Wants to get out of this hick town. If he sees another turnip he may go postal.</String>
             <Formatting>
                 <FormatRange Bold="Yes">0,18</FormatRange>
-                <FormatRange Italic="Yes">18,17</FormatRange>
-                <FormatRange Bold="Yes">35,5</FormatRange>
-                <FormatRange Bold="Yes">118,7</FormatRange>
-                <FormatRange Bold="Yes">135,8</FormatRange>
+                <FormatRange Italic="Yes">18,23</FormatRange>
+                <FormatRange Bold="Yes">41,5</FormatRange>
+                <FormatRange Bold="Yes">124,7</FormatRange>
+                <FormatRange Bold="Yes">141,8</FormatRange>
             </Formatting>
         </Note>
-        <Note ID="77" FontSize="12.0" Position="802.497437,372.724731" Width="131.0">
+        <Note ID="77" FontSize="12.0" Position="802.0,373.0" Width="131.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>

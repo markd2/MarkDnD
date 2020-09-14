@@ -2,6 +2,120 @@
 
 Reverse chronology
 
+# Session 2 - Fun in Town
+
+Inside of the Borer in the Castle-Lantern graveyard, 
+Jessica and Bargain are at the dashboard figuring
+things out.  From the inside, you can see out of a window over
+the boring blade.  On the "driver's side" of the forward control
+panel, the primary controls are a lever in a horizontal track with
+five positions, currently in the middle.  and another lever in a vertical
+track with three positions. Currently in the middle.  The machine
+gently thrums.
+
+With Jessica moving the vertical lever up, the thrum becomes
+rapid.  Moving the lever back to the middle returns the thrum
+to its original tempo.  Moving the lever down cuts power and
+turns on a dim red light inside.  Bargain figures out how to
+turn on and off the inner lights.
+
+The inside of the borer is empty space, with two dozen subway handles
+hanging from the ceiling. The wall opposite the door has panels and 
+buttons similar to the map-device on the front dashboard.  Towards
+the back is a large glowing stone, brightening and dimming in rhythm
+to the machine's thrumming.
+
+Mui is experimenting with the door.  A pushbutton
+(glowing) drops the door open (anyone outside, LOOK OUT! as the door
+slams down), and pushing again draws it up.  There's also a lever
+in a vertical track next to the door (three positions, middle position)
+with what feels like a mechanical linkage around the door, acting like
+an emergency door opener.
+
+Sam went out to chat with Yanhsa (captain of the guard) about
+(I forget why, outside of a search for alcohol for Jessica), when
+she invites the crew to dinner and a night at the town Inn in
+appreciation. "oh, and there's something weird going on at the library
+if you have some time"
+
+Sam returned (no alcohol), to fill everyone in, and started examining
+the glowing stone - it's in a glass cylinder (about two
+feet in diameter), held in place with a coupling collar. When Jessica 
+turns off the power to the device, the stone goes dark and Sam removes
+it.  It's like a red gem(?) Jessica couldn't turn the machine back 
+on again.  Sam restores the gem.  Everything returns to normal.
+
+After more poking around the device, found the keyfob in the dashboard
+and figured out how to lock and unlock the device.
+
+### The Paper Chase
+
+A young, blonde Elf wearing gray robes, came running into the area. He
+was shouting "Arma's hurt!  Yansha!  Yansha!  You have to come help!"
+Yansha took off running, with the party hot oh her heels.  Running through
+town, it's a much larger place than Nextia, probably the same population
+as Orlane, but much more densely packed (and without glowing numerals
+rotating above each of the buildings).  
+
+The Elf (Darrel Southwell, the library assistant) and Yansha stop in front
+of the library.  "I was downstairs trying to repair the damage.  Arma
+heard something upstairs.  I heard a shout and a scream, and then silence.
+Go get Yansha. That was my first thought"
+
+Entering, you see a scene of bookish destruction. Tall 
+bookshelves, with most of their contents on the floor.  Investigating the
+shelves, Jessica discovers neat piles of pages at the end of each row of
+bookshelves.  They're complete stories.  Laeryn reads a book of Elven 
+stories, or at least tries to.  Numerous spans of pages are torn(?) out.
+The book of stories has nothing in it but the commentaries between the
+stories.
+
+There's a sound from upstairs.  Some kind of shuffling.  Bargain stealths
+away and heads upstairs, with Mui not far behind.  Up the stairs is a similar
+scene of horror - books off one of the shelves, a nice stack of removed pages
+at the end of the bookshelf. And going through the books is a... dinosaur?
+made of ... paper?
+
+![](ThirdAdventure/handouts/thesaurus.png)
+
+It's methodically grabbing a book from the shelf.  Flipping through the
+pages, and with a paper claw, slicing out some pages, and adding it to
+the stack.  Mui sees Arma (Wynn), a red-skin Tiefling, in a gray
+robe. She's slumped on the floor. Maybe some blood there.
+
+The rest of the party joins the monks, narrowly avoiding the squeaking stair
+tread.  Jessica runs past the monster to grab Arma behind some bookshelves,
+determines she's alive, and tries to stabilize her. Sam assists.  
+
+Mui and Bargain engage with the Thesaurus. Blows are exchanged
+(bludgeoning seems to not really... do much), the tide of battle not
+really turning until Jessica cuts it with her sword, un-handing it.  
+Mui absorbs the bulk of damage the monster dealt from its bite(?) 
+and claws(?), sustaining wicked paper cuts.  Laeryn lands the killing blow,
+and the Thesaurus crumples into a green and white paper boulder.  Mui
+recovers a sizable quantity of paper _(I forgot the actual dimensions, 
+hope you did :-) )_
+
+Sam heals up most of the party, leaving Jessica alone per request.
+Sam also get Arma up and talking.  "We're just a small town library
+with a really great collection, left to us when a wealthy land owner
+died 50 years ago.  Scholars from around the area come by for research.
+Figboot's friend Punita was here a couple of days ag. We had a wonderful
+time talking about everything, and I took off yesterday and gave
+Darrell some time off because we were exhausted. Puntia ran us ragged.
+When I got here this morning, there was this scene of destruction, and
+you kind of know the rest."
+
+Darrell lopes up the stairs and takes over taking care of Arma, as the
+party leaves the Library. Yansha led the party across the town square,
+to Gwatney's cafe for food and drink. Upon entering the beautiful 
+eatery, the party is greeted by a red-haired dwarf (graying) coming
+out of the kitch, chef's outfit (kind of like what Klär wore on occasion
+on her vision-stone program) and apron, pristinely clean.  "Welcome
+to Gwatney's!"
+
+----
+
 # Session 1 - A Boring Day
 
 Bargain (halfling monk) and Quon (gold dragonborn monk) coming into
