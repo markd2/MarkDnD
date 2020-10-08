@@ -100,14 +100,14 @@
             <String><![CDATA[ ]]></String>
             <ConnectedNoteIDs>0, 11, 22</ConnectedNoteIDs>
         </Note>
-        <Note ID="11" FontSize="12.0" Position="271.0,273.0" Width="81.0">
+        <Note ID="11" FontSize="12.0" Position="216.464844,279.054688" Width="81.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
                 <Fill>0.998016 0.913319 0.848773</Fill>
             </Appearance>
             <String>Castle-Latern</String>
-            <ConnectedNoteIDs>10</ConnectedNoteIDs>
+            <ConnectedNoteIDs>10, 26-30, 32</ConnectedNoteIDs>
         </Note>
         <Note ID="12" FontSize="12.0" Position="295.0,574.0" Width="86.0">
             <Appearance>
@@ -215,9 +215,81 @@
             <String>Stables</String>
             <ConnectedNoteIDs>0</ConnectedNoteIDs>
         </Note>
+        <Note ID="26" FontSize="12.0" Position="193.957031,218.519531" Width="58.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1"></Border>
+                <Fill>1.0 0.985915 0.946968</Fill>
+            </Appearance>
+            <String>cemetary</String>
+            <ConnectedNoteIDs>11</ConnectedNoteIDs>
+        </Note>
+        <Note ID="27" FontSize="12.0" Position="177.0,332.0" Width="38.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1"></Border>
+                <Fill>1.0 0.985915 0.946968</Fill>
+            </Appearance>
+            <String>farms</String>
+            <ConnectedNoteIDs>11</ConnectedNoteIDs>
+        </Note>
+        <Note ID="28" FontSize="12.0" Position="320.0,321.160156" Width="38.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1"></Border>
+                <Fill>1.0 0.985915 0.946968</Fill>
+            </Appearance>
+            <String>farms</String>
+            <ConnectedNoteIDs>11</ConnectedNoteIDs>
+        </Note>
+        <Note ID="29" FontSize="12.0" Position="251.960938,338.734375" Width="38.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1"></Border>
+                <Fill>1.0 0.985915 0.946968</Fill>
+            </Appearance>
+            <String>farms</String>
+            <ConnectedNoteIDs>11</ConnectedNoteIDs>
+        </Note>
+        <Note ID="30" FontSize="12.0" Position="110.824219,285.875" Width="76.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1"></Border>
+                <Fill>1.0 0.985915 0.946968</Fill>
+            </Appearance>
+            <String>guard-house</String>
+            <ConnectedNoteIDs>11</ConnectedNoteIDs>
+        </Note>
+        <Note ID="31" FontSize="12.0" Position="92.941406,225.742188" Width="39.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1"></Border>
+                <Fill>1.0 0.985915 0.946968</Fill>
+            </Appearance>
+            <String>forest</String>
+            <ConnectedNoteIDs>32-33</ConnectedNoteIDs>
+        </Note>
+        <Note ID="32" FontSize="12.0" Position="158.027344,250.75" Width="38.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1"></Border>
+                <Fill>1.0 0.985915 0.946968</Fill>
+            </Appearance>
+            <String>farms</String>
+            <ConnectedNoteIDs>11, 31</ConnectedNoteIDs>
+        </Note>
+        <Note ID="33" FontSize="12.0" Position="17.96875,207.738281" Width="39.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1"></Border>
+                <Fill>1.0 0.985915 0.946968</Fill>
+            </Appearance>
+            <String>Ruins</String>
+            <ConnectedNoteIDs>31</ConnectedNoteIDs>
+        </Note>
     </Notes>
     <BackgroundShapes></BackgroundShapes>
-    <AutoFit>0-15, 18, 22</AutoFit>
+    <AutoFit>0-15, 18, 22, 26-33</AutoFit>
     <NoteStyles>
         <Style Name="Bubble (Blue)" ID="A90A4691-7EC4-4D43-B9C3-B365DA242CE5" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="No" AffectNoteBody="Yes" AffectFade="No">
             <BorderThickness>1</BorderThickness>

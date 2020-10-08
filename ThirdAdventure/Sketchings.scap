@@ -781,13 +781,21 @@ Out faffing around adventuring when there’s people to feed!</String>
             </Appearance>
             <String>Tieflings often in academia</String>
         </Note>
+        <Note ID="94" FontSize="12.0" Position="586.0,1028.0" Width="97.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1"></Border>
+                <Fill>1.0 0.985915 0.946968</Fill>
+            </Appearance>
+            <String>VEGEPYGMIES</String>
+        </Note>
     </Notes>
     <BackgroundShapes></BackgroundShapes>
     <Labels>
         <Label IDs="5,6">Kharos stones?</Label>
         <Label IDs="0,2">assigned</Label>
     </Labels>
-    <AutoFit>2-7, 9-12, 14-18, 20-33, 35-40, 42-48, 51-54, 57-58, 60-61, 63, 65-66, 68-69, 71-81, 83-84, 87, 89</AutoFit>
+    <AutoFit>2-7, 9-12, 14-18, 20-33, 35-40, 42-48, 51-54, 57-58, 60-61, 63, 65-66, 68-69, 71-81, 83-84, 87, 89, 94</AutoFit>
     <NoteStyles>
         <Style Name="Bubble (Blue)" ID="935AE891-5596-42F0-BCA5-0E750FF722DD" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="No" AffectNoteBody="Yes" AffectFade="No">
             <BorderThickness>1</BorderThickness>

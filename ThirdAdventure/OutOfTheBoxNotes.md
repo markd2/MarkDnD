@@ -14,10 +14,10 @@ They Cover a wide range of levels.  Here's a cheatsheet.
 * Backstabber - 2 (easy)
 * Balance - 4 (hard)
 * Beast of Bellard - 5 (medium)
-* Chickening Out - 5 (hard)
+* Chickening Out - 5 (hard) - Sea adventure with cockatrices
 * Coin Flip - Any
 * Council of Three - Any
-* Counting SHeep - 5 (easy)
+* Counting Sheep - 5 (easy) - Hill giant sheep dismemberment
 * Crones and their Cravings - 11 (hard)
 * Dance Macabre - 3 - 4 (hard)
 * Deep Breaths - 9 (hard)
@@ -45,7 +45,7 @@ They Cover a wide range of levels.  Here's a cheatsheet.
 * Menagerie - 7 (medium)
 * Mirror, Mirror - 3 (easy)
 * Mirrors of the Soul - Any
-* One Crow, Two Crow, Three Crow, Scarecrow - 2 (easy)
+* One Crow, Two Crow, Three Crow, Scarecrow - 2 (easy) - Scarecrows in fields / flock of crows/ravens
 * Passenger - 2 (medium)
 * Pay to Play - Any (low-to-mid levels)
 * Phoba's Bet - 12 (hard)
@@ -57,7 +57,7 @@ They Cover a wide range of levels.  Here's a cheatsheet.
 * Standing Warning - 4 (hard)
 * Three Eyes are Better - 5 (hard)
 * Touch of Gray - 5 (medium)
-* Walk in the Woods - 2 (medium)
+* Walk in the Woods - 2 (medium) (Any) - awakened tree. "you only need to ask"
 * Watchdog - 4 (deadly)
 * Wooden Dragon - 3 (medium)
 
@@ -74,6 +74,7 @@ They Cover a wide range of levels.  Here's a cheatsheet.
 * Mirrors of the Soul - Any
 * Pay to Play - Any (low-to-mid levels)
 * Shadow of Your Former Self - Any
+* Walk in the Woods - 2 (Any)
 
 ### Level 1
 

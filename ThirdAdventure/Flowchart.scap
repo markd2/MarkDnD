@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ScappleDocument Version="1.1" ID="A1050E71-89D2-40BA-95CA-2E599998DDE6">
     <Notes>
-        <Note ID="0" FontSize="12.0" Position="465.0,81.0" Width="61.0">
+        <Note ID="0" FontSize="12.0" Position="465.278931,170.813522" Width="61.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -89,9 +89,9 @@
                 <Fill>0.999757 0.988054 0.951631</Fill>
             </Appearance>
             <String>Dinner</String>
-            <ConnectedNoteIDs>1, 10, 60, 62</ConnectedNoteIDs>
+            <ConnectedNoteIDs>1, 10, 60, 62, 78, 81</ConnectedNoteIDs>
         </Note>
-        <Note ID="10" FontSize="12.0" Position="586.0,82.0" Width="100.0">
+        <Note ID="10" FontSize="12.0" Position="626.708496,70.2313" Width="100.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -136,7 +136,7 @@
             <String>Road Encounter</String>
             <ConnectedNoteIDs>13, 19</ConnectedNoteIDs>
         </Note>
-        <Note ID="15" FontSize="12.0" Position="333.0,220.0" Width="100.0">
+        <Note ID="15" FontSize="12.0" Position="306.949097,219.771774" Width="100.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -436,7 +436,7 @@
             <String>There is a library in town…</String>
             <ConnectedNoteIDs>24</ConnectedNoteIDs>
         </Note>
-        <Note ID="49" FontSize="12.0" Position="735.0,551.0" Width="225.0">
+        <Note ID="49" FontSize="12.0" Position="920.548462,803.79126" Width="225.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -507,20 +507,21 @@ Bite: +5 to hit, 1d8 + 3 piercing. +1 HP loss each round due to paper cut</Strin
                 <Fill>0.999757 0.988054 0.951631</Fill>
             </Appearance>
             <String>Gwatney Shev-rólay
-Pastamancer
+Pastamancer (met)
 
-See: Dwarf. Red hair and bear. Graying. Fancy chef outfit. Pristinely cliean
+See: Dwarf. Red hair and beard. Graying. Fancy chef outfit. Pristinely clean
 Portray: Friendly arrogance. He’s good and knows he’s good.
-Progress: He’s the pastamancer. Hates Klär. He’s searching for ways to improve his power. Former Reptile god consultant</String>
+Progress: He’s the pastamancer. Hates Klär. He’s searching for ways to improve his power. Former Reptile god consultant
+Voice: eats the scenery</String>
             <Formatting>
                 <FormatRange Bold="Yes" Italic="Yes">0,19</FormatRange>
-                <FormatRange Italic="Yes">19,12</FormatRange>
-                <FormatRange Bold="Yes">32,3</FormatRange>
-                <FormatRange Bold="Yes">109,7</FormatRange>
-                <FormatRange Bold="Yes">169,8</FormatRange>
+                <FormatRange Italic="Yes">19,18</FormatRange>
+                <FormatRange Bold="Yes">38,3</FormatRange>
+                <FormatRange Bold="Yes">115,7</FormatRange>
+                <FormatRange Bold="Yes">175,8</FormatRange>
             </Formatting>
         </Note>
-        <Note ID="56" FontSize="12.0" Position="1313.0,18.0" Width="326.0">
+        <Note ID="56" FontSize="12.0" Position="1325.42334,7.894925" Width="326.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -540,7 +541,7 @@ Progress: Worried about safety of town.  Ruins couple of miles into the forest. 
                 <FormatRange Bold="Yes">120,8</FormatRange>
             </Formatting>
         </Note>
-        <Note ID="57" FontSize="12.0" Position="1167.0,278.0" Width="403.0">
+        <Note ID="57" FontSize="12.0" Position="1555.64856,741.462402" Width="374.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -560,7 +561,7 @@ Progress: The origami dinosaur is destroying the library. Punita visited a coupl
                 <FormatRange Bold="Yes">152,8</FormatRange>
             </Formatting>
         </Note>
-        <Note ID="58" FontSize="12.0" Position="633.0,24.0" Width="98.0">
+        <Note ID="58" FontSize="12.0" Position="662.00885,17.183224" Width="98.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -569,7 +570,7 @@ Progress: The origami dinosaur is destroying the library. Punita visited a coupl
             <String>chef *hates* Klär</String>
             <ConnectedNoteIDs>10, 59</ConnectedNoteIDs>
         </Note>
-        <Note ID="59" FontSize="12.0" Position="753.0,47.0" Width="188.0">
+        <Note ID="59" FontSize="12.0" Position="776.681519,33.705784" Width="188.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -611,7 +612,7 @@ spits on floor</String>
             <String>hardwood floors</String>
             <ConnectedNoteIDs>9</ConnectedNoteIDs>
         </Note>
-        <Note ID="64" FontSize="12.0" Position="812.0,132.0" Width="111.0">
+        <Note ID="64" FontSize="12.0" Position="839.870728,117.955017" Width="111.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -636,7 +637,7 @@ How to progress the story - adventure or encounter hook</String>
                 <FormatRange Bold="Yes">129,25</FormatRange>
             </Formatting>
         </Note>
-        <Note ID="66" FontSize="12.0" Position="1172.0,406.0" Width="416.0">
+        <Note ID="66" FontSize="12.0" Position="1164.039062,332.612335" Width="387.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -645,15 +646,21 @@ How to progress the story - adventure or encounter hook</String>
             <String>Daniel Owensmane
 Priest of Merrika
 
-See: Human, in priestly vestments (purple)
+“hello neighbor”
+
+See: Human, in priestly vestments (purple). Looks like crazy-unblinking Adam-Koebel gag.
 Portray: Fastidious. Has never really left the church. Been there since a kid
-Progress: Curious about what happened in Orlane. Was a sleeper agent for the reptile god, so has a memory blind spot from say six months ago to last month. His questions about Orlane confuse Yansha. “we had no contact” “you had weekly couriers”</String>
+Progress: Curious about what happened in Orlane. Was a sleeper agent for the reptile god, so has a memory blind spot from say six months ago to last month. His questions about Orlane confuse Yansha. “we had no contact” “you had weekly couriers”  Interacted with Maneer Ecords (the lunatic in the upper levels of the Orlane Temple of Merrika)
+
+Voice: Monotone</String>
             <Formatting>
                 <FormatRange Bold="Yes">0,17</FormatRange>
                 <FormatRange Italic="Yes">17,17</FormatRange>
-                <FormatRange Bold="Yes">34,5</FormatRange>
-                <FormatRange Bold="Yes">79,7</FormatRange>
-                <FormatRange Bold="Yes">157,8</FormatRange>
+                <FormatRange Bold="Yes">34,2</FormatRange>
+                <FormatRange Italic="Yes">36,17</FormatRange>
+                <FormatRange Bold="Yes">53,4</FormatRange>
+                <FormatRange Bold="Yes">143,7</FormatRange>
+                <FormatRange Bold="Yes">221,8</FormatRange>
             </Formatting>
         </Note>
         <Note ID="67" FontSize="12.0" Position="838.0,187.0" Width="100.0">
@@ -692,7 +699,7 @@ Progress: Curious about what happened in Orlane. Was a sleeper agent for the rep
             <String>fairytale generator</String>
             <ConnectedNoteIDs>69</ConnectedNoteIDs>
         </Note>
-        <Note ID="71" FontSize="12.0" Position="1179.0,553.0" Width="460.0">
+        <Note ID="71" FontSize="12.0" Position="1169.363403,587.245667" Width="384.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -703,38 +710,38 @@ Former Innkeeper (deceased)
 
 See: Fat old halfling.  Bald head and feet.  
 Portray: Peacemaker.  Went to the borer with a white flag to show “we’re friendly” (war of the worlds). Crushed by the door.
-Progress: He always worse shoes because ashamed of his feet.  Tavern was running at a loss because he was too generous and debts were coming due.</String>
+Progress: He always wore shoes because ashamed of his feet.  Tavern was running at a loss because he was too generous and debts were coming due.</String>
             <Formatting>
-                <FormatRange Bold="Yes">0,15</FormatRange>
-                <FormatRange Bold="Yes">15,1</FormatRange>
+                <FormatRange Bold="Yes">0,16</FormatRange>
                 <FormatRange Italic="Yes">16,27</FormatRange>
                 <FormatRange Bold="Yes">43,5</FormatRange>
                 <FormatRange Bold="Yes">91,7</FormatRange>
                 <FormatRange Bold="Yes">216,8</FormatRange>
             </Formatting>
         </Note>
-        <Note ID="72" FontSize="12.0" Position="1166.0,159.0" Width="395.0">
+        <Note ID="72" FontSize="12.0" Position="1173.71167,178.041931" Width="361.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
                 <Fill>0.999757 0.988054 0.951631</Fill>
             </Appearance>
-            <String>Wilson Faiblood
+            <String>Wilson Failblood
 Mayor of Castle-Lantern
 
-See: Dwarf.  Black hair.  Very well groomed
-Portray: Smooth politician.  Constantly smoothing wrinkles. Military hero. Reason our town guard is so formidible 
-Progress: </String>
+See: Human.  Black hair.  Very well groomed
+Portray: Smooth politician.  Constantly smoothing wrinkles. Military hero. Reason our town guard is so formidable 
+Progress: 
+Voice: imperious.  Snobbish.</String>
             <Formatting>
-                <FormatRange Bold="Yes">0,15</FormatRange>
-                <FormatRange Bold="Yes" Italic="Yes">15,1</FormatRange>
-                <FormatRange Italic="Yes">16,24</FormatRange>
-                <FormatRange Bold="Yes">41,3</FormatRange>
-                <FormatRange Bold="Yes">85,7</FormatRange>
-                <FormatRange Bold="Yes">200,8</FormatRange>
+                <FormatRange Bold="Yes">0,16</FormatRange>
+                <FormatRange Bold="Yes" Italic="Yes">16,1</FormatRange>
+                <FormatRange Italic="Yes">17,24</FormatRange>
+                <FormatRange Bold="Yes">42,3</FormatRange>
+                <FormatRange Bold="Yes">86,7</FormatRange>
+                <FormatRange Bold="Yes">201,8</FormatRange>
             </Formatting>
         </Note>
-        <Note ID="73" FontSize="12.0" Position="1008.0,352.0" Width="117.0">
+        <Note ID="73" FontSize="12.0" Position="1008.0,352.0" Width="116.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -753,9 +760,10 @@ Ir-mas Vempati</String>
             <Formatting>
                 <FormatRange Bold="Yes">0,11</FormatRange>
                 <FormatRange Struckthrough="Yes">11,17</FormatRange>
+                <FormatRange Struckthrough="Yes">43,13</FormatRange>
             </Formatting>
         </Note>
-        <Note ID="75" FontSize="12.0" Position="1177.0,679.0" Width="460.0">
+        <Note ID="75" FontSize="12.0" Position="1175.501465,745.423035" Width="359.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -784,9 +792,154 @@ Progress: Sent to Yansha because Arma screamed “What the hell is this?  Go get
             <String>Assitant to get Yansha</String>
             <ConnectedNoteIDs>33</ConnectedNoteIDs>
         </Note>
+        <Note ID="78" FontSize="12.0" Position="485.045319,120.05722" Width="61.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1"></Border>
+                <Fill>1.0 0.985915 0.946968</Fill>
+            </Appearance>
+            <String>Session 3</String>
+            <ConnectedNoteIDs>9</ConnectedNoteIDs>
+        </Note>
+        <Note ID="79" FontSize="12.0" Position="1593.370972,354.232361" Width="326.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1"></Border>
+                <Fill>0.999757 0.988054 0.951631</Fill>
+            </Appearance>
+            <String>“Moose” - Pamelmousse LaCroix
+Tabaxi Bard
+
+See: Tall Tabaxi. Glorious black fur.  Very well dressed. Carrying some gear. Bartender goes “hey Moose”  “hey BARKEEP” barkeep tosses him a little bag of coins.
+Portray: Bard / provides background music for the dinner party
+Progress: Regular performer at Gwatney’s.  He’s wanting to purchase the Castle Lantern Inn and turn it into a night club.  Has financial backing from Gwatney. Does not know Gwatney is the Pastamancer.</String>
+            <Formatting>
+                <FormatRange Bold="Yes" Italic="Yes">0,30</FormatRange>
+                <FormatRange Italic="Yes">30,11</FormatRange>
+                <FormatRange Bold="Yes">43,3</FormatRange>
+                <FormatRange Bold="Yes">205,7</FormatRange>
+                <FormatRange Bold="Yes">268,8</FormatRange>
+            </Formatting>
+        </Note>
+        <Note ID="80" FontSize="12.0" Position="1601.396606,162.018127" Width="195.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1"></Border>
+                <Fill>0.999757 0.988054 0.951631</Fill>
+            </Appearance>
+            <String>Tilson Cuzad
+
+Barkeeper, head waiter
+
+See: Tall, thin elf (young).Well dressed. Nervous 
+Portray: Professional, stoic
+Progress: Friendly with Moose.</String>
+            <Formatting>
+                <FormatRange Bold="Yes">0,12</FormatRange>
+                <FormatRange Bold="Yes">13,1</FormatRange>
+                <FormatRange Italic="Yes">14,22</FormatRange>
+                <FormatRange Bold="Yes">36,5</FormatRange>
+                <FormatRange Bold="Yes">89,7</FormatRange>
+                <FormatRange Bold="Yes">118,8</FormatRange>
+            </Formatting>
+        </Note>
+        <Note ID="81" FontSize="12.0" Position="510.042206,48.38438" Width="100.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1"></Border>
+                <Fill>1.0 0.985915 0.946968</Fill>
+            </Appearance>
+            <String>Seven seats at table</String>
+            <ConnectedNoteIDs>9</ConnectedNoteIDs>
+        </Note>
+        <Note ID="82" FontSize="12.0" Position="773.273315,651.189209" Width="35.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1"></Border>
+                <Fill>1.0 0.985915 0.946968</Fill>
+            </Appearance>
+            <String>Meal</String>
+            <ConnectedNoteIDs>83</ConnectedNoteIDs>
+        </Note>
+        <Note ID="83" FontSize="12.0" Position="771.044983,707.375427" Width="39.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1"></Border>
+                <Fill>1.0 0.985915 0.946968</Fill>
+            </Appearance>
+            <String>Salad</String>
+            <ConnectedNoteIDs>82, 84</ConnectedNoteIDs>
+        </Note>
+        <Note ID="84" FontSize="12.0" Position="768.426453,772.516541" Width="37.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1"></Border>
+                <Fill>1.0 0.985915 0.946968</Fill>
+            </Appearance>
+            <String>Soup</String>
+            <ConnectedNoteIDs>83, 86</ConnectedNoteIDs>
+        </Note>
+        <Note ID="85" FontSize="12.0" Position="826.231323,747.0" Width="45.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1"></Border>
+                <Fill>1.0 0.985915 0.946968</Fill>
+            </Appearance>
+            <String>Moose</String>
+        </Note>
+        <Note ID="86" FontSize="12.0" Position="760.630554,841.378723" Width="44.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1"></Border>
+                <Fill>1.0 0.985915 0.946968</Fill>
+            </Appearance>
+            <String>Entree</String>
+            <ConnectedNoteIDs>84, 89</ConnectedNoteIDs>
+        </Note>
+        <Note ID="87" FontSize="12.0" Position="831.078186,683.180176" Width="39.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1"></Border>
+                <Fill>1.0 0.985915 0.946968</Fill>
+            </Appearance>
+            <String>Priest</String>
+        </Note>
+        <Note ID="88" FontSize="12.0" Position="819.198242,812.069031" Width="81.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1"></Border>
+                <Fill>1.0 0.985915 0.946968</Fill>
+            </Appearance>
+            <String>Mayor arrives</String>
+        </Note>
+        <Note ID="89" FontSize="12.0" Position="752.934021,912.822815" Width="50.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1"></Border>
+                <Fill>1.0 0.985915 0.946968</Fill>
+            </Appearance>
+            <String>Dessert</String>
+            <ConnectedNoteIDs>86</ConnectedNoteIDs>
+        </Note>
+        <Note ID="90" FontSize="12.0" Position="819.123291,881.840881" Width="80.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1"></Border>
+                <Fill>1.0 0.985915 0.946968</Fill>
+            </Appearance>
+            <String>Mayor leaves</String>
+        </Note>
+        <Note ID="91" FontSize="12.0" Position="830.471436,622.8349" Width="48.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1"></Border>
+                <Fill>1.0 0.985915 0.946968</Fill>
+            </Appearance>
+            <String>Yansha</String>
+        </Note>
     </Notes>
     <BackgroundShapes></BackgroundShapes>
-    <AutoFit>0-2, 8-9, 11-14, 19-20, 25-26, 29, 34, 37-38, 41, 45-46, 51, 53, 58, 60-62, 68</AutoFit>
+    <AutoFit>0-2, 8-9, 11-14, 19-20, 25-26, 29, 34, 37-38, 41, 45-46, 51, 53, 58, 60-62, 68, 73, 78, 82-91</AutoFit>
     <NoteStyles>
         <Style Name="Bubble (Blue)" ID="A9B49CF7-D66E-4F7B-B1CF-F361AE83C800" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="No" AffectNoteBody="Yes" AffectFade="No">
             <BorderThickness>1</BorderThickness>
