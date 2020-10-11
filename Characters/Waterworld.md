@@ -115,3 +115,168 @@ really in our nature to understand that.
 
 
 
+----------
+after phone chat
+
+* character end fantastically powerful and wealthy. (yeah, I can dig it)
+* Think about weird ways of knowing / casting spells
+  - since there's a time-roving agent (the PC?), if I need, say, breath underwater,
+    can suddenly find that in a ring, or a potion appears on my belt, or
+    someone portals in (older/younger looking grumpy but also like the PC), 
+    casts it, and then portals out.
+* Will be aging at different rates - start of adventure PC will be older than at
+  the end, living outside of this time line. The timelines are broad
+* Patron meet-cute - at the end of a generally unsuccesful adventure - not
+  disasterous.  "The bag of gold *just* slipped out of my hands into the lava"
+  or "if I'd just been a little faster, Oleg wouldn't have lost a hand and we
+  wouldn't have to pay for a replacement"
+  "here let me tell you a little bit about time", camera pulls away with them
+  chatting by a campfire.
+
+* Character is fundamentally selfish
+
+[ ] Flavorful magic item
+   - some kind of melee weapon.  Maybe an intelligent one? - that could tie in with
+     the patron
+
+[ ] who / Foods make you irratable or happy
+  - the younger one is omnivorous, "OMG something that's not rations!"
+  - the older Basil has become a bit of a food snob, given he's (presumably)
+    more successful in latter years.  And the closer it gets to the old days
+    of all there was were rations or nomming on monster bodies, the crankier
+    he gets.
+
+
+human(oid) - fine with human
+Some flavor of warlock, leaning hexblade, but I still need to research.
+
+* Basil Mosscoat
+  - human, from $PLACE
+  - hair color / style / vary depending on age and timeline
+* Chronomancer warlock
+  * Flavorful magic item
+
+https://docs.google.com/document/d/103qFVbYJd-nTELF__3xyXq32vX_5RBzzf2jQSmAhxs4/edit?usp=sharing
+
+----------
+
+10/10/2020 (saturday)
+
+Discord chat
+
+ZSimon as a ranger.
+
+those who show up make the rules
+
+main goal is to have fun.
+  - sweep the story along before and after.
+  - no predetermined outcome
+  - "world going down the drain"
+  - safety is important
+    - stay away from some topics
+    - sexual topics / abusive towards kids.
+    - trauma can be interesting to explore
+    - X in chat or message to fade to black
+    - any no-gos (nice ones)
+  - in a world called Orub
+    - sneak prievew would have seen this sketch in some form.
+    - not finely detailed
+  - maps
+    - islands moving around in this "ocean"
+    - forbidden lands
+      - mountains area - Nee-pon
+      - coloauqial - the pebbles
+      - most familiar with / from - Alderheart.  The island and the main city on
+        the island.  Gigantic forest with a tree that towers over the trees, and inside
+        this TOWERING tree lives an entire bustling city.  large island with small towns,
+        rugged forests, different regions, almost a conteinent in itself, not as
+        big as a ocntinent, large chunk of land 
+        everyone knows of the Heart of Aladerheart
+    - some other ideas - set the stage in the
+      - planet going down the drain. Big destorying the planet.
+      - "we circling around the drain?"  not entirely on hte wrong track
+      - there's a major problem, and we find outselves in the path of needing to
+        do something about it.  A guild you will all work for.  options either 
+        work for it, or enlisted in session 1.  Can talk about together.       
+        Want to design that they're ready to adventure, be assigned to do things and
+        go do them.
+      - mikey: have physically connected twins as a player character?
+        - shannon/mikey twins?  now conjoined twins?
+    - 9 sessions not a lot of session to slowly develop nuance in a character and
+      progress. What are you playing for, and where you aiming to get.
+      - if a place to grow to, I wouldn't waste time.
+      - if imaptient to go to patience, don't wait for season 5
+    - don't expect all players will be as involved in moving characters forward,
+      hard thing to move it through a story arc while improving through several
+      story arcs.  Step will move the main story arc along. We don't have to do
+      much aside from RP.  If folks just want to play straight all the way 
+      through.  Need to be intentional if moving, and make charater moments with
+      other players
+  - big disaster, specific assignments to unwind the disaster, from there we'll
+    uncover an even bigger problem, that you might or might not do anything about
+    and then we're done.
+  - more idea of progression, be "a new one-shot every week"  "and now you're
+    here", and several fun mini-adventures, in wildly different places, in Orub and
+    elsewhere in the multiverse. in the beginning, just move through setup assignments
+  - any place or idea want to play within. think of favorite movies 
+    - settings, scenes, shows.
+  - pull up a thing real quick
+
+name of a thinkg I found.  Bibbi Bonkers and the Meat Factory.
+Fizzle Blimps in Sugar Land
+
+"are you speaking this into existance"
+
+
+* 5e rules, keep it flexible.
+  - races / classes / non-standard materials is in-pla
+  - want to keep it balanced, but more on story side
+  - come up with flaws for characters
+  - character death?  PvP?
+    - going to be lighter / not grimdark, the world isn't trying to kill the characters
+      (necessarily)
+    - move level fast. won't have time to learn ins and outs. won't level
+      monsters as fast.  If get to 14/16ish, don't know how to weave the abilities
+      together. (16?  eep)
+    - go with sessions unless nobody is showing up. Not expecting everyone will
+      make it every saturady, and keep moving. and not waste time explaining.
+    - race rules - using more of the ancestry and culture trait.
+    - make race on what you want to look like
+    - and pick stats on what you want.
+    - e.g. add +2 to one thing and +1 to another. So not building in dumb or bad
+      assumptions.
+    - prescribe to handle some of the non-numerical traits.
+    - pick non-physical traits. 
+    - shannon has a flying broomstick
+    - use things given like candy, assume in a candy factory - get money, spend it.
+  - think about what will make this time fun
+  - 'stepmarches'
+  - hope we get into some situations where Waldowski is super snarky and will just happen
+  
+
+  - [X] 4th level?
+  - [X] pick feet or ASI - 
+  - [ ] roll?  Standard array / point buy?
+
+There is an event going on, at a local town, horse-shire.  A wedding going on.
+All invited.  A big wedding.
+  - skyfire consulting
+  - "our parents case may be re-opening", doing side jobs. "hire the weird twins"
+  - "the twins" b/c they like our services.
+
+Basil is a guest
+  - do tink about food/msuic (and security) about that side of the event.
+  - where we'll be started.  A whole-day celebration. 
+  - Claude and Claudine
+
+Rolling
+  10
+  10
+  11
+  11
+  11
+  15
+
+- [ ] fill out character sheet.  Do need to share creation and changes whenever
+      made.  Also tracking towards scenarios that something new you got.
+      
