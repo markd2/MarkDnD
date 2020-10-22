@@ -6,146 +6,67 @@ Reverse chronology
 # Session 3 - Dinner is Served
 
 
-<div style="float: right">
-  ![](assets/gwatney-token.png)
-</div>
-The party enters the tavern, greeted by a Dwarf by the kitchen - "Welcome to Gwatney's!  
-Have a drink!  Dinner coming up soon!", seeing some tables pushed together, seating about 8.
 
-<div style="float: left">
-  ![](assets/elf-token.png)
-</div>
+<img align="right" src="./assets/gwatney-token.png" />
+
+The party enters the tavern, greeted by a Dwarf standing by the kitchen door - "Welcome to Gwatney's!   Have a drink!  Dinner coming up soon!", seeing some tables pushed together, seating about 8.
+
+<img align="left" src="./assets/elf-token.png" />
 Behind the bar, a tall thin (young) Elf, very well dressed.  Nervous.
 
-Bargain orders an Aqua Fresca something.  Tilson turns sheet white, visibly frightened.
-"We don't mention... _her_ around here" (glances towards kitchen), can I get you anything?
+Bargain orders an Aqua Fresca something.  Tilson turns sheet white, visibly frightened. "We don't mention... _her_ around here" (glances towards kitchen), can I get you anything?
 
 Mui: "ChocolateMilk" Sam: "Gin and Tonic" simultaneously,
 
-Tilson makes a combination of chocolate (sour) milk with gin and tonic and gives it to 
-Bargain and Sam.  Jessica has straight gin.  Mui has water.  
-Laeryn has a pumpkin spice latte.  Tilson boils the coffee water with his hands.
+Tilson makes a combination of chocolate (sour) milk with gin and tonic and gives it to  Bargain and Sam.  Jessica has straight gin.  Mui has water.   Laeryn has a pumpkin spice latte.  Tilson boils the coffee water with his hands.
 
-<div style="float: left">
-  ![](assets/yansha-token.png)
-</div>
-Yansha (Orlova), town guard, comes in, gets an ale, thanks the party, and engages in some
-small-talk.  Bargain relates the story of his village being overrun by Bugbears Mounted
-on Giant Spiders.
+<img align="left" src="./assets/yansha-token.png" />
+Yansha (Orlova), town guard, comes in, gets an ale, thanks the party, and engages in some small-talk.  Bargain relates the story of his village being overrun by Bugbears Mounted on Giant Spiders.
 
-<div style="float: right">
-  ![](assets/koebel-token.png)
-</div>
-Before dinner arrived, Daniel Owensmane, a human in priestly purple vestments, fastidious. Pink
-hair.  Glasses.  Unblinking stare.  He's a priest of Merrika, the patron goddess of harvest and
-luck. (The temple in Orlane is the same denomination).  "I heard something strange happened 
-in Orlane.  We haven't really heard from them for six months."  (Yansha looks askance.  "You
-were receiving visitors from them every other week or so"  "oh. I guess you're.. right"). 
-He reminds you of the post-Repitle-God confusion you saw in Orlane.
-Sam surreptitiously casts Lessor Restoration which unscrambles his brain a little bit.  He
-tended to stare at the kitchen door.
+<img align="right" src="./assets/koebel-token.png" />
+Before dinner arrived, Daniel Owensmane, a human in priestly purple vestments, fastidious. Pink hair.  Glasses.  Unblinking stare.  He's a priest of Merrika, the patron goddess of harvest and luck. (The temple in Orlane is the same denomination).  "I heard something strange happened in Orlane.  We haven't really heard from them for six months."  (Yansha looks askance.  "You were receiving visitors from them every other week or so"  "oh. I guess you're.. right").  He reminds you of the post-Repitle-God confusion you saw in Orlane. Sam surreptitiously casts Lessor Restoration which unscrambles his brain a little bit.  He tended to stare at the kitchen door.
 
 Laeryn feels a bit of weirdness. Just a brief bit of discomfort that fades.
 
-Tilson goes to the back and brings out the salad course - greens, with short noodles. Basalmic
-dressing.  It's fantastic.  Bargain loses his lunch in front of the kitchen.
+Tilson goes to the back and brings out the salad course - greens, with short noodles. Basalmic dressing.  It's fantastic.  Bargain loses his lunch in front of the kitchen.
 
-<div style="float: left">
-  ![](assets/borq-token.png)
-</div>
-Tall Tabaxi, glorious black fur, walks in, carrying a lot of gear.  Tilson goes
-"Hey Moose, thanks for coming by on short notice" and tosses him a small bag of coins.
-Moose takes a seat on the stage, unpacks a lute, violin, and some bagpipes, and starts playing
-some really nice background music.  Pretty amazing doing multiple-voice counterpart on a lute.
+<img align="left" src="./assets/borq-token.png" />
+Tall Tabaxi, glorious black fur, walks in, carrying a lot of gear.  Tilson goes "Hey Moose, thanks for coming by on short notice" and tosses him a small bag of coins. Moose takes a seat on the stage, unpacks a lute, violin, and some bagpipes, and starts playing some really nice background music.  Pretty amazing doing multiple-voice counterpart on a lute.
 
-Laeryn again feels a bit of weirdness.  Stronger than last time. Sam feels it too.  Kind of 
-a "someone walking over your grave" feeling.  Party freaks out, and starts leaving.  Moose,
-hurt that folks are walking out, asks "what's wrong"  "something weird is going on!"  "oh! That's
-just how Gwatney makes dinner.  You get used to it."
+Laeryn again feels a bit of weirdness.  Stronger than last time. Sam feels it too.  Kind of a "someone walking over your grave" feeling.  Party freaks out, and starts leaving.  Moose, hurt that folks are walking out, asks "what's wrong"  "something weird is going on!"  "oh! That's just how Gwatney makes dinner.  You get used to it."
 
-Tilson comes out with the soup course - creamy lobster bisque style, with chunks of
-gnocchi.  Amazing.
+Tilson comes out with the soup course - creamy lobster bisque style, with chunks of gnocchi.  Amazing.
 
-Somewhere along the line, Bargain runs towards the kitchen door, and is rebuffed... by a door
-(it doesn't move at all). And loses his lunch.  Tilson cleans it up the mess magically.
+Somewhere along the line, Bargain runs towards the kitchen door, and is rebuffed... by a door (it doesn't move at all). And loses his lunch.  Tilson cleans it up the mess magically.
 
-Somewhere along the line, Sam detects magic.  Sees the spellcasters with their usual
-faint glow of magic-capacity, including Tilson the bartender and waiter.  Moose has a similar
-glow. His instruments glow noticeably, so he's definitely getting some magical amplification
-for the background music (enchantment).  The bar glows noticeably (transmutation).
-The kitchen door glows _so_ brightly and intensely that Sam couldn't tell the school.
+Somewhere along the line, Sam detects magic.  Sees the spellcasters with their usual faint glow of magic-capacity, including Tilson the bartender and waiter.  Moose has a similar glow. His instruments glow noticeably, so he's definitely getting some magical amplification for the background music (enchantment).  The bar glows noticeably (transmutation). The kitchen door glows _so_ brightly and intensely that Sam couldn't tell the school.
 
-Somewhere along the line, when Tilson is in the kitchen, Jessica raids
-the bar, discovering it's basically a TARDIS of alcohol. Jessica
-acquires some turnip spirits, in a decorative commemorative
-turnip-shaped bottle.
+Somewhere along the line, when Tilson is in the kitchen, Jessica raids the bar, discovering it's basically a TARDIS of alcohol. Jessica acquires some turnip spirits, in a decorative commemorative turnip-shaped bottle.
 
-Yansha is loosening up - talking about some ruins found outside of town a week or two ago. 
-Some teens were out
-exploring out in the forest (Castle-Lantern, and Nextia especially are frontier towns) and found
-them.  No one has returned yet - the forest is thick, and the terrain difficult.
+Yansha is loosening up - talking about some ruins found outside of town a week or two ago.  Some teens were out exploring out in the forest (Castle-Lantern, and Nextia especially are frontier towns) and found them.  No one has returned yet - the forest is thick, and the terrain difficult.
 
-<div style="float: right">
-  ![](assets/mayor-token.png)
-</div>
-Wilson Failbood, the Castle-Lantern mayor walks right before the main course.  He thanks
-the party as well, passively-aggressively needling Yansha and the town guard. Jessica calls
-him out on it.
+<img align="right" src="./assets/mayor-token.png" />
+Wilson Failbood, the Castle-Lantern mayor walks right before the main course.  He thanks the party as well, passively-aggressively needling Yansha and the town guard. Jessica him out on it.
 
-Discussion returns to the ruins.  "You figured out how to drive that giant drill, right?" 
-(yes! Yes, we're total experts!)  "Maybe you can take some of us out there".
-Wilson doesn't really believe the ruins are interesting or relevant.  Yansha counters with
-"That damn undead-disgorging machine. It's point right. at. the. ruins. They've got to be
-connected"  The party sides with Yansha because Wilson is a total tool.
+Discussion returns to the ruins.  "You figured out how to drive that giant drill, right?"  (yes! Yes, we're total experts!)  "Maybe you can take some of us out there". Wilson doesn't really believe the ruins are interesting or relevant.  Yansha counters with "That damn undead-disgorging machine. It's point right. at. the. ruins. They've got to be connected"  The party sides with Yansha because Wilson is a total tool.
 
-Before the main course, the entire party feels a really strong burst
-of magic, coming from the kitchen, as Tilson brings out the main
-course - grilled meat, some veggies, and a birds-nest of spaghetti
-(perfectly made).  Jessica consumes turnip spirits and vectors her
-food onto Sam's and Bargain's plates.
+Before the main course, the entire party feels a really strong burst of magic, coming from the kitchen, as Tilson brings out the main course - grilled meat, some veggies, and a birds-nest of spaghetti (perfectly made).  Jessica consumes turnip spirits and vectors her food onto Sam's and Bargain's plates.
 
-Mayor Wilson excuses himself.  Sam privately relates an amusing anecdote (so it seems)
-but is actually giving him a dressing down about treating his subordinates better.
+Mayor Wilson excuses himself.  Sam privately relates an amusing anecdote (so it seems) but is actually giving him a dressing down about treating his subordinates better.
 
-As Tilson is cleaning up the table, Gwatney comes out, carrying a sack of something.
-"So, how did you like your dinner.  We appreciate all you have done for us this day.
-And now, dessert".
+As Tilson is cleaning up the table, Gwatney comes out, carrying a sack of something. "So, how did you like your dinner.  We appreciate all you have done for us this day. And now, dessert".
 
-Gwatney places a turnip on everyone's plate. Moose changes instruments. Gwatney starts
-casting some _intense_ magic, disassociating the turnips, and over the course of a minute or two
-reforms it into a baked-alaska style ice cream dessert, with sweet macaroni forming a
-scalloped edge. It's also amazing.  "Everything tonight has been made from turnip.  That's
-about all we can reliably get out here" (shrugging).  "It has been a tiring night, enjoy
-your dessert, and please come back soon!"  And he exits through the kitchen door.
+Gwatney places a turnip on everyone's plate. Moose changes instruments. Gwatney starts casting some _intense_ magic, disassociating the turnips, and over the course of a minute or two reforms it into a baked-alaska style ice cream dessert, with sweet macaroni forming ascalloped edge. It's also amazing.  "Everything tonight has been made from turnip.  That's about all we can reliably get out here" (shrugging).  "It has been a tiring night, enjoy your dessert, and please come back soon!"  And he exits through the kitchen door.
 
-Tilson makes last call.  Daniel leaves, returning to the temple. "that's ok, I don't need
-an escort back.  I grew up there - my mother was the priest. It's home".  Jessica asks
-for another bottle of turnip-derivative.  He smiles, goes in to the bar, opens a cabinet 
-deep within in.  "Hey, I'm stuck, can you pull me out?"  Looking over the bar, you can only see
-his feet sticking out from the shelves.  Jessica pulls him out.  Tilson dusts off the
-bottle of turnip liqueur, labeled with just a stylized turnip.  "I think you may enjoy
-this even more than the other stuff"
+Tilson makes last call.  Daniel leaves, returning to the temple. "that's ok, I don't need an escort back.  I grew up there - my mother was the priest. It's home".  Jessica asks for another bottle of turnip-derivative.  He smiles, goes in to the bar, opens a cabinet  deep within in.  "Hey, I'm stuck, can you pull me out?"  Looking over the bar, you can only see his feet sticking out from the shelves.  Jessica pulls him out.  Tilson dusts off the bottle of turnip liqueur, labeled with just a stylized turnip.  "I think you may enjoy this even more than the other stuff"
 
-Moose wraps up his set.  "If you liked what you heard, remember me, Pamelmousse LaCroix!",
-and starts packing up his gear.  He squeezes Yansha's hand on the way out.
-Yansha invites the party to stay in the CastleLatern Inn.  The former innkeeper was killed
-by the Boring Machine, but Moose runs the front desk.
+Moose wraps up his set.  "If you liked what you heard, remember me, Pamelmousse LaCroix!",and starts packing up his gear.  He squeezes Yansha's hand on the way out. Yansha invites the party to stay in the CastleLatern Inn.  The former innkeeper was killed by the Boring Machine, but Moose runs the front desk.
 
-Heading over, the party gets keys to their rooms.  Mui and Bargain do Monk Things in the
-beergarden (currently piles of tables and crates).  Moose joins in by throwing magic
-daggers at them Matrix-Bullet-Time-Style.  Impressive performances by Mui and Bargain.
+Heading over, the party gets keys to their rooms.  Mui and Bargain do Monk Things in the beergarden (currently piles of tables and crates).  Moose joins in by throwing magic daggers at them Matrix-Bullet-Time-Style.  Impressive performances by Mui and Bargain.
 
-Long rest. Everyone recharges. Breakfast the next morning. Jessica acquires the majority of
-the bacon, and talks Moose out of a giant sandwich for the road.  The party discovers that
-Moose was planning on eventually buying the Inn and turning it into a night club. "I can
-perform here.  My friends can perform here".  He's really appreciative of the very generous
-tips from folks checking out.
+Long rest. Everyone recharges. Breakfast the next morning. Jessica acquires the majority ofthe bacon, and talks Moose out of a giant sandwich for the road.  The party discovers that Moose was planning on eventually buying the Inn and turning it into a night club. "I can perform here.  My friends can perform here".  He's really appreciative of the very generous tips from folks checking out.
 
-Montage swinging by the Guard House. Yansha giving instructions to a lieutenant.  "and don't 
-forget to pay this this and this by mid-week, oh! and make sure the cells are turned over
-before the weekend."  She's almost giddy hearing how generous the party was towards
-Moose.  "That'll get us so much closer", and then grabs her pack and bustles out towards the
-Borer.
+Montage swinging by the Guard House. Yansha giving instructions to a lieutenant.  "and don't forget to pay this this and this by mid-week, oh! and make sure the cells are turned over before the weekend."  She's almost giddy hearing how generous the party was towards Moose.  "That'll get us so much closer", and then grabs her pack and bustles out towards the Borer.
 
 
 ----------
