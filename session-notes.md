@@ -6,11 +6,11 @@ Reverse chronology
 # Session 3 - Dinner is Served
 
 
-![](asset/gwatney-token.png)
+![](assets/gwatney-token.png)
 The party enters the tavern, greeted by a Dwarf by the kitchen - "Welcome to Gwatney's!  
 Have a drink!  Dinner coming up soon!", seeing some tables pushed together, seating about 8.
 
-![](asset/elf-token.png)
+![](assets/elf-token.png)
 Behind the bar, a tall think (young) Elf, very well dressed.  Nervous.
 
 Bargain orders an Aqua Fresca something.  Tilson turns sheet white, visibly frightened.
@@ -22,12 +22,12 @@ Tilson makes a combination of chocolate (sour) milk with gin and tonic and gives
 Bargain and Sam.  Jessica has straight gin.  Mui has water.  
 Laeryn has a pumpkin spice latte.  Tilson boils the coffee water with his hands.
 
-![](asset/yansha-token.png)
+![](assets/yansha-token.png)
 Yansha (Orlova), town guard, comes in, gets an ale, thanks the party, and engages in some
 small-talk.  Bargain relates the story of his village being overrun by Bugbears Mounted
 on Giant Spiders.
 
-![](asset/koebel-token.png)
+![](assets/koebel-token.png)
 Before dinner arrived, Daniel Owensmane, a human in priestly purple vestments, fastidious. Pink
 hair.  Glasses.  Unblinking stare.  He's a priest of Merrika, the patron goddess of harvest and
 luck. (The temple in Orlane is the same denomination).  "I heard something strange happened 
@@ -42,7 +42,7 @@ Laeryn feels a bit of weirdness. Just a brief bit of discomfort that fades.
 Tilson goes to the back and brings out the salad course - greens, with short noodles. Basalmic
 dressing.  It's fantastic.  Bargain loses his lunch in front of the kitchen.
 
-![](asset/borq-token.png)
+![](assets/borq-token.png)
 A Tall Tabaxi, glorious black fur, walks in, carrying a lot of gear.  Tilson goes
 "Hey Moose, thanks for coming by on short notice" and tosses him a small bag of coins.
 Moose takes a seat on the stage, unpacks a lute, violin, and some bagpipes, and starts playing
@@ -75,7 +75,7 @@ Some teens were out
 exploring out in the forest (Castle-Lantern, and Nextia especially are frontier towns) and found
 them.  No one has returned yet - the forest is thick, and the terrain difficult.
 
-![](asset/mayor-token.png)
+![](assets/mayor-token.png)
 Wilson Failbood, the Castle-Lantern mayor walks right before the main course.  He thanks
 the party as well, passively-aggressively needling Yansha and the town guard. Jessica calls
 him out on it.
