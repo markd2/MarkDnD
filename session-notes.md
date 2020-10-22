@@ -6,10 +6,10 @@ Reverse chronology
 # Session 3 - Dinner is Served
 
 
-<div style="float: right">
-  ![](assets/gwatney-token.png)
-</div>
-The party enters the tavern, greeted by a Dwarf by the kitchen - "Welcome to Gwatney's!  
+
+<img align="right" src="./assets/gwatney-token.png" />
+
+The party enters the tavern, greeted by a Dwarf standing by the kitchen door - "Welcome to Gwatney's!  
 Have a drink!  Dinner coming up soon!", seeing some tables pushed together, seating about 8.
 
 <div style="float: left">
