@@ -46,7 +46,7 @@ Somewhere along the line, when Tilson is in the kitchen, Jessica raids the bar, 
 Yansha is loosening up - talking about some ruins found outside of town a week or two ago.  Some teens were out exploring out in the forest (Castle-Lantern, and Nextia especially are frontier towns) and found them.  No one has returned yet - the forest is thick, and the terrain difficult.
 
 <img align="right" src="./assets/mayor-token.png" />
-Wilson Failbood, the Castle-Lantern mayor walks right before the main course.  He thanks the party as well, passively-aggressively needling Yansha and the town guard. Jessica him out on it.
+Wilson Failbood, the Castle-Lantern mayor walks right before the main course.  He thanks the party as well, passively-aggressively needling Yansha and the town guard. Jessica calls him out on it.
 
 Discussion returns to the ruins.  "You figured out how to drive that giant drill, right?"  (yes! Yes, we're total experts!)  "Maybe you can take some of us out there". Wilson doesn't really believe the ruins are interesting or relevant.  Yansha counters with "That damn undead-disgorging machine. It's point right. at. the. ruins. They've got to be connected"  The party sides with Yansha because Wilson is a total tool.
 
