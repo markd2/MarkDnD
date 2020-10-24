@@ -156,7 +156,8 @@ Some flavor of warlock, leaning hexblade, but I still need to research.
 * Chronomancer warlock
   * Flavorful magic item
 
-https://docs.google.com/document/d/103qFVbYJd-nTELF__3xyXq32vX_5RBzzf2jQSmAhxs4/edit?usp=sharing
+google doc with stuff
+  https://docs.google.com/document/d/103qFVbYJd-nTELF__3xyXq32vX_5RBzzf2jQSmAhxs4/edit?usp=sharing
 
 ----------
 
@@ -280,3 +281,36 @@ Rolling
 - [ ] fill out character sheet.  Do need to share creation and changes whenever
       made.  Also tracking towards scenarios that something new you got.
       
+==================================================
+Asked Realized Basil never picked a magic item or a weapon - thinking
+of combining the two - the Marcus Cole Mimbari Fighting Pike -
+https://www.youtube.com/watch?v=cnT1sQv1AGk at 1:03 (it's literally a
+one second scene with it expanding).  It'd be like a quarterstaff when
+extended (and could have some fun "exerts force when expanding".  A +1
+would be nice too.
+
+quarterstaff
+
+1d6 bludgeoning, versatile (2-handed) 1d8 
+
+  maybe thunderwave once a day.
+
+Level 4 - 5 spells - second level.  3 cantrips + 3 from tome past
+
+Cantrips
+  - magehand
+  - prestidigitation
+  - chill touch
+  - message
+  - vicous mockery
+  - one more
+
+spells:
+  - misty step
+  - spider climb
+  - fortune's favor
+  - augurey
+  - cloud of daggers
+
+
+
