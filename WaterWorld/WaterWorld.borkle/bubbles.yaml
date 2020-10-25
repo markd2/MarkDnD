@@ -2,7 +2,7 @@
   text: Fronts
   formattingOptions: []
   position:
-  - 1.65340234375e+3
+  - 1.452015625e+3
   - -3.218046875e+2
   width: 5e+1
   connections:
@@ -14,7 +14,7 @@
   text: Arcade
   formattingOptions: []
   position:
-  - 1.53964453125e+3
+  - 1.3382578125e+3
   - -2.6791796875e+2
   width: 5e+1
   connections:
@@ -28,7 +28,7 @@
   text: The Factor
   formattingOptions: []
   position:
-  - 1.72115625e+3
+  - 1.51976953125e+3
   - -2.5011328125e+2
   width: 1e+2
   connections:
@@ -44,7 +44,7 @@
   text: anti-machinery
   formattingOptions: []
   position:
-  - 1.461375e+3
+  - 1.25998828125e+3
   - -1.917578125e+2
   width: 1e+2
   connections:
@@ -56,7 +56,7 @@
   text: accumulates power
   formattingOptions: []
   position:
-  - 1.69275e+3
+  - 1.49136328125e+3
   - -2.008671875e+2
   width: 1e+2
   connections:
@@ -73,7 +73,7 @@
     rangeStart: 25
     rangeLength: 2
   position:
-  - 1.68779296875e+3
+  - 1.48640625e+3
   - -1.2687109375e+2
   width: 1.1e+2
   connections:
@@ -85,7 +85,7 @@
   text: Use that power for good
   formattingOptions: []
   position:
-  - 1.786921875e+3
+  - 1.58553515625e+3
   - -1.926484375e+2
   width: 1e+2
   connections:
@@ -97,9 +97,9 @@
   text: Fronts
   formattingOptions: []
   position:
-  - 2.510390625e+2
-  - 3.447734375e+2
-  width: 1e+2
+  - 2.3319921875e+2
+  - 4.5140234375e+2
+  width: 5e+1
   connections:
     indexes:
     - location: 9
@@ -109,56 +109,58 @@
   text: Arcade
   formattingOptions: []
   position:
-  - 1.5209765625e+2
-  - 4.3283984375e+2
-  width: 1e+2
+  - 1.6152734375e+2
+  - 5.0703125e+2
+  width: 6e+1
   connections:
     indexes:
     - location: 8
       length: 1
     - location: 14
       length: 2
+    - location: 17
+      length: 1
   _effectiveHeight: 1.4e+1
 - ID: 10
   text: The Factor
   formattingOptions: []
   position:
-  - 3.58484375e+2
-  - 4.3113671875e+2
-  width: 1e+2
+  - 2.977265625e+2
+  - 5.0716796875e+2
+  width: 7e+1
   connections:
     indexes:
     - location: 8
       length: 1
-    - location: 11
-      length: 2
+    - location: 12
+      length: 1
   _effectiveHeight: 1.4e+1
 - ID: 11
   text: Use power for good
   formattingOptions: []
   position:
-  - 4.735546875e+2
-  - 4.890546875e+2
-  width: 1e+2
+  - 3.6196875e+2
+  - 6.065546875e+2
+  width: 7e+1
   connections:
     indexes:
-    - location: 10
+    - location: 12
       length: 1
   _effectiveHeight: 2.8e+1
 - ID: 12
   text: Accumulates power
   formattingOptions: []
   position:
-  - 3.5464453125e+2
-  - 5.3318359375e+2
-  width: 1e+2
+  - 2.6687109375e+2
+  - 5.4976953125e+2
+  width: 1.2e+2
   connections:
     indexes:
     - location: 10
-      length: 1
+      length: 2
     - location: 13
       length: 1
-  _effectiveHeight: 2.8e+1
+  _effectiveHeight: 1.4e+1
 - ID: 13
   text: Power is good so long as we have it
   formattingOptions:
@@ -166,8 +168,8 @@
     rangeStart: 25
     rangeLength: 2
   position:
-  - 3.5330859375e+2
-  - 6.2012890625e+2
+  - 2.3429296875e+2
+  - 5.85078125e+2
   width: 1.1e+2
   connections:
     indexes:
@@ -178,8 +180,8 @@
   text: anti-machinery
   formattingOptions: []
   position:
-  - 1.0448046875e+2
-  - 4.9359375e+2
+  - 5.51015625e+1
+  - 5.425e+2
   width: 1e+2
   connections:
     indexes:
@@ -190,8 +192,8 @@
   text: dislike power concentration
   formattingOptions: []
   position:
-  - 2.0708984375e+2
-  - 5.263984375e+2
+  - 9.0453125e+1
+  - 5.8266015625e+2
   width: 1e+2
   connections:
     indexes:
@@ -204,23 +206,27 @@
   text: Head of Arcade is always suspect due to nature of job and the organization
   formattingOptions: []
   position:
-  - 1.5730078125e+2
-  - 5.947265625e+2
-  width: 1e+2
+  - 4.536328125e+1
+  - 6.3928125e+2
+  width: 1.5e+2
   connections:
     indexes:
     - location: 15
       length: 1
-  _effectiveHeight: 7e+1
+    - location: 113
+      length: 1
+  _effectiveHeight: 4.2e+1
 - ID: 17
   text: A.R.C.A.D.E Songs
   formattingOptions: []
   position:
-  - 2.03375e+2
-  - 7.8265625e+2
+  - 2.1594140625e+2
+  - 7.087890625e+2
   width: 9e+1
   connections:
     indexes:
+    - location: 9
+      length: 1
     - location: 18
       length: 3
   _effectiveHeight: 2.8e+1
@@ -228,8 +234,8 @@
   text: Coming Round The Mountain
   formattingOptions: []
   position:
-  - 9.02421875e+1
-  - 8.522109375e+2
+  - 7.4296875e+1
+  - 7.82609375e+2
   width: 1e+2
   connections:
     indexes:
@@ -242,8 +248,8 @@
   text: Humblewood is Falling Down
   formattingOptions: []
   position:
-  - 2.3500390625e+2
-  - 8.5709375e+2
+  - 1.9962890625e+2
+  - 7.86453125e+2
   width: 1e+2
   connections:
     indexes:
@@ -256,9 +262,9 @@
   text: Doggie in the Window
   formattingOptions: []
   position:
-  - 3.8466796875e+2
-  - 8.5362109375e+2
-  width: 1e+2
+  - 3.3637890625e+2
+  - 7.9017578125e+2
+  width: 8e+1
   connections:
     indexes:
     - location: 17
@@ -270,9 +276,9 @@
   text: Kia
   formattingOptions: []
   position:
-  - 6.2867578125e+2
+  - 5.1664453125e+2
   - 5.5578125e+1
-  width: 4e+1
+  width: 5e+1
   connections:
     indexes:
     - location: 22
@@ -282,7 +288,7 @@
   text: Bird Person
   formattingOptions: []
   position:
-  - 6.79109375e+2
+  - 5.67078125e+2
   - 1.1894140625e+2
   width: 8e+1
   connections:
@@ -294,8 +300,8 @@
   text: Academic
   formattingOptions: []
   position:
-  - 8.0757421875e+2
-  - 8.233203125e+1
+  - 6.5201171875e+2
+  - 6.765625e+1
   width: 7e+1
   connections:
     indexes:
@@ -306,8 +312,8 @@
   text: Religious
   formattingOptions: []
   position:
-  - 8.108203125e+2
-  - 1.18796875e+2
+  - 6.56453125e+2
+  - 1.0184375e+2
   width: 7e+1
   connections:
     indexes:
@@ -318,7 +324,7 @@
   text: Flies
   formattingOptions: []
   position:
-  - 7.6627734375e+2
+  - 6.5424609375e+2
   - 2.96875e+1
   width: 4e+1
   connections:
@@ -327,12 +333,12 @@
       length: 1
   _effectiveHeight: 1.4e+1
 - ID: 26
-  text: Royal
+  text: Royal?
   formattingOptions: []
   position:
-  - 6.8370703125e+2
+  - 5.7167578125e+2
   - 2.189453125e+1
-  width: 4e+1
+  width: 5e+1
   connections:
     indexes:
     - location: 21
@@ -342,20 +348,22 @@
   text: Giz
   formattingOptions: []
   position:
-  - 6.36109375e+2
+  - 5.2383984375e+2
   - 2.114453125e+2
-  width: 5e+1
+  width: 6e+1
   connections:
     indexes:
     - location: 28
       length: 3
+    - location: 111
+      length: 1
   _effectiveHeight: 1.4e+1
 - ID: 28
   text: Half-orc
   formattingOptions: []
   position:
-  - 6.9960546875e+2
-  - 2.6993359375e+2
+  - 5.8651171875e+2
+  - 2.618671875e+2
   width: 5e+1
   connections:
     indexes:
@@ -366,8 +374,8 @@
   text: Street Urchin
   formattingOptions: []
   position:
-  - 7.0926953125e+2
-  - 2.0182421875e+2
+  - 5.909765625e+2
+  - 1.7186328125e+2
   width: 9e+1
   connections:
     indexes:
@@ -378,7 +386,7 @@
   text: Druid
   formattingOptions: []
   position:
-  - 7.6168359375e+2
+  - 6.4965234375e+2
   - 2.534609375e+2
   width: 4e+1
   connections:
@@ -392,7 +400,7 @@
   text: Bear
   formattingOptions: []
   position:
-  - 8.64046875e+2
+  - 7.52015625e+2
   - 2.483203125e+2
   width: 4e+1
   connections:
@@ -404,7 +412,7 @@
   text: Giant Badger
   formattingOptions: []
   position:
-  - 8.549921875e+2
+  - 7.429609375e+2
   - 2.952578125e+2
   width: 9e+1
   connections:
@@ -416,8 +424,8 @@
   text: '''Dine'
   formattingOptions: []
   position:
-  - 6.231796875e+2
-  - 3.68609375e+2
+  - 5.07890625e+2
+  - 3.797578125e+2
   width: 6e+1
   connections:
     indexes:
@@ -432,7 +440,7 @@
   text: Halfling
   formattingOptions: []
   position:
-  - 6.965234375e+2
+  - 5.844921875e+2
   - 3.877109375e+2
   width: 6e+1
   connections:
@@ -444,9 +452,9 @@
   text: Some kind of caster
   formattingOptions: []
   position:
-  - 6.804296875e+2
-  - 4.3094921875e+2
-  width: 1e+2
+  - 6.02609375e+2
+  - 4.2715625e+2
+  width: 7e+1
   connections:
     indexes:
     - location: 33
@@ -458,9 +466,9 @@
   text: Misty Step
   formattingOptions: []
   position:
-  - 8.1135546875e+2
-  - 4.3696875e+2
-  width: 1e+2
+  - 6.9905859375e+2
+  - 4.374921875e+2
+  width: 7e+1
   connections:
     indexes:
     - location: 35
@@ -472,9 +480,9 @@
   text: True Strike for crowd control
   formattingOptions: []
   position:
-  - 7.9872265625e+2
+  - 6.8669140625e+2
   - 4.829296875e+2
-  width: 1e+2
+  width: 9e+1
   connections:
     indexes:
     - location: 35
@@ -484,7 +492,7 @@
   text: Witches outfit
   formattingOptions: []
   position:
-  - 6.6792578125e+2
+  - 5.5589453125e+2
   - 3.177265625e+2
   width: 9e+1
   connections:
@@ -496,7 +504,7 @@
   text: Vain about hat
   formattingOptions: []
   position:
-  - 6.9415234375e+2
+  - 5.8212109375e+2
   - 3.4640234375e+2
   width: 9e+1
   connections:
@@ -508,7 +516,7 @@
   text: moves Claude too
   formattingOptions: []
   position:
-  - 8.5030078125e+2
+  - 7.3826953125e+2
   - 4.0666015625e+2
   width: 1.1e+2
   connections:
@@ -517,11 +525,11 @@
       length: 1
   _effectiveHeight: 1.4e+1
 - ID: 41
-  text: Bandits?
+  text: Hunting Bandits?
   formattingOptions: []
   position:
-  - 6.7152734375e+2
-  - 5.46421875e+2
+  - 5.484296875e+2
+  - 5.455859375e+2
   width: 7e+1
   connections:
     indexes:
@@ -529,13 +537,13 @@
       length: 1
     - location: 43
       length: 1
-  _effectiveHeight: 1.4e+1
+  _effectiveHeight: 2.8e+1
 - ID: 42
-  text: Seen the metal thing before
+  text: Seen the metal can before
   formattingOptions: []
   position:
-  - 7.838671875e+2
-  - 5.4825e+2
+  - 6.4638671875e+2
+  - 5.4926953125e+2
   width: 1.6e+2
   connections:
     indexes:
@@ -548,8 +556,8 @@
   text: Claude
   formattingOptions: []
   position:
-  - 6.2786328125e+2
-  - 6.3534375e+2
+  - 5.1231640625e+2
+  - 6.342578125e+2
   width: 1e+2
   connections:
     indexes:
@@ -562,7 +570,7 @@
   text: Halfling
   formattingOptions: []
   position:
-  - 6.7926953125e+2
+  - 5.6723828125e+2
   - 6.8660546875e+2
   width: 1e+2
   connections:
@@ -574,9 +582,9 @@
   text: Some kind of caster
   formattingOptions: []
   position:
-  - 7.751640625e+2
-  - 6.2312890625e+2
-  width: 1e+2
+  - 6.628828125e+2
+  - 6.21359375e+2
+  width: 7e+1
   connections:
     indexes:
     - location: 43
@@ -588,8 +596,8 @@
   text: invisibility for crowd control
   formattingOptions: []
   position:
-  - 8.9562890625e+2
-  - 5.936953125e+2
+  - 7.749921875e+2
+  - 5.9917578125e+2
   width: 1e+2
   connections:
     indexes:
@@ -600,7 +608,7 @@
   text: mistystep makes nauseous
   formattingOptions: []
   position:
-  - 8.8227734375e+2
+  - 7.7024609375e+2
   - 6.71734375e+2
   width: 1e+2
   connections:
@@ -612,9 +620,9 @@
   text: GI Jane
   formattingOptions: []
   position:
-  - 1.071171875e+3
-  - 3.798828125e+1
-  width: 1e+2
+  - 9.4003515625e+2
+  - 1.0631640625e+2
+  width: 6e+1
   connections:
     indexes:
     - location: 49
@@ -624,8 +632,8 @@
   text: Head of A.R.C.A.D.E.
   formattingOptions: []
   position:
-  - 1.20251171875e+3
-  - 7.440234375e+1
+  - 1.057859375e+3
+  - 1.30171875e+2
   width: 1e+2
   connections:
     indexes:
@@ -636,8 +644,8 @@
   text: Elephantoid
   formattingOptions: []
   position:
-  - 1.20473046875e+3
-  - 2.326953125e+1
+  - 1.0721953125e+3
+  - 8.0921875e+1
   width: 1e+2
   connections:
     indexes:
@@ -648,8 +656,8 @@
   text: Tortle Minister
   formattingOptions: []
   position:
-  - 1.08458984375e+3
-  - 1.5425390625e+2
+  - 9.4279296875e+2
+  - 2.1190625e+2
   width: 1e+2
   connections:
     indexes: []
@@ -658,9 +666,9 @@
   text: Eddie Bauer
   formattingOptions: []
   position:
-  - 1.0944921875e+3
-  - 2.1492578125e+2
-  width: 1e+2
+  - 9.3612109375e+2
+  - 2.9308203125e+2
+  width: 9e+1
   connections:
     indexes:
     - location: 53
@@ -670,8 +678,8 @@
   text: Tabaxi Female
   formattingOptions: []
   position:
-  - 1.22579296875e+3
-  - 1.967578125e+2
+  - 1.08347265625e+3
+  - 2.7576171875e+2
   width: 9e+1
   connections:
     indexes:
@@ -682,8 +690,8 @@
   text: Royalty from Alderhart
   formattingOptions: []
   position:
-  - 1.22942578125e+3
-  - 2.3645703125e+2
+  - 1.08710546875e+3
+  - 3.154609375e+2
   width: 8e+1
   connections:
     indexes:
@@ -694,9 +702,9 @@
   text: River
   formattingOptions: []
   position:
-  - 1.08152734375e+3
-  - 3.4390625e+2
-  width: 7e+1
+  - 9.391015625e+2
+  - 4.296796875e+2
+  width: 5e+1
   connections:
     indexes:
     - location: 57
@@ -712,9 +720,9 @@
   text: Tabaxi Female
   formattingOptions: []
   position:
-  - 1.170796875e+3
-  - 3.13875e+2
-  width: 1e+2
+  - 1.00280078125e+3
+  - 3.9090625e+2
+  width: 9e+1
   connections:
     indexes:
     - location: 56
@@ -726,9 +734,9 @@
   text: Orange
   formattingOptions: []
   position:
-  - 1.2848515625e+3
-  - 3.4543359375e+2
-  width: 1e+2
+  - 1.10950390625e+3
+  - 3.9178515625e+2
+  width: 5e+1
   connections:
     indexes:
     - location: 57
@@ -738,20 +746,20 @@
   text: From the Pebbles
   formattingOptions: []
   position:
-  - 1.17908984375e+3
-  - 4.08234375e+2
-  width: 1e+2
+  - 1.08062109375e+3
+  - 4.6842578125e+2
+  width: 1.1e+2
   connections:
     indexes:
     - location: 56
       length: 1
-  _effectiveHeight: 2.8e+1
+  _effectiveHeight: 1.4e+1
 - ID: 60
   text: Orub
   formattingOptions: []
   position:
-  - 2.480234375e+2
-  - 1.244453125e+2
+  - 1.8461328125e+2
+  - 1.5684765625e+2
   width: 4e+1
   connections:
     indexes:
@@ -770,8 +778,8 @@
   text: Alderhart Island
   formattingOptions: []
   position:
-  - 1.437734375e+2
-  - 1.843828125e+2
+  - 6.669140625e+1
+  - 2.0335546875e+2
   width: 1e+2
   connections:
     indexes:
@@ -784,8 +792,8 @@
   text: The City
   formattingOptions: []
   position:
-  - 1.15734375e+2
-  - 2.385859375e+2
+  - 3.865234375e+1
+  - 2.5755859375e+2
   width: 6e+1
   connections:
     indexes:
@@ -796,8 +804,8 @@
   text: Horshire
   formattingOptions: []
   position:
-  - 1.9430078125e+2
-  - 2.38953125e+2
+  - 1.1721875e+2
+  - 2.5792578125e+2
   width: 6e+1
   connections:
     indexes:
@@ -812,8 +820,8 @@
     Tavern'
   formattingOptions: []
   position:
-  - 1.7324609375e+2
-  - 2.8437890625e+2
+  - 9.61640625e+1
+  - 3.033515625e+2
   width: 1e+2
   connections:
     indexes:
@@ -828,8 +836,8 @@
   text: The Pebbles
   formattingOptions: []
   position:
-  - 3.62203125e+2
-  - 1.8205078125e+2
+  - 2.8512109375e+2
+  - 2.010234375e+2
   width: 8e+1
   connections:
     indexes:
@@ -844,8 +852,8 @@
   text: River's Home
   formattingOptions: []
   position:
-  - 3.0875390625e+2
-  - 2.2519921875e+2
+  - 2.31671875e+2
+  - 2.44171875e+2
   width: 9e+1
   connections:
     indexes:
@@ -856,8 +864,8 @@
   text: Exotic flowers
   formattingOptions: []
   position:
-  - 4.124296875e+2
-  - 2.2278125e+2
+  - 3.3534765625e+2
+  - 2.4175390625e+2
   width: 9e+1
   connections:
     indexes:
@@ -868,8 +876,8 @@
   text: Figure-8 Ocean
   formattingOptions: []
   position:
-  - 3.1445703125e+2
-  - 8.71875e+1
+  - 2.37375e+2
+  - 1.0616015625e+2
   width: 1e+2
   connections:
     indexes:
@@ -882,8 +890,8 @@
   text: What's in the spaces?
   formattingOptions: []
   position:
-  - 4.5004296875e+2
-  - 6.021484375e+1
+  - 3.1765234375e+2
+  - 5.8015625e+1
   width: 8e+1
   connections:
     indexes:
@@ -896,8 +904,8 @@
   text: No stars/moons
   formattingOptions: []
   position:
-  - 3.6753125e+2
-  - 1.357890625e+2
+  - 2.9044921875e+2
+  - 1.5476171875e+2
   width: 1e+2
   connections:
     indexes:
@@ -908,8 +916,8 @@
   text: Hula
   formattingOptions: []
   position:
-  - 4.532734375e+2
-  - 1.938203125e+2
+  - 3.7619140625e+2
+  - 2.1279296875e+2
   width: 4e+1
   connections:
     indexes:
@@ -920,8 +928,8 @@
   text: Kia may know
   formattingOptions: []
   position:
-  - 4.6273828125e+2
-  - 1.0738671875e+2
+  - 3.780703125e+2
+  - 1.1091015625e+2
   width: 9e+1
   connections:
     indexes:
@@ -932,8 +940,8 @@
   text: GoT - General Ocean Time
   formattingOptions: []
   position:
-  - 4.41015625e+1
-  - 1.140078125e+2
+  - 6.94609375e+1
+  - 7.8203125e+1
   width: 1e+2
   connections:
     indexes:
@@ -944,8 +952,8 @@
   text: A.R.C.A.D.E. meeting spot
   formattingOptions: []
   position:
-  - 8.9375e+1
-  - 3.446875e+2
+  - 9.08984375e+1
+  - 3.6548046875e+2
   width: 1e+2
   connections:
     indexes:
@@ -956,21 +964,21 @@
   text: 'Title: na''Lan'
   formattingOptions: []
   position:
-  - 1.24573046875e+3
-  - 3.77984375e+2
-  width: 1e+2
+  - 1.050484375e+3
+  - 4.293125e+2
+  width: 8e+1
   connections:
     indexes:
     - location: 56
       length: 1
   _effectiveHeight: 1.4e+1
 - ID: 76
-  text: Barkeep
+  text: Anonymous Barkeep
   formattingOptions: []
   position:
-  - 1.058765625e+3
-  - 5.146484375e+2
-  width: 6e+1
+  - 9.4972265625e+2
+  - 1.315234375e+1
+  width: 1.2e+2
   connections:
     indexes: []
   _effectiveHeight: 1.4e+1
@@ -978,8 +986,8 @@
   text: Threat imcoming
   formattingOptions: []
   position:
-  - 3.828125e+1
-  - 9.406015625e+2
+  - 5.00390625e+1
+  - 8.3159765625e+2
   width: 1e+2
   connections:
     indexes:
@@ -992,8 +1000,8 @@
   text: Verses changed slightly to hint at details
   formattingOptions: []
   position:
-  - 3.666015625e+1
-  - 9.72703125e+2
+  - 4.111328125e+1
+  - 8.6898046875e+2
   width: 1e+2
   connections:
     indexes:
@@ -1004,8 +1012,8 @@
   text: Tells of a weakness that shold be shored up or attacked
   formattingOptions: []
   position:
-  - 2.2443359375e+2
-  - 9.3075390625e+2
+  - 2.01328125e+2
+  - 8.39421875e+2
   width: 1e+2
   connections:
     indexes:
@@ -1016,8 +1024,8 @@
   text: spy or other danger
   formattingOptions: []
   position:
-  - 3.7330859375e+2
-  - 9.31015625e+2
+  - 3.20515625e+2
+  - 8.6500390625e+2
   width: 8e+1
   connections:
     indexes:
@@ -1028,8 +1036,8 @@
   text: who to be careful of
   formattingOptions: []
   position:
-  - 4.4212109375e+2
-  - 9.7163671875e+2
+  - 4.112578125e+2
+  - 8.3931640625e+2
   width: 7e+1
   connections:
     indexes:
@@ -1040,7 +1048,7 @@
   text: Day Before Wedding
   formattingOptions: []
   position:
-  - 1.62154296875e+3
+  - 1.42015625e+3
   - 3.69921875e+1
   width: 1e+2
   connections:
@@ -1056,8 +1064,8 @@
   text: Wedding Day
   formattingOptions: []
   position:
-  - 1.62356640625e+3
-  - 4.1803125e+2
+  - 1.429203125e+3
+  - 4.835e+2
   width: 1e+2
   connections:
     indexes:
@@ -1076,7 +1084,7 @@
   text: mole-people brawl
   formattingOptions: []
   position:
-  - 1.48379296875e+3
+  - 1.28240625e+3
   - 9.8546875e+1
   width: 1.1e+2
   connections:
@@ -1092,8 +1100,8 @@
   text: Likes 'Dines new hat
   formattingOptions: []
   position:
-  - 1.81062890625e+3
-  - 1.6775e+2
+  - 1.546375e+3
+  - 1.7565234375e+2
   width: 1.2e+2
   connections:
     indexes:
@@ -1106,8 +1114,8 @@
   text: compliments her complexion
   formattingOptions: []
   position:
-  - 1.820609375e+3
-  - 2.0837890625e+2
+  - 1.55635546875e+3
+  - 2.1628125e+2
   width: 1e+2
   connections:
     indexes:
@@ -1118,8 +1126,8 @@
   text: Kia flying and apprehending
   formattingOptions: []
   position:
-  - 1.45529296875e+3
-  - 1.477890625e+2
+  - 1.24894140625e+3
+  - 3.64140625e+1
   width: 1e+2
   connections:
     indexes:
@@ -1130,8 +1138,8 @@
   text: 3 Arrested
   formattingOptions: []
   position:
-  - 1.55383984375e+3
-  - 1.895e+2
+  - 1.2528359375e+3
+  - 1.395234375e+2
   width: 7e+1
   connections:
     indexes:
@@ -1146,8 +1154,8 @@
   text: several escape
   formattingOptions: []
   position:
-  - 1.562109375e+3
-  - 2.6654296875e+2
+  - 1.236984375e+3
+  - 1.851640625e+2
   width: 1e+2
   connections:
     indexes:
@@ -1158,7 +1166,7 @@
   text: Chats with C&C at the bar
   formattingOptions: []
   position:
-  - 1.74368359375e+3
+  - 1.542296875e+3
   - 1.0587890625e+2
   width: 1e+2
   connections:
@@ -1172,8 +1180,8 @@
   text: surprising amoung of stolen merch
   formattingOptions: []
   position:
-  - 1.47628515625e+3
-  - 2.382890625e+2
+  - 1.2744921875e+3
+  - 2.4539453125e+2
   width: 8e+1
   connections:
     indexes:
@@ -1184,19 +1192,21 @@
   text: Sherriff is a porcupine!
   formattingOptions: []
   position:
-  - 1.57300390625e+3
-  - 1.3570703125e+2
+  - 1.381203125e+3
+  - 1.2862109375e+2
   width: 8e+1
   connections:
     indexes:
     - location: 84
+      length: 1
+    - location: 114
       length: 1
   _effectiveHeight: 2.8e+1
 - ID: 93
   text: P'Digit's GIJane's rumpled outfit
   formattingOptions: []
   position:
-  - 1.75565625e+3
+  - 1.55426953125e+3
   - 5.16484375e+1
   width: 1e+2
   connections:
@@ -1208,8 +1218,8 @@
   text: C&C Security
   formattingOptions: []
   position:
-  - 1.5276328125e+3
-  - 3.8216015625e+2
+  - 1.330265625e+3
+  - 4.3912109375e+2
   width: 1e+2
   connections:
     indexes:
@@ -1225,8 +1235,8 @@
     rangeStart: 7
     rangeLength: 11
   position:
-  - 1.467515625e+3
-  - 3.3437890625e+2
+  - 1.27039453125e+3
+  - 3.876484375e+2
   width: 1e+2
   connections:
     indexes:
@@ -1237,8 +1247,8 @@
   text: Claude invisible crowd roamer
   formattingOptions: []
   position:
-  - 1.46880859375e+3
-  - 4.22515625e+2
+  - 1.2716875e+3
+  - 4.7578515625e+2
   width: 1e+2
   connections:
     indexes:
@@ -1249,8 +1259,8 @@
   text: Extreme Fight At the Club
   formattingOptions: []
   position:
-  - 1.76265234375e+3
-  - 3.65515625e+2
+  - 1.56553125e+3
+  - 4.1878515625e+2
   width: 1e+2
   connections:
     indexes:
@@ -1261,8 +1271,8 @@
   text: Knocking Bottles
   formattingOptions: []
   position:
-  - 1.83204296875e+3
-  - 5.154609375e+2
+  - 1.5721796875e+3
+  - 5.713125e+2
   width: 1e+2
   connections:
     indexes:
@@ -1273,8 +1283,8 @@
   text: Ceremony
   formattingOptions: []
   position:
-  - 1.7012421875e+3
-  - 4.6270703125e+2
+  - 1.47425390625e+3
+  - 5.290625e+2
   width: 1e+2
   connections:
     indexes:
@@ -1289,8 +1299,8 @@
   text: Accessibility fail
   formattingOptions: []
   position:
-  - 1.823859375e+3
-  - 4.362890625e+2
+  - 1.582609375e+3
+  - 4.8816015625e+2
   width: 1e+2
   connections:
     indexes:
@@ -1301,8 +1311,8 @@
   text: '"Mawwiage"'
   formattingOptions: []
   position:
-  - 1.82775390625e+3
-  - 4.7402734375e+2
+  - 1.59880859375e+3
+  - 5.3001171875e+2
   width: 1e+2
   connections:
     indexes:
@@ -1313,8 +1323,8 @@
   text: Basil Zone 5 Guest
   formattingOptions: []
   position:
-  - 1.68983203125e+3
-  - 3.0958203125e+2
+  - 1.52230078125e+3
+  - 3.6909375e+2
   width: 7e+1
   connections:
     indexes:
@@ -1325,8 +1335,8 @@
   text: Exploding Can
   formattingOptions: []
   position:
-  - 1.53721484375e+3
-  - 4.85328125e+2
+  - 1.34009375e+3
+  - 5.3859765625e+2
   width: 1e+2
   connections:
     indexes:
@@ -1341,8 +1351,8 @@
   text: Waves of Magic
   formattingOptions: []
   position:
-  - 1.47015234375e+3
-  - 5.280546875e+2
+  - 1.248546875e+3
+  - 5.8270703125e+2
   width: 1e+2
   connections:
     indexes:
@@ -1353,8 +1363,8 @@
   text: C&C recognize it
   formattingOptions: []
   position:
-  - 1.604125e+3
-  - 5.404921875e+2
+  - 1.42434765625e+3
+  - 5.8111328125e+2
   width: 1e+2
   connections:
     indexes:
@@ -1368,8 +1378,8 @@
     rangeStart: 0
     rangeLength: 5
   position:
-  - 1.51587109375e+3
-  - 5.908125e+2
+  - 1.29963671875e+3
+  - 6.439140625e+2
   width: 5e+1
   connections:
     indexes:
@@ -1377,13 +1387,15 @@
       length: 1
     - location: 107
       length: 1
+    - location: 115
+      length: 1
   _effectiveHeight: 1.4e+1
 - ID: 107
   text: A.R.C.A.D.E.! Now!
   formattingOptions: []
   position:
-  - 1.48245703125e+3
-  - 6.5982421875e+2
+  - 1.2508671875e+3
+  - 7.37328125e+2
   width: 1e+2
   connections:
     indexes:
@@ -1394,8 +1406,8 @@
   text: Knocks down wedding party
   formattingOptions: []
   position:
-  - 1.5772109375e+3
-  - 6.0427734375e+2
+  - 1.3890703125e+3
+  - 6.2290234375e+2
   width: 1e+2
   connections:
     indexes:
@@ -1406,9 +1418,9 @@
   text: Some kind of caster
   formattingOptions: []
   position:
-  - 1.08008984375e+3
-  - 4.03109375e+2
-  width: 8e+1
+  - 9.99171875e+2
+  - 4.8740234375e+2
+  width: 7e+1
   connections:
     indexes:
     - location: 56
@@ -1420,11 +1432,73 @@
   text: Water magic during exploding can
   formattingOptions: []
   position:
-  - 1.10171484375e+3
-  - 4.6141015625e+2
+  - 1.0854921875e+3
+  - 5.1942578125e+2
   width: 1.2e+2
   connections:
     indexes:
     - location: 109
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 111
+  text: Works at Tavern
+  formattingOptions: []
+  position:
+  - 6.1765625e+2
+  - 2.095078125e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 27
+      length: 1
+    - location: 112
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 112
+  text: Also at wedding venue
+  formattingOptions: []
+  position:
+  - 7.5678515625e+2
+  - 1.86171875e+2
+  width: 1.3e+2
+  connections:
+    indexes:
+    - location: 111
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 113
+  text: BuSab
+  formattingOptions: []
+  position:
+  - 1.0248046875e+2
+  - 7.1053515625e+2
+  width: 5e+1
+  connections:
+    indexes:
+    - location: 16
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 114
+  text: Reporter is a robin
+  formattingOptions: []
+  position:
+  - 1.3870859375e+3
+  - 1.8569921875e+2
+  width: 6e+1
+  connections:
+    indexes:
+    - location: 92
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 115
+  text: Clouds and Sun moving Too Fast
+  formattingOptions: []
+  position:
+  - 1.32942578125e+3
+  - 6.8420703125e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 106
       length: 1
   _effectiveHeight: 2.8e+1
