@@ -1,0 +1,10 @@
+- ID: 1
+  text: Bork
+  formattingOptions: []
+  position:
+  - 8.2770703125e+2
+  - 2.403203125e+2
+  width: 5e+1
+  connections:
+    indexes: []
+  _effectiveHeight: 1.4e+1
