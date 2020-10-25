@@ -1,10 +1,214 @@
 - ID: 1
-  text: Bork
+  text: Fronts
   formattingOptions: []
   position:
-  - 8.2770703125e+2
-  - 2.403203125e+2
+  - 1.40778125e+3
+  - 2.4056640625e+2
   width: 5e+1
   connections:
-    indexes: []
+    indexes:
+    - location: 2
+      length: 2
   _effectiveHeight: 1.4e+1
+- ID: 2
+  text: Arcade
+  formattingOptions: []
+  position:
+  - 1.2940234375e+3
+  - 2.94453125e+2
+  width: 5e+1
+  connections:
+    indexes:
+    - location: 1
+      length: 1
+    - location: 4
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 3
+  text: The Factor
+  formattingOptions: []
+  position:
+  - 1.47553515625e+3
+  - 3.122578125e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 1
+      length: 1
+    - location: 5
+      length: 1
+    - location: 7
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 4
+  text: anti-machinery
+  formattingOptions: []
+  position:
+  - 1.21575390625e+3
+  - 3.7061328125e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 2
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 5
+  text: accumulates power
+  formattingOptions: []
+  position:
+  - 1.44712890625e+3
+  - 3.6150390625e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 3
+      length: 1
+    - location: 6
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 6
+  text: Power is good so long as we have it
+  formattingOptions:
+  - options: 1
+    rangeStart: 25
+    rangeLength: 2
+  position:
+  - 1.442171875e+3
+  - 4.355e+2
+  width: 1.1e+2
+  connections:
+    indexes:
+    - location: 5
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 7
+  text: Use that power for good
+  formattingOptions: []
+  position:
+  - 1.54130078125e+3
+  - 3.6972265625e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 3
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 8
+  text: Fronts
+  formattingOptions: []
+  position:
+  - 1.5447265625e+2
+  - 6.1183203125e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 9
+      length: 2
+  _effectiveHeight: 1.4e+1
+- ID: 9
+  text: Arcade
+  formattingOptions: []
+  position:
+  - 5.501171875e+1
+  - 7.0067578125e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 8
+      length: 1
+    - location: 14
+      length: 2
+  _effectiveHeight: 1.4e+1
+- ID: 10
+  text: The Factor
+  formattingOptions: []
+  position:
+  - 2.613984375e+2
+  - 6.9897265625e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 8
+      length: 1
+    - location: 11
+      length: 2
+  _effectiveHeight: 1.4e+1
+- ID: 11
+  text: Use power for good
+  formattingOptions: []
+  position:
+  - 3.7646875e+2
+  - 7.56890625e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 10
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 12
+  text: Accumulates power
+  formattingOptions: []
+  position:
+  - 2.5755859375e+2
+  - 8.0101953125e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 10
+      length: 1
+    - location: 13
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 13
+  text: Power is good so long as we have it
+  formattingOptions:
+  - options: 1
+    rangeStart: 25
+    rangeLength: 2
+  position:
+  - 2.5622265625e+2
+  - 8.8796484375e+2
+  width: 1.1e+2
+  connections:
+    indexes:
+    - location: 12
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 14
+  text: anti-machinery
+  formattingOptions: []
+  position:
+  - 7.39453125e+0
+  - 7.614296875e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 9
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 15
+  text: dislike power concentration
+  formattingOptions: []
+  position:
+  - 1.1000390625e+2
+  - 7.94234375e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 9
+      length: 1
+    - location: 16
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 16
+  text: Head of Arcade is always suspect due to nature of job and the organization
+  formattingOptions: []
+  position:
+  - 6.021484375e+1
+  - 8.625625e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 15
+      length: 1
+  _effectiveHeight: 7e+1
