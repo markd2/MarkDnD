@@ -1,12 +1,12 @@
 - ID: 1
-  label: Snorgle
-  horizontalPosition: 4.9785546875e+2
+  label: << World
+  horizontalPosition: 5.006875e+2
   width: 6e+0
 - ID: 2
-  label: Characters
-  horizontalPosition: 9.081640625e+2
+  label: << PCs
+  horizontalPosition: 9.1099609375e+2
   width: 4e+0
 - ID: 3
-  label: Flongwaffle
-  horizontalPosition: 1.22397265625e+3
+  label: << NPCS | Timeline >>
+  horizontalPosition: 1.26147265625e+3
   width: 8e+0
