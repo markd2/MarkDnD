@@ -1,0 +1,1504 @@
+- ID: 1
+  text: Fronts
+  formattingOptions: []
+  position:
+  - 1.489515625e+3
+  - -3.218046875e+2
+  width: 5e+1
+  connections:
+    indexes:
+    - location: 2
+      length: 2
+  _effectiveHeight: 1.4e+1
+- ID: 2
+  text: Arcade
+  formattingOptions: []
+  position:
+  - 1.3757578125e+3
+  - -2.6791796875e+2
+  width: 5e+1
+  connections:
+    indexes:
+    - location: 1
+      length: 1
+    - location: 4
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 3
+  text: The Factor
+  formattingOptions: []
+  position:
+  - 1.55726953125e+3
+  - -2.5011328125e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 1
+      length: 1
+    - location: 5
+      length: 1
+    - location: 7
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 4
+  text: anti-machinery
+  formattingOptions: []
+  position:
+  - 1.29748828125e+3
+  - -1.917578125e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 2
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 5
+  text: accumulates power
+  formattingOptions: []
+  position:
+  - 1.52886328125e+3
+  - -2.008671875e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 3
+      length: 1
+    - location: 6
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 6
+  text: Power is good so long as we have it
+  formattingOptions:
+  - options: 1
+    rangeStart: 25
+    rangeLength: 2
+  position:
+  - 1.52390625e+3
+  - -1.2687109375e+2
+  width: 1.1e+2
+  connections:
+    indexes:
+    - location: 5
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 7
+  text: Use that power for good
+  formattingOptions: []
+  position:
+  - 1.62303515625e+3
+  - -1.926484375e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 3
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 8
+  text: Fronts
+  formattingOptions: []
+  position:
+  - 2.3319921875e+2
+  - 4.5140234375e+2
+  width: 5e+1
+  connections:
+    indexes:
+    - location: 9
+      length: 2
+  _effectiveHeight: 1.4e+1
+- ID: 9
+  text: Arcade
+  formattingOptions: []
+  position:
+  - 1.6152734375e+2
+  - 5.0703125e+2
+  width: 6e+1
+  connections:
+    indexes:
+    - location: 8
+      length: 1
+    - location: 14
+      length: 2
+    - location: 17
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 10
+  text: The Factor
+  formattingOptions: []
+  position:
+  - 2.977265625e+2
+  - 5.0716796875e+2
+  width: 7e+1
+  connections:
+    indexes:
+    - location: 8
+      length: 1
+    - location: 12
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 11
+  text: Use power for good
+  formattingOptions: []
+  position:
+  - 3.6196875e+2
+  - 6.065546875e+2
+  width: 7e+1
+  connections:
+    indexes:
+    - location: 12
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 12
+  text: Accumulates power
+  formattingOptions: []
+  position:
+  - 2.6687109375e+2
+  - 5.4976953125e+2
+  width: 1.2e+2
+  connections:
+    indexes:
+    - location: 10
+      length: 2
+    - location: 13
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 13
+  text: Power is good so long as we have it
+  formattingOptions:
+  - options: 1
+    rangeStart: 25
+    rangeLength: 2
+  position:
+  - 2.3429296875e+2
+  - 5.85078125e+2
+  width: 1.1e+2
+  connections:
+    indexes:
+    - location: 12
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 14
+  text: anti-machinery
+  formattingOptions: []
+  position:
+  - 5.51015625e+1
+  - 5.425e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 9
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 15
+  text: dislike power concentration
+  formattingOptions: []
+  position:
+  - 9.0453125e+1
+  - 5.8266015625e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 9
+      length: 1
+    - location: 16
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 16
+  text: Head of Arcade is always suspect due to nature of job and the organization
+  formattingOptions: []
+  position:
+  - 4.536328125e+1
+  - 6.3928125e+2
+  width: 1.5e+2
+  connections:
+    indexes:
+    - location: 15
+      length: 1
+    - location: 113
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 17
+  text: A.R.C.A.D.E Songs
+  formattingOptions: []
+  position:
+  - 2.1594140625e+2
+  - 7.087890625e+2
+  width: 9e+1
+  connections:
+    indexes:
+    - location: 9
+      length: 1
+    - location: 18
+      length: 3
+  _effectiveHeight: 2.8e+1
+- ID: 18
+  text: Coming Round The Mountain
+  formattingOptions: []
+  position:
+  - 7.4296875e+1
+  - 7.82609375e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 17
+      length: 1
+    - location: 77
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 19
+  text: Humblewood is Falling Down
+  formattingOptions: []
+  position:
+  - 1.9962890625e+2
+  - 7.86453125e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 17
+      length: 1
+    - location: 79
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 20
+  text: Doggie in the Window
+  formattingOptions: []
+  position:
+  - 3.3637890625e+2
+  - 7.9017578125e+2
+  width: 8e+1
+  connections:
+    indexes:
+    - location: 17
+      length: 1
+    - location: 80
+      length: 2
+  _effectiveHeight: 2.8e+1
+- ID: 21
+  text: Kia
+  formattingOptions: []
+  position:
+  - 5.194765625e+2
+  - 5.5578125e+1
+  width: 5e+1
+  connections:
+    indexes:
+    - location: 22
+      length: 5
+  _effectiveHeight: 1.4e+1
+- ID: 22
+  text: Bird Person
+  formattingOptions: []
+  position:
+  - 5.6991015625e+2
+  - 1.1894140625e+2
+  width: 8e+1
+  connections:
+    indexes:
+    - location: 21
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 23
+  text: Academic
+  formattingOptions: []
+  position:
+  - 6.5484375e+2
+  - 6.765625e+1
+  width: 7e+1
+  connections:
+    indexes:
+    - location: 21
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 24
+  text: Religious
+  formattingOptions: []
+  position:
+  - 6.5928515625e+2
+  - 1.0184375e+2
+  width: 7e+1
+  connections:
+    indexes:
+    - location: 21
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 25
+  text: Flies
+  formattingOptions: []
+  position:
+  - 6.57078125e+2
+  - 2.96875e+1
+  width: 4e+1
+  connections:
+    indexes:
+    - location: 21
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 26
+  text: Royal?
+  formattingOptions: []
+  position:
+  - 5.745078125e+2
+  - 2.189453125e+1
+  width: 5e+1
+  connections:
+    indexes:
+    - location: 21
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 27
+  text: Giz
+  formattingOptions: []
+  position:
+  - 5.26671875e+2
+  - 2.114453125e+2
+  width: 6e+1
+  connections:
+    indexes:
+    - location: 28
+      length: 3
+    - location: 111
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 28
+  text: Half-orc
+  formattingOptions: []
+  position:
+  - 5.8934375e+2
+  - 2.618671875e+2
+  width: 5e+1
+  connections:
+    indexes:
+    - location: 27
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 29
+  text: Street Urchin
+  formattingOptions: []
+  position:
+  - 5.9380859375e+2
+  - 1.7186328125e+2
+  width: 9e+1
+  connections:
+    indexes:
+    - location: 27
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 30
+  text: Druid
+  formattingOptions: []
+  position:
+  - 6.52484375e+2
+  - 2.534609375e+2
+  width: 4e+1
+  connections:
+    indexes:
+    - location: 27
+      length: 1
+    - location: 31
+      length: 2
+  _effectiveHeight: 1.4e+1
+- ID: 31
+  text: Bear
+  formattingOptions: []
+  position:
+  - 7.5484765625e+2
+  - 2.483203125e+2
+  width: 4e+1
+  connections:
+    indexes:
+    - location: 30
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 32
+  text: Giant Badger
+  formattingOptions: []
+  position:
+  - 7.4579296875e+2
+  - 2.952578125e+2
+  width: 9e+1
+  connections:
+    indexes:
+    - location: 30
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 33
+  text: '''Dine'
+  formattingOptions: []
+  position:
+  - 5.1072265625e+2
+  - 3.797578125e+2
+  width: 6e+1
+  connections:
+    indexes:
+    - location: 34
+      length: 2
+    - location: 38
+      length: 2
+    - location: 41
+      length: 2
+  _effectiveHeight: 1.4e+1
+- ID: 34
+  text: Halfling
+  formattingOptions: []
+  position:
+  - 5.8732421875e+2
+  - 3.877109375e+2
+  width: 6e+1
+  connections:
+    indexes:
+    - location: 33
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 35
+  text: Some kind of caster
+  formattingOptions: []
+  position:
+  - 6.0544140625e+2
+  - 4.2715625e+2
+  width: 7e+1
+  connections:
+    indexes:
+    - location: 33
+      length: 1
+    - location: 36
+      length: 2
+  _effectiveHeight: 2.8e+1
+- ID: 36
+  text: Misty Step
+  formattingOptions: []
+  position:
+  - 7.01890625e+2
+  - 4.374921875e+2
+  width: 7e+1
+  connections:
+    indexes:
+    - location: 35
+      length: 1
+    - location: 40
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 37
+  text: True Strike for crowd control
+  formattingOptions: []
+  position:
+  - 6.895234375e+2
+  - 4.829296875e+2
+  width: 9e+1
+  connections:
+    indexes:
+    - location: 35
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 38
+  text: Witches outfit
+  formattingOptions: []
+  position:
+  - 5.587265625e+2
+  - 3.177265625e+2
+  width: 9e+1
+  connections:
+    indexes:
+    - location: 33
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 39
+  text: Vain about hat
+  formattingOptions: []
+  position:
+  - 5.84953125e+2
+  - 3.4640234375e+2
+  width: 9e+1
+  connections:
+    indexes:
+    - location: 33
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 40
+  text: moves Claude too
+  formattingOptions: []
+  position:
+  - 7.52515625e+2
+  - 4.0666015625e+2
+  width: 1.1e+2
+  connections:
+    indexes:
+    - location: 36
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 41
+  text: Hunting Bandits?
+  formattingOptions: []
+  position:
+  - 5.5126171875e+2
+  - 5.455859375e+2
+  width: 7e+1
+  connections:
+    indexes:
+    - location: 33
+      length: 1
+    - location: 43
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 42
+  text: Seen the metal can before
+  formattingOptions: []
+  position:
+  - 6.4921875e+2
+  - 5.4926953125e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 33
+      length: 1
+    - location: 43
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 43
+  text: Claude
+  formattingOptions: []
+  position:
+  - 5.151484375e+2
+  - 6.342578125e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 41
+      length: 2
+    - location: 44
+      length: 2
+  _effectiveHeight: 1.4e+1
+- ID: 44
+  text: Halfling
+  formattingOptions: []
+  position:
+  - 5.700703125e+2
+  - 6.8660546875e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 43
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 45
+  text: Some kind of caster
+  formattingOptions: []
+  position:
+  - 6.6571484375e+2
+  - 6.21359375e+2
+  width: 7e+1
+  connections:
+    indexes:
+    - location: 43
+      length: 1
+    - location: 46
+      length: 2
+  _effectiveHeight: 2.8e+1
+- ID: 46
+  text: invisibility for crowd control
+  formattingOptions: []
+  position:
+  - 7.7782421875e+2
+  - 5.9917578125e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 45
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 47
+  text: mistystep makes nauseous
+  formattingOptions: []
+  position:
+  - 7.73078125e+2
+  - 6.71734375e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 45
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 48
+  text: GI Jane
+  formattingOptions: []
+  position:
+  - 9.428671875e+2
+  - 1.0631640625e+2
+  width: 6e+1
+  connections:
+    indexes:
+    - location: 49
+      length: 2
+  _effectiveHeight: 1.4e+1
+- ID: 49
+  text: Head of A.R.C.A.D.E.
+  formattingOptions: []
+  position:
+  - 1.06069140625e+3
+  - 1.30171875e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 48
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 50
+  text: Elephantoid
+  formattingOptions: []
+  position:
+  - 1.07502734375e+3
+  - 8.0921875e+1
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 48
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 51
+  text: Tortle Minister
+  formattingOptions: []
+  position:
+  - 9.45625e+2
+  - 2.1190625e+2
+  width: 1e+2
+  connections:
+    indexes: []
+  _effectiveHeight: 1.4e+1
+- ID: 52
+  text: Eddie Bauer
+  formattingOptions: []
+  position:
+  - 9.38953125e+2
+  - 2.9308203125e+2
+  width: 9e+1
+  connections:
+    indexes:
+    - location: 53
+      length: 3
+  _effectiveHeight: 1.4e+1
+- ID: 53
+  text: Tabaxi Female
+  formattingOptions: []
+  position:
+  - 1.0863046875e+3
+  - 2.7576171875e+2
+  width: 9e+1
+  connections:
+    indexes:
+    - location: 52
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 54
+  text: Royalty from Alderhart
+  formattingOptions: []
+  position:
+  - 1.0899375e+3
+  - 3.154609375e+2
+  width: 8e+1
+  connections:
+    indexes:
+    - location: 52
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 56
+  text: River
+  formattingOptions: []
+  position:
+  - 9.4193359375e+2
+  - 4.296796875e+2
+  width: 5e+1
+  connections:
+    indexes:
+    - location: 57
+      length: 1
+    - location: 59
+      length: 1
+    - location: 75
+      length: 1
+    - location: 109
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 57
+  text: Tabaxi Female
+  formattingOptions: []
+  position:
+  - 1.0056328125e+3
+  - 3.9090625e+2
+  width: 9e+1
+  connections:
+    indexes:
+    - location: 56
+      length: 1
+    - location: 58
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 58
+  text: Orange
+  formattingOptions: []
+  position:
+  - 1.1123359375e+3
+  - 3.9178515625e+2
+  width: 5e+1
+  connections:
+    indexes:
+    - location: 57
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 59
+  text: From the Pebbles
+  formattingOptions: []
+  position:
+  - 1.083453125e+3
+  - 4.6842578125e+2
+  width: 1.1e+2
+  connections:
+    indexes:
+    - location: 56
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 60
+  text: Orub
+  formattingOptions: []
+  position:
+  - 1.8461328125e+2
+  - 1.5684765625e+2
+  width: 4e+1
+  connections:
+    indexes:
+    - location: 61
+      length: 1
+    - location: 65
+      length: 1
+    - location: 68
+      length: 1
+    - location: 70
+      length: 1
+    - location: 73
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 61
+  text: Alderhart Island
+  formattingOptions: []
+  position:
+  - 6.669140625e+1
+  - 2.0335546875e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 60
+      length: 1
+    - location: 62
+      length: 2
+  _effectiveHeight: 1.4e+1
+- ID: 62
+  text: The City
+  formattingOptions: []
+  position:
+  - 3.865234375e+1
+  - 2.5755859375e+2
+  width: 6e+1
+  connections:
+    indexes:
+    - location: 61
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 63
+  text: Horshire
+  formattingOptions: []
+  position:
+  - 1.1721875e+2
+  - 2.5792578125e+2
+  width: 6e+1
+  connections:
+    indexes:
+    - location: 61
+      length: 1
+    - location: 64
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 64
+  text: 'Horshire Sauce
+
+    Tavern'
+  formattingOptions: []
+  position:
+  - 9.61640625e+1
+  - 3.033515625e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 63
+      length: 1
+    - location: 65
+      length: 1
+    - location: 74
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 65
+  text: The Pebbles
+  formattingOptions: []
+  position:
+  - 2.8512109375e+2
+  - 2.010234375e+2
+  width: 8e+1
+  connections:
+    indexes:
+    - location: 60
+      length: 1
+    - location: 66
+      length: 2
+    - location: 71
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 66
+  text: River's Home
+  formattingOptions: []
+  position:
+  - 2.31671875e+2
+  - 2.44171875e+2
+  width: 9e+1
+  connections:
+    indexes:
+    - location: 65
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 67
+  text: Exotic flowers
+  formattingOptions: []
+  position:
+  - 3.3534765625e+2
+  - 2.4175390625e+2
+  width: 9e+1
+  connections:
+    indexes:
+    - location: 65
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 68
+  text: Figure-8 Ocean
+  formattingOptions: []
+  position:
+  - 2.37375e+2
+  - 1.0616015625e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 60
+      length: 1
+    - location: 69
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 69
+  text: What's in the spaces?
+  formattingOptions: []
+  position:
+  - 3.1765234375e+2
+  - 5.8015625e+1
+  width: 8e+1
+  connections:
+    indexes:
+    - location: 68
+      length: 1
+    - location: 72
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 70
+  text: No stars/moons
+  formattingOptions: []
+  position:
+  - 2.9044921875e+2
+  - 1.5476171875e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 60
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 71
+  text: Hula
+  formattingOptions: []
+  position:
+  - 3.7619140625e+2
+  - 2.1279296875e+2
+  width: 4e+1
+  connections:
+    indexes:
+    - location: 65
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 72
+  text: Kia may know
+  formattingOptions: []
+  position:
+  - 3.780703125e+2
+  - 1.1091015625e+2
+  width: 9e+1
+  connections:
+    indexes:
+    - location: 69
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 73
+  text: GoT - General Ocean Time
+  formattingOptions: []
+  position:
+  - 6.94609375e+1
+  - 7.8203125e+1
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 60
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 74
+  text: A.R.C.A.D.E. meeting spot
+  formattingOptions: []
+  position:
+  - 9.08984375e+1
+  - 3.6548046875e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 64
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 75
+  text: 'Title: na''Lan'
+  formattingOptions: []
+  position:
+  - 1.05331640625e+3
+  - 4.293125e+2
+  width: 8e+1
+  connections:
+    indexes:
+    - location: 56
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 76
+  text: Anonymous Barkeep
+  formattingOptions: []
+  position:
+  - 9.525546875e+2
+  - 1.315234375e+1
+  width: 1.2e+2
+  connections:
+    indexes: []
+  _effectiveHeight: 1.4e+1
+- ID: 77
+  text: Threat imcoming
+  formattingOptions: []
+  position:
+  - 5.00390625e+1
+  - 8.3159765625e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 18
+      length: 1
+    - location: 78
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 78
+  text: Verses changed slightly to hint at details
+  formattingOptions: []
+  position:
+  - 4.111328125e+1
+  - 8.6898046875e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 77
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 79
+  text: Tells of a weakness that shold be shored up or attacked
+  formattingOptions: []
+  position:
+  - 2.01328125e+2
+  - 8.39421875e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 19
+      length: 1
+  _effectiveHeight: 5.6e+1
+- ID: 80
+  text: spy or other danger
+  formattingOptions: []
+  position:
+  - 3.20515625e+2
+  - 8.6500390625e+2
+  width: 8e+1
+  connections:
+    indexes:
+    - location: 20
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 81
+  text: who to be careful of
+  formattingOptions: []
+  position:
+  - 4.112578125e+2
+  - 8.3931640625e+2
+  width: 7e+1
+  connections:
+    indexes:
+    - location: 20
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 82
+  text: Day Before Wedding
+  formattingOptions: []
+  position:
+  - 1.45765625e+3
+  - 3.69921875e+1
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 83
+      length: 2
+    - location: 90
+      length: 1
+    - location: 93
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 83
+  text: Wedding Day
+  formattingOptions: []
+  position:
+  - 1.466703125e+3
+  - 4.835e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 82
+      length: 1
+    - location: 94
+      length: 1
+    - location: 97
+      length: 1
+    - location: 99
+      length: 1
+    - location: 102
+      length: 2
+  _effectiveHeight: 1.4e+1
+- ID: 84
+  text: mole-people brawl
+  formattingOptions: []
+  position:
+  - 1.31990625e+3
+  - 9.8546875e+1
+  width: 1.1e+2
+  connections:
+    indexes:
+    - location: 82
+      length: 1
+    - location: 87
+      length: 2
+    - location: 92
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 85
+  text: Likes 'Dines new hat
+  formattingOptions: []
+  position:
+  - 1.583875e+3
+  - 1.7565234375e+2
+  width: 1.2e+2
+  connections:
+    indexes:
+    - location: 86
+      length: 1
+    - location: 90
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 86
+  text: compliments her complexion
+  formattingOptions: []
+  position:
+  - 1.59385546875e+3
+  - 2.1628125e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 85
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 87
+  text: Kia flying and apprehending
+  formattingOptions: []
+  position:
+  - 1.28644140625e+3
+  - 3.64140625e+1
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 84
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 88
+  text: 3 Arrested
+  formattingOptions: []
+  position:
+  - 1.2903359375e+3
+  - 1.395234375e+2
+  width: 7e+1
+  connections:
+    indexes:
+    - location: 84
+      length: 1
+    - location: 89
+      length: 1
+    - location: 91
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 89
+  text: several escape
+  formattingOptions: []
+  position:
+  - 1.274484375e+3
+  - 1.851640625e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 88
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 90
+  text: Chats with C&C at the bar
+  formattingOptions: []
+  position:
+  - 1.579796875e+3
+  - 1.0587890625e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 82
+      length: 1
+    - location: 85
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 91
+  text: surprising amoung of stolen merch
+  formattingOptions: []
+  position:
+  - 1.3119921875e+3
+  - 2.4539453125e+2
+  width: 8e+1
+  connections:
+    indexes:
+    - location: 88
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 92
+  text: Sherriff is a porcupine!
+  formattingOptions: []
+  position:
+  - 1.418703125e+3
+  - 1.2862109375e+2
+  width: 8e+1
+  connections:
+    indexes:
+    - location: 84
+      length: 1
+    - location: 114
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 93
+  text: P'Digit's GIJane's rumpled outfit
+  formattingOptions: []
+  position:
+  - 1.59176953125e+3
+  - 5.16484375e+1
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 82
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 94
+  text: C&C Security
+  formattingOptions: []
+  position:
+  - 1.367765625e+3
+  - 4.3912109375e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 83
+      length: 1
+    - location: 95
+      length: 2
+  _effectiveHeight: 1.4e+1
+- ID: 95
+  text: Dine - True Strike == pornoscanner
+  formattingOptions:
+  - options: 2
+    rangeStart: 7
+    rangeLength: 11
+  position:
+  - 1.30789453125e+3
+  - 3.876484375e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 94
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 96
+  text: Claude invisible crowd roamer
+  formattingOptions: []
+  position:
+  - 1.3091875e+3
+  - 4.7578515625e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 94
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 97
+  text: Extreme Fight At the Club
+  formattingOptions: []
+  position:
+  - 1.60303125e+3
+  - 4.1878515625e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 83
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 98
+  text: Knocking Bottles
+  formattingOptions: []
+  position:
+  - 1.6096796875e+3
+  - 5.713125e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 99
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 99
+  text: Ceremony
+  formattingOptions: []
+  position:
+  - 1.51175390625e+3
+  - 5.290625e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 83
+      length: 1
+    - location: 98
+      length: 1
+    - location: 100
+      length: 2
+  _effectiveHeight: 1.4e+1
+- ID: 100
+  text: Accessibility fail
+  formattingOptions: []
+  position:
+  - 1.620109375e+3
+  - 4.8816015625e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 99
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 101
+  text: '"Mawwiage"'
+  formattingOptions: []
+  position:
+  - 1.63630859375e+3
+  - 5.3001171875e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 99
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 102
+  text: Basil Zone 5 Guest
+  formattingOptions: []
+  position:
+  - 1.55980078125e+3
+  - 3.6909375e+2
+  width: 7e+1
+  connections:
+    indexes:
+    - location: 83
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 103
+  text: Exploding Can
+  formattingOptions: []
+  position:
+  - 1.37759375e+3
+  - 5.3859765625e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 83
+      length: 1
+    - location: 104
+      length: 3
+    - location: 108
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 104
+  text: Waves of Magic
+  formattingOptions: []
+  position:
+  - 1.286046875e+3
+  - 5.8270703125e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 103
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 105
+  text: C&C recognize it
+  formattingOptions: []
+  position:
+  - 1.46184765625e+3
+  - 5.8111328125e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 103
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 106
+  text: BOOM!
+  formattingOptions:
+  - options: 3
+    rangeStart: 0
+    rangeLength: 5
+  position:
+  - 1.33713671875e+3
+  - 6.439140625e+2
+  width: 5e+1
+  connections:
+    indexes:
+    - location: 103
+      length: 1
+    - location: 107
+      length: 1
+    - location: 115
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 107
+  text: A.R.C.A.D.E.! Now!
+  formattingOptions: []
+  position:
+  - 1.2909140625e+3
+  - 7.7205859375e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 106
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 108
+  text: Knocks down wedding party
+  formattingOptions: []
+  position:
+  - 1.4265703125e+3
+  - 6.2290234375e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 103
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 109
+  text: Some kind of caster
+  formattingOptions: []
+  position:
+  - 1.00200390625e+3
+  - 4.8740234375e+2
+  width: 7e+1
+  connections:
+    indexes:
+    - location: 56
+      length: 1
+    - location: 110
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 110
+  text: Water magic during exploding can
+  formattingOptions: []
+  position:
+  - 1.08832421875e+3
+  - 5.1942578125e+2
+  width: 1.2e+2
+  connections:
+    indexes:
+    - location: 109
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 111
+  text: Works at Tavern
+  formattingOptions: []
+  position:
+  - 6.2048828125e+2
+  - 2.095078125e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 27
+      length: 1
+    - location: 112
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 112
+  text: Also at wedding venue
+  formattingOptions: []
+  position:
+  - 7.596171875e+2
+  - 1.86171875e+2
+  width: 1.3e+2
+  connections:
+    indexes:
+    - location: 111
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 113
+  text: BuSab
+  formattingOptions: []
+  position:
+  - 1.0248046875e+2
+  - 7.1053515625e+2
+  width: 5e+1
+  connections:
+    indexes:
+    - location: 16
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 114
+  text: Reporter is a robin
+  formattingOptions: []
+  position:
+  - 1.4245859375e+3
+  - 1.8569921875e+2
+  width: 6e+1
+  connections:
+    indexes:
+    - location: 92
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 115
+  text: Clouds and Sun moving Too Fast
+  formattingOptions: []
+  position:
+  - 1.36692578125e+3
+  - 6.8420703125e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 106
+      length: 1
+  _effectiveHeight: 2.8e+1
