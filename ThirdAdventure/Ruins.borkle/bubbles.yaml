@@ -1,0 +1,48 @@
+- ID: 1
+  text: Ulitimate Goal(s)
+  formattingOptions: []
+  position:
+  - 3.14984375e+2
+  - 6.799609375e+1
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 3
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 2
+  text: The Ruins
+  formattingOptions: []
+  position:
+  - 9.9078125e+1
+  - 5.249609375e+1
+  width: 7e+1
+  connections:
+    indexes: []
+  _effectiveHeight: 1.4e+1
+- ID: 3
+  text: Satisfy Yansha's cruiosity
+  formattingOptions: []
+  position:
+  - 4.76265625e+2
+  - 7.253515625e+1
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 1
+      length: 1
+    - location: 4
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 4
+  text: HA! I was right
+  formattingOptions: []
+  position:
+  - 6.2690234375e+2
+  - 7.963671875e+1
+  width: 9e+1
+  connections:
+    indexes:
+    - location: 3
+      length: 1
+  _effectiveHeight: 1.4e+1
