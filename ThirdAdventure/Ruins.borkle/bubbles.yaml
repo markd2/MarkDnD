@@ -267,18 +267,20 @@
       length: 1
   _effectiveHeight: 1.4e+1
 - ID: 21
-  text: First Floor
+  text: Second Floor
   formattingOptions:
   - options: 1
     rangeStart: 0
-    rangeLength: 11
+    rangeLength: 12
   position:
-  - 2.9605078125e+2
-  - 4.4862890625e+2
-  width: 8e+1
+  - 2.9727734375e+2
+  - 4.012265625e+2
+  width: 9e+1
   connections:
     indexes:
     - location: 22
+      length: 1
+    - location: 29
       length: 1
     - location: 35
       length: 1
@@ -287,8 +289,8 @@
   text: Kobold Town
   formattingOptions: []
   position:
-  - 3.26453125e+2
-  - 5.02265625e+2
+  - 3.3273046875e+2
+  - 4.77421875e+2
   width: 8e+1
   connections:
     indexes:
@@ -299,18 +301,18 @@
     - location: 29
       length: 2
     - location: 41
-      length: 1
+      length: 2
     - location: 46
       length: 1
-    - location: 48
-      length: 2
+    - location: 49
+      length: 1
   _effectiveHeight: 1.4e+1
 - ID: 23
   text: '"Don''t go downstairs!"'
   formattingOptions: []
   position:
-  - 1.9746875e+2
-  - 5.465859375e+2
+  - 1.7818359375e+2
+  - 4.9459375e+2
   width: 1.3e+2
   connections:
     indexes:
@@ -318,32 +320,36 @@
       length: 1
   _effectiveHeight: 1.4e+1
 - ID: 24
-  text: Second Floor
+  text: First Floor
   formattingOptions:
   - options: 1
     rangeStart: 0
-    rangeLength: 12
+    rangeLength: 11
   position:
-  - 1.5311328125e+2
-  - 7.4190234375e+2
+  - 1.795e+2
+  - 7.6782421875e+2
   width: 9e+1
   connections:
     indexes:
     - location: 25
       length: 1
-    - location: 34
-      length: 1
-    - location: 42
+    - location: 48
       length: 1
     - location: 60
+      length: 1
+    - location: 71
+      length: 1
+    - location: 76
+      length: 1
+    - location: 78
       length: 1
   _effectiveHeight: 1.4e+1
 - ID: 25
   text: Things get weirder
   formattingOptions: []
   position:
-  - 5.65078125e+1
-  - 6.77953125e+2
+  - 3.8265625e+1
+  - 6.94140625e+2
   width: 1.1e+2
   connections:
     indexes:
@@ -357,8 +363,8 @@
     rangeStart: 0
     rangeLength: 11
   position:
-  - 5.62921875e+2
-  - 7.1760546875e+2
+  - 6.1235546875e+2
+  - 6.5834375e+2
   width: 7e+1
   connections:
     indexes:
@@ -377,8 +383,8 @@
   text: Find map of Numenera on the wall
   formattingOptions: []
   position:
-  - 6.8091015625e+2
-  - 7.1925390625e+2
+  - 7.3009765625e+2
+  - 6.602421875e+2
   width: 1.3e+2
   connections:
     indexes:
@@ -391,8 +397,8 @@
   text: High tech
   formattingOptions: []
   position:
-  - 6.7130859375e+2
-  - 6.79109375e+2
+  - 7.2049609375e+2
+  - 6.2009765625e+2
   width: 1e+2
   connections:
     indexes:
@@ -405,20 +411,20 @@
   text: Bartleby the Marginal
   formattingOptions: []
   position:
-  - 3.988359375e+2
-  - 4.4115234375e+2
+  - 4.102578125e+2
+  - 4.026796875e+2
   width: 1.3e+2
   connections:
     indexes:
-    - location: 22
-      length: 1
+    - location: 21
+      length: 2
   _effectiveHeight: 1.4e+1
 - ID: 30
   text: Chunk Flunkins
   formattingOptions: []
   position:
-  - 4.812578125e+2
-  - 4.859765625e+2
+  - 4.645703125e+2
+  - 4.892734375e+2
   width: 1e+2
   connections:
     indexes:
@@ -429,8 +435,8 @@
   text: Corridors with lights
   formattingOptions: []
   position:
-  - 8.085078125e+2
-  - 6.5452734375e+2
+  - 8.576953125e+2
+  - 5.95515625e+2
   width: 1e+2
   connections:
     indexes:
@@ -441,8 +447,8 @@
   text: Get some monsters from Starfinder
   formattingOptions: []
   position:
-  - 8.7096484375e+2
-  - 7.08578125e+2
+  - 9.2015234375e+2
+  - 6.4956640625e+2
   width: 1e+2
   connections:
     indexes:
@@ -455,8 +461,8 @@
   text: Or Numenara
   formattingOptions: []
   position:
-  - 9.946328125e+2
-  - 6.7305078125e+2
+  - 1.0438203125e+3
+  - 6.140390625e+2
   width: 1e+2
   connections:
     indexes:
@@ -467,48 +473,48 @@
   text: Fiend Folio?
   formattingOptions: []
   position:
-  - 3.0217578125e+2
-  - 6.9634765625e+2
+  - 4.0225390625e+2
+  - 9.8130078125e+2
   width: 1e+2
   connections:
     indexes:
-    - location: 24
-      length: 1
     - location: 66
+      length: 1
+    - location: 71
       length: 1
   _effectiveHeight: 1.4e+1
 - ID: 35
-  text: Kobolds and DnD dungeon tropes
+  text: Kobolds!
   formattingOptions: []
   position:
-  - 9.313671875e+1
-  - 4.6836328125e+2
-  width: 1e+2
+  - 1.98265625e+2
+  - 4.2780078125e+2
+  width: 6e+1
   connections:
     indexes:
     - location: 21
       length: 1
-    - location: 36
-      length: 2
-  _effectiveHeight: 4.2e+1
+    - location: 37
+      length: 1
+  _effectiveHeight: 1.4e+1
 - ID: 36
   text: Gelatenous Cube
   formattingOptions: []
   position:
-  - 4.76015625e+1
-  - 5.386796875e+2
+  - 2.9865625e+2
+  - 1.02950390625e+3
   width: 1e+2
   connections:
     indexes:
-    - location: 35
+    - location: 71
       length: 1
   _effectiveHeight: 1.4e+1
 - ID: 37
   text: check out nerdarchy video
   formattingOptions: []
   position:
-  - 7.439453125e+1
-  - 4.0785546875e+2
+  - 8.581640625e+1
+  - 3.693828125e+2
   width: 1e+2
   connections:
     indexes:
@@ -516,11 +522,11 @@
       length: 1
   _effectiveHeight: 2.8e+1
 - ID: 38
-  text: Some nasty things in stasis cages
+  text: Nasty thing in a stasis cage
   formattingOptions: []
   position:
-  - 6.310546875e+2
-  - 7.9175e+2
+  - 7.029765625e+2
+  - 7.40015625e+2
   width: 1e+2
   connections:
     indexes:
@@ -528,13 +534,15 @@
       length: 1
     - location: 39
       length: 1
-  _effectiveHeight: 4.2e+1
+    - location: 73
+      length: 2
+  _effectiveHeight: 2.8e+1
 - ID: 39
   text: force-field cell door
   formattingOptions: []
   position:
-  - 7.6278515625e+2
-  - 7.8696484375e+2
+  - 8.2459765625e+2
+  - 7.0901953125e+2
   width: 1e+2
   connections:
     indexes:
@@ -547,8 +555,8 @@
   text: Similar style of controls to the borer
   formattingOptions: []
   position:
-  - 5.1016796875e+2
-  - 6.3694140625e+2
+  - 5.5935546875e+2
+  - 5.779296875e+2
   width: 1.2e+2
   connections:
     indexes:
@@ -559,8 +567,8 @@
   text: Swolbold
   formattingOptions: []
   position:
-  - 4.770859375e+2
-  - 5.2226953125e+2
+  - 4.323671875e+2
+  - 5.2330859375e+2
   width: 1e+2
   connections:
     indexes:
@@ -571,32 +579,20 @@
   text: Key/Puzzle to get to thrid floor
   formattingOptions: []
   position:
-  - 2.8496484375e+2
-  - 8.0076953125e+2
+  - 2.9641015625e+2
+  - 5.2769921875e+2
   width: 1e+2
   connections:
     indexes:
-    - location: 24
+    - location: 22
       length: 1
   _effectiveHeight: 2.8e+1
-- ID: 43
-  text: reanimate drop when the power crystal is removed
-  formattingOptions: []
-  position:
-  - 9.118046875e+2
-  - 7.9440234375e+2
-  width: 1.2e+2
-  connections:
-    indexes:
-    - location: 39
-      length: 1
-  _effectiveHeight: 4.2e+1
 - ID: 44
   text: Red Power Crystal
   formattingOptions: []
   position:
-  - 5.1581640625e+2
-  - 7.716328125e+2
+  - 5.6500390625e+2
+  - 7.1262109375e+2
   width: 7e+1
   connections:
     indexes:
@@ -611,8 +607,8 @@
   text: Same size and shape of the borer
   formattingOptions: []
   position:
-  - 4.4983984375e+2
-  - 8.2870703125e+2
+  - 4.9902734375e+2
+  - 7.696953125e+2
   width: 1e+2
   connections:
     indexes:
@@ -623,8 +619,8 @@
   text: Kleptocracy
   formattingOptions: []
   position:
-  - 4.6060546875e+2
-  - 5.638125e+2
+  - 3.7951171875e+2
+  - 5.6156640625e+2
   width: 8e+1
   connections:
     indexes:
@@ -635,8 +631,8 @@
   text: Poison dart, crushing, trap door, pits with spikes/water/monsters at the bottom
   formattingOptions: []
   position:
-  - 2.238828125e+2
-  - 5.8721484375e+2
+  - 2.004375e+2
+  - 5.95265625e+2
   width: 1e+2
   connections:
     indexes:
@@ -647,16 +643,20 @@
   text: Traps Galore
   formattingOptions: []
   position:
-  - 3.4275390625e+2
-  - 5.4798828125e+2
+  - 2.05109375e+2
+  - 7.135390625e+2
   width: 8e+1
   connections:
     indexes:
-    - location: 22
+    - location: 24
       length: 1
     - location: 47
       length: 1
     - location: 65
+      length: 1
+    - location: 72
+      length: 1
+    - location: 75
       length: 1
   _effectiveHeight: 1.4e+1
 - ID: 49
@@ -666,8 +666,8 @@
     rangeStart: 0
     rangeLength: 14
   position:
-  - 5.6982421875e+2
-  - 4.4192578125e+2
+  - 5.8124609375e+2
+  - 4.03453125e+2
   width: 9e+1
   connections:
     indexes:
@@ -680,8 +680,8 @@
   text: Consulate
   formattingOptions: []
   position:
-  - 6.6521875e+2
-  - 4.01375e+2
+  - 6.76640625e+2
+  - 3.6290234375e+2
   width: 7e+1
   connections:
     indexes:
@@ -692,8 +692,8 @@
   text: Quarters
   formattingOptions: []
   position:
-  - 7.00859375e+2
-  - 4.31171875e+2
+  - 7.1228125e+2
+  - 3.9269921875e+2
   width: 6e+1
   connections:
     indexes:
@@ -704,8 +704,8 @@
   text: Offices
   formattingOptions: []
   position:
-  - 6.9299609375e+2
-  - 4.6256640625e+2
+  - 7.0441796875e+2
+  - 4.2409375e+2
   width: 5e+1
   connections:
     indexes:
@@ -716,8 +716,8 @@
   text: Living areas
   formattingOptions: []
   position:
-  - 6.407109375e+2
-  - 4.9851171875e+2
+  - 6.521328125e+2
+  - 4.600390625e+2
   width: 8e+1
   connections:
     indexes:
@@ -731,8 +731,8 @@
     rangeStart: 0
     rangeLength: 14
   position:
-  - 6.8614453125e+2
-  - 6.3139453125e+2
+  - 7.3533203125e+2
+  - 5.723828125e+2
   width: 8e+1
   connections:
     indexes:
@@ -745,8 +745,8 @@
   text: research lab
   formattingOptions: []
   position:
-  - 7.1555078125e+2
-  - 5.736875e+2
+  - 7.6473828125e+2
+  - 5.1467578125e+2
   width: 9e+1
   connections:
     indexes:
@@ -759,8 +759,8 @@
   text: dark projects
   formattingOptions: []
   position:
-  - 8.25671875e+2
-  - 5.8434765625e+2
+  - 8.74859375e+2
+  - 5.253359375e+2
   width: 8e+1
   connections:
     indexes:
@@ -771,8 +771,8 @@
   text: experiments
   formattingOptions: []
   position:
-  - 7.89109375e+2
-  - 5.2929296875e+2
+  - 8.38296875e+2
+  - 4.7028125e+2
   width: 8e+1
   connections:
     indexes:
@@ -783,8 +783,8 @@
   text: cables leading to it
   formattingOptions: []
   position:
-  - 5.71515625e+2
-  - 8.5646875e+2
+  - 6.20703125e+2
+  - 7.9745703125e+2
   width: 1.1e+2
   connections:
     indexes:
@@ -797,8 +797,8 @@
   text: can't tell what's actually feeding it
   formattingOptions: []
   position:
-  - 5.945e+2
-  - 8.9851953125e+2
+  - 6.436875e+2
+  - 8.395078125e+2
   width: 1e+2
   connections:
     indexes:
@@ -812,8 +812,8 @@
     rangeStart: 0
     rangeLength: 14
   position:
-  - 1.188046875e+2
-  - 7.89703125e+2
+  - 1.005625e+2
+  - 8.05890625e+2
   width: 8e+1
   connections:
     indexes:
@@ -826,8 +826,8 @@
   text: garrison?
   formattingOptions: []
   position:
-  - 6.422265625e+1
-  - 8.5239453125e+2
+  - 4.598046875e+1
+  - 8.6858203125e+2
   width: 6e+1
   connections:
     indexes:
@@ -838,8 +838,8 @@
   text: barracks
   formattingOptions: []
   position:
-  - 9.3984375e+1
-  - 8.90921875e+2
+  - 7.57421875e+1
+  - 9.07109375e+2
   width: 6e+1
   connections:
     indexes:
@@ -850,8 +850,8 @@
   text: Library
   formattingOptions: []
   position:
-  - 1.8422265625e+2
-  - 8.4004296875e+2
+  - 1.6217578125e+2
+  - 8.848203125e+2
   width: 5e+1
   connections:
     indexes:
@@ -864,23 +864,139 @@
   text: Books have been vandalized in a familiar manner
   formattingOptions: []
   position:
-  - 1.994375e+2
-  - 8.985859375e+2
+  - 1.3662890625e+2
+  - 9.4184765625e+2
   width: 1e+2
   connections:
     indexes:
     - location: 63
       length: 1
   _effectiveHeight: 4.2e+1
-- ID: 70
+- ID: 71
+  text: DnD dungeon tropes
+  formattingOptions: []
+  position:
+  - 2.59640625e+2
+  - 9.535546875e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 24
+      length: 1
+    - location: 34
+      length: 1
+    - location: 36
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 72
   text: only half work
   formattingOptions: []
   position:
-  - 3.71828125e+2
-  - 6.0739453125e+2
-  width: 9e+1
+  - 3.07765625e+2
+  - 7.036015625e+2
+  width: 1e+2
   connections:
     indexes:
     - location: 48
       length: 1
   _effectiveHeight: 1.4e+1
+- ID: 73
+  text: Gibbering Mouther
+  formattingOptions: []
+  position:
+  - 7.899765625e+2
+  - 8.001875e+2
+  width: 1.1e+2
+  connections:
+    indexes:
+    - location: 38
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 74
+  text: Door drops when power shut down
+  formattingOptions: []
+  position:
+  - 8.944921875e+2
+  - 7.5884375e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 38
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 75
+  text: obvious
+  formattingOptions: []
+  position:
+  - 2.8018359375e+2
+  - 7.40734375e+2
+  width: 7e+1
+  connections:
+    indexes:
+    - location: 48
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 76
+  text: Corridor with cube
+  formattingOptions: []
+  position:
+  - 2.697265625e+2
+  - 8.045859375e+2
+  width: 1.1e+2
+  connections:
+    indexes:
+    - location: 24
+      length: 1
+    - location: 77
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 77
+  text: surfing skeleton
+  formattingOptions: []
+  position:
+  - 3.0419140625e+2
+  - 8.3094140625e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 76
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 78
+  text: Corridor leading downstairs to Koblod Town
+  formattingOptions: []
+  position:
+  - 3.163046875e+2
+  - 8.771328125e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 24
+      length: 1
+    - location: 79
+      length: 2
+  _effectiveHeight: 4.2e+1
+- ID: 79
+  text: outward pointy spikes (to keep out the cube)
+  formattingOptions: []
+  position:
+  - 4.4035546875e+2
+  - 8.3089453125e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 78
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 80
+  text: graffiti scrawl all down corridor
+  formattingOptions: []
+  position:
+  - 4.4281640625e+2
+  - 8.9816796875e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 78
+      length: 1
+  _effectiveHeight: 2.8e+1
