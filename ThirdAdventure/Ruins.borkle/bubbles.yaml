@@ -190,10 +190,13 @@
   _effectiveHeight: 1.4e+1
 - ID: 15
   text: Exterior
-  formattingOptions: []
+  formattingOptions:
+  - options: 1
+    rangeStart: 0
+    rangeLength: 8
   position:
-  - 8.65e+1
-  - 2.5683203125e+2
+  - 6.787890625e+1
+  - 2.17390625e+2
   width: 6e+1
   connections:
     indexes:
@@ -204,8 +207,8 @@
   text: GO AWAY scrawled on wall
   formattingOptions: []
   position:
-  - 1.805546875e+2
-  - 2.90671875e+2
+  - 1.6193359375e+2
+  - 2.5123046875e+2
   width: 1.2e+2
   connections:
     indexes:
@@ -218,8 +221,8 @@
   text: KING TORG
   formattingOptions: []
   position:
-  - 3.26390625e+2
-  - 2.9668359375e+2
+  - 3.0776953125e+2
+  - 2.572421875e+2
   width: 1e+2
   connections:
     indexes:
@@ -232,8 +235,8 @@
   text: (but king torg doesn't go away)
   formattingOptions: []
   position:
-  - 4.2751171875e+2
-  - 2.3328125e+2
+  - 4.08890625e+2
+  - 1.9383984375e+2
   width: 1e+2
   connections:
     indexes:
@@ -244,8 +247,8 @@
   text: so you but not king torg go away!
   formattingOptions: []
   position:
-  - 4.5368359375e+2
-  - 3.0005859375e+2
+  - 4.350625e+2
+  - 2.606171875e+2
   width: 1e+2
   connections:
     indexes:
@@ -258,8 +261,8 @@
   text: etc
   formattingOptions: []
   position:
-  - 6.023671875e+2
-  - 3.173125e+2
+  - 5.4459375e+2
+  - 2.28296875e+2
   width: 3e+1
   connections:
     indexes:
@@ -273,8 +276,8 @@
     rangeStart: 0
     rangeLength: 12
   position:
-  - 2.9727734375e+2
-  - 4.012265625e+2
+  - 2.8100390625e+2
+  - 4.5303515625e+2
   width: 9e+1
   connections:
     indexes:
@@ -284,13 +287,15 @@
       length: 1
     - location: 35
       length: 1
+    - location: 82
+      length: 1
   _effectiveHeight: 1.4e+1
 - ID: 22
   text: Kobold Town
   formattingOptions: []
   position:
-  - 3.3273046875e+2
-  - 4.77421875e+2
+  - 3.1645703125e+2
+  - 5.2923046875e+2
   width: 8e+1
   connections:
     indexes:
@@ -309,8 +314,8 @@
   text: '"Don''t go downstairs!"'
   formattingOptions: []
   position:
-  - 1.7818359375e+2
-  - 4.9459375e+2
+  - 1.604609375e+2
+  - 5.2305078125e+2
   width: 1.3e+2
   connections:
     indexes:
@@ -340,18 +345,6 @@
     - location: 76
       length: 1
     - location: 78
-      length: 1
-  _effectiveHeight: 1.4e+1
-- ID: 25
-  text: Things get weirder
-  formattingOptions: []
-  position:
-  - 1.5472265625e+2
-  - 8.0676171875e+2
-  width: 1.1e+2
-  connections:
-    indexes:
-    - location: 24
       length: 1
   _effectiveHeight: 1.4e+1
 - ID: 26
@@ -409,8 +402,8 @@
   text: Bartleby the Marginal
   formattingOptions: []
   position:
-  - 4.102578125e+2
-  - 4.026796875e+2
+  - 3.93984375e+2
+  - 4.5448828125e+2
   width: 1.3e+2
   connections:
     indexes:
@@ -421,8 +414,8 @@
   text: Chunk Flunkins
   formattingOptions: []
   position:
-  - 4.645703125e+2
-  - 4.892734375e+2
+  - 4.48296875e+2
+  - 5.4108203125e+2
   width: 1e+2
   connections:
     indexes:
@@ -485,8 +478,8 @@
   text: Kobolds!
   formattingOptions: []
   position:
-  - 1.98265625e+2
-  - 4.2780078125e+2
+  - 1.819921875e+2
+  - 4.79609375e+2
   width: 6e+1
   connections:
     indexes:
@@ -511,8 +504,8 @@
   text: check out nerdarchy video
   formattingOptions: []
   position:
-  - 8.581640625e+1
-  - 3.693828125e+2
+  - 6.954296875e+1
+  - 4.2119140625e+2
   width: 1e+2
   connections:
     indexes:
@@ -565,8 +558,8 @@
   text: Swolbold
   formattingOptions: []
   position:
-  - 4.323671875e+2
-  - 5.2330859375e+2
+  - 4.1609375e+2
+  - 5.751171875e+2
   width: 1e+2
   connections:
     indexes:
@@ -577,8 +570,8 @@
   text: Key/Puzzle to get to thrid floor
   formattingOptions: []
   position:
-  - 2.9641015625e+2
-  - 5.2769921875e+2
+  - 2.4907421875e+2
+  - 5.807421875e+2
   width: 1e+2
   connections:
     indexes:
@@ -617,8 +610,8 @@
   text: Kleptocracy
   formattingOptions: []
   position:
-  - 3.7951171875e+2
-  - 5.6156640625e+2
+  - 3.601484375e+2
+  - 6.1668359375e+2
   width: 8e+1
   connections:
     indexes:
@@ -629,7 +622,7 @@
   text: Poison dart, crushing, trap door, pits with spikes/water/monsters at the bottom
   formattingOptions: []
   position:
-  - 3.1689453125e+2
+  - 3.5144921875e+2
   - 7.0788671875e+2
   width: 1e+2
   connections:
@@ -664,8 +657,8 @@
     rangeStart: 0
     rangeLength: 14
   position:
-  - 9.9265625e+1
-  - 6.8615234375e+2
+  - 1.594921875e+2
+  - 8.071875e+2
   width: 9e+1
   connections:
     indexes:
@@ -673,13 +666,15 @@
       length: 1
     - location: 50
       length: 4
+    - location: 86
+      length: 1
   _effectiveHeight: 1.4e+1
 - ID: 50
   text: Consulate
   formattingOptions: []
   position:
-  - 1.43109375e+2
-  - 5.9706640625e+2
+  - 1.5658984375e+2
+  - 8.6458203125e+2
   width: 7e+1
   connections:
     indexes:
@@ -690,8 +685,8 @@
   text: Quarters
   formattingOptions: []
   position:
-  - 2.010859375e+2
-  - 6.361328125e+2
+  - 8.925e+1
+  - 8.4748828125e+2
   width: 6e+1
   connections:
     indexes:
@@ -702,8 +697,8 @@
   text: Offices
   formattingOptions: []
   position:
-  - 2.2388671875e+2
-  - 6.6815234375e+2
+  - 9.81484375e+1
+  - 7.5788671875e+2
   width: 5e+1
   connections:
     indexes:
@@ -714,8 +709,8 @@
   text: Living areas
   formattingOptions: []
   position:
-  - 2.07515625e+2
-  - 7.2264453125e+2
+  - 2.0701171875e+2
+  - 7.4863671875e+2
   width: 8e+1
   connections:
     indexes:
@@ -938,8 +933,8 @@
   text: Corridor with cube
   formattingOptions: []
   position:
-  - 3.8618359375e+2
-  - 9.1720703125e+2
+  - 4.1007421875e+2
+  - 8.9005078125e+2
   width: 1.1e+2
   connections:
     indexes:
@@ -952,8 +947,8 @@
   text: surfing skeleton
   formattingOptions: []
   position:
-  - 4.206484375e+2
-  - 9.435625e+2
+  - 4.3483984375e+2
+  - 9.3198046875e+2
   width: 1e+2
   connections:
     indexes:
@@ -1010,3 +1005,68 @@
     - location: 78
       length: 1
   _effectiveHeight: 2.8e+1
+- ID: 82
+  text: style of level
+  formattingOptions:
+  - options: 2
+    rangeStart: 0
+    rangeLength: 14
+  position:
+  - 2.42421875e+2
+  - 3.9068359375e+2
+  width: 8e+1
+  connections:
+    indexes:
+    - location: 21
+      length: 1
+    - location: 83
+      length: 3
+  _effectiveHeight: 1.4e+1
+- ID: 83
+  text: garrison
+  formattingOptions: []
+  position:
+  - 3.5994921875e+2
+  - 3.3184765625e+2
+  width: 6e+1
+  connections:
+    indexes:
+    - location: 82
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 84
+  text: barracks
+  formattingOptions: []
+  position:
+  - 3.7924609375e+2
+  - 4.0473046875e+2
+  width: 6e+1
+  connections:
+    indexes:
+    - location: 82
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 85
+  text: mess hall
+  formattingOptions: []
+  position:
+  - 3.9221484375e+2
+  - 3.6618359375e+2
+  width: 7e+1
+  connections:
+    indexes:
+    - location: 82
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 86
+  text: Meeting araes
+  formattingOptions: []
+  position:
+  - 4.52109375e+1
+  - 8.1089453125e+2
+  width: 9e+1
+  connections:
+    indexes:
+    - location: 49
+      length: 1
+  _effectiveHeight: 1.4e+1
