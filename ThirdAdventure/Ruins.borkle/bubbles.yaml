@@ -868,3 +868,98 @@
     - location: 63
       length: 1
   _effectiveHeight: 4.2e+1
+- ID: 65
+  text: Hello Jello
+  fillColorRGB:
+    red: 1e+0
+    green: 9.76674e-1
+    blue: 2.60953e-1
+  borderColorRGB:
+    red: 8.19323e-1
+    green: 3.4386e-2
+    blue: 5.4097e-2
+  borderThickness: 3
+  formattingOptions: []
+  position:
+  - 2.0055859375e+2
+  - 1.5807421875e+2
+  width: 6.4e+1
+  connections:
+    indexes: []
+  _effectiveHeight: 1.4e+1
+- ID: 66
+  text: New Note
+  fillColorRGB:
+    red: 7.15855e-1
+    green: 9.48712e-1
+    blue: 6.97692e-1
+  borderColorRGB:
+    red: 2.5633e-2
+    green: 2.70438e-1
+    blue: 8.05329e-1
+  borderThickness: 1
+  formattingOptions: []
+  position:
+  - 1.6566406225e+2
+  - 1.169101565e+2
+  width: 1e+2
+  connections:
+    indexes: []
+  _effectiveHeight: 1.4e+1
+- ID: 67
+  text: New Note
+  fillColorRGB:
+    red: 9.57566e-1
+    green: 7.66747e-1
+    blue: 9.99616e-1
+  borderColorRGB:
+    red: 8.10936e-1
+    green: 2.24998e-1
+    blue: 7.4202e-2
+  borderThickness: 2
+  formattingOptions: []
+  position:
+  - 3.2687890625e+2
+  - 1.3057421875e+2
+  width: 1e+2
+  connections:
+    indexes: []
+  _effectiveHeight: 1.4e+1
+- ID: 68
+  text: New Note
+  fillColorRGB:
+    red: 4.44599e-1
+    green: 2.14525e-1
+    blue: 9.78366e-1
+  borderColorRGB:
+    red: 5.72684e-1
+    green: 7.58969e-1
+    blue: 5.58154e-1
+  borderThickness: 3
+  formattingOptions: []
+  position:
+  - 3.0156640625e+2
+  - 1.8103125e+2
+  width: 1e+2
+  connections:
+    indexes: []
+  _effectiveHeight: 1.4e+1
+- ID: 69
+  text: New Note
+  fillColorRGB:
+    red: 9.95719e-1
+    green: 8.12238e-1
+    blue: 8.16601e-1
+  borderColorRGB:
+    red: 3.33263e-1
+    green: 5.50209e-1
+    blue: 2.03198e-1
+  borderThickness: 5
+  formattingOptions: []
+  position:
+  - 4.1946875025e+2
+  - 1.67472656e+2
+  width: 1e+2
+  connections:
+    indexes: []
+  _effectiveHeight: 1.4e+1
