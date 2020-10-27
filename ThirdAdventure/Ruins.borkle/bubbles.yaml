@@ -302,6 +302,8 @@
       length: 1
     - location: 46
       length: 1
+    - location: 48
+      length: 2
   _effectiveHeight: 1.4e+1
 - ID: 23
   text: '"Don''t go downstairs!"'
@@ -322,8 +324,8 @@
     rangeStart: 0
     rangeLength: 12
   position:
-  - 1.83171875e+2
-  - 7.530625e+2
+  - 1.5311328125e+2
+  - 7.4190234375e+2
   width: 9e+1
   connections:
     indexes:
@@ -333,13 +335,15 @@
       length: 1
     - location: 42
       length: 1
+    - location: 60
+      length: 1
   _effectiveHeight: 1.4e+1
 - ID: 25
   text: Things get weirder
   formattingOptions: []
   position:
-  - 1.2508203125e+2
-  - 7.976796875e+2
+  - 8.716015625e+1
+  - 6.7584765625e+2
   width: 1.1e+2
   connections:
     indexes:
@@ -365,6 +369,8 @@
     - location: 40
       length: 1
     - location: 44
+      length: 1
+    - location: 54
       length: 1
   _effectiveHeight: 1.4e+1
 - ID: 27
@@ -499,8 +505,8 @@
   text: check out nerdarchy video
   formattingOptions: []
   position:
-  - 8.29921875e+1
-  - 4.2759765625e+2
+  - 7.439453125e+1
+  - 4.0785546875e+2
   width: 1e+2
   connections:
     indexes:
@@ -508,7 +514,7 @@
       length: 1
   _effectiveHeight: 2.8e+1
 - ID: 38
-  text: Some nasty things in cages
+  text: Some nasty things in stasis cages
   formattingOptions: []
   position:
   - 6.310546875e+2
@@ -520,25 +526,27 @@
       length: 1
     - location: 39
       length: 1
-  _effectiveHeight: 2.8e+1
+  _effectiveHeight: 4.2e+1
 - ID: 39
   text: force-field cell door
   formattingOptions: []
   position:
-  - 7.6605859375e+2
-  - 7.8619140625e+2
+  - 7.6278515625e+2
+  - 7.8696484375e+2
   width: 1e+2
   connections:
     indexes:
     - location: 38
+      length: 1
+    - location: 43
       length: 1
   _effectiveHeight: 2.8e+1
 - ID: 40
   text: Similar style of controls to the borer
   formattingOptions: []
   position:
-  - 5.5058203125e+2
-  - 6.024609375e+2
+  - 5.1016796875e+2
+  - 6.3694140625e+2
   width: 1.2e+2
   connections:
     indexes:
@@ -570,15 +578,17 @@
       length: 1
   _effectiveHeight: 2.8e+1
 - ID: 43
-  text: drop when the power crystal is removed
+  text: reanimate drop when the power crystal is removed
   formattingOptions: []
   position:
-  - 8.6677734375e+2
-  - 8.027265625e+2
+  - 9.118046875e+2
+  - 7.9440234375e+2
   width: 1.2e+2
   connections:
-    indexes: []
-  _effectiveHeight: 2.8e+1
+    indexes:
+    - location: 39
+      length: 1
+  _effectiveHeight: 4.2e+1
 - ID: 44
   text: Red Power Crystal
   formattingOptions: []
@@ -592,13 +602,15 @@
       length: 1
     - location: 45
       length: 1
+    - location: 58
+      length: 1
   _effectiveHeight: 2.8e+1
 - ID: 45
   text: Same size and shape of the borer
   formattingOptions: []
   position:
-  - 4.9001171875e+2
-  - 8.4939453125e+2
+  - 4.4983984375e+2
+  - 8.2870703125e+2
   width: 1e+2
   connections:
     indexes:
@@ -617,3 +629,242 @@
     - location: 22
       length: 1
   _effectiveHeight: 1.4e+1
+- ID: 47
+  text: Poison dart, crushing, trap door, pits with spikes/water/monsters at the bottom
+  formattingOptions: []
+  position:
+  - 3.5766796875e+2
+  - 6.0075e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 48
+      length: 1
+  _effectiveHeight: 8.4e+1
+- ID: 48
+  text: Traps Galore
+  formattingOptions: []
+  position:
+  - 3.4275390625e+2
+  - 5.4798828125e+2
+  width: 8e+1
+  connections:
+    indexes:
+    - location: 22
+      length: 1
+    - location: 47
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 49
+  text: style of level
+  formattingOptions:
+  - options: 2
+    rangeStart: 0
+    rangeLength: 14
+  position:
+  - 5.6982421875e+2
+  - 4.4192578125e+2
+  width: 9e+1
+  connections:
+    indexes:
+    - location: 22
+      length: 1
+    - location: 50
+      length: 4
+  _effectiveHeight: 1.4e+1
+- ID: 50
+  text: Consulate
+  formattingOptions: []
+  position:
+  - 6.6521875e+2
+  - 4.01375e+2
+  width: 7e+1
+  connections:
+    indexes:
+    - location: 49
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 51
+  text: Quarters
+  formattingOptions: []
+  position:
+  - 7.00859375e+2
+  - 4.31171875e+2
+  width: 6e+1
+  connections:
+    indexes:
+    - location: 49
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 52
+  text: Offices
+  formattingOptions: []
+  position:
+  - 6.9299609375e+2
+  - 4.6256640625e+2
+  width: 5e+1
+  connections:
+    indexes:
+    - location: 49
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 53
+  text: Living areas
+  formattingOptions: []
+  position:
+  - 6.407109375e+2
+  - 4.9851171875e+2
+  width: 8e+1
+  connections:
+    indexes:
+    - location: 49
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 54
+  text: style of level
+  formattingOptions:
+  - options: 2
+    rangeStart: 0
+    rangeLength: 14
+  position:
+  - 6.8614453125e+2
+  - 6.3139453125e+2
+  width: 8e+1
+  connections:
+    indexes:
+    - location: 26
+      length: 1
+    - location: 55
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 55
+  text: research lab
+  formattingOptions: []
+  position:
+  - 7.1555078125e+2
+  - 5.736875e+2
+  width: 9e+1
+  connections:
+    indexes:
+    - location: 54
+      length: 1
+    - location: 56
+      length: 2
+  _effectiveHeight: 1.4e+1
+- ID: 56
+  text: dark projects
+  formattingOptions: []
+  position:
+  - 8.25671875e+2
+  - 5.8434765625e+2
+  width: 8e+1
+  connections:
+    indexes:
+    - location: 55
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 57
+  text: experiments
+  formattingOptions: []
+  position:
+  - 7.89109375e+2
+  - 5.2929296875e+2
+  width: 8e+1
+  connections:
+    indexes:
+    - location: 55
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 58
+  text: cables leading to it
+  formattingOptions: []
+  position:
+  - 5.71515625e+2
+  - 8.5646875e+2
+  width: 1.1e+2
+  connections:
+    indexes:
+    - location: 44
+      length: 1
+    - location: 59
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 59
+  text: can't tell what's actually feeding it
+  formattingOptions: []
+  position:
+  - 5.945e+2
+  - 8.9851953125e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 58
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 60
+  text: style of level
+  formattingOptions:
+  - options: 2
+    rangeStart: 0
+    rangeLength: 14
+  position:
+  - 1.188046875e+2
+  - 7.89703125e+2
+  width: 8e+1
+  connections:
+    indexes:
+    - location: 24
+      length: 1
+    - location: 61
+      length: 3
+  _effectiveHeight: 1.4e+1
+- ID: 61
+  text: garrison?
+  formattingOptions: []
+  position:
+  - 6.422265625e+1
+  - 8.5239453125e+2
+  width: 6e+1
+  connections:
+    indexes:
+    - location: 60
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 62
+  text: barracks
+  formattingOptions: []
+  position:
+  - 9.3984375e+1
+  - 8.90921875e+2
+  width: 6e+1
+  connections:
+    indexes:
+    - location: 60
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 63
+  text: Library
+  formattingOptions: []
+  position:
+  - 1.8422265625e+2
+  - 8.4004296875e+2
+  width: 5e+1
+  connections:
+    indexes:
+    - location: 60
+      length: 1
+    - location: 64
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 64
+  text: Books have been vandalized in a familiar manner
+  formattingOptions: []
+  position:
+  - 1.994375e+2
+  - 8.985859375e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 63
+      length: 1
+  _effectiveHeight: 4.2e+1
