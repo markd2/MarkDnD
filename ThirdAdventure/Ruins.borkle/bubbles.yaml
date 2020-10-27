@@ -287,7 +287,7 @@
   text: Kobold Town
   formattingOptions: []
   position:
-  - 3.2620703125e+2
+  - 3.26453125e+2
   - 5.02265625e+2
   width: 8e+1
   connections:
@@ -342,8 +342,8 @@
   text: Things get weirder
   formattingOptions: []
   position:
-  - 8.716015625e+1
-  - 6.7584765625e+2
+  - 5.65078125e+1
+  - 6.77953125e+2
   width: 1.1e+2
   connections:
     indexes:
@@ -467,12 +467,14 @@
   text: Fiend Folio?
   formattingOptions: []
   position:
-  - 3.02890625e+2
-  - 7.292578125e+2
+  - 3.0217578125e+2
+  - 6.9634765625e+2
   width: 1e+2
   connections:
     indexes:
     - location: 24
+      length: 1
+    - location: 66
       length: 1
   _effectiveHeight: 1.4e+1
 - ID: 35
@@ -633,8 +635,8 @@
   text: Poison dart, crushing, trap door, pits with spikes/water/monsters at the bottom
   formattingOptions: []
   position:
-  - 3.5766796875e+2
-  - 6.0075e+2
+  - 2.238828125e+2
+  - 5.8721484375e+2
   width: 1e+2
   connections:
     indexes:
@@ -653,6 +655,8 @@
     - location: 22
       length: 1
     - location: 47
+      length: 1
+    - location: 65
       length: 1
   _effectiveHeight: 1.4e+1
 - ID: 49
@@ -868,3 +872,27 @@
     - location: 63
       length: 1
   _effectiveHeight: 4.2e+1
+- ID: 65
+  text: only half work
+  formattingOptions: []
+  position:
+  - 3.71828125e+2
+  - 6.0739453125e+2
+  width: 9e+1
+  connections:
+    indexes:
+    - location: 48
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 66
+  text: Undead?
+  formattingOptions: []
+  position:
+  - 3.0863671875e+2
+  - 7.4169140625e+2
+  width: 8e+1
+  connections:
+    indexes:
+    - location: 34
+      length: 1
+  _effectiveHeight: 1.4e+1
