@@ -1297,7 +1297,7 @@
   text: Snorgle
   formattingOptions: []
   position:
-  - 2.1102734375e+3
+  - 2.137953125e+3
   - 1.003453125e+3
   width: 1e+2
   connections:
@@ -1332,6 +1332,8 @@
       length: 1
     - location: 106
       length: 3
+    - location: 140
+      length: 1
   _effectiveHeight: 1.4e+1
 - ID: 106
   text: Middle
@@ -1373,6 +1375,8 @@
     - location: 105
       length: 1
     - location: 120
+      length: 1
+    - location: 138
       length: 1
   _effectiveHeight: 1.4e+1
 - ID: 109
@@ -1436,8 +1440,8 @@
     rangeStart: 0
     rangeLength: 12
   position:
-  - 1.6347265625e+3
-  - 5.27953125e+2
+  - 1.63359765625e+3
+  - 5.7323828125e+2
   width: 9e+1
   connections:
     indexes:
@@ -1456,8 +1460,8 @@
   text: Throne room near stairs down
   formattingOptions: []
   position:
-  - 1.62626953125e+3
-  - 5.9534375e+2
+  - 1.625140625e+3
+  - 6.4062890625e+2
   width: 1e+2
   connections:
     indexes:
@@ -1468,8 +1472,8 @@
   text: Large kitchen
   formattingOptions: []
   position:
-  - 1.47955859375e+3
-  - 6.119140625e+2
+  - 1.4784296875e+3
+  - 6.5719921875e+2
   width: 1e+2
   connections:
     indexes:
@@ -1480,8 +1484,8 @@
   text: Several Barracks
   formattingOptions: []
   position:
-  - 1.77458984375e+3
-  - 5.835078125e+2
+  - 1.7734609375e+3
+  - 6.2879296875e+2
   width: 1e+2
   connections:
     indexes:
@@ -1534,8 +1538,8 @@
   text: Rooms
   formattingOptions: []
   position:
-  - 1.84506640625e+3
-  - 2.2556640625e+2
+  - 1.79113671875e+3
+  - 2.3067578125e+2
   width: 5e+1
   connections:
     indexes:
@@ -1548,8 +1552,8 @@
   text: Private quarters
   formattingOptions: []
   position:
-  - 1.8240078125e+3
-  - 2.7111328125e+2
+  - 1.77806640625e+3
+  - 2.827578125e+2
   width: 1e+2
   connections:
     indexes:
@@ -1562,8 +1566,8 @@
   text: Weapons room
   formattingOptions: []
   position:
-  - 1.7663046875e+3
-  - 6.597890625e+2
+  - 1.76517578125e+3
+  - 7.0507421875e+2
   width: 1e+2
   connections:
     indexes:
@@ -1578,8 +1582,8 @@
   text: Kobolds sparring
   formattingOptions: []
   position:
-  - 1.71393359375e+3
-  - 7.264296875e+2
+  - 1.6827421875e+3
+  - 7.5565234375e+2
   width: 1e+2
   connections:
     indexes:
@@ -1592,8 +1596,8 @@
   text: Badly
   formattingOptions: []
   position:
-  - 1.7542109375e+3
-  - 8.0294140625e+2
+  - 1.68824609375e+3
+  - 8.12203125e+2
   width: 5e+1
   connections:
     indexes:
@@ -1604,8 +1608,8 @@
   text: Ishi Snaggletooth's guide to stabbing
   formattingOptions: []
   position:
-  - 1.8196171875e+3
-  - 7.5846875e+2
+  - 1.81848828125e+3
+  - 8.0375390625e+2
   width: 1.1e+2
   connections:
     indexes:
@@ -1616,8 +1620,8 @@
   text: As open and spralwing as the top floor is cramped
   formattingOptions: []
   position:
-  - 1.49706640625e+3
-  - 4.8649609375e+2
+  - 1.4959375e+3
+  - 5.3178125e+2
   width: 1e+2
   connections:
     indexes:
@@ -1652,8 +1656,8 @@
   text: Parts with ceiling have light
   formattingOptions: []
   position:
-  - 1.8093359375e+3
-  - 2.838671875e+1
+  - 1.804296875e+3
+  - 6.5515625e+1
   width: 1e+2
   connections:
     indexes:
@@ -1666,8 +1670,8 @@
   text: Glowing ceiling
   formattingOptions: []
   position:
-  - 1.79953515625e+3
-  - 4.9646484375e+2
+  - 1.79840625e+3
+  - 5.4175e+2
   width: 1e+2
   connections:
     indexes:
@@ -1680,8 +1684,8 @@
   text: light goes out when battery stolen
   formattingOptions: []
   position:
-  - 1.86445703125e+3
-  - 7.207421875e+1
+  - 1.8980390625e+3
+  - 1.541796875e+1
   width: 1.1e+2
   connections:
     indexes:
@@ -1692,8 +1696,8 @@
   text: light goes out when battery stolen
   formattingOptions: []
   position:
-  - 1.8704609375e+3
-  - 5.30328125e+2
+  - 1.86933203125e+3
+  - 5.7561328125e+2
   width: 1.1e+2
   connections:
     indexes:
@@ -1704,8 +1708,8 @@
   text: Gelatenous Cube with surfing skeleton
   formattingOptions: []
   position:
-  - 1.83016015625e+3
-  - 3.2287109375e+2
+  - 1.80347265625e+3
+  - 3.31296875e+2
   width: 1e+2
   connections:
     indexes:
@@ -1728,8 +1732,8 @@
   text: Nicely worked stone
   formattingOptions: []
   position:
-  - 1.66278515625e+3
-  - 4.668359375e+2
+  - 1.66165625e+3
+  - 5.1212109375e+2
   width: 1e+2
   connections:
     indexes:
@@ -1742,14 +1746,14 @@
   text: Stonecunning - never seen it before
   formattingOptions: []
   position:
-  - 1.79099609375e+3
-  - 4.3071484375e+2
-  width: 1e+2
+  - 1.8096796875e+3
+  - 4.8111328125e+2
+  width: 1.2e+2
   connections:
     indexes:
     - location: 135
       length: 1
-  _effectiveHeight: 4.2e+1
+  _effectiveHeight: 2.8e+1
 - ID: 137
   text: similarly vandalized
   formattingOptions: []
@@ -1760,5 +1764,57 @@
   connections:
     indexes:
     - location: 117
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 138
+  text: very clean
+  formattingOptions: []
+  position:
+  - 1.87623046875e+3
+  - 2.0505078125e+2
+  width: 7e+1
+  connections:
+    indexes:
+    - location: 108
+      length: 1
+    - location: 139
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 139
+  text: Someone's been taking care of it
+  formattingOptions: []
+  position:
+  - 1.87879296875e+3
+  - 2.40453125e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 138
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 140
+  text: Hear quiet weird noises from the floor
+  formattingOptions: []
+  position:
+  - 1.846796875e+3
+  - 1.1187890625e+2
+  width: 1.3e+2
+  connections:
+    indexes:
+    - location: 105
+      length: 1
+    - location: 141
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 141
+  text: All the kobold cacophony downstairs
+  formattingOptions: []
+  position:
+  - 1.905203125e+3
+  - 1.557890625e+2
+  width: 1.3e+2
+  connections:
+    indexes:
+    - location: 140
       length: 1
   _effectiveHeight: 2.8e+1
