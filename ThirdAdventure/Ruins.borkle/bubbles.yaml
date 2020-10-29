@@ -276,8 +276,8 @@
     rangeStart: 0
     rangeLength: 12
   position:
-  - 2.8100390625e+2
-  - 4.5303515625e+2
+  - 2.560390625e+2
+  - 4.39734375e+2
   width: 9e+1
   connections:
     indexes:
@@ -294,8 +294,8 @@
   text: Kobold Town
   formattingOptions: []
   position:
-  - 3.1645703125e+2
-  - 5.2923046875e+2
+  - 2.914921875e+2
+  - 5.159296875e+2
   width: 8e+1
   connections:
     indexes:
@@ -314,8 +314,8 @@
   text: '"Don''t go downstairs!"'
   formattingOptions: []
   position:
-  - 1.604609375e+2
-  - 5.2305078125e+2
+  - 1.3549609375e+2
+  - 5.0975e+2
   width: 1.3e+2
   connections:
     indexes:
@@ -345,6 +345,8 @@
     - location: 76
       length: 1
     - location: 78
+      length: 1
+    - location: 92
       length: 1
   _effectiveHeight: 1.4e+1
 - ID: 26
@@ -402,8 +404,8 @@
   text: Bartleby the Marginal
   formattingOptions: []
   position:
-  - 3.93984375e+2
-  - 4.5448828125e+2
+  - 3.6901953125e+2
+  - 4.411875e+2
   width: 1.3e+2
   connections:
     indexes:
@@ -414,12 +416,14 @@
   text: Chunk Flunkins
   formattingOptions: []
   position:
-  - 4.48296875e+2
-  - 5.4108203125e+2
+  - 4.17109375e+2
+  - 4.90203125e+2
   width: 1e+2
   connections:
     indexes:
     - location: 22
+      length: 1
+    - location: 87
       length: 1
   _effectiveHeight: 1.4e+1
 - ID: 31
@@ -478,8 +482,8 @@
   text: Kobolds!
   formattingOptions: []
   position:
-  - 1.819921875e+2
-  - 4.79609375e+2
+  - 1.5702734375e+2
+  - 4.6630859375e+2
   width: 6e+1
   connections:
     indexes:
@@ -504,8 +508,8 @@
   text: check out nerdarchy video
   formattingOptions: []
   position:
-  - 6.954296875e+1
-  - 4.2119140625e+2
+  - 4.4578125e+1
+  - 4.07890625e+2
   width: 1e+2
   connections:
     indexes:
@@ -558,8 +562,8 @@
   text: Swolbold
   formattingOptions: []
   position:
-  - 4.1609375e+2
-  - 5.751171875e+2
+  - 3.9112890625e+2
+  - 5.6181640625e+2
   width: 1e+2
   connections:
     indexes:
@@ -570,8 +574,8 @@
   text: Key/Puzzle to get to thrid floor
   formattingOptions: []
   position:
-  - 2.4907421875e+2
-  - 5.807421875e+2
+  - 2.24109375e+2
+  - 5.6744140625e+2
   width: 1e+2
   connections:
     indexes:
@@ -610,8 +614,8 @@
   text: Kleptocracy
   formattingOptions: []
   position:
-  - 3.601484375e+2
-  - 6.1668359375e+2
+  - 3.3518359375e+2
+  - 6.033828125e+2
   width: 8e+1
   connections:
     indexes:
@@ -622,8 +626,8 @@
   text: Poison dart, crushing, trap door, pits with spikes/water/monsters at the bottom
   formattingOptions: []
   position:
-  - 3.5144921875e+2
-  - 7.0788671875e+2
+  - 4.0105078125e+2
+  - 6.9587890625e+2
   width: 1e+2
   connections:
     indexes:
@@ -634,8 +638,8 @@
   text: Traps Galore
   formattingOptions: []
   position:
-  - 3.2156640625e+2
-  - 8.2616015625e+2
+  - 3.5372265625e+2
+  - 8.211953125e+2
   width: 8e+1
   connections:
     indexes:
@@ -885,7 +889,7 @@
   text: only half work
   formattingOptions: []
   position:
-  - 4.2422265625e+2
+  - 4.4875390625e+2
   - 8.1622265625e+2
   width: 1e+2
   connections:
@@ -906,23 +910,25 @@
       length: 1
   _effectiveHeight: 1.4e+1
 - ID: 74
-  text: Door drops when power shut down
+  text: Stasis stops when power shut down
   formattingOptions: []
   position:
-  - 1.086171875e+3
-  - 5.836875e+2
+  - 1.110359375e+3
+  - 5.782109375e+2
   width: 1e+2
   connections:
     indexes:
     - location: 38
       length: 1
-  _effectiveHeight: 2.8e+1
+    - location: 95
+      length: 1
+  _effectiveHeight: 4.2e+1
 - ID: 75
   text: obvious
   formattingOptions: []
   position:
-  - 3.96640625e+2
-  - 8.5335546875e+2
+  - 4.5770703125e+2
+  - 8.5017578125e+2
   width: 7e+1
   connections:
     indexes:
@@ -1012,8 +1018,8 @@
     rangeStart: 0
     rangeLength: 14
   position:
-  - 2.42421875e+2
-  - 3.9068359375e+2
+  - 2.1745703125e+2
+  - 3.773828125e+2
   width: 8e+1
   connections:
     indexes:
@@ -1026,8 +1032,8 @@
   text: garrison
   formattingOptions: []
   position:
-  - 3.5994921875e+2
-  - 3.3184765625e+2
+  - 3.34984375e+2
+  - 3.18546875e+2
   width: 6e+1
   connections:
     indexes:
@@ -1038,8 +1044,8 @@
   text: barracks
   formattingOptions: []
   position:
-  - 3.7924609375e+2
-  - 4.0473046875e+2
+  - 3.5428125e+2
+  - 3.914296875e+2
   width: 6e+1
   connections:
     indexes:
@@ -1050,8 +1056,8 @@
   text: mess hall
   formattingOptions: []
   position:
-  - 3.9221484375e+2
-  - 3.6618359375e+2
+  - 3.6725e+2
+  - 3.528828125e+2
   width: 7e+1
   connections:
     indexes:
@@ -1070,3 +1076,220 @@
     - location: 49
       length: 1
   _effectiveHeight: 1.4e+1
+- ID: 87
+  text: Queen of the Kobolds
+  formattingOptions: []
+  position:
+  - 4.5716015625e+2
+  - 5.3019921875e+2
+  width: 1.3e+2
+  connections:
+    indexes:
+    - location: 30
+      length: 1
+    - location: 88
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 88
+  text: Crown is a sawblade made into a circlet
+  formattingOptions: []
+  position:
+  - 5.0674609375e+2
+  - 5.7198046875e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 87
+      length: 1
+    - location: 89
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 89
+  text: Looks like it'll unsnap at any time
+  formattingOptions: []
+  position:
+  - 5.2432421875e+2
+  - 6.475234375e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 88
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 90
+  text: Second -> Third floor transiition
+  formattingOptions:
+  - options: 1
+    rangeStart: 0
+    rangeLength: 33
+  position:
+  - 7.230234375e+2
+  - 7.2962890625e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 91
+      length: 1
+    - location: 93
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 91
+  text: The kobolds have taken over the second floor, since the first floor is half
+    open to the elements
+  formattingOptions: []
+  position:
+  - 8.9193359375e+2
+  - 7.0621875e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 90
+      length: 1
+    - location: 97
+      length: 1
+  _effectiveHeight: 8.4e+1
+- ID: 92
+  text: Half-open to the elements
+  formattingOptions: []
+  position:
+  - 2.528515625e+2
+  - 7.8266796875e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 24
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 93
+  text: They've been working to get down to the third level
+  formattingOptions: []
+  position:
+  - 7.8959765625e+2
+  - 8.0681640625e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 90
+      length: 1
+    - location: 94
+      length: 1
+  _effectiveHeight: 5.6e+1
+- ID: 94
+  text: As the party shows up, they've just managed to breach the third level
+  formattingOptions: []
+  position:
+  - 9.3229296875e+2
+  - 8.2016015625e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 93
+      length: 1
+    - location: 96
+      length: 1
+  _effectiveHeight: 8.4e+1
+- ID: 95
+  text: Alien in the dark with the G.M.
+  formattingOptions: []
+  position:
+  - 1.09617578125e+3
+  - 6.4416015625e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 74
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 96
+  text: "Kobold, obviously worried:\n    \"Hey Chunk!\"\n\"Wht did you call me?\"\n
+    \ \"Oh sorry Supreme Leader Flunkins. We found something\"\n\"Please be excusing
+    me\"\n20 minutes pass\nChunk is visibily terrified\n\"Kobolds.  We leave.  Now.
+    \  Code Screw King Torg!\"\n(Gasps, they know she's _serious_)  And within 5 minutes,
+    the party is left alone"
+  formattingOptions: []
+  position:
+  - 8.9903125e+2
+  - 9.395234375e+2
+  width: 1.9e+2
+  connections:
+    indexes:
+    - location: 94
+      length: 1
+  _effectiveHeight: 1.82e+2
+- ID: 97
+  text: They're poking at the party
+  formattingOptions: []
+  position:
+  - 1.02045703125e+3
+  - 7.05453125e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 91
+      length: 1
+    - location: 98
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 98
+  text: chatting, being friendly
+  formattingOptions: []
+  position:
+  - 1.164828125e+3
+  - 6.9232421875e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 97
+      length: 1
+    - location: 99
+      length: 4
+  _effectiveHeight: 2.8e+1
+- ID: 99
+  text: '"why you tall ones out here?"'
+  formattingOptions: []
+  position:
+  - 1.0633203125e+3
+  - 7.583046875e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 98
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 100
+  text: You met any dragons?
+  formattingOptions: []
+  position:
+  - 1.22073828125e+3
+  - 7.6359765625e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 98
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 101
+  text: Milk carton with "have u seen Meepo?"
+  formattingOptions: []
+  position:
+  - 1.20561328125e+3
+  - 8.5680078125e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 98
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 102
+  text: '"you want something to eat? Couldn''t find any babies, so we have to make
+    do"'
+  formattingOptions: []
+  position:
+  - 1.0777109375e+3
+  - 8.1832421875e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 98
+      length: 1
+  _effectiveHeight: 8.4e+1
