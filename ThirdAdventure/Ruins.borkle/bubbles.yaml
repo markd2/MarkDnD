@@ -1123,8 +1123,8 @@
     rangeStart: 0
     rangeLength: 33
   position:
-  - 7.230234375e+2
-  - 7.2962890625e+2
+  - 7.1545703125e+2
+  - 7.699921875e+2
   width: 1e+2
   connections:
     indexes:
@@ -1138,8 +1138,8 @@
     open to the elements
   formattingOptions: []
   position:
-  - 8.9193359375e+2
-  - 7.0621875e+2
+  - 8.843671875e+2
+  - 7.4658203125e+2
   width: 1e+2
   connections:
     indexes:
@@ -1164,8 +1164,8 @@
   text: They've been working to get down to the third level
   formattingOptions: []
   position:
-  - 7.8959765625e+2
-  - 8.0681640625e+2
+  - 7.8203125e+2
+  - 8.471796875e+2
   width: 1e+2
   connections:
     indexes:
@@ -1178,8 +1178,8 @@
   text: As the party shows up, they've just managed to breach the third level
   formattingOptions: []
   position:
-  - 9.3229296875e+2
-  - 8.2016015625e+2
+  - 9.247265625e+2
+  - 8.605234375e+2
   width: 1e+2
   connections:
     indexes:
@@ -1202,14 +1202,14 @@
   _effectiveHeight: 2.8e+1
 - ID: 96
   text: "Kobold, obviously worried:\n    \"Hey Chunk!\"\n\"Wht did you call me?\"\n
-    \ \"Oh sorry Supreme Leader Flunkins. We found something\"\n\"Please be excusing
-    me\"\n20 minutes pass\nChunk is visibily terrified\n\"Kobolds.  We leave.  Now.
-    \  Code Screw King Torg!\"\n(Gasps, they know she's _serious_)  And within 5 minutes,
+    \ \"Oh sorry Leader Flunkins. We found something\"\n\"Please be excusing me\"\n20
+    minutes pass\nChunk is visibily terrified\n\"Kobolds.  We leave.  Now.   Code
+    Screw King Torg!\"\n(Gasps, they know she's _serious_)  And within 5 minutes,
     the party is left alone"
   formattingOptions: []
   position:
-  - 8.9903125e+2
-  - 9.395234375e+2
+  - 8.9146484375e+2
+  - 9.7988671875e+2
   width: 1.9e+2
   connections:
     indexes:
@@ -1220,8 +1220,8 @@
   text: They're poking at the party
   formattingOptions: []
   position:
-  - 1.02045703125e+3
-  - 7.05453125e+2
+  - 1.012890625e+3
+  - 7.4581640625e+2
   width: 1e+2
   connections:
     indexes:
@@ -1234,8 +1234,8 @@
   text: chatting, being friendly
   formattingOptions: []
   position:
-  - 1.164828125e+3
-  - 6.9232421875e+2
+  - 1.15726171875e+3
+  - 7.326875e+2
   width: 1e+2
   connections:
     indexes:
@@ -1248,8 +1248,8 @@
   text: '"why you tall ones out here?"'
   formattingOptions: []
   position:
-  - 1.0633203125e+3
-  - 7.583046875e+2
+  - 1.05575390625e+3
+  - 7.9866796875e+2
   width: 1e+2
   connections:
     indexes:
@@ -1260,8 +1260,8 @@
   text: You met any dragons?
   formattingOptions: []
   position:
-  - 1.22073828125e+3
-  - 7.6359765625e+2
+  - 1.213171875e+3
+  - 8.039609375e+2
   width: 1e+2
   connections:
     indexes:
@@ -1272,8 +1272,8 @@
   text: Milk carton with "have u seen Meepo?"
   formattingOptions: []
   position:
-  - 1.20561328125e+3
-  - 8.5680078125e+2
+  - 1.198046875e+3
+  - 8.971640625e+2
   width: 1e+2
   connections:
     indexes:
@@ -1285,11 +1285,152 @@
     do"'
   formattingOptions: []
   position:
-  - 1.0777109375e+3
-  - 8.1832421875e+2
+  - 1.07014453125e+3
+  - 8.586875e+2
   width: 1e+2
   connections:
     indexes:
     - location: 98
       length: 1
   _effectiveHeight: 8.4e+1
+- ID: 103
+  text: Snorgle
+  formattingOptions: []
+  position:
+  - 2.00548828125e+3
+  - 1.003453125e+3
+  width: 1e+2
+  connections:
+    indexes: []
+  _effectiveHeight: 1.4e+1
+- ID: 104
+  text: Main entrance
+  formattingOptions: []
+  position:
+  - 1.5897421875e+3
+  - 4.117578125e+1
+  width: 9e+1
+  connections:
+    indexes:
+    - location: 105
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 105
+  text: three radiating cooridors
+  formattingOptions: []
+  position:
+  - 1.570359375e+3
+  - 9.56875e+1
+  width: 1.4e+2
+  connections:
+    indexes:
+    - location: 104
+      length: 1
+    - location: 106
+      length: 3
+  _effectiveHeight: 1.4e+1
+- ID: 106
+  text: Middle
+  formattingOptions: []
+  position:
+  - 1.57976171875e+3
+  - 1.81734375e+2
+  width: 6e+1
+  connections:
+    indexes:
+    - location: 105
+      length: 1
+    - location: 109
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 107
+  text: Left
+  formattingOptions: []
+  position:
+  - 1.444375e+3
+  - 1.8305078125e+2
+  width: 6e+1
+  connections:
+    indexes:
+    - location: 105
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 108
+  text: Right
+  formattingOptions: []
+  position:
+  - 1.7505859375e+3
+  - 1.806015625e+2
+  width: 6e+1
+  connections:
+    indexes:
+    - location: 105
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 109
+  text: Spikes
+  formattingOptions: []
+  position:
+  - 1.584765625e+3
+  - 2.29625e+2
+  width: 5e+1
+  connections:
+    indexes:
+    - location: 106
+      length: 1
+    - location: 110
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 110
+  text: Graffiti
+  formattingOptions: []
+  position:
+  - 1.58511328125e+3
+  - 2.7148828125e+2
+  width: 5e+1
+  connections:
+    indexes:
+    - location: 109
+      length: 1
+    - location: 111
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 111
+  text: Traps galore
+  formattingOptions: []
+  position:
+  - 1.5693359375e+3
+  - 3.2351171875e+2
+  width: 8e+1
+  connections:
+    indexes:
+    - location: 110
+      length: 1
+    - location: 112
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 112
+  text: Stairs down to second level
+  formattingOptions: []
+  position:
+  - 1.56826953125e+3
+  - 3.6755078125e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 111
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 113
+  text: Second Floor
+  formattingOptions:
+  - options: 1
+    rangeStart: 0
+    rangeLength: 12
+  position:
+  - 1.5608046875e+3
+  - 5.02578125e+2
+  width: 9e+1
+  connections:
+    indexes: []
+  _effectiveHeight: 1.4e+1
