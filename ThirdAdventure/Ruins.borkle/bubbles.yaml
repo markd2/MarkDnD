@@ -1297,7 +1297,7 @@
   text: Snorgle
   formattingOptions: []
   position:
-  - 2.00548828125e+3
+  - 2.04118359375e+3
   - 1.003453125e+3
   width: 1e+2
   connections:
@@ -1314,6 +1314,8 @@
     indexes:
     - location: 105
       length: 1
+    - location: 127
+      length: 3
   _effectiveHeight: 1.4e+1
 - ID: 105
   text: three radiating cooridors
@@ -1333,8 +1335,8 @@
   text: Middle
   formattingOptions: []
   position:
-  - 1.57976171875e+3
-  - 1.81734375e+2
+  - 1.59072265625e+3
+  - 1.7546875e+2
   width: 6e+1
   connections:
     indexes:
@@ -1347,12 +1349,14 @@
   text: Left
   formattingOptions: []
   position:
-  - 1.444375e+3
+  - 1.444125e+3
   - 1.8305078125e+2
-  width: 6e+1
+  width: 4e+1
   connections:
     indexes:
     - location: 105
+      length: 1
+    - location: 117
       length: 1
   _effectiveHeight: 1.4e+1
 - ID: 108
@@ -1361,18 +1365,20 @@
   position:
   - 1.7505859375e+3
   - 1.806015625e+2
-  width: 6e+1
+  width: 5e+1
   connections:
     indexes:
     - location: 105
+      length: 1
+    - location: 120
       length: 1
   _effectiveHeight: 1.4e+1
 - ID: 109
   text: Spikes
   formattingOptions: []
   position:
-  - 1.584765625e+3
-  - 2.29625e+2
+  - 1.5957265625e+3
+  - 2.23359375e+2
   width: 5e+1
   connections:
     indexes:
@@ -1385,8 +1391,8 @@
   text: Graffiti
   formattingOptions: []
   position:
-  - 1.58511328125e+3
-  - 2.7148828125e+2
+  - 1.59607421875e+3
+  - 2.6522265625e+2
   width: 5e+1
   connections:
     indexes:
@@ -1399,8 +1405,8 @@
   text: Traps galore
   formattingOptions: []
   position:
-  - 1.5693359375e+3
-  - 3.2351171875e+2
+  - 1.580296875e+3
+  - 3.1724609375e+2
   width: 8e+1
   connections:
     indexes:
@@ -1413,8 +1419,8 @@
   text: Stairs down to second level
   formattingOptions: []
   position:
-  - 1.56826953125e+3
-  - 3.6755078125e+2
+  - 1.57923046875e+3
+  - 3.6128515625e+2
   width: 1e+2
   connections:
     indexes:
@@ -1432,5 +1438,271 @@
   - 5.02578125e+2
   width: 9e+1
   connections:
-    indexes: []
+    indexes:
+    - location: 114
+      length: 3
+    - location: 122
+      length: 1
+    - location: 126
+      length: 1
+    - location: 130
+      length: 1
   _effectiveHeight: 1.4e+1
+- ID: 114
+  text: Throne room near stairs down
+  formattingOptions: []
+  position:
+  - 1.55209765625e+3
+  - 5.7021484375e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 113
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 115
+  text: Large kitchen
+  formattingOptions: []
+  position:
+  - 1.40538671875e+3
+  - 5.8678515625e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 113
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 116
+  text: Several Barracks
+  formattingOptions: []
+  position:
+  - 1.70041796875e+3
+  - 5.5837890625e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 113
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 117
+  text: Library
+  formattingOptions: []
+  position:
+  - 1.44222265625e+3
+  - 2.485625e+2
+  width: 5e+1
+  connections:
+    indexes:
+    - location: 107
+      length: 1
+    - location: 118
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 118
+  text: Offices
+  formattingOptions: []
+  position:
+  - 1.4469375e+3
+  - 2.996875e+2
+  width: 5e+1
+  connections:
+    indexes:
+    - location: 117
+      length: 1
+    - location: 119
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 119
+  text: Meeting rooms
+  formattingOptions: []
+  position:
+  - 1.40583203125e+3
+  - 3.55890625e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 118
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 120
+  text: Rooms
+  formattingOptions: []
+  position:
+  - 1.77192578125e+3
+  - 2.31859375e+2
+  width: 5e+1
+  connections:
+    indexes:
+    - location: 108
+      length: 1
+    - location: 121
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 121
+  text: Private quarters
+  formattingOptions: []
+  position:
+  - 1.7508671875e+3
+  - 2.7740625e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 120
+      length: 1
+    - location: 133
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 122
+  text: Weapons room
+  formattingOptions: []
+  position:
+  - 1.6921328125e+3
+  - 6.3466015625e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 113
+      length: 1
+    - location: 123
+      length: 1
+    - location: 125
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 123
+  text: Kobolds sparring
+  formattingOptions: []
+  position:
+  - 1.63976171875e+3
+  - 7.0130078125e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 122
+      length: 1
+    - location: 124
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 124
+  text: Badly
+  formattingOptions: []
+  position:
+  - 1.6800390625e+3
+  - 7.778125e+2
+  width: 5e+1
+  connections:
+    indexes:
+    - location: 123
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 125
+  text: Ishi Snaggletooth's guide to stabbing
+  formattingOptions: []
+  position:
+  - 1.7454453125e+3
+  - 7.3333984375e+2
+  width: 1.1e+2
+  connections:
+    indexes:
+    - location: 122
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 126
+  text: As open and spralwing as the top floor is cramped
+  formattingOptions: []
+  position:
+  - 1.42391015625e+3
+  - 4.760859375e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 113
+      length: 1
+  _effectiveHeight: 5.6e+1
+- ID: 127
+  text: Cramped
+  formattingOptions: []
+  position:
+  - 1.41655078125e+3
+  - 5.493359375e+1
+  width: 7e+1
+  connections:
+    indexes:
+    - location: 104
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 128
+  text: Half the roof is missing
+  formattingOptions: []
+  position:
+  - 1.44485546875e+3
+  - 9.09296875e+1
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 104
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 129
+  text: Parts with ceiling have light
+  formattingOptions: []
+  position:
+  - 1.7361953125e+3
+  - 3.46796875e+1
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 104
+      length: 1
+    - location: 131
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 130
+  text: Glowing ceiling
+  formattingOptions: []
+  position:
+  - 1.71697265625e+3
+  - 4.437734375e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 113
+      length: 1
+    - location: 132
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 131
+  text: light goes out when battery stolen
+  formattingOptions: []
+  position:
+  - 1.7197109375e+3
+  - 8.625390625e+1
+  width: 1.1e+2
+  connections:
+    indexes:
+    - location: 129
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 132
+  text: light goes out when battery stolen
+  formattingOptions: []
+  position:
+  - 1.77432421875e+3
+  - 5.0032421875e+2
+  width: 1.1e+2
+  connections:
+    indexes:
+    - location: 130
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 133
+  text: Gelatenous Cube with surfing skeleton
+  formattingOptions: []
+  position:
+  - 1.75701953125e+3
+  - 3.291640625e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 121
+      length: 1
+  _effectiveHeight: 4.2e+1
