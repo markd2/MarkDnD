@@ -1165,7 +1165,7 @@
       length: 1
   _effectiveHeight: 2.8e+1
 - ID: 87
-  text: Kia flying and apprehending
+  text: Kiya flying and apprehending
   formattingOptions: []
   position:
   - 1.656390625e+3
@@ -1603,28 +1603,30 @@
   text: Stampede of Beers
   formattingOptions: []
   position:
-  - 1.832828125e+3
+  - 1.832578125e+3
   - 8.403046875e+2
   width: 1.1e+2
   connections:
     indexes:
     - location: 119
       length: 1
-    - location: 122
-      length: 1
+    - location: 121
+      length: 2
     - location: 137
       length: 1
   _effectiveHeight: 1.4e+1
 - ID: 121
-  text: ''
+  text: A.R.C.A.D.E. folks investigating
   formattingOptions: []
   position:
-  - 1.86065234375e+3
-  - 9.5608984375e+2
-  width: 1e+2
+  - 1.82492578125e+3
+  - 9.05984375e+2
+  width: 1.2e+2
   connections:
-    indexes: []
-  _effectiveHeight: 1.4e+1
+    indexes:
+    - location: 120
+      length: 1
+  _effectiveHeight: 2.8e+1
 - ID: 122
   text: Bear / Beaver hybrid
   formattingOptions: []
@@ -1765,6 +1767,8 @@
     - location: 134
       length: 1
     - location: 154
+      length: 1
+    - location: 160
       length: 1
   _effectiveHeight: 1.4e+1
 - ID: 133
@@ -2062,3 +2066,108 @@
     - location: 154
       length: 1
   _effectiveHeight: 5.6e+1
+- ID: 156
+  text: Basil
+  formattingOptions: []
+  position:
+  - 1.65008203125e+3
+  - 8.9503515625e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 157
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 157
+  text: Chats with Duchess Eddie
+  formattingOptions: []
+  position:
+  - 1.64509558105469e+3
+  - 9.67369018554688e+2
+  width: 1.5e+2
+  connections:
+    indexes:
+    - location: 156
+      length: 1
+    - location: 158
+      length: 2
+  _effectiveHeight: 1.4e+1
+- ID: 158
+  text: Welcome. Sorry.  Are you ok?  Can we do anything?
+  formattingOptions: []
+  position:
+  - 1.73732421875e+3
+  - 1.01286328125e+3
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 157
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 159
+  text: My colleagues are familiar with this, so we don't think you were targeted
+  formattingOptions:
+  - options: 2
+    rangeStart: 56
+    rangeLength: 17
+  position:
+  - 1.6397734375e+3
+  - 1.06153125e+3
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 157
+      length: 1
+  _effectiveHeight: 7e+1
+- ID: 160
+  text: C&C were at the aftermath of the first one 100 years ago
+  formattingOptions: []
+  position:
+  - 3.735625e+2
+  - 7.50234375e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 132
+      length: 1
+    - location: 161
+      length: 2
+  _effectiveHeight: 5.6e+1
+- ID: 161
+  text: killed(?) parent (s)?
+  formattingOptions: []
+  position:
+  - 3.4109765625e+2
+  - 8.7758203125e+2
+  width: 1.1e+2
+  connections:
+    indexes:
+    - location: 160
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 162
+  text: current happening matchines what happened
+  formattingOptions: []
+  position:
+  - 4.2716015625e+2
+  - 8.247109375e+2
+  width: 1.5e+2
+  connections:
+    indexes:
+    - location: 160
+      length: 1
+    - location: 163
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 163
+  text: back then, it was a lot quicker froom appearance to explosion
+  formattingOptions: []
+  position:
+  - 4.8464453125e+2
+  - 8.771328125e+2
+  width: 1.5e+2
+  connections:
+    indexes:
+    - location: 162
+      length: 1
+  _effectiveHeight: 4.2e+1
