@@ -1,12 +1,12 @@
 - ID: 1
   label: << World
-  horizontalPosition: 6.6923046875e+2
+  horizontalPosition: 7.16984375e+2
   width: 6e+0
 - ID: 2
   label: << PCs
-  horizontalPosition: 1.18795703125e+3
+  horizontalPosition: 1.27050390625e+3
   width: 4e+0
 - ID: 3
   label: << NPCS | Timeline >>
-  horizontalPosition: 1.63585546875e+3
+  horizontalPosition: 1.71840234375e+3
   width: 8e+0
