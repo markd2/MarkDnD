@@ -95,6 +95,10 @@
   _effectiveHeight: 2.8e+1
 - ID: 8
   text: Fronts
+  fillColorRGB:
+    red: 1e+0
+    green: 9.0283e-1
+    blue: 9.76506e-1
   formattingOptions:
   - options: 1
     rangeStart: 0
@@ -115,12 +119,16 @@
       length: 1
   _effectiveHeight: 1.4e+1
 - ID: 9
-  text: Arcade
+  text: A.R.C.A.D.E.
+  fillColorRGB:
+    red: 8.93993e-1
+    green: 9.92872e-1
+    blue: 1e+0
   formattingOptions: []
   position:
-  - 2.979140625e+2
-  - 6.787109375e+2
-  width: 6e+1
+  - 2.720078125e+2
+  - 6.7140234375e+2
+  width: 8e+1
   connections:
     indexes:
     - location: 8
@@ -134,10 +142,14 @@
   _effectiveHeight: 1.4e+1
 - ID: 10
   text: The Factor
+  fillColorRGB:
+    red: 8.93993e-1
+    green: 9.92872e-1
+    blue: 1e+0
   formattingOptions: []
   position:
-  - 1.5275e+2
-  - 6.251171875e+2
+  - 1.522265625e+2
+  - 6.2485546875e+2
   width: 7e+1
   connections:
     indexes:
@@ -285,12 +297,16 @@
   _effectiveHeight: 2.8e+1
 - ID: 21
   text: Kiya Sol
+  fillColorRGB:
+    red: 1e+0
+    green: 9.0283e-1
+    blue: 9.76506e-1
   formattingOptions:
   - options: 1
     rangeStart: 0
     rangeLength: 8
   position:
-  - 7.60875e+2
+  - 7.60625e+2
   - 5.5578125e+1
   width: 6e+1
   connections:
@@ -368,6 +384,10 @@
   _effectiveHeight: 1.4e+1
 - ID: 27
   text: Giz
+  fillColorRGB:
+    red: 1e+0
+    green: 9.0283e-1
+    blue: 9.76506e-1
   formattingOptions:
   - options: 1
     rangeStart: 0
@@ -375,7 +395,7 @@
   position:
   - 7.742734375e+2
   - 2.8953515625e+2
-  width: 6e+1
+  width: 4e+1
   connections:
     indexes:
     - location: 28
@@ -451,6 +471,10 @@
   _effectiveHeight: 1.4e+1
 - ID: 33
   text: '''Dine'
+  fillColorRGB:
+    red: 1e+0
+    green: 9.0283e-1
+    blue: 9.76506e-1
   formattingOptions:
   - options: 1
     rangeStart: 0
@@ -596,6 +620,10 @@
   _effectiveHeight: 1.4e+1
 - ID: 43
   text: Claude
+  fillColorRGB:
+    red: 1e+0
+    green: 9.0283e-1
+    blue: 9.76506e-1
   formattingOptions:
   - options: 1
     rangeStart: 0
@@ -603,7 +631,7 @@
   position:
   - 7.8459765625e+2
   - 9.298671875e+2
-  width: 1e+2
+  width: 6e+1
   connections:
     indexes:
     - location: 41
@@ -669,10 +697,14 @@
   _effectiveHeight: 2.8e+1
 - ID: 48
   text: GI Jane
+  fillColorRGB:
+    red: 1e+0
+    green: 9.0283e-1
+    blue: 9.76506e-1
   formattingOptions: []
   position:
-  - 1.31251171875e+3
-  - 1.0631640625e+2
+  - 1.3104375e+3
+  - 1.4573046875e+2
   width: 6e+1
   connections:
     indexes:
@@ -683,8 +715,8 @@
   text: Head of A.R.C.A.D.E.
   formattingOptions: []
   position:
-  - 1.41333203125e+3
-  - 1.0837890625e+2
+  - 1.4112578125e+3
+  - 1.4779296875e+2
   width: 1e+2
   connections:
     indexes:
@@ -695,8 +727,8 @@
   text: Elephantoid
   formattingOptions: []
   position:
-  - 1.381515625e+3
-  - 5.8375e+1
+  - 1.37944140625e+3
+  - 9.77890625e+1
   width: 1e+2
   connections:
     indexes:
@@ -707,14 +739,18 @@
   text: Tortle Minister
   formattingOptions: []
   position:
-  - 1.31526953125e+3
-  - 2.1190625e+2
+  - 1.50257421875e+3
+  - 1.27421875e+1
   width: 1e+2
   connections:
     indexes: []
   _effectiveHeight: 1.4e+1
 - ID: 52
   text: Eddie Bauer
+  fillColorRGB:
+    red: 1e+0
+    green: 9.0283e-1
+    blue: 9.76506e-1
   formattingOptions: []
   position:
   - 1.30859765625e+3
@@ -755,6 +791,10 @@
   _effectiveHeight: 2.8e+1
 - ID: 56
   text: River
+  fillColorRGB:
+    red: 1e+0
+    green: 9.0283e-1
+    blue: 9.76506e-1
   formattingOptions: []
   position:
   - 1.31130078125e+3
@@ -811,13 +851,17 @@
   _effectiveHeight: 1.4e+1
 - ID: 60
   text: Orub
+  fillColorRGB:
+    red: 1e+0
+    green: 9.0283e-1
+    blue: 9.76506e-1
   formattingOptions:
   - options: 1
     rangeStart: 0
     rangeLength: 4
   position:
-  - 3.124140625e+2
-  - 1.758515625e+2
+  - 3.2621875e+2
+  - 1.8033984375e+2
   width: 4e+1
   connections:
     indexes:
@@ -840,10 +884,14 @@
   _effectiveHeight: 1.4e+1
 - ID: 61
   text: Alderhart Island
+  fillColorRGB:
+    red: 8.93993e-1
+    green: 9.92872e-1
+    blue: 1e+0
   formattingOptions: []
   position:
   - 1.8116796875e+2
-  - 2.10546875e+2
+  - 2.103046875e+2
   width: 1e+2
   connections:
     indexes:
@@ -900,10 +948,14 @@
   _effectiveHeight: 2.8e+1
 - ID: 65
   text: The Pebbles
+  fillColorRGB:
+    red: 8.93993e-1
+    green: 9.92872e-1
+    blue: 1e+0
   formattingOptions: []
   position:
   - 4.3330859375e+2
-  - 2.0411328125e+2
+  - 2.0387109375e+2
   width: 8e+1
   connections:
     indexes:
@@ -942,10 +994,14 @@
   _effectiveHeight: 1.4e+1
 - ID: 68
   text: Figure-8 Ocean
+  fillColorRGB:
+    red: 8.93993e-1
+    green: 9.92872e-1
+    blue: 1e+0
   formattingOptions: []
   position:
   - 2.90703125e+2
-  - 1.15203125e+2
+  - 1.147109375e+2
   width: 1e+2
   connections:
     indexes:
@@ -1118,6 +1174,10 @@
   _effectiveHeight: 2.8e+1
 - ID: 82
   text: Day Before Wedding
+  fillColorRGB:
+    red: 1e+0
+    green: 9.0283e-1
+    blue: 9.76506e-1
   formattingOptions: []
   position:
   - 1.8661796875e+3
@@ -1134,6 +1194,10 @@
   _effectiveHeight: 2.8e+1
 - ID: 83
   text: Wedding Day
+  fillColorRGB:
+    red: 1e+0
+    green: 9.0283e-1
+    blue: 9.76506e-1
   formattingOptions: []
   position:
   - 1.87500390625e+3
@@ -1592,6 +1656,10 @@
   _effectiveHeight: 1.4e+1
 - ID: 117
   text: The Crossing
+  fillColorRGB:
+    red: 8.93993e-1
+    green: 9.92872e-1
+    blue: 1e+0
   formattingOptions: []
   position:
   - 4.2063671875e+2
@@ -1622,6 +1690,10 @@
   text: 'Session #2:
 
     Aftermath'
+  fillColorRGB:
+    red: 1e+0
+    green: 9.0283e-1
+    blue: 9.76506e-1
   formattingOptions:
   - options: 1
     rangeStart: 0
@@ -1653,6 +1725,10 @@
   _effectiveHeight: 1.4e+1
 - ID: 121
   text: A.R.C.A.D.E. folks investigating
+  fillColorRGB:
+    red: 1e+0
+    green: 9.0283e-1
+    blue: 9.76506e-1
   formattingOptions: []
   position:
   - 1.917234375e+3
@@ -1807,10 +1883,14 @@
   _effectiveHeight: 1.4e+1
 - ID: 132
   text: Tin Cans
+  fillColorRGB:
+    red: 8.93993e-1
+    green: 9.92872e-1
+    blue: 1e+0
   formattingOptions: []
   position:
-  - 4.990078125e+2
-  - 5.9069921875e+2
+  - 4.784609375e+2
+  - 5.9744921875e+2
   width: 7e+1
   connections:
     indexes:
@@ -1829,8 +1909,8 @@
   text: 2 asplosions 100 years ago
   formattingOptions: []
   position:
-  - 4.6758203125e+2
-  - 4.97171875e+2
+  - 4.940859375e+2
+  - 4.998359375e+2
   width: 1e+2
   connections:
     indexes:
@@ -1841,7 +1921,7 @@
   text: 2 asplosions now
   formattingOptions: []
   position:
-  - 4.6554296875e+2
+  - 4.8279296875e+2
   - 5.556875e+2
   width: 1e+2
   connections:
@@ -1937,6 +2017,10 @@
   _effectiveHeight: 1.4e+1
 - ID: 142
   text: Basil
+  fillColorRGB:
+    red: 1e+0
+    green: 9.0283e-1
+    blue: 9.76506e-1
   formattingOptions:
   - options: 1
     rangeStart: 0
@@ -2505,6 +2589,10 @@
   _effectiveHeight: 4.2e+1
 - ID: 185
   text: Tin Cans
+  fillColorRGB:
+    red: 1e+0
+    green: 9.0283e-1
+    blue: 9.76506e-1
   formattingOptions: []
   position:
   - 1.2991484375e+3
@@ -2597,10 +2685,14 @@
   _effectiveHeight: 4.2e+1
 - ID: 192
   text: Machine-Making Effort
+  fillColorRGB:
+    red: 8.93993e-1
+    green: 9.92872e-1
+    blue: 1e+0
   formattingOptions: []
   position:
-  - 2.1615625e+2
-  - 5.7565625e+2
+  - 2.156328125e+2
+  - 5.7539453125e+2
   width: 1.3e+2
   connections:
     indexes:
@@ -2843,10 +2935,14 @@
   _effectiveHeight: 2.8e+1
 - ID: 211
   text: Neepon
+  fillColorRGB:
+    red: 8.93993e-1
+    green: 9.92872e-1
+    blue: 1e+0
   formattingOptions: []
   position:
   - 3.9793359375e+2
-  - 2.4119921875e+2
+  - 2.4095703125e+2
   width: 6e+1
   connections:
     indexes:
@@ -2883,10 +2979,14 @@
   _effectiveHeight: 1.4e+1
 - ID: 214
   text: Coombs
+  fillColorRGB:
+    red: 8.93993e-1
+    green: 9.92872e-1
+    blue: 1e+0
   formattingOptions: []
   position:
   - 3.1011328125e+2
-  - 2.7508203125e+2
+  - 2.7483984375e+2
   width: 8e+1
   connections:
     indexes:
@@ -2933,10 +3033,14 @@
   _effectiveHeight: 2.8e+1
 - ID: 218
   text: Forbidden Lands
+  fillColorRGB:
+    red: 8.93993e-1
+    green: 9.92872e-1
+    blue: 1e+0
   formattingOptions: []
   position:
   - 3.917734375e+2
-  - 1.5957421875e+2
+  - 1.5884375e+2
   width: 1e+2
   connections:
     indexes:
@@ -2979,8 +3083,8 @@
   text: air/sea ships height of technology
   formattingOptions: []
   position:
-  - 4.761328125e+1
-  - 1.057421875e+2
+  - 4.88671875e+1
+  - 8.589453125e+1
   width: 1.2e+2
   connections:
     indexes:
@@ -3013,6 +3117,10 @@
   _effectiveHeight: 1.4e+1
 - ID: 224
   text: Debrief in Tavern
+  fillColorRGB:
+    red: 1e+0
+    green: 9.0283e-1
+    blue: 9.76506e-1
   formattingOptions: []
   position:
   - 1.79851501464844e+3
@@ -3157,10 +3265,14 @@
   _effectiveHeight: 1.4e+1
 - ID: 234
   text: Eddie
+  fillColorRGB:
+    red: 8.93993e-1
+    green: 9.92872e-1
+    blue: 1e+0
   formattingOptions: []
   position:
-  - 3.804453125e+2
-  - 5.75421875e+2
+  - 3.79921875e+2
+  - 5.7516015625e+2
   width: 5e+1
   connections:
     indexes:
@@ -3493,6 +3605,10 @@
   _effectiveHeight: 4.2e+1
 - ID: 260
   text: Preliminatry to travel to Neepon
+  fillColorRGB:
+    red: 1e+0
+    green: 9.0283e-1
+    blue: 9.76506e-1
   formattingOptions: []
   position:
   - 1.998890625e+3
