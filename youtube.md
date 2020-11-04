@@ -25,7 +25,7 @@ them on Patreon as well
 
 * Guy Sclanders _How to be a Great GM_ : https://www.youtube.com/user/Bon3zmann . A lot of 
   storytelling and building advice.  He did one of my favorite live-plays 
-  (Save or Dice: [haros Stones](https://www.youtube.com/watch?v=q02LrG0Cpq8&list=PLxKZIGQZ0G2Y5aBzLq2a_PzSY7Km4DYA1) , which has some brilliant NPCs (like the talking donkey with a Sean Connery voice). Somewhere
+  (Save or Dice: [Kharos Stones](https://www.youtube.com/watch?v=q02LrG0Cpq8&list=PLxKZIGQZ0G2Y5aBzLq2a_PzSY7Km4DYA1) , which has some brilliant NPCs (like the talking donkey with a Sean Connery voice). Somewhere
   on his chanel are his prep streams for each session, and cool to watch the plan vs the what
   actually ahppened.
 
@@ -51,8 +51,8 @@ them on Patreon as well
 
 ### Occasional Watches
 
-* https://www.youtube.com/user/Nerdarchy - Nerdarchy. They pump out a lot of content. Some of
-  which is brilliant, some is filler.  Nerdarchist Dave has resurrected a daily one-hour
+* Nerdarchy : https://www.youtube.com/user/Nerdarchy . One of the original RPG youtube channels.
+  They pump out a lot of content. Some of which is brilliant, some is filler.  Nerdarchist Dave has resurrected a daily one-hour
   interview, and he's a surprisingly good interviewer.  One of the more amazing ones was
   with Jen Kretchmer - https://www.youtube.com/watch?v=5E2A9Na-c84 , with an extended discussion
   on accessibility at cons.
