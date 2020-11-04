@@ -19,22 +19,26 @@ them on Patreon as well
 * Matt Koebel Office Hours : https://www.youtube.com/watch?v=cpHN-sm__o0&list=PLAmPx8nWedFVGdrP2JmcYzdvZC8sWV5b4
   Unfortunately he _really_ screwed up last April and got internet-cancelled, but he is/was an excellent
   DM (his Roll20 games are some of my favorites), and this office hours show has a lot of excellent advice
-  both general and specific on RPG and at-the-table relationships.
+  both general and specific on RPG and at-the-table relationships.  Plus he covers a ton of
+  RPG systems (Mosueguard, Burning Wheel, Powered by the Apocolypse, creator of Dungeon World,
+  and on and on), so it's not just D&D.
 
 * Guy Sclanders _How to be a Great GM_ : https://www.youtube.com/user/Bon3zmann . A lot of 
   storytelling and building advice.  He did one of my favorite live-plays 
-  (Save or Dice: Kharos Stones)[https://www.youtube.com/watch?v=q02LrG0Cpq8&list=PLxKZIGQZ0G2Y5aBzLq2a_PzSY7Km4DYA1] , which has some brilliant NPCs (like the talking donkey with a Sean Connery voice). Somewhere
+  (Save or Dice: [haros Stones](https://www.youtube.com/watch?v=q02LrG0Cpq8&list=PLxKZIGQZ0G2Y5aBzLq2a_PzSY7Km4DYA1) , which has some brilliant NPCs (like the talking donkey with a Sean Connery voice). Somewhere
   on his chanel are his prep streams for each session, and cool to watch the plan vs the what
   actually ahppened.
 
 * Seth Skorkowsky : https://www.youtube.com/channel/UCQs8-UJ7IHsrzhQ-OQOYBmg . Module reviews
   (Call of Cthulhu and Traveller) and RPG advice and story time. A really engaging presenter,
-  and his skit characters (Jack the NPC, Dweebles, etc) are surprisingly not cringy.
+  and his skit characters (Jack the NPC, Dweebles, etc) are surprisingly not cringy. 
+
 
 * The Dungeon Run : Live on Caffeine (http://caffeine.tv/thedungeonrun) - archive  https://www.youtube.com/watch?v=mJIAatNWLMM&list=PLkgwwAiuZ301FVTHCyuuqAU39jIeAD8g_ . Highly produced live play.  Jeff Canatta is
   pretty amazing at building the story and bringing the NPCs to life.  The characters have a
-  great chemistry.  Most fun catching it live 9pm eastern on wednesdays.  Plus there's a puppet
-  mindflayer.
+  great chemistry.  Most fun catching it live 9pm eastern on wednesdays to enjoy the chat
+  and "props" giving (3-D animated fidget toys).  Plus there's a puppet mindflayer who is the
+  host.
 
 * Web DM : https://www.youtube.com/channel/UC7XFmdssWgaPzGyGbKk8GaQ - pun nerd interviews
   DM expert.  The intros and outtakes are usually really clever.  They're long, so I sometimes
@@ -50,7 +54,7 @@ them on Patreon as well
 * https://www.youtube.com/user/Nerdarchy - Nerdarchy. They pump out a lot of content. Some of
   which is brilliant, some is filler.  Nerdarchist Dave has resurrected a daily one-hour
   interview, and he's a surprisingly good interviewer.  One of the more amazing ones was
-  with Jen Krtchmer - https://www.youtube.com/watch?v=5E2A9Na-c84 , with an extended discussion
+  with Jen Kretchmer - https://www.youtube.com/watch?v=5E2A9Na-c84 , with an extended discussion
   on accessibility at cons.
 
 * XP To Level 3 : https://www.youtube.com/user/TheDrModnar - hyperbole-oriented player and
