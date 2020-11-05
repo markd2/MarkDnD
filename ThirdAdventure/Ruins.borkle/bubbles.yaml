@@ -1343,7 +1343,9 @@
     - location: 105
       length: 1
     - location: 127
-      length: 3
+      length: 1
+    - location: 129
+      length: 1
     - location: 134
       length: 1
   _effectiveHeight: 1.4e+1
@@ -1376,6 +1378,8 @@
       length: 1
     - location: 109
       length: 1
+    - location: 151
+      length: 1
   _effectiveHeight: 1.4e+1
 - ID: 107
   text: Left
@@ -1389,6 +1393,8 @@
     - location: 105
       length: 1
     - location: 117
+      length: 1
+    - location: 128
       length: 1
   _effectiveHeight: 1.4e+1
 - ID: 108
@@ -1405,6 +1411,8 @@
     - location: 120
       length: 1
     - location: 138
+      length: 1
+    - location: 150
       length: 1
   _effectiveHeight: 1.4e+1
 - ID: 109
@@ -1570,8 +1578,8 @@
   text: Rooms
   formattingOptions: []
   position:
-  - 1.79113671875e+3
-  - 2.3067578125e+2
+  - 1.867296875e+3
+  - 2.3166796875e+2
   width: 5e+1
   connections:
     indexes:
@@ -1584,8 +1592,8 @@
   text: Private quarters
   formattingOptions: []
   position:
-  - 1.77806640625e+3
-  - 2.827578125e+2
+  - 1.7517578125e+3
+  - 2.5614453125e+2
   width: 1e+2
   connections:
     indexes:
@@ -1676,12 +1684,12 @@
   text: Half the roof is missing
   formattingOptions: []
   position:
-  - 1.51799609375e+3
-  - 8.463671875e+1
+  - 1.43694140625e+3
+  - 1.260234375e+2
   width: 1e+2
   connections:
     indexes:
-    - location: 104
+    - location: 107
       length: 1
   _effectiveHeight: 2.8e+1
 - ID: 129
@@ -1802,8 +1810,8 @@
   text: very clean
   formattingOptions: []
   position:
-  - 1.87623046875e+3
-  - 2.0505078125e+2
+  - 1.91728515625e+3
+  - 2.020390625e+2
   width: 7e+1
   connections:
     indexes:
@@ -1816,8 +1824,8 @@
   text: Someone's been taking care of it
   formattingOptions: []
   position:
-  - 1.87879296875e+3
-  - 2.40453125e+2
+  - 1.9399765625e+3
+  - 2.39671875e+2
   width: 1e+2
   connections:
     indexes:
@@ -1882,8 +1890,8 @@
   text: Action-Oriented?
   formattingOptions: []
   position:
-  - 2.09768359375e+3
-  - 2.97765625e+2
+  - 2.0974375e+3
+  - 2.760703125e+2
   width: 1e+2
   connections:
     indexes:
@@ -1895,7 +1903,7 @@
   formattingOptions: []
   position:
   - 2.14307421875e+3
-  - 2.3281640625e+2
+  - 2.1893359375e+2
   width: 1.1e+2
   connections:
     indexes:
@@ -1955,3 +1963,27 @@
     - location: 148
       length: 1
   _effectiveHeight: 4.2e+1
+- ID: 150
+  text: roof in good shape
+  formattingOptions: []
+  position:
+  - 1.74225390625e+3
+  - 2.1418359375e+2
+  width: 1.1e+2
+  connections:
+    indexes:
+    - location: 108
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 151
+  text: some roof missing
+  formattingOptions: []
+  position:
+  - 1.58036328125e+3
+  - 1.951796875e+2
+  width: 6e+1
+  connections:
+    indexes:
+    - location: 106
+      length: 1
+  _effectiveHeight: 2.8e+1

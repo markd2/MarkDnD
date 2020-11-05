@@ -18,13 +18,13 @@ Warm smiles.  Hugs. "how was your trip to Castle-Lantern?"
 
 "Really nice.  They've got a lovely library there.  I had a great time chatting with
 Arma and Darrell and checking out their stacks"  "find anything?"  "yes!  I think I have
-lead on the second book.  Thinking it may be within a couple of miles of the Delian tomb"
+lead on the second book.  It may be within a couple of miles of the Delian tomb"
 
 "Anything else going on there?  I dispatched a team up there earlier this week after
-a pretty inchoerent cry for help".  "no, everything seemed normal.  Had a nice meal at
-their weird little restaurant. Apparently some kids discovered an ancient encampment 
-outside of town. The head of the guard and the mayor where arguing over whether they should
-investigate it.  He's an ass."
+a pretty inchoerent cry for help".  "no, everything seemed normal before I left.  
+Had a nice meal at their weird little restaurant. Apparently some kids discovered an
+ancient encampment in the spooky forest outside of town. The head of the guard and
+the mayor where arguing over whether they should investigate it.  He's a real ass."
 
 "Really." Figboot looks concerned.  He waves his hand at the door
 connecting his office to the tavern. It opens by itself.  "BozLee?  If
