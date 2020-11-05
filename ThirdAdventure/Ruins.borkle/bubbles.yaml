@@ -1,5 +1,9 @@
 - ID: 1
   text: Ulitimate Goal(s)
+  fillColorRGB:
+    red: 8.96043e-1
+    green: 9.97437e-1
+    blue: 9.42763e-1
   formattingOptions:
   - options: 1
     rangeStart: 0
@@ -21,13 +25,17 @@
   _effectiveHeight: 1.4e+1
 - ID: 2
   text: The Ruins
+  fillColorRGB:
+    red: 1e+0
+    green: 9.0283e-1
+    blue: 9.76506e-1
   formattingOptions:
   - options: 1
     rangeStart: 0
     rangeLength: 9
   position:
   - 2.7228125e+2
-  - 7.07890625e+1
+  - 7.054296875e+1
   width: 7e+1
   connections:
     indexes: []
@@ -190,6 +198,10 @@
   _effectiveHeight: 1.4e+1
 - ID: 15
   text: Exterior
+  fillColorRGB:
+    red: 8.96043e-1
+    green: 9.97437e-1
+    blue: 9.42763e-1
   formattingOptions:
   - options: 1
     rangeStart: 0
@@ -271,6 +283,10 @@
   _effectiveHeight: 1.4e+1
 - ID: 21
   text: Second Floor
+  fillColorRGB:
+    red: 8.96043e-1
+    green: 9.97437e-1
+    blue: 9.42763e-1
   formattingOptions:
   - options: 1
     rangeStart: 0
@@ -351,6 +367,10 @@
   _effectiveHeight: 1.4e+1
 - ID: 26
   text: Third Floor
+  fillColorRGB:
+    red: 8.96043e-1
+    green: 9.97437e-1
+    blue: 9.42763e-1
   formattingOptions:
   - options: 1
     rangeStart: 0
@@ -1118,13 +1138,17 @@
   _effectiveHeight: 4.2e+1
 - ID: 90
   text: Second -> Third floor transiition
+  fillColorRGB:
+    red: 8.96043e-1
+    green: 9.97437e-1
+    blue: 9.42763e-1
   formattingOptions:
   - options: 1
     rangeStart: 0
     rangeLength: 33
   position:
-  - 7.1545703125e+2
-  - 7.699921875e+2
+  - 7.1521484375e+2
+  - 7.6975e+2
   width: 1e+2
   connections:
     indexes:
@@ -1297,7 +1321,7 @@
   text: Snorgle
   formattingOptions: []
   position:
-  - 2.137953125e+3
+  - 2.34280078125e+3
   - 1.003453125e+3
   width: 1e+2
   connections:
@@ -1305,6 +1329,10 @@
   _effectiveHeight: 1.4e+1
 - ID: 104
   text: Main entrance
+  fillColorRGB:
+    red: 8.96043e-1
+    green: 9.97437e-1
+    blue: 9.42763e-1
   formattingOptions: []
   position:
   - 1.6628828125e+3
@@ -1315,7 +1343,9 @@
     - location: 105
       length: 1
     - location: 127
-      length: 3
+      length: 1
+    - location: 129
+      length: 1
     - location: 134
       length: 1
   _effectiveHeight: 1.4e+1
@@ -1348,6 +1378,8 @@
       length: 1
     - location: 109
       length: 1
+    - location: 151
+      length: 1
   _effectiveHeight: 1.4e+1
 - ID: 107
   text: Left
@@ -1361,6 +1393,8 @@
     - location: 105
       length: 1
     - location: 117
+      length: 1
+    - location: 128
       length: 1
   _effectiveHeight: 1.4e+1
 - ID: 108
@@ -1377,6 +1411,8 @@
     - location: 120
       length: 1
     - location: 138
+      length: 1
+    - location: 150
       length: 1
   _effectiveHeight: 1.4e+1
 - ID: 109
@@ -1435,13 +1471,17 @@
   _effectiveHeight: 2.8e+1
 - ID: 113
   text: Second Floor
+  fillColorRGB:
+    red: 8.96043e-1
+    green: 9.97437e-1
+    blue: 9.42763e-1
   formattingOptions:
   - options: 1
     rangeStart: 0
     rangeLength: 12
   position:
-  - 1.63359765625e+3
-  - 5.7323828125e+2
+  - 1.62407421875e+3
+  - 5.10640625e+2
   width: 9e+1
   connections:
     indexes:
@@ -1460,8 +1500,8 @@
   text: Throne room near stairs down
   formattingOptions: []
   position:
-  - 1.625140625e+3
-  - 6.4062890625e+2
+  - 1.6156171875e+3
+  - 5.7828125e+2
   width: 1e+2
   connections:
     indexes:
@@ -1472,8 +1512,8 @@
   text: Large kitchen
   formattingOptions: []
   position:
-  - 1.4784296875e+3
-  - 6.5719921875e+2
+  - 1.46890625e+3
+  - 5.948515625e+2
   width: 1e+2
   connections:
     indexes:
@@ -1484,8 +1524,8 @@
   text: Several Barracks
   formattingOptions: []
   position:
-  - 1.7734609375e+3
-  - 6.2879296875e+2
+  - 1.7639375e+3
+  - 5.664453125e+2
   width: 1e+2
   connections:
     indexes:
@@ -1538,8 +1578,8 @@
   text: Rooms
   formattingOptions: []
   position:
-  - 1.79113671875e+3
-  - 2.3067578125e+2
+  - 1.867296875e+3
+  - 2.3166796875e+2
   width: 5e+1
   connections:
     indexes:
@@ -1552,8 +1592,8 @@
   text: Private quarters
   formattingOptions: []
   position:
-  - 1.77806640625e+3
-  - 2.827578125e+2
+  - 1.7517578125e+3
+  - 2.5614453125e+2
   width: 1e+2
   connections:
     indexes:
@@ -1566,8 +1606,8 @@
   text: Weapons room
   formattingOptions: []
   position:
-  - 1.76517578125e+3
-  - 7.0507421875e+2
+  - 1.75565234375e+3
+  - 6.427265625e+2
   width: 1e+2
   connections:
     indexes:
@@ -1582,8 +1622,8 @@
   text: Kobolds sparring
   formattingOptions: []
   position:
-  - 1.6827421875e+3
-  - 7.5565234375e+2
+  - 1.67321875e+3
+  - 6.933046875e+2
   width: 1e+2
   connections:
     indexes:
@@ -1596,8 +1636,8 @@
   text: Badly
   formattingOptions: []
   position:
-  - 1.68824609375e+3
-  - 8.12203125e+2
+  - 1.67872265625e+3
+  - 7.4985546875e+2
   width: 5e+1
   connections:
     indexes:
@@ -1608,8 +1648,8 @@
   text: Ishi Snaggletooth's guide to stabbing
   formattingOptions: []
   position:
-  - 1.81848828125e+3
-  - 8.0375390625e+2
+  - 1.80896484375e+3
+  - 7.4140625e+2
   width: 1.1e+2
   connections:
     indexes:
@@ -1620,8 +1660,8 @@
   text: As open and spralwing as the top floor is cramped
   formattingOptions: []
   position:
-  - 1.4959375e+3
-  - 5.3178125e+2
+  - 1.4864140625e+3
+  - 4.6943359375e+2
   width: 1e+2
   connections:
     indexes:
@@ -1644,12 +1684,12 @@
   text: Half the roof is missing
   formattingOptions: []
   position:
-  - 1.51799609375e+3
-  - 8.463671875e+1
+  - 1.43694140625e+3
+  - 1.260234375e+2
   width: 1e+2
   connections:
     indexes:
-    - location: 104
+    - location: 107
       length: 1
   _effectiveHeight: 2.8e+1
 - ID: 129
@@ -1670,8 +1710,8 @@
   text: Glowing ceiling
   formattingOptions: []
   position:
-  - 1.79840625e+3
-  - 5.4175e+2
+  - 1.7888828125e+3
+  - 4.7940234375e+2
   width: 1e+2
   connections:
     indexes:
@@ -1696,8 +1736,8 @@
   text: light goes out when battery stolen
   formattingOptions: []
   position:
-  - 1.86933203125e+3
-  - 5.7561328125e+2
+  - 1.85980859375e+3
+  - 5.13265625e+2
   width: 1.1e+2
   connections:
     indexes:
@@ -1732,8 +1772,8 @@
   text: Nicely worked stone
   formattingOptions: []
   position:
-  - 1.66165625e+3
-  - 5.1212109375e+2
+  - 1.6521328125e+3
+  - 4.497734375e+2
   width: 1e+2
   connections:
     indexes:
@@ -1746,8 +1786,8 @@
   text: Stonecunning - never seen it before
   formattingOptions: []
   position:
-  - 1.8096796875e+3
-  - 4.8111328125e+2
+  - 1.80015625e+3
+  - 4.18765625e+2
   width: 1.2e+2
   connections:
     indexes:
@@ -1770,8 +1810,8 @@
   text: very clean
   formattingOptions: []
   position:
-  - 1.87623046875e+3
-  - 2.0505078125e+2
+  - 1.91728515625e+3
+  - 2.020390625e+2
   width: 7e+1
   connections:
     indexes:
@@ -1784,8 +1824,8 @@
   text: Someone's been taking care of it
   formattingOptions: []
   position:
-  - 1.87879296875e+3
-  - 2.40453125e+2
+  - 1.9399765625e+3
+  - 2.39671875e+2
   width: 1e+2
   connections:
     indexes:
@@ -1816,5 +1856,134 @@
   connections:
     indexes:
     - location: 140
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 142
+  text: Third Floor
+  fillColorRGB:
+    red: 8.96043e-1
+    green: 9.97437e-1
+    blue: 9.42763e-1
+  formattingOptions: []
+  position:
+  - 1.59626171875e+3
+  - 8.6896875e+2
+  width: 8e+1
+  connections:
+    indexes:
+    - location: 143
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 143
+  text: Mouther Cell
+  formattingOptions: []
+  position:
+  - 1.7280390625e+3
+  - 8.8335546875e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 142
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 144
+  text: Action-Oriented?
+  formattingOptions: []
+  position:
+  - 2.0974375e+3
+  - 2.760703125e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 145
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 145
+  text: Gibbering Mouther
+  formattingOptions: []
+  position:
+  - 2.14307421875e+3
+  - 2.1893359375e+2
+  width: 1.1e+2
+  connections:
+    indexes:
+    - location: 144
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 146
+  text: Crystal Room
+  formattingOptions: []
+  position:
+  - 1.46599609375e+3
+  - 9.675703125e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 147
+      length: 2
+  _effectiveHeight: 1.4e+1
+- ID: 147
+  text: red corundum elemental gem
+  formattingOptions: []
+  position:
+  - 1.41979296875e+3
+  - 1.0093671875e+3
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 146
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 148
+  text: Charging Leads from the floor
+  formattingOptions: []
+  position:
+  - 1.50783984375e+3
+  - 1.06329296875e+3
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 146
+      length: 1
+    - location: 149
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 149
+  text: Gwatney will be really interested in this charging stand
+  formattingOptions:
+  - options: 1
+    rangeStart: 16
+    rangeLength: 6
+  position:
+  - 1.4725859375e+3
+  - 1.15780859375e+3
+  width: 1.5e+2
+  connections:
+    indexes:
+    - location: 148
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 150
+  text: roof in good shape
+  formattingOptions: []
+  position:
+  - 1.74225390625e+3
+  - 2.1418359375e+2
+  width: 1.1e+2
+  connections:
+    indexes:
+    - location: 108
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 151
+  text: some roof missing
+  formattingOptions: []
+  position:
+  - 1.58036328125e+3
+  - 1.951796875e+2
+  width: 6e+1
+  connections:
+    indexes:
+    - location: 106
       length: 1
   _effectiveHeight: 2.8e+1

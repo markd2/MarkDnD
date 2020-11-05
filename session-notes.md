@@ -3,9 +3,38 @@
 Reverse chronology
 
 
+# Session 4 - I'm Bored
+
+(fade in)
+
+_You see a middle-aged dude sitting at a desk, writing in a notebook. You recognize Figboot.  Knock on the door. "Come in".  A short grey-haired human, dot on the forehead. Warm smiles.  Hugs. "how was your trip to Castle-Lantern?"_
+
+_"Really nice.  They've got a lovely library there.  I had a great time chatting with Arma and Darrell and checking out their stacks"  "find anything?"  "yes!  I think I have lead on the second book.  It may be within a couple of miles of the Delian tomb"_
+
+_"Anything else going on there?  I dispatched a team up there earlier this week after a pretty incoherent cry for help".  "no, everything seemed normal before I left.   Had a nice meal at their weird little restaurant. Apparently some kids discovered an ancient encampment in the spooky forest outside of town. The head of the guard and the mayor where arguing over whether they should investigate it.  He's a real ass."_
+
+_"Really." Figboot looks concerned.  He waves his hand at the door connecting his office to the tavern. It opens by itself.  "BozLee?  If you've got a minute."  Floon's voice comes from offstage "He's still running that audition. They're kinda slow".  "Damn"_
+
+(fade out)
+
+(fade in)
+
+Party is heading toward the Castle-Latern cemetery with Yansha, pack in hand, leading the way. Sam opens the boring machine with the unlock-o-tron.
+
+Bargain figures out how to drive the thing: moving it side by side, moving forward, and figuring out how to drill down into the dirt.  Throwing everyone around in the process.
+
+Inside the main area, there's a number of screens similar to the ones on the dashboard. Yansha fiddles around, and finds a sequence of (silent) videos.  Familiar yet unfamiliar person addressing the screen.  Thin.  Feminine.  Bald head and a Jean Luc Picard style rim of hair.  Child comes in (also bald head with the narrow rim of hair around the periphery),  knocks over a drink on the desk.  Parent a bit miffed, moves hands and cleans up the mess. Laeryn recognizes them as the same somatic gestures as Prestidigitation.
+
+As Bargain terrorizes the countryside, Sam notices the power crystal is getting dimmer. Takes it out of the cylinder.  Yansha looks at it. "Gwatney has one of these. *Much* smaller.  Claims to have spent hundred of thousands of gold on it.  He has Moose and Tilson cast their excess magic into it, and uses it to power his dinners." Identifies it as red corundum (fire?) elemental gem.  Sam tries recharging it with a cantrip, touching it.  It sucks a first level spell slot through his hand, blistering it.  Sam then tries casting spells into it.  No noticeable change.  Mui has a third-level Svfnerlrlbillininbinin spell and cast it into the battery as well.  Maaaaybe saw a bit of extra glow, but then it evened back out.
+
+The party drives towards the ruins, running low on gas, pulling over next to some fields, harvested with some haybales.  Decanting out of the borer, the party notice a swath of destruction in the borer's wake.  Heading to the forest.  Farmer runs over "Stop!  Stop!".  Party almost starts hoofing it, but decide to chat. "Hey Yansha.  Uh, don't go near the forest. It's getting weird over there" "what kind of weird?" (farmer hightailing it out of there).
+
+The party discovers some kind of weird, as some of the scarecrows come to life(?), wail on Bargain, and cover folks with ravens and rats.  Sam horses around.
+
+Level up to five!
+
+
 # Session 3 - Dinner is Served
-
-
 
 <img align="right" src="./assets/gwatney-token.png" />
 

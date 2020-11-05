@@ -208,7 +208,7 @@
             <String>Quest For Battery!</String>
             <ConnectedNoteIDs>31, 47-48</ConnectedNoteIDs>
         </Note>
-        <Note ID="25" FontSize="12.0" Position="1497.809692,467.956787" Width="179.0">
+        <Note ID="25" FontSize="12.0" Position="1498.0,468.0" Width="179.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -380,9 +380,9 @@
                 <Fill>0.999757 0.988054 0.951631</Fill>
             </Appearance>
             <String>neutral. can rock forward and back</String>
-            <ConnectedNoteIDs>41</ConnectedNoteIDs>
+            <ConnectedNoteIDs>41, 109-110</ConnectedNoteIDs>
         </Note>
-        <Note ID="43" FontSize="12.0" Position="476.0,687.0" Width="100.0">
+        <Note ID="43" FontSize="12.0" Position="511.912109,693.940308" Width="100.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -391,7 +391,7 @@
             <String>Vertical lever with three position dots. Currently in the middle</String>
             <ConnectedNoteIDs>41, 44-46, 53</ConnectedNoteIDs>
         </Note>
-        <Note ID="44" FontSize="12.0" Position="396.0,774.0" Width="100.0">
+        <Note ID="44" FontSize="12.0" Position="442.175171,813.862366" Width="100.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -400,7 +400,7 @@
             <String>forward, movement</String>
             <ConnectedNoteIDs>43</ConnectedNoteIDs>
         </Note>
-        <Note ID="45" FontSize="12.0" Position="529.0,790.0" Width="69.0">
+        <Note ID="45" FontSize="12.0" Position="564.912109,796.940308" Width="69.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -409,7 +409,7 @@
             <String>middle, idle</String>
             <ConnectedNoteIDs>43</ConnectedNoteIDs>
         </Note>
-        <Note ID="46" FontSize="12.0" Position="606.0,776.0" Width="56.0">
+        <Note ID="46" FontSize="12.0" Position="641.912109,782.940308" Width="56.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -427,7 +427,7 @@
             <String>Nobody in C-L has the deets</String>
             <ConnectedNoteIDs>24</ConnectedNoteIDs>
         </Note>
-        <Note ID="48" FontSize="12.0" Position="238.0,744.0" Width="100.0">
+        <Note ID="48" FontSize="12.0" Position="144.857544,791.145569" Width="100.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -436,7 +436,7 @@
             <String>There is a library in town…</String>
             <ConnectedNoteIDs>24</ConnectedNoteIDs>
         </Note>
-        <Note ID="49" FontSize="12.0" Position="1661.985962,933.54895" Width="225.0">
+        <Note ID="49" FontSize="12.0" Position="1662.0,934.0" Width="225.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -482,7 +482,7 @@ Bite: +5 to hit, 1d8 + 3 piercing. +1 HP loss each round due to paper cut</Strin
             <String>straight line when zoom in</String>
             <ConnectedNoteIDs>51</ConnectedNoteIDs>
         </Note>
-        <Note ID="53" FontSize="12.0" Position="602.0,724.0" Width="93.0">
+        <Note ID="53" FontSize="12.0" Position="637.912109,730.940308" Width="93.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -491,16 +491,16 @@ Bite: +5 to hit, 1d8 + 3 piercing. +1 HP loss each round due to paper cut</Strin
             <String>icon of machine</String>
             <ConnectedNoteIDs>43</ConnectedNoteIDs>
         </Note>
-        <Note ID="54" FontSize="12.0" Position="587.0,620.0" Width="100.0">
+        <Note ID="54" FontSize="12.0" Position="594.043213,606.863403" Width="100.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
                 <Fill>0.999757 0.988054 0.951631</Fill>
             </Appearance>
             <String>Horizontal lever with 5 positions. dots. currently in middle.</String>
-            <ConnectedNoteIDs>41</ConnectedNoteIDs>
+            <ConnectedNoteIDs>41, 111</ConnectedNoteIDs>
         </Note>
-        <Note ID="55" FontSize="12.0" Position="1516.664429,43.318314" Width="290.0">
+        <Note ID="55" FontSize="12.0" Position="1517.0,43.0" Width="290.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -522,7 +522,7 @@ Voice: Colville DragonBorn, enunciated consonants</String>
                 <FormatRange Bold="Yes">175,8</FormatRange>
             </Formatting>
         </Note>
-        <Note ID="56" FontSize="12.0" Position="1870.664429,44.318314" Width="326.0">
+        <Note ID="56" FontSize="12.0" Position="1871.0,44.0" Width="326.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -542,7 +542,7 @@ Progress: Worried about safety of town.  Ruins couple of miles into the forest. 
                 <FormatRange Bold="Yes">127,8</FormatRange>
             </Formatting>
         </Note>
-        <Note ID="57" FontSize="12.0" Position="2101.664307,777.318298" Width="374.0">
+        <Note ID="57" FontSize="12.0" Position="2102.0,777.0" Width="374.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -638,7 +638,7 @@ How to progress the story - adventure or encounter hook</String>
                 <FormatRange Bold="Yes">129,25</FormatRange>
             </Formatting>
         </Note>
-        <Note ID="66" FontSize="12.0" Position="1709.664429,369.318298" Width="387.0">
+        <Note ID="66" FontSize="12.0" Position="1710.0,369.0" Width="387.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -700,7 +700,7 @@ Voice: Monotone / Adam Koebel</String>
             <String>fairytale generator</String>
             <ConnectedNoteIDs>69</ConnectedNoteIDs>
         </Note>
-        <Note ID="71" FontSize="12.0" Position="1714.664429,623.318298" Width="384.0">
+        <Note ID="71" FontSize="12.0" Position="1715.0,623.0" Width="384.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -720,7 +720,7 @@ Progress: He always wore shoes because ashamed of his feet.  Tavern was running 
                 <FormatRange Bold="Yes">216,8</FormatRange>
             </Formatting>
         </Note>
-        <Note ID="72" FontSize="12.0" Position="1716.67041,231.61145" Width="361.0">
+        <Note ID="72" FontSize="12.0" Position="1717.0,232.0" Width="361.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -742,7 +742,7 @@ Voice: imperious.  Snobbish.  Charles Emerson Winchester</String>
                 <FormatRange Bold="Yes">201,8</FormatRange>
             </Formatting>
         </Note>
-        <Note ID="73" FontSize="12.0" Position="1547.543213,280.380219" Width="116.0">
+        <Note ID="73" FontSize="12.0" Position="1548.0,280.0" Width="116.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -764,7 +764,7 @@ Ir-mas Vempati</String>
                 <FormatRange Struckthrough="Yes">43,13</FormatRange>
             </Formatting>
         </Note>
-        <Note ID="75" FontSize="12.0" Position="1721.664429,781.318298" Width="359.0">
+        <Note ID="75" FontSize="12.0" Position="1722.0,781.0" Width="359.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -802,7 +802,7 @@ Progress: Sent to Yansha because Arma screamed “What the hell is this?  Go get
             <String>Session 3</String>
             <ConnectedNoteIDs>9</ConnectedNoteIDs>
         </Note>
-        <Note ID="79" FontSize="12.0" Position="2138.664307,390.318298" Width="326.0">
+        <Note ID="79" FontSize="12.0" Position="2139.0,390.0" Width="326.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -823,7 +823,7 @@ voice: Who am I?  2-4-6-0-1111111!!!</String>
                 <FormatRange Bold="Yes">268,8</FormatRange>
             </Formatting>
         </Note>
-        <Note ID="80" FontSize="12.0" Position="2146.664307,198.318314" Width="195.0">
+        <Note ID="80" FontSize="12.0" Position="2147.0,198.0" Width="195.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -855,7 +855,7 @@ Voice: El Vadeen</String>
             <String>Seven seats at table</String>
             <ConnectedNoteIDs>9</ConnectedNoteIDs>
         </Note>
-        <Note ID="82" FontSize="12.0" Position="1312.710938,357.861755" Width="35.0">
+        <Note ID="82" FontSize="12.0" Position="1313.0,358.0" Width="35.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -864,7 +864,7 @@ Voice: El Vadeen</String>
             <String>Meal</String>
             <ConnectedNoteIDs>83</ConnectedNoteIDs>
         </Note>
-        <Note ID="83" FontSize="12.0" Position="1291.245361,416.815216" Width="77.0">
+        <Note ID="83" FontSize="12.0" Position="1291.0,417.0" Width="77.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -873,7 +873,7 @@ Voice: El Vadeen</String>
             <String>Salad DC 20</String>
             <ConnectedNoteIDs>82, 84</ConnectedNoteIDs>
         </Note>
-        <Note ID="84" FontSize="12.0" Position="1294.249634,481.985413" Width="74.0">
+        <Note ID="84" FontSize="12.0" Position="1294.0,482.0" Width="74.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -882,7 +882,7 @@ Voice: El Vadeen</String>
             <String>Soup DC 15</String>
             <ConnectedNoteIDs>83, 86</ConnectedNoteIDs>
         </Note>
-        <Note ID="85" FontSize="12.0" Position="1365.710938,453.861755" Width="45.0">
+        <Note ID="85" FontSize="12.0" Position="1366.0,454.0" Width="45.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -890,7 +890,7 @@ Voice: El Vadeen</String>
             </Appearance>
             <String>Moose</String>
         </Note>
-        <Note ID="86" FontSize="12.0" Position="1288.141235,550.366028" Width="81.0">
+        <Note ID="86" FontSize="12.0" Position="1288.0,550.0" Width="81.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -899,7 +899,7 @@ Voice: El Vadeen</String>
             <String>Entree DC 10</String>
             <ConnectedNoteIDs>84, 89</ConnectedNoteIDs>
         </Note>
-        <Note ID="87" FontSize="12.0" Position="1370.710938,389.861755" Width="39.0">
+        <Note ID="87" FontSize="12.0" Position="1371.0,390.0" Width="39.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -907,7 +907,7 @@ Voice: El Vadeen</String>
             </Appearance>
             <String>Priest</String>
         </Note>
-        <Note ID="88" FontSize="12.0" Position="1358.710938,518.861755" Width="81.0">
+        <Note ID="88" FontSize="12.0" Position="1359.0,519.0" Width="81.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -915,7 +915,7 @@ Voice: El Vadeen</String>
             </Appearance>
             <String>Mayor arrives</String>
         </Note>
-        <Note ID="89" FontSize="12.0" Position="1292.710938,619.861755" Width="50.0">
+        <Note ID="89" FontSize="12.0" Position="1293.0,620.0" Width="50.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -924,7 +924,7 @@ Voice: El Vadeen</String>
             <String>Dessert</String>
             <ConnectedNoteIDs>86</ConnectedNoteIDs>
         </Note>
-        <Note ID="90" FontSize="12.0" Position="1358.710938,588.861755" Width="80.0">
+        <Note ID="90" FontSize="12.0" Position="1359.0,589.0" Width="80.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -932,7 +932,7 @@ Voice: El Vadeen</String>
             </Appearance>
             <String>Mayor leaves</String>
         </Note>
-        <Note ID="91" FontSize="12.0" Position="1369.710938,329.861755" Width="48.0">
+        <Note ID="91" FontSize="12.0" Position="1370.0,330.0" Width="48.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -940,7 +940,7 @@ Voice: El Vadeen</String>
             </Appearance>
             <String>Yansha</String>
         </Note>
-        <Note ID="92" FontSize="12.0" Position="1449.998535,8.721073" Width="20.0">
+        <Note ID="92" FontSize="12.0" Position="1450.0,9.0" Width="20.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -949,7 +949,7 @@ Voice: El Vadeen</String>
             <String><![CDATA[ ]]></String>
             <ConnectedNoteIDs>93</ConnectedNoteIDs>
         </Note>
-        <Note ID="93" FontSize="12.0" Position="1456.681641,972.0" Width="20.0">
+        <Note ID="93" FontSize="12.0" Position="1457.0,972.0" Width="20.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -958,7 +958,7 @@ Voice: El Vadeen</String>
             <String><![CDATA[ ]]></String>
             <ConnectedNoteIDs>92</ConnectedNoteIDs>
         </Note>
-        <Note ID="96" FontSize="12.0" Position="1072.055786,130.922043" Width="100.0">
+        <Note ID="96" FontSize="12.0" Position="1072.0,131.0" Width="100.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -967,7 +967,7 @@ Voice: El Vadeen</String>
             <String>Ruins outside of town</String>
             <ConnectedNoteIDs>97-98, 100, 104-107</ConnectedNoteIDs>
         </Note>
-        <Note ID="97" FontSize="12.0" Position="1005.94165,189.529755" Width="100.0">
+        <Note ID="97" FontSize="12.0" Position="1006.0,190.0" Width="100.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -976,7 +976,7 @@ Voice: El Vadeen</String>
             <String>Explorers discovered it a few months ago</String>
             <ConnectedNoteIDs>96</ConnectedNoteIDs>
         </Note>
-        <Note ID="98" FontSize="12.0" Position="1059.100708,248.248383" Width="127.0">
+        <Note ID="98" FontSize="12.0" Position="1059.0,248.0" Width="127.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -986,7 +986,7 @@ Voice: El Vadeen</String>
 </String>
             <ConnectedNoteIDs>96, 99</ConnectedNoteIDs>
         </Note>
-        <Note ID="99" FontSize="12.0" Position="994.597839,304.935059" Width="100.0">
+        <Note ID="99" FontSize="12.0" Position="995.0,305.0" Width="100.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -995,7 +995,7 @@ Voice: El Vadeen</String>
             <String>Treacherous Forest Terrain</String>
             <ConnectedNoteIDs>98</ConnectedNoteIDs>
         </Note>
-        <Note ID="100" FontSize="12.0" Position="1109.009766,355.407898" Width="100.0">
+        <Note ID="100" FontSize="12.0" Position="1109.0,355.0" Width="100.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -1004,7 +1004,7 @@ Voice: El Vadeen</String>
             <String>Borer was actually headed for it</String>
             <ConnectedNoteIDs>96, 101, 103</ConnectedNoteIDs>
         </Note>
-        <Note ID="101" FontSize="12.0" Position="1025.776123,433.308929" Width="100.0">
+        <Note ID="101" FontSize="12.0" Position="1026.0,433.0" Width="100.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -1013,7 +1013,7 @@ Voice: El Vadeen</String>
             <String>Ruins contain a fuel crystal</String>
             <ConnectedNoteIDs>100</ConnectedNoteIDs>
         </Note>
-        <Note ID="102" FontSize="12.0" Position="948.608215,546.039124" Width="100.0">
+        <Note ID="102" FontSize="12.0" Position="949.0,546.0" Width="100.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -1022,7 +1022,7 @@ Voice: El Vadeen</String>
             <String>“It’s literally pointed at exactly where we think it is”</String>
             <ConnectedNoteIDs>103</ConnectedNoteIDs>
         </Note>
-        <Note ID="103" FontSize="12.0" Position="1066.411987,502.058228" Width="100.0">
+        <Note ID="103" FontSize="12.0" Position="1066.0,502.0" Width="100.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -1031,7 +1031,7 @@ Voice: El Vadeen</String>
             <String>Yansha: “hey, you figured out how to work that thing, right? Maybe it can get us to there?”</String>
             <ConnectedNoteIDs>100, 102</ConnectedNoteIDs>
         </Note>
-        <Note ID="104" FontSize="12.0" Position="1239.109985,119.063316" Width="100.0">
+        <Note ID="104" FontSize="12.0" Position="1239.0,119.0" Width="100.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -1040,7 +1040,7 @@ Voice: El Vadeen</String>
             <String>yansha is a believer</String>
             <ConnectedNoteIDs>96</ConnectedNoteIDs>
         </Note>
-        <Note ID="105" FontSize="12.0" Position="1260.872559,178.737457" Width="100.0">
+        <Note ID="105" FontSize="12.0" Position="1261.0,179.0" Width="100.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -1049,7 +1049,7 @@ Voice: El Vadeen</String>
             <String>Mayor doesn’t believe it’s real / important</String>
             <ConnectedNoteIDs>96</ConnectedNoteIDs>
         </Note>
-        <Note ID="106" FontSize="12.0" Position="1253.059937,257.537201" Width="136.0">
+        <Note ID="106" FontSize="12.0" Position="1253.0,258.0" Width="136.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -1058,7 +1058,7 @@ Voice: El Vadeen</String>
             <String>Priest is terrified of it for no discernable reason</String>
             <ConnectedNoteIDs>96</ConnectedNoteIDs>
         </Note>
-        <Note ID="107" FontSize="12.0" Position="1068.297241,46.968845" Width="100.0">
+        <Note ID="107" FontSize="12.0" Position="1068.0,47.0" Width="100.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -1067,7 +1067,7 @@ Voice: El Vadeen</String>
             <String>Punita wasn't looking for the ruins</String>
             <ConnectedNoteIDs>96, 108</ConnectedNoteIDs>
         </Note>
-        <Note ID="108" FontSize="12.0" Position="1242.038818,33.509087" Width="100.0">
+        <Note ID="108" FontSize="12.0" Position="1242.0,34.0" Width="100.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1"></Border>
@@ -1075,6 +1075,33 @@ Voice: El Vadeen</String>
             </Appearance>
             <String>There’s a book deeper in the Delain Tomb that’s her goal</String>
             <ConnectedNoteIDs>107</ConnectedNoteIDs>
+        </Note>
+        <Note ID="109" FontSize="12.0" Position="279.911804,747.780518" Width="100.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1"></Border>
+                <Fill>1.0 0.985915 0.946968</Fill>
+            </Appearance>
+            <String>outer two for turning</String>
+            <ConnectedNoteIDs>42</ConnectedNoteIDs>
+        </Note>
+        <Note ID="110" FontSize="12.0" Position="391.809845,747.74353" Width="72.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1"></Border>
+                <Fill>1.0 0.985915 0.946968</Fill>
+            </Appearance>
+            <String>middle for digging</String>
+            <ConnectedNoteIDs>42</ConnectedNoteIDs>
+        </Note>
+        <Note ID="111" FontSize="12.0" Position="711.235229,669.876892" Width="100.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1"></Border>
+                <Fill>1.0 0.985915 0.946968</Fill>
+            </Appearance>
+            <String>rotation of the boring blade)</String>
+            <ConnectedNoteIDs>54</ConnectedNoteIDs>
         </Note>
     </Notes>
     <BackgroundShapes></BackgroundShapes>
