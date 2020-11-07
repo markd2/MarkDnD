@@ -295,7 +295,7 @@ quarterstaff
 
   maybe thunderwave once a day.
 
-Level 4 - 5 spells - second level.  3 cantrips + 3 from tome past
+Level 4 - 5 spells - second level.  3 cantrips + 3 from tome pact
 
 Cantrips
   - magehand
@@ -312,5 +312,65 @@ spells:
   - augurey
   - cloud of daggers
 
+--------------------------------------------------
+
+Level up to six!
+
+What do I get from the supplement?
+
+* Premonition - receive momentary glimpses into the future
+  - allow to react more effectively to threats
+  - bonus to initiative rolls  (1/2 prof bonus rounded down)
+  - bonus to Dexterity saves   (1/2 prof bonus rounded down)
+
+From the PHB?
+* 5th - + 1 known spell  + 1 invocation. Slot level is 3
+* 6th - otherworldly patron feature + 1 known spell.
+
+Can swap in a new spell for an old one when gain level
+
+invocation ideas:
+  * one with the shadows (can turn invisible in dim light as an action)
+  x mask of many faces  (cast disguise self at will w/o a spell slot)
+  x fiendish vigor - false life at first level at will w/o a spell slot 1d4+4 temp HP
+
+Spells
+  + 2 spells, can take two away
+third level : slow (wizard)
+third level: Tongues (warlock)
+
+
+----------
+
+From last adventure, got  total of 3150
+
+Spending:
+  - 45gp for armor
+
+3105 left
+
+  - 150 3x potion of healing
+2995 left
+
+  - 25 short bow
+  - 1 arrows (2)
+
+2929
+
+random crap
+- candle
+- chalk
+- oil (flask)
+- tinderbox
+- ball bearings
+- sealing wax
+- string (10')
+- backpack
+
+DC 8 + mod + prof + special mods
+
+8 + 4 + 1 == 16
+
+Blight at 4th level slot
 
 
