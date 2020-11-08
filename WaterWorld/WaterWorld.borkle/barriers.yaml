@@ -5,8 +5,12 @@
 - ID: 2
   label: << PCs
   horizontalPosition: 1.280640625e+3
-  width: 4e+0
+  width: 6e+0
 - ID: 3
   label: << NPCS | Timeline >>
   horizontalPosition: 1.66999609375e+3
-  width: 8e+0
+  width: 6e+0
+- ID: 4
+  label: Timeline >>
+  horizontalPosition: 2.63593359375e+3
+  width: 6e+0
