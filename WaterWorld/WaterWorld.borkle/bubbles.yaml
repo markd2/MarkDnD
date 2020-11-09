@@ -252,6 +252,8 @@
       length: 1
     - location: 18
       length: 3
+    - location: 320
+      length: 1
   _effectiveHeight: 5.6e+1
 - ID: 18
   text: Coming Round The Mountain
@@ -321,6 +323,8 @@
       length: 1
     - location: 250
       length: 1
+    - location: 337
+      length: 1
   _effectiveHeight: 1.4e+1
 - ID: 22
   text: Bird Person
@@ -362,8 +366,8 @@
   text: Flies
   formattingOptions: []
   position:
-  - 9.63937866210938e+2
-  - 8.13173980712891e+1
+  - 9.49871459960938e+2
+  - 2.71611480712891e+1
   width: 4e+1
   connections:
     indexes:
@@ -642,13 +646,15 @@
       length: 1
     - location: 268
       length: 1
+    - location: 323
+      length: 1
   _effectiveHeight: 1.4e+1
 - ID: 44
   text: Halfling
   formattingOptions: []
   position:
-  - 9.8172265625e+2
-  - 9.8148046875e+2
+  - 9.886328125e+2
+  - 8.921875e+2
   width: 1e+2
   connections:
     indexes:
@@ -1646,8 +1652,8 @@
   text: Comfort in books
   formattingOptions: []
   position:
-  - 1.02425457763672e+3
-  - 7.19117889404297e+1
+  - 1.01589520263672e+3
+  - 3.28180389404297e+1
   width: 1e+2
   connections:
     indexes:
@@ -2115,6 +2121,8 @@
   connections:
     indexes:
     - location: 147
+      length: 1
+    - location: 200
       length: 1
   _effectiveHeight: 2.8e+1
 - ID: 149
@@ -2797,18 +2805,22 @@
   text: Writ of introduction
   formattingOptions: []
   position:
-  - 1.20346875e+3
-  - 2.425e+2
+  - 1.204953125e+3
+  - 2.17671875e+2
   width: 1.1e+2
   connections:
-    indexes: []
+    indexes:
+    - location: 148
+      length: 1
+    - location: 371
+      length: 1
   _effectiveHeight: 1.4e+1
 - ID: 201
   text: this
   formattingOptions: []
   position:
-  - 1.08312176513672e+3
-  - 1.0585319519043e+2
+  - 1.13000848388672e+3
+  - 1.034147644043e+1
   width: 3e+1
   connections:
     indexes:
@@ -3002,17 +3014,17 @@
       length: 2
   _effectiveHeight: 1.4e+1
 - ID: 215
-  text: mountains
+  text: mountains along world spine
   formattingOptions: []
   position:
-  - 4.15328125e+2
+  - 4.1557421875e+2
   - 2.784375e+2
-  width: 8e+1
+  width: 1e+2
   connections:
     indexes:
     - location: 211
       length: 1
-  _effectiveHeight: 1.4e+1
+  _effectiveHeight: 2.8e+1
 - ID: 216
   text: mining
   formattingOptions: []
@@ -3389,8 +3401,8 @@
   text: second explosion
   formattingOptions: []
   position:
-  - 4.49779052734375e+2
-  - 3.12699005126953e+2
+  - 4.63279052734375e+2
+  - 3.25347442626953e+2
   width: 1e+2
   connections:
     indexes:
@@ -3725,8 +3737,8 @@
   text: '"how ham should I go in interrogating my colleagues on what they saw?"'
   formattingOptions: []
   position:
-  - 8.7045703125e+2
-  - 1.02972265625e+3
+  - 8.3459375e+2
+  - 1.0346953125e+3
   width: 2.1e+2
   connections:
     indexes:
@@ -4036,8 +4048,8 @@
     blue: 9.76506e-1
   formattingOptions: []
   position:
-  - 3.01048046875e+3
-  - 2.356640625e+1
+  - 3.03943359375e+3
+  - 1.63359375e+1
   width: 1.2e+2
   connections:
     indexes:
@@ -4046,10 +4058,14 @@
   _effectiveHeight: 2.8e+1
 - ID: 292
   text: At the docks
+  fillColorRGB:
+    red: 1e+0
+    green: 9.0283e-1
+    blue: 9.76506e-1
   formattingOptions: []
   position:
-  - 2.99707421875e+3
-  - 9.674609375e+1
+  - 3.0254921875e+3
+  - 1.1398046875e+2
   width: 1e+2
   connections:
     indexes:
@@ -4059,15 +4075,17 @@
       length: 1
     - location: 299
       length: 1
-    - location: 311
+    - location: 327
+      length: 1
+    - location: 338
       length: 1
   _effectiveHeight: 1.4e+1
 - ID: 293
   text: wooden vessel
   formattingOptions: []
   position:
-  - 2.75431640625e+3
-  - 6.555078125e+1
+  - 2.77378125e+3
+  - 5.854296875e+1
   width: 1e+2
   connections:
     indexes:
@@ -4078,8 +4096,8 @@
   text: bronze bands
   formattingOptions: []
   position:
-  - 2.7441328125e+3
-  - 1.1530859375e+2
+  - 2.76359765625e+3
+  - 1.0830078125e+2
   width: 1e+2
   connections:
     indexes:
@@ -4090,8 +4108,8 @@
   text: exceptionally large
   formattingOptions: []
   position:
-  - 2.732484375e+3
-  - 1.488046875e+2
+  - 2.75194921875e+3
+  - 1.41796875e+2
   width: 1.2e+2
   connections:
     indexes:
@@ -4102,8 +4120,8 @@
   text: 3 decks of portholes
   formattingOptions: []
   position:
-  - 2.7346875e+3
-  - 1.9279296875e+2
+  - 2.75415234375e+3
+  - 1.8578515625e+2
   width: 1.2e+2
   connections:
     indexes:
@@ -4114,9 +4132,9 @@
   text: airship
   formattingOptions: []
   position:
-  - 2.8846796875e+3
-  - 1.719609375e+2
-  width: 1e+2
+  - 2.90389453125e+3
+  - 1.6519921875e+2
+  width: 5e+1
   connections:
     indexes:
     - location: 292
@@ -4125,13 +4143,15 @@
       length: 1
     - location: 313
       length: 1
+    - location: 344
+      length: 1
   _effectiveHeight: 1.4e+1
 - ID: 298
   text: most remarkable structure we've seen
   formattingOptions: []
   position:
-  - 2.88171875e+3
-  - 7.197265625e+1
+  - 2.90118359375e+3
+  - 6.496484375e+1
   width: 1e+2
   connections:
     indexes:
@@ -4142,8 +4162,8 @@
   text: docks
   formattingOptions: []
   position:
-  - 3.13555859375e+3
-  - 1.1115625e+2
+  - 3.1639765625e+3
+  - 1.28390625e+2
   width: 5e+1
   connections:
     indexes:
@@ -4156,8 +4176,8 @@
   text: upper branchs in A'Hart
   formattingOptions: []
   position:
-  - 3.20498046875e+3
-  - 7.55546875e+1
+  - 3.2333984375e+3
+  - 9.27890625e+1
   width: 1.4e+2
   connections:
     indexes:
@@ -4273,13 +4293,15 @@
       length: 1
     - location: 309
       length: 2
+    - location: 350
+      length: 1
   _effectiveHeight: 1.4e+1
 - ID: 309
   text: A'hart, mostly wood
   formattingOptions: []
   position:
-  - 3.6183984375e+2
-  - 4.2195703125e+2
+  - 8.85546875e+1
+  - 4.711484375e+2
   width: 1e+2
   connections:
     indexes:
@@ -4290,8 +4312,8 @@
   text: Two airships in entire world
   formattingOptions: []
   position:
-  - 2.298515625e+2
-  - 4.2883984375e+2
+  - 8.98515625e+1
+  - 4.27703125e+2
   width: 1e+2
   connections:
     indexes:
@@ -4300,24 +4322,38 @@
   _effectiveHeight: 2.8e+1
 - ID: 311
   text: In the air!
+  fillColorRGB:
+    red: 1e+0
+    green: 9.0283e-1
+    blue: 9.76506e-1
   formattingOptions: []
   position:
-  - 3.016015625e+3
-  - 1.65609375e+2
+  - 3.0639375e+3
+  - 3.8204296875e+2
   width: 1e+2
   connections:
     indexes:
-    - location: 292
-      length: 1
     - location: 312
+      length: 1
+    - location: 325
+      length: 1
+    - location: 338
+      length: 1
+    - location: 343
+      length: 1
+    - location: 345
+      length: 2
+    - location: 348
+      length: 1
+    - location: 352
       length: 1
   _effectiveHeight: 1.4e+1
 - ID: 312
   text: Arrive mid-day tomorrow
   formattingOptions: []
   position:
-  - 3.13394140625e+3
-  - 2.1009765625e+2
+  - 3.21051953125e+3
+  - 4.110546875e+2
   width: 1e+2
   connections:
     indexes:
@@ -4328,8 +4364,8 @@
   text: cabins comfortable
   formattingOptions: []
   position:
-  - 2.813796875e+3
-  - 2.3041015625e+2
+  - 2.78590625e+3
+  - 2.2325390625e+2
   width: 1.1e+2
   connections:
     indexes:
@@ -4340,8 +4376,8 @@
   text: Usually other side of Orub from A'Hart
   formattingOptions: []
   position:
-  - 4.443671875e+2
-  - 3.48484375e+2
+  - 4.4461328125e+2
+  - 3.61953125e+2
   width: 1e+2
   connections:
     indexes:
@@ -4414,5 +4450,706 @@
   connections:
     indexes:
     - location: 318
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 320
+  text: That's the way
+  formattingOptions: []
+  position:
+  - 3.469921875e+2
+  - 1.11330859375e+3
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 17
+      length: 1
+    - location: 321
+      length: 2
+  _effectiveHeight: 1.4e+1
+- ID: 321
+  text: uh-huh uh-huh
+  formattingOptions: []
+  position:
+  - 4.92546875e+2
+  - 1.1176484375e+3
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 320
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 322
+  text: Identify other A.R.C.A.D.E. agents
+  formattingOptions: []
+  position:
+  - 3.770234375e+2
+  - 1.16864453125e+3
+  width: 1.2e+2
+  connections:
+    indexes:
+    - location: 320
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 323
+  text: Somewhat paranoid
+  formattingOptions: []
+  position:
+  - 9.437421875e+2
+  - 9.7373828125e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 43
+      length: 1
+    - location: 324
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 324
+  text: security sweep of airship cabin
+  formattingOptions: []
+  position:
+  - 1.0652578125e+3
+  - 1.03680859375e+3
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 323
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 325
+  text: Claude security sweeps his cabin
+  formattingOptions: []
+  position:
+  - 3.19642578125e+3
+  - 3.6613671875e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 311
+      length: 1
+    - location: 326
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 326
+  text: 7 - nothing found
+  formattingOptions: []
+  position:
+  - 3.31875390625e+3
+  - 3.74671875e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 325
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 327
+  text: Tabaxi with a pack with rolled up paper
+  formattingOptions: []
+  position:
+  - 3.165390625e+3
+  - 1.6169140625e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 292
+      length: 1
+    - location: 328
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 328
+  text: Oceanus Equitorio
+  formattingOptions: []
+  position:
+  - 3.2984140625e+3
+  - 1.625234375e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 327
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 329
+  text: Oceanus Equitorio
+  fillColorRGB:
+    red: 1e+0
+    green: 9.0283e-1
+    blue: 9.76506e-1
+  formattingOptions: []
+  position:
+  - 1.36922265625e+3
+  - 1.15122265625e+3
+  width: 1.1e+2
+  connections:
+    indexes:
+    - location: 330
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 330
+  text: Tabaxi
+  formattingOptions: []
+  position:
+  - 1.51315234375e+3
+  - 1.12808203125e+3
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 329
+      length: 1
+    - location: 331
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 331
+  text: Spotted
+  formattingOptions: []
+  position:
+  - 1.56765625e+3
+  - 1.16541015625e+3
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 330
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 332
+  text: Ricki
+  fillColorRGB:
+    red: 1e+0
+    green: 9.0283e-1
+    blue: 9.76506e-1
+  formattingOptions: []
+  position:
+  - 1.3606328125e+3
+  - 1.22896484375e+3
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 333
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 333
+  text: Jeerbeen
+  formattingOptions: []
+  position:
+  - 1.48644140625e+3
+  - 1.22358203125e+3
+  width: 6e+1
+  connections:
+    indexes:
+    - location: 332
+      length: 1
+    - location: 334
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 334
+  text: Gerbiloid
+  formattingOptions: []
+  position:
+  - 1.56149609375e+3
+  - 1.23188671875e+3
+  width: 6e+1
+  connections:
+    indexes:
+    - location: 333
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 335
+  text: Feel it rocking while loading
+  formattingOptions: []
+  position:
+  - 3.17769921875e+3
+  - 3.0025e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 336
+      length: 1
+    - location: 338
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 336
+  text: Kiya comfortable "for many reasons"
+  formattingOptions: []
+  position:
+  - 3.3090625e+3
+  - 3.070859375e+2
+  width: 1.1e+2
+  connections:
+    indexes:
+    - location: 335
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 337
+  text: '"Comfortable for many reasons" on airship'
+  formattingOptions: []
+  position:
+  - 9.70060241699219e+2
+  - 6.35981750488281e+1
+  width: 1.3e+2
+  connections:
+    indexes:
+    - location: 21
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 338
+  text: Boarding
+  fillColorRGB:
+    red: 1e+0
+    green: 9.0283e-1
+    blue: 9.76506e-1
+  formattingOptions: []
+  position:
+  - 3.0388125e+3
+  - 2.2551953125e+2
+  width: 7e+1
+  connections:
+    indexes:
+    - location: 292
+      length: 1
+    - location: 311
+      length: 1
+    - location: 335
+      length: 1
+    - location: 339
+      length: 3
+  _effectiveHeight: 1.4e+1
+- ID: 339
+  text: Meet Medalllion
+  formattingOptions: []
+  position:
+  - 2.79021875e+3
+  - 3.1962109375e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 338
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 340
+  text: Baslil up on deck w/ vacuous smalltalk
+  formattingOptions: []
+  position:
+  - 2.937953125e+3
+  - 3.4406640625e+2
+  width: 1.3e+2
+  connections:
+    indexes:
+    - location: 338
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 341
+  text: Meet Captain Jack
+  formattingOptions: []
+  position:
+  - 2.81384375e+3
+  - 3.463125e+2
+  width: 1.1e+2
+  connections:
+    indexes:
+    - location: 338
+      length: 1
+    - location: 342
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 342
+  text: Greets guests by name
+  formattingOptions: []
+  position:
+  - 2.72705859375e+3
+  - 3.8302734375e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 341
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 343
+  text: See Orub from the air
+  formattingOptions: []
+  position:
+  - 2.9148984375e+3
+  - 4.301328125e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 311
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 344
+  text: Top deck, high curved walls, open at the top
+  formattingOptions: []
+  position:
+  - 2.90952734375e+3
+  - 1.96125e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 297
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 345
+  text: Dinner in 30 min
+  formattingOptions: []
+  position:
+  - 2.93449609375e+3
+  - 3.93796875e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 311
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 346
+  text: Notice guards on the bridge access
+  formattingOptions: []
+  position:
+  - 3.21143359375e+3
+  - 4.6211328125e+2
+  width: 1.1e+2
+  connections:
+    indexes:
+    - location: 311
+      length: 1
+    - location: 347
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 347
+  text: Brown uniforms
+  formattingOptions: []
+  position:
+  - 3.36433203125e+3
+  - 4.8090625e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 346
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 348
+  text: 'Kiya: Are A''Kokra associated with airships?'
+  formattingOptions: []
+  position:
+  - 2.84794921875e+3
+  - 5.063671875e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 311
+      length: 1
+    - location: 349
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 349
+  text: Not really, but having the ability to fly on such a craft could be generally
+    useful
+  formattingOptions: []
+  position:
+  - 2.73289453125e+3
+  - 4.3769140625e+2
+  width: 1.7e+2
+  connections:
+    indexes:
+    - location: 348
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 350
+  text: Machinery is generally problematic
+  formattingOptions: []
+  position:
+  - 2.2054296875e+2
+  - 4.60625e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 308
+      length: 1
+    - location: 351
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 351
+  text: airships a hybrid of machine and magic, but necessary
+  formattingOptions: []
+  position:
+  - 3.4489453125e+2
+  - 4.3265234375e+2
+  width: 1.2e+2
+  connections:
+    indexes:
+    - location: 350
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 352
+  text: Dinner
+  fillColorRGB:
+    red: 1e+0
+    green: 9.0283e-1
+    blue: 9.76506e-1
+  formattingOptions: []
+  position:
+  - 3.070875e+3
+  - 5.1257421875e+2
+  width: 5e+1
+  connections:
+    indexes:
+    - location: 311
+      length: 1
+    - location: 353
+      length: 1
+    - location: 365
+      length: 4
+  _effectiveHeight: 1.4e+1
+- ID: 353
+  text: Seated near Oceanis
+  formattingOptions: []
+  position:
+  - 2.9579921875e+3
+  - 5.6716015625e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 352
+      length: 1
+    - location: 354
+      length: 1
+    - location: 356
+      length: 1
+    - location: 359
+      length: 1
+    - location: 363
+      length: 2
+  _effectiveHeight: 2.8e+1
+- ID: 354
+  text: Spars with Kiya
+  formattingOptions: []
+  position:
+  - 2.79540625e+3
+  - 5.8280078125e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 353
+      length: 1
+    - location: 355
+      length: 1
+    - location: 358
+      length: 1
+    - location: 362
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 355
+  text: applied vs academic map-making
+  formattingOptions: []
+  position:
+  - 2.73250390625e+3
+  - 6.144296875e+2
+  width: 1.2e+2
+  connections:
+    indexes:
+    - location: 354
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 356
+  text: excited about the trip
+  formattingOptions: []
+  position:
+  - 2.92698046875e+3
+  - 6.3466796875e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 353
+      length: 1
+    - location: 357
+      length: 1
+    - location: 361
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 357
+  text: '"taking the short cut at the crossing. in a hurry!"'
+  formattingOptions: []
+  position:
+  - 2.91015234375e+3
+  - 7.528828125e+2
+  width: 1.1e+2
+  connections:
+    indexes:
+    - location: 356
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 358
+  text: '"mapmakers vs excitment and danger?"'
+  formattingOptions: []
+  position:
+  - 2.731625e+3
+  - 6.80625e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 354
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 359
+  text: Wants to see Forbidden Lande
+  formattingOptions: []
+  position:
+  - 2.76204296875e+3
+  - 7.621484375e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 353
+      length: 1
+    - location: 360
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 360
+  text: But alas, they're forbidden
+  formattingOptions: []
+  position:
+  - 2.7339296875e+3
+  - 8.3121875e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 359
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 361
+  text: uncertainty makes her nervous
+  formattingOptions: []
+  position:
+  - 2.8480234375e+3
+  - 7.1119140625e+2
+  width: 1.2e+2
+  connections:
+    indexes:
+    - location: 356
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 362
+  text: Claude insights
+  formattingOptions: []
+  position:
+  - 2.72619921875e+3
+  - 5.4703515625e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 354
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 363
+  text: 'Kiya: "She''s lying about something"'
+  formattingOptions: []
+  position:
+  - 2.99591796875e+3
+  - 6.84375e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 353
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 364
+  text: Takes off from dinner early
+  formattingOptions: []
+  position:
+  - 3.0543984375e+3
+  - 6.160859375e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 353
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 365
+  text: Giz stuffs his pockets
+  formattingOptions: []
+  position:
+  - 3.1940390625e+3
+  - 5.10328125e+2
+  width: 1.2e+2
+  connections:
+    indexes:
+    - location: 352
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 366
+  text: Some of the best food and drink we've had
+  formattingOptions: []
+  position:
+  - 3.2423671875e+3
+  - 5.4546484375e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 352
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 367
+  text: Crossing at early hour
+  formattingOptions: []
+  position:
+  - 3.23548828125e+3
+  - 6.1725390625e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 352
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 368
+  text: On Deck
+  fillColorRGB:
+    red: 1e+0
+    green: 9.0283e-1
+    blue: 9.76506e-1
+  formattingOptions: []
+  position:
+  - 3.136296875e+3
+  - 6.926796875e+2
+  width: 6e+1
+  connections:
+    indexes:
+    - location: 352
+      length: 1
+    - location: 369
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 369
+  text: Basil hangs out with Oceanis
+  formattingOptions: []
+  position:
+  - 3.21839453125e+3
+  - 6.71984375e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 368
+      length: 1
+    - location: 370
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 370
+  text: has three phrases to extend any conversation
+  formattingOptions: []
+  position:
+  - 3.359890625e+3
+  - 6.4152734375e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 369
+      length: 1
+  _effectiveHeight: 5.6e+1
+- ID: 371
+  text: Map of 1/2 of Orub rough mapping
+  formattingOptions: []
+  position:
+  - 1.184375e+3
+  - 2.6555078125e+2
+  width: 1.1e+2
+  connections:
+    indexes:
+    - location: 200
       length: 1
   _effectiveHeight: 2.8e+1
