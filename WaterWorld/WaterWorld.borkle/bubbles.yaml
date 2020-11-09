@@ -4024,8 +4024,8 @@
   text: ''
   formattingOptions: []
   position:
-  - 2.85841796875e+3
-  - 1.623e+3
+  - 2.81507421875e+3
+  - 1.65813671875e+3
   width: 1e+2
   connections:
     indexes:
@@ -4036,8 +4036,8 @@
   text: ''
   formattingOptions: []
   position:
-  - 3.35587890625e+3
-  - 1.60776171875e+3
+  - 3.3784765625e+3
+  - 1.69558203125e+3
   width: 1e+2
   connections:
     indexes:
@@ -6050,7 +6050,7 @@
     - location: 431
       length: 1
     - location: 436
-      length: 4
+      length: 5
   _effectiveHeight: 1.4e+1
 - ID: 436
   text: folks shaky
@@ -6100,3 +6100,29 @@
     - location: 435
       length: 1
   _effectiveHeight: 2.8e+1
+- ID: 440
+  text: Oceanas shows the map with special paper and ink
+  formattingOptions: []
+  position:
+  - 3.11376953125e+3
+  - 1.55783203125e+3
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 435
+      length: 1
+    - location: 441
+      length: 1
+  _effectiveHeight: 5.6e+1
+- ID: 441
+  text: '"I know the land, once i''ve been to an area"'
+  formattingOptions: []
+  position:
+  - 3.274140625e+3
+  - 1.5647578125e+3
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 440
+      length: 1
+  _effectiveHeight: 4.2e+1
