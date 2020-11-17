@@ -76,11 +76,12 @@ OOtB page 129
 - Maybe a skill challenge getting through the forest
 - camp for the night
 - Yansha drops the moose note, uses sextant to navigate
+- See some piles of paper pulp
 
 
 ### Walk in the Woods
 
-OOtB page 162
+* OOtB page 162
 
 
 ### Outside Ruins
