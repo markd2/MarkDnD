@@ -98,7 +98,9 @@ TL;DR The party finds (bottom to top):
   occasionally.  The party didn't investigate further.
 * As the hallway, there are more bones scattered on the ground, and the decorative filigree is
   more elaborate.
-* Going through the set of double-doors to the north, the party spies a sleeping creature, unlike
+* Going through the set of double-doors to the north, there's even more bones, and some still have
+  meat on them. There's parts of some short furry creatures with big heads full of teeth.
+  The party spies a sleeping creature, unlike
   anything they've seen before. Body of a massive predatory cat, with sleek muscles and black flesh.
   Its head appears to be a ball of swirling energy, surrounded by dozens of metallic plates that
   move as if in orbit around the energy.  Another Thumping sound.  The party makes some noise. The
