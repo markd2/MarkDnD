@@ -2,6 +2,111 @@
 
 Reverse chronology
 
+# Session 5 - Ruinous Irulan
+
+Spent the night, leveled up, heading into the forest. Yansha totally bright eyed and
+bushy-tailed, different from the stern, serious captain when the party first met her at the
+cemetary.  Digging through her bag before heading out, a piece of paper falls out.
+
+Sam: "Yansh, you seem to have dropped something".  Picks up a note. Reads it. 
+"It's from Moose.  He's always looking out for me".  <img align="right" src="ThirdAdventure/handouts/moose-note.png" width=250 />
+
+The forest outside of Castle-Lantern, has been cleared over the years to make room
+for the expanding farmland. Starting out, the trees are somewhat sparse, but getting
+thicker as the party progresses. The terrian gets hillier as well.
+
+Along the way, the party spies a human figure in the distance. It waves them over.
+The party, feeling the urge to make progress before nightfall waves in decline.  The
+figure transforms into a bear, hops on an owlbear, and disappears into the forest.
+
+Nightfall.  Party makes camp near a clearing.  Bargain takes first watch, chats with Yansha.  Takes him
+a while (it seems) to figure out Moose and Yansha are a Thing.  Moose came to town a couple
+of months ago at Gwatney's invitation. Turns out Gwatney is also partially bankrolling Moose's
+purchase of the tavern.  Bargain asks where Gwatney gets the money for that, as well as his
+magic-storage crystals, and Y says "We don't really know. He brings a lot to the town, so we
+don't ask too many questions.  He's away for weeks at a time. We figure he's haggling
+turnip prices, or maybe leading a life of crime."
+
+Mui takes the second watch.  Notices Yansha get up, rummage around in her sack, pulls out some
+kind of ... device?  And heads off to the clearing.  Mui stealths it up and watches as she spends
+20 minutes looking through the thing, making some notes in a notebook, looking through the thing again.
+She goes back to the camp and retires again.
+
+Next morning, she goes in search of mushrooms for breakfast, and Mui breaks the news of Y's odd
+behavior. Sam recognizes the description of a sextant, "used for locating yourself by way of the stars",
+and they figure it's nothing sinister.  Breakfast consumed, the party heads out, in a slightly
+different direction.
+
+The day goes on, the forest gets darker, and the party stumbles across a small hut, caved-in roof
+and overgrown. Inside is in disarray, and some bones scattered around. It looks like whoever lived
+here met with an unfortunate end.  The party finds a backpack, and Bargain searches it, finding some
+coins (8gp, 6sp), as well as the hermit's notebook. It starts off simply enough, with notes about local
+flora, fauna, and fey.  But towards the end, it starts getting more and more incoherent. The
+last entry are about a creature of many mouths drawing closer in his dreams.
+
+Towards dusk, the party crests a hill, and finds their destination in
+a small valley below.  It's a broad and tall edifice (think like a
+small Wal-Mart entry), partially embedded in a hillside.  From the
+top, there's two narrow buildings connected to the front, one heading
+perpindicularly back (say North), one heading off at an angle (say
+North-West). The party cautiously approached, not seeing much activity
+outside of a couple of woodland creatures. Everything seems quieter than
+it should be. Not silent, just not the cacophony from elsewhere in the forest.
+
+Taking a closer look, the party sees the outside walls scrawled with graffiti (not terribly high
+off the ground), crudely semi-literally written in common.  "GO AWAY" in one place,
+"KING TORG!!" near another. "FLUNKINS" is another frequently seen word.
+In smaller letters near "GO AWAY  KING TORG!" is "don't go away king torg everyone else go away.  not
+king torg go away. YOU GO"
+
+Entering the lobby area, the party sees three open 20'-wide doorways.  One straight ahead (north),
+is well-lit, and full of junk. A hallway receding in the distance.  To the right (Northeast) is a small
+20x30 foot entry way with a closed door, dimly lit.  To the left (Northwest) is a similarly sized
+entryway, with an open door at the end. Unlit outside of light coming in from outside.  The NW and NE 
+doors have an elaborately decorated frame.  The N door is plain.  Looking up, looks like that the
+door would have been covered by floor-to-ceiling curtains, but they've been torn and decayed.
+
+The party heads NorthEast.
+
+<img src="assets/G1.png" align="right" width=300/>
+
+TL;DR The party finds (bottom to top):
+
+* Lobby area with a knee-high desk and some benches along the wall.  The walls are smooth, with
+  mold and mildew, and more of the graffiti from outside.
+* What looks to be a modern bathroom area, with a closet in the back. Bargain(?) opens the door, and
+  has antiseptic smelling fluid splash on his feet.
+* The purple areas are where the walls are broken and the outside is accessib.e
+* An office with two desks (one chair), in disarray.  A dead, dessicated body is in the chair.  It
+  looks like the species of folks in the videos on the borer, smaller than humans, bald, with 
+  a crest of hair (but not much left on this one). Sam(?) searches the body, finds six small blue
+  disks, and a playing-card shaped object with an amazingly rendered portrait on it - one of the
+  folks with bright blue hair and exquisite eyebrows. <!-- assistant / bluejay -->.  Bargain takes
+  the body outside through the hole in the hallway to try to determine cause of death.  Even with
+  a good medicine check, couldn't find any obvious cause.
+* The hallways here are the same material as in the lobby, but without the graffiti.  Also a really
+  cool decorative pattern, a random black fillegree etched into the surface.
+* A room with a large wooden banquet table.  The wood is exotic and nothing familiar to anyone in the
+  party.  There's a mirror on the wall, and a pair of doors into...
+* A small mini-kitchen. One of the monks stealthed the door open, noticed the pile of rats 
+  sleeping on the far wall. There's also a small table with a box on it, the box has a little window
+  on it, plus a black rectangular cube underneath the table. Seeing the rats, they closed the door
+  and went into the hallway.
+* Another office, with another dead body in the corner. An indistinct Thumping sound is heard
+  occasionally.  The party didn't investigate further.
+* As the hallway, there are more bones scattered on the ground, and the decorative fillegree is
+  more elaborate.
+* Going through the set of double-doors to the north, the party spies a sleeping creature, unlike
+  anything they've seen before. Body of a massive predatory cat, with sleek muscles and black flesh.
+  Its head appears to be a ball of swirling energy, surrounded by dozens of metallic plates that
+  move as if in orbit around the energy.  Another Thumping sound.  The party makes some noise. The
+  creature wakes up, and starts pointing its head(?) at our adventurers...
+
+ <img align=left src="ThirdAdventure/handouts/Sarrak.jpg">
+
+
+<br clear="all">
+
 
 # Session 4 - I'm Bored
 

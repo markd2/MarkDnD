@@ -2,6 +2,15 @@
 
 THE FOREST OF ANACRHONISMS
 
+D10
+
+* 2d6 giant frogs
+
+* Mini Shambling Mounds
+  - 20 ft movement
+  - AC 13
+  - 60 HP
+  - Slam - 2x +4 to hit, 1d8 + 4 bludgeoning
 
 * A great stag spots the PCs as they move through the woodland, it
   pauses briefly before darting away into the trees.
@@ -29,7 +38,7 @@ THE FOREST OF ANACRHONISMS
   scattered around that the hermit met an unfortunate end. Searching
   the hut may reveal some random items of minor import and also a copy
   of the hermit’s journal where he talks about a CREATURE OF MANY
-  MOUTHS DRAWING CLOSER IN HIS DREAMS
+  MOUTHS DRAWING CLOSER IN HIS DREAMS, help help
 
 * A sprite throws a glittery dust bomb at the shortest member of the
   party and disappears. That night a ~female~ male mountain lion nuzzles up
@@ -44,10 +53,11 @@ THE FOREST OF ANACRHONISMS
 * A Warforged holding an ax has rusted near a felled tree. If only
   someone could find his oil can and free him up
 
-* A werebear wearing a pair of jeans and a park ranger hat with
+X A werebear wearing a pair of jeans and a park ranger hat with
   “SMOGGY” written on it approaches the party and gives them a 1D10
   hour lecture on how you should be careful using fire or fire related
   spells in forest areas. Once finished, he tells the party “Only YOU
   can prevent a forest fire.” and proceeds to ride off on the back of
   an owlbear.
+
   

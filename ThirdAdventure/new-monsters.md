@@ -5,7 +5,7 @@
 Original Info(e):
 * A fearsome predator in the Ninth World.
 * Body of a massive predatory cat, about 8-foot (2.4m) long, with sleek muscles and black flesh
-* Its head appears to bea  3-foot-wide ball of swirling energy, surrounded by dozens of metallic plates that move as if in orbit around the energy
+* Its head appears to bea  23-foot-wide ball of swirling energy, surrounded by dozens of metallic plates that move as if in orbit around the energy
 * biomechanical in nature, taps into the minds of other cratures or controls of electrical devices
 * extroadoniarily intelligent
 * Claw attack
