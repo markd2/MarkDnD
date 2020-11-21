@@ -2,6 +2,8 @@
 
 Reverse chronology
 
+----------
+
 # Session 5 - Ruinous Irulan
 
 Spent the night, leveled up, heading into the forest. Yansha totally bright eyed and
@@ -107,6 +109,7 @@ TL;DR The party finds (bottom to top):
 
 <br clear="all">
 
+----------
 
 # Session 4 - I'm Bored
 
@@ -138,6 +141,7 @@ The party discovers some kind of weird, as some of the scarecrows come to life(?
 
 Level up to five!
 
+----------
 
 # Session 3 - Dinner is Served
 
