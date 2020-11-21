@@ -6,14 +6,14 @@ Reverse chronology
 
 Spent the night, leveled up, heading into the forest. Yansha totally bright eyed and
 bushy-tailed, different from the stern, serious captain when the party first met her at the
-cemetary.  Digging through her bag before heading out, a piece of paper falls out.
+cemetery.  Digging through her bag before heading out, a piece of paper falls out.
 
 Sam: "Yansh, you seem to have dropped something".  Picks up a note. Reads it. 
 "It's from Moose.  He's always looking out for me".  <img align="right" src="ThirdAdventure/handouts/moose-note.png" width=250 />
 
 The forest outside of Castle-Lantern, has been cleared over the years to make room
 for the expanding farmland. Starting out, the trees are somewhat sparse, but getting
-thicker as the party progresses. The terrian gets hillier as well.
+thicker as the party progresses. The terrain gets hillier as well.
 
 Along the way, the party spies a human figure in the distance. It waves them over.
 The party, feeling the urge to make progress before nightfall waves in decline.  The
@@ -48,7 +48,7 @@ Towards dusk, the party crests a hill, and finds their destination in
 a small valley below.  It's a broad and tall edifice (think like a
 small Wal-Mart entry), partially embedded in a hillside.  From the
 top, there's two narrow buildings connected to the front, one heading
-perpindicularly back (say North), one heading off at an angle (say
+perpendicularly back (say North), one heading off at an angle (say
 North-West). The party cautiously approached, not seeing much activity
 outside of a couple of woodland creatures. Everything seems quieter than
 it should be. Not silent, just not the cacophony from elsewhere in the forest.
@@ -76,8 +76,8 @@ TL;DR The party finds (bottom to top):
   mold and mildew, and more of the graffiti from outside.
 * What looks to be a modern bathroom area, with a closet in the back. Bargain(?) opens the door, and
   has antiseptic smelling fluid splash on his feet.
-* The purple areas are where the walls are broken and the outside is accessib.e
-* An office with two desks (one chair), in disarray.  A dead, dessicated body is in the chair.  It
+* The purple areas are where the walls are broken and the outside is accessible.
+* An office with two desks (one chair), in disarray.  A dead, desiccated body is in the chair.  It
   looks like the species of folks in the videos on the borer, smaller than humans, bald, with 
   a crest of hair (but not much left on this one). Sam(?) searches the body, finds six small blue
   disks, and a playing-card shaped object with an amazingly rendered portrait on it - one of the
@@ -85,7 +85,7 @@ TL;DR The party finds (bottom to top):
   the body outside through the hole in the hallway to try to determine cause of death.  Even with
   a good medicine check, couldn't find any obvious cause.
 * The hallways here are the same material as in the lobby, but without the graffiti.  Also a really
-  cool decorative pattern, a random black fillegree etched into the surface.
+  cool decorative pattern, a random black filigree etched into the surface.
 * A room with a large wooden banquet table.  The wood is exotic and nothing familiar to anyone in the
   party.  There's a mirror on the wall, and a pair of doors into...
 * A small mini-kitchen. One of the monks stealthed the door open, noticed the pile of rats 
@@ -94,7 +94,7 @@ TL;DR The party finds (bottom to top):
   and went into the hallway.
 * Another office, with another dead body in the corner. An indistinct Thumping sound is heard
   occasionally.  The party didn't investigate further.
-* As the hallway, there are more bones scattered on the ground, and the decorative fillegree is
+* As the hallway, there are more bones scattered on the ground, and the decorative filigree is
   more elaborate.
 * Going through the set of double-doors to the north, the party spies a sleeping creature, unlike
   anything they've seen before. Body of a massive predatory cat, with sleek muscles and black flesh.
