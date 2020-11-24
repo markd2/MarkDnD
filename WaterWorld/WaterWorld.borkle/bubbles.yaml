@@ -2038,8 +2038,8 @@
     rangeStart: 0
     rangeLength: 5
   position:
-  - 9.072890625e+2
-  - 1.4101875e+3
+  - 1.05605859375e+3
+  - 1.4512734375e+3
   width: 4e+1
   connections:
     indexes:
@@ -2058,8 +2058,8 @@
   text: Assistant (to the) Director of Records in Horshire
   formattingOptions: []
   position:
-  - 1.000046875e+3
-  - 1.3342734375e+3
+  - 1.06566015625e+3
+  - 1.36563671875e+3
   width: 1.2e+2
   connections:
     indexes:
@@ -2070,8 +2070,8 @@
   text: Professional Bureaucrat
   formattingOptions: []
   position:
-  - 1.00623828125e+3
-  - 1.42137109375e+3
+  - 1.1861796875e+3
+  - 1.45454296875e+3
   width: 1e+2
   connections:
     indexes:
@@ -2145,8 +2145,8 @@
   text: Caster
   formattingOptions: []
   position:
-  - 9.7169921875e+2
-  - 1.4750390625e+3
+  - 9.77359375e+2
+  - 1.50266015625e+3
   width: 5e+1
   connections:
     indexes:
@@ -2159,8 +2159,8 @@
   text: Cloud of Daggers
   formattingOptions: []
   position:
-  - 1.03553515625e+3
-  - 1.46604296875e+3
+  - 8.8440234375e+2
+  - 1.5300234375e+3
   width: 1e+2
   connections:
     indexes:
@@ -2171,8 +2171,8 @@
   text: P'Digitaion - somewhat fussy
   formattingOptions: []
   position:
-  - 1.04605859375e+3
-  - 1.4932421875e+3
+  - 8.7358984375e+2
+  - 1.5663671875e+3
   width: 1.7e+2
   connections:
     indexes:
@@ -2183,8 +2183,8 @@
   text: More ralxed in A.R.C.A.D.E. mode
   formattingOptions: []
   position:
-  - 1.1353359375e+3
-  - 1.3435234375e+3
+  - 1.22508984375e+3
+  - 1.38730859375e+3
   width: 1.3e+2
   connections:
     indexes:
@@ -2197,8 +2197,8 @@
   text: poked at wedding party "you weren't targetd" to get any response
   formattingOptions: []
   position:
-  - 1.13077734375e+3
-  - 1.39852734375e+3
+  - 1.1685703125e+3
+  - 1.32471484375e+3
   width: 2e+2
   connections:
     indexes:
@@ -6160,8 +6160,8 @@
   text: Advantage on Geography checks in Neepon
   formattingOptions: []
   position:
-  - 9.6271484375e+2
-  - 1.52428515625e+3
+  - 1.1630703125e+3
+  - 1.5220234375e+3
   width: 1.5e+2
   connections:
     indexes:
@@ -6196,8 +6196,8 @@
     12: Red'
   formattingOptions: []
   position:
-  - 9.78125e+2
-  - 1.5662109375e+3
+  - 1.08814453125e+3
+  - 1.5889296875e+3
   width: 1e+2
   connections:
     indexes:
@@ -6328,32 +6328,36 @@
   text: Bag of Holding
   formattingOptions: []
   position:
-  - 9.607578125e+2
-  - 1.66376953125e+3
+  - 8.6849609375e+2
+  - 1.38978125e+3
   width: 1e+2
   connections:
     indexes:
     - location: 457
       length: 1
+    - location: 523
+      length: 1
   _effectiveHeight: 1.4e+1
 - ID: 456
-  text: Cloak of hiding(?)
+  text: Cloak of stealth
   formattingOptions: []
   position:
-  - 9.1115625e+2
-  - 1.7241484375e+3
+  - 9.7757421875e+2
+  - 1.37648828125e+3
   width: 6e+1
   connections:
     indexes:
     - location: 457
+      length: 1
+    - location: 516
       length: 1
   _effectiveHeight: 2.8e+1
 - ID: 457
   text: Cool Gear
   formattingOptions: []
   position:
-  - 9.0080859375e+2
-  - 1.61846484375e+3
+  - 9.623359375e+2
+  - 1.44591796875e+3
   width: 7e+1
   connections:
     indexes:
@@ -6368,14 +6372,14 @@
   text: Mimbari fighting pike
   formattingOptions: []
   position:
-  - 9.281953125e+2
-  - 1.69390625e+3
-  width: 1.2e+2
+  - 8.72234375e+2
+  - 1.4785703125e+3
+  width: 8e+1
   connections:
     indexes:
     - location: 457
       length: 1
-  _effectiveHeight: 1.4e+1
+  _effectiveHeight: 2.8e+1
 - ID: 459
   text: Do you have any idea what that was?
   formattingOptions: []
@@ -6954,6 +6958,10 @@
     indexes:
     - location: 474
       length: 1
+    - location: 517
+      length: 1
+    - location: 520
+      length: 1
   _effectiveHeight: 1.4e+1
 - ID: 503
   text: looks for small low-volume shop
@@ -7045,7 +7053,7 @@
     - location: 510
       length: 1
     - location: 512
-      length: 1
+      length: 2
   _effectiveHeight: 2.8e+1
 - ID: 510
   text: buys him a jacket
@@ -7077,11 +7085,150 @@
   text: '"you''re the nicest person!"'
   formattingOptions: []
   position:
-  - 3.86784765625e+3
-  - 8.5809765625e+2
+  - 3.87323828125e+3
+  - 8.695390625e+2
   width: 1e+2
   connections:
     indexes:
     - location: 509
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 513
+  text: squeezing him for info
+  formattingOptions: []
+  position:
+  - 3.72407421875e+3
+  - 9.1093359375e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 509
+      length: 1
+    - location: 514
+      length: 2
+  _effectiveHeight: 2.8e+1
+- ID: 514
+  text: Seems like he's been instructed to watch us by the same folks in A'Hart who
+    sent us
+  formattingOptions: []
+  position:
+  - 3.65255859375e+3
+  - 9.762265625e+2
+  width: 1.8e+2
+  connections:
+    indexes:
+    - location: 513
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 515
+  text: he's bad at changing topics
+  formattingOptions: []
+  position:
+  - 3.849046875e+3
+  - 9.43875e+2
+  width: 9e+1
+  connections:
+    indexes:
+    - location: 513
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 516
+  text: ADV on stealh checks
+  formattingOptions: []
+  position:
+  - 9.1771484375e+2
+  - 1.33677734375e+3
+  width: 1.3e+2
+  connections:
+    indexes:
+    - location: 456
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 517
+  text: gets a blue cloak to match the ambient color scheme
+  formattingOptions: []
+  position:
+  - 4.08133984375e+3
+  - 7.0218359375e+2
+  width: 1.5e+2
+  connections:
+    indexes:
+    - location: 502
+      length: 1
+    - location: 518
+      length: 2
+  _effectiveHeight: 2.8e+1
+- ID: 518
+  text: Cloak of stealth
+  formattingOptions: []
+  position:
+  - 4.25977734375e+3
+  - 6.82296875e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 517
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 519
+  text: adv on stealth
+  formattingOptions: []
+  position:
+  - 4.2557890625e+3
+  - 7.2094921875e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 517
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 520
+  text: Bag of holding
+  formattingOptions: []
+  position:
+  - 4.13039453125e+3
+  - 7.6405078125e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 502
+      length: 1
+    - location: 521
+      length: 2
+  _effectiveHeight: 1.4e+1
+- ID: 522
+  text: smells like potatoes for some reason
+  formattingOptions: []
+  position:
+  - 4.28211328125e+3
+  - 8.1813671875e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 520
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 521
+  text: man purse / European Handbag
+  formattingOptions: []
+  position:
+  - 4.30016613769531e+3
+  - 7.72545471191406e+2
+  width: 1.5e+2
+  connections:
+    indexes:
+    - location: 520
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 523
+  text: smells like potatoes
+  formattingOptions: []
+  position:
+  - 8.7245703125e+2
+  - 1.4295234375e+3
+  width: 7e+1
+  connections:
+    indexes:
+    - location: 455
       length: 1
   _effectiveHeight: 2.8e+1
