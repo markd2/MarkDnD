@@ -2041,23 +2041,29 @@
   width: 4e+1
   connections:
     indexes:
-    - location: 143
-      length: 2
+    - location: 144
+      length: 1
     - location: 149
+      length: 1
+    - location: 444
+      length: 1
+    - location: 446
+      length: 1
+    - location: 457
       length: 1
   _effectiveHeight: 1.4e+1
 - ID: 143
-  text: Assistant (to the) Director in Horshire
+  text: Assistant (to the) Director of Records in Horshire
   formattingOptions: []
   position:
-  - 9.5452734375e+2
-  - 1.216203125e+3
+  - 9.756640625e+2
+  - 1.180859375e+3
   width: 1.2e+2
   connections:
     indexes:
-    - location: 142
+    - location: 144
       length: 1
-  _effectiveHeight: 2.8e+1
+  _effectiveHeight: 4.2e+1
 - ID: 144
   text: Professional Bureaucrat
   formattingOptions: []
@@ -2068,7 +2074,7 @@
   connections:
     indexes:
     - location: 142
-      length: 1
+      length: 2
     - location: 152
       length: 1
   _effectiveHeight: 2.8e+1
@@ -2147,8 +2153,8 @@
   text: Cloud of Daggers
   formattingOptions: []
   position:
-  - 1.0203671875e+3
-  - 1.34072265625e+3
+  - 1.01115234375e+3
+  - 1.31262890625e+3
   width: 1e+2
   connections:
     indexes:
@@ -2159,8 +2165,8 @@
   text: P'Digitaion - somewhat fussy
   formattingOptions: []
   position:
-  - 9.5165234375e+2
-  - 1.39388671875e+3
+  - 1.02167578125e+3
+  - 1.339828125e+3
   width: 1.7e+2
   connections:
     indexes:
@@ -2171,8 +2177,8 @@
   text: More ralxed in A.R.C.A.D.E. mode
   formattingOptions: []
   position:
-  - 1.1179609375e+3
-  - 1.21505078125e+3
+  - 1.110953125e+3
+  - 1.190109375e+3
   width: 1.3e+2
   connections:
     indexes:
@@ -2185,8 +2191,8 @@
   text: poked at wedding party "you weren't targetd" to get any response
   formattingOptions: []
   position:
-  - 1.11519140625e+3
-  - 1.28205859375e+3
+  - 1.10639453125e+3
+  - 1.24511328125e+3
   width: 2e+2
   connections:
     indexes:
@@ -2974,6 +2980,8 @@
       length: 1
     - location: 314
       length: 2
+    - location: 466
+      length: 1
   _effectiveHeight: 1.4e+1
 - ID: 212
   text: Rolling hills
@@ -3033,8 +3041,8 @@
   text: mining
   formattingOptions: []
   position:
-  - 4.880859375e+2
-  - 2.3659765625e+2
+  - 4.798515625e+2
+  - 2.02e+2
   width: 5e+1
   connections:
     indexes:
@@ -3489,8 +3497,8 @@
   text: colorful celebration on Day of Crossing
   formattingOptions: []
   position:
-  - 5.57087463378906e+2
-  - 2.53155975341797e+2
+  - 6.65165588378906e+2
+  - 1.52937225341797e+2
   width: 1.2e+2
   connections:
     indexes:
@@ -4021,11 +4029,11 @@
       length: 1
   _effectiveHeight: 1.4e+1
 - ID: 289
-  text: ''
+  text: LEFT
   formattingOptions: []
   position:
-  - 2.81507421875e+3
-  - 1.65813671875e+3
+  - 3.9214375e+3
+  - 1.7958046875e+3
   width: 1e+2
   connections:
     indexes:
@@ -4033,11 +4041,11 @@
       length: 1
   _effectiveHeight: 1.4e+1
 - ID: 290
-  text: ''
+  text: RIGHT
   formattingOptions: []
   position:
-  - 3.3784765625e+3
-  - 1.69558203125e+3
+  - 4.351921875e+3
+  - 1.8282890625e+3
   width: 1e+2
   connections:
     indexes:
@@ -4586,20 +4594,22 @@
     blue: 9.76506e-1
   formattingOptions: []
   position:
-  - 1.40357421875e+3
-  - 1.15122265625e+3
+  - 1.40515850830078e+3
+  - 1.22558441162109e+3
   width: 1.1e+2
   connections:
     indexes:
     - location: 330
+      length: 1
+    - location: 442
       length: 1
   _effectiveHeight: 1.4e+1
 - ID: 330
   text: Tabaxi
   formattingOptions: []
   position:
-  - 1.54750390625e+3
-  - 1.12808203125e+3
+  - 1.54908819580078e+3
+  - 1.20244378662109e+3
   width: 1e+2
   connections:
     indexes:
@@ -4612,8 +4622,8 @@
   text: Spotted
   formattingOptions: []
   position:
-  - 1.6020078125e+3
-  - 1.16541015625e+3
+  - 1.60359210205078e+3
+  - 1.23977191162109e+3
   width: 1e+2
   connections:
     indexes:
@@ -4628,8 +4638,8 @@
     blue: 9.76506e-1
   formattingOptions: []
   position:
-  - 1.394984375e+3
-  - 1.22896484375e+3
+  - 1.41835241699219e+3
+  - 1.13142938232422e+3
   width: 1e+2
   connections:
     indexes:
@@ -4640,8 +4650,8 @@
   text: Jeerbeen
   formattingOptions: []
   position:
-  - 1.52079296875e+3
-  - 1.22358203125e+3
+  - 1.54295330810547e+3
+  - 1.11170672607422e+3
   width: 6e+1
   connections:
     indexes:
@@ -4654,8 +4664,8 @@
   text: Gerbiloid
   formattingOptions: []
   position:
-  - 1.59584765625e+3
-  - 1.23188671875e+3
+  - 1.62753143310547e+3
+  - 1.13782781982422e+3
   width: 6e+1
   connections:
     indexes:
@@ -4826,8 +4836,8 @@
   text: Brown uniforms
   formattingOptions: []
   position:
-  - 3.39868359375e+3
-  - 4.8090625e+2
+  - 3.4315546875e+3
+  - 4.3721484375e+2
   width: 1e+2
   connections:
     indexes:
@@ -5155,8 +5165,8 @@
   text: has three phrases to extend any conversation
   formattingOptions: []
   position:
-  - 3.40983984375e+3
-  - 6.6029296875e+2
+  - 3.4427109375e+3
+  - 6.166015625e+2
   width: 1e+2
   connections:
     indexes:
@@ -5309,8 +5319,8 @@
   text: staff smirks as he walks out
   formattingOptions: []
   position:
-  - 3.39461328125e+3
-  - 5.194921875e+2
+  - 3.427484375e+3
+  - 4.7580078125e+2
   width: 1.6e+2
   connections:
     indexes:
@@ -5559,8 +5569,8 @@
   text: Kiya rolls eyes
   formattingOptions: []
   position:
-  - 3.44040234375e+3
-  - 9.478359375e+2
+  - 3.457e+3
+  - 9.359296875e+2
   width: 1e+2
   connections:
     indexes:
@@ -5576,8 +5586,8 @@
     rangeStart: 0
     rangeLength: 49
   position:
-  - 3.41497265625e+3
-  - 5.92796875e+2
+  - 3.44784375e+3
+  - 5.4910546875e+2
   width: 1.4e+2
   connections:
     indexes:
@@ -5588,8 +5598,8 @@
   text: But they fist-bump
   formattingOptions: []
   position:
-  - 3.43962109375e+3
-  - 9.8594921875e+2
+  - 3.45621875e+3
+  - 9.7404296875e+2
   width: 1.2e+2
   connections:
     indexes:
@@ -5652,8 +5662,8 @@
   text: Doing the trig / gravity calculations
   formattingOptions: []
   position:
-  - 3.41684375e+3
-  - 1.0793828125e+3
+  - 3.43344140625e+3
+  - 1.0674765625e+3
   width: 1.2e+2
   connections:
     indexes:
@@ -5782,8 +5792,8 @@
   text: Thankfully not hentai
   formattingOptions: []
   position:
-  - 3.37664453125e+3
-  - 1.13755859375e+3
+  - 3.3932421875e+3
+  - 1.12565234375e+3
   width: 1.2e+2
   connections:
     indexes:
@@ -5926,8 +5936,8 @@
   text: '''Dine (in absential) around on broom'
   formattingOptions: []
   position:
-  - 3.44391015625e+3
-  - 1.30348046875e+3
+  - 3.4605078125e+3
+  - 1.29157421875e+3
   width: 1.2e+2
   connections:
     indexes:
@@ -6126,3 +6136,532 @@
     - location: 440
       length: 1
   _effectiveHeight: 4.2e+1
+- ID: 442
+  text: Magic map maker
+  formattingOptions: []
+  position:
+  - 1.45536370849609e+3
+  - 1.278755859375e+3
+  width: 1.1e+2
+  connections:
+    indexes:
+    - location: 329
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 443
+  text: 5000gp
+  formattingOptions: []
+  position:
+  - 1.21009375e+3
+  - 3.2631640625e+2
+  width: 1e+2
+  connections:
+    indexes: []
+  _effectiveHeight: 1.4e+1
+- ID: 444
+  text: Advantage on Geography checks in Neepon
+  formattingOptions: []
+  position:
+  - 9.3833203125e+2
+  - 1.37087109375e+3
+  width: 1.5e+2
+  connections:
+    indexes:
+    - location: 142
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 445
+  text: 'Session #4 - Red Bananas'
+  fillColorRGB:
+    red: 1e+0
+    green: 9.0283e-1
+    blue: 9.76506e-1
+  formattingOptions: []
+  position:
+  - 3.95141015625e+3
+  - 3.615234375e+1
+  width: 1.5e+2
+  connections:
+    indexes:
+    - location: 447
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 446
+  text: 'cloak colors
+
+    4: Green
+
+    8: Blue
+
+    10: Yellow
+
+    12: Red'
+  formattingOptions: []
+  position:
+  - 9.537421875e+2
+  - 1.412796875e+3
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 142
+      length: 1
+  _effectiveHeight: 7e+1
+- ID: 447
+  text: Breakfast!
+  fillColorRGB:
+    red: 1e+0
+    green: 9.0283e-1
+    blue: 9.76506e-1
+  formattingOptions: []
+  position:
+  - 3.95519921875e+3
+  - 1.319375e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 445
+      length: 1
+    - location: 448
+      length: 1
+    - location: 452
+      length: 1
+    - location: 463
+      length: 2
+    - location: 475
+      length: 1
+    - location: 481
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 448
+  text: '''Dine notices Ricki'
+  formattingOptions: []
+  position:
+  - 3.86262890625e+3
+  - 2.5899609375e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 447
+      length: 1
+    - location: 449
+      length: 3
+    - location: 477
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 449
+  text: muted grens & browns
+  formattingOptions: []
+  position:
+  - 3.8422578125e+3
+  - 1.952265625e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 448
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 450
+  text: a little suspicious
+  formattingOptions: []
+  position:
+  - 3.737953125e+3
+  - 1.708828125e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 448
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 451
+  text: seems weird
+  formattingOptions: []
+  position:
+  - 3.71418359375e+3
+  - 2.168671875e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 448
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 452
+  text: '''Dine chats with Captain Jack'
+  formattingOptions: []
+  position:
+  - 4.08405078125e+3
+  - 9.190625e+1
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 447
+      length: 1
+    - location: 453
+      length: 2
+    - location: 459
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 453
+  text: '"appreciate you saving my ship"'
+  formattingOptions: []
+  position:
+  - 4.1508984375e+3
+  - 3.951171875e+1
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 452
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 454
+  text: You'll be getting a reward
+  formattingOptions: []
+  position:
+  - 4.2079921875e+3
+  - 9.143359375e+1
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 452
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 455
+  text: Bag of Holding
+  formattingOptions: []
+  position:
+  - 9.36375e+2
+  - 1.51035546875e+3
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 457
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 456
+  text: Cloak of hiding(?)
+  formattingOptions: []
+  position:
+  - 8.867734375e+2
+  - 1.570734375e+3
+  width: 6e+1
+  connections:
+    indexes:
+    - location: 457
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 457
+  text: Cool Gear
+  formattingOptions: []
+  position:
+  - 8.7642578125e+2
+  - 1.46505078125e+3
+  width: 7e+1
+  connections:
+    indexes:
+    - location: 142
+      length: 1
+    - location: 455
+      length: 2
+    - location: 458
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 458
+  text: Mimbari fighting pike
+  formattingOptions: []
+  position:
+  - 9.038125e+2
+  - 1.5404921875e+3
+  width: 1.2e+2
+  connections:
+    indexes:
+    - location: 457
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 459
+  text: Do you have any idea what that was?
+  formattingOptions: []
+  position:
+  - 4.14399609375e+3
+  - 1.5084765625e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 452
+      length: 1
+    - location: 460
+      length: 2
+  _effectiveHeight: 4.2e+1
+- ID: 460
+  text: no one familiar with it - sea creature in space?
+  formattingOptions: []
+  position:
+  - 4.27988671875e+3
+  - 1.44265625e+2
+  width: 1.3e+2
+  connections:
+    indexes:
+    - location: 459
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 461
+  text: similar colorization to the Beers
+  formattingOptions: []
+  position:
+  - 4.2691640625e+3
+  - 1.9669921875e+2
+  width: 1.2e+2
+  connections:
+    indexes:
+    - location: 459
+      length: 1
+    - location: 462
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 462
+  text: '''Dine looks for what was impacted by irrididesence (?)'
+  formattingOptions: []
+  position:
+  - 4.32178125e+3
+  - 2.4569921875e+2
+  width: 1.3e+2
+  connections:
+    indexes:
+    - location: 461
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 463
+  text: 'Neepon Lore Dump hanging out with Oceanias while ship docks
+
+    * Cresent shaped island (I think)
+
+    * A bay, popular watership port
+
+    * Some remote clans / tribes / temple'
+  formattingOptions:
+  - options: 2
+    rangeStart: 84
+    rangeLength: 9
+  position:
+  - 3.67873828125e+3
+  - 1.31015625e+1
+  width: 1.9e+2
+  connections:
+    indexes:
+    - location: 447
+      length: 1
+  _effectiveHeight: 8.4e+1
+- ID: 464
+  text: Docking inland (airship after all)
+  formattingOptions: []
+  position:
+  - 3.82379296875e+3
+  - 1.2255078125e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 447
+      length: 1
+    - location: 465
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 466
+  text: Jireet - main city
+  formattingOptions: []
+  position:
+  - 5.3562890625e+2
+  - 2.4558203125e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 211
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 468
+  text: less organic than A'Hart
+  formattingOptions: []
+  position:
+  - 4.0865546875e+3
+  - 2.7948046875e+2
+  width: 8e+1
+  connections:
+    indexes:
+    - location: 469
+      length: 2
+  _effectiveHeight: 2.8e+1
+- ID: 469
+  text: a lot of metal in use
+  formattingOptions: []
+  position:
+  - 4.0355859375e+3
+  - 2.2638671875e+2
+  width: 1.2e+2
+  connections:
+    indexes:
+    - location: 468
+      length: 1
+    - location: 475
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 470
+  text: it's cold!
+  formattingOptions: []
+  position:
+  - 4.17986328125e+3
+  - 2.774609375e+2
+  width: 5e+1
+  connections:
+    indexes:
+    - location: 468
+      length: 1
+    - location: 471
+      length: 3
+  _effectiveHeight: 1.4e+1
+- ID: 471
+  text: Since everything moves around orub, seasons cycle every 2-3 months
+  formattingOptions: []
+  position:
+  - 4.2389609375e+3
+  - 3.090625e+2
+  width: 2.1e+2
+  connections:
+    indexes:
+    - location: 470
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 472
+  text: snow on mountaitops
+  formattingOptions: []
+  position:
+  - 4.1739296875e+3
+  - 2.1775390625e+2
+  width: 8e+1
+  connections:
+    indexes:
+    - location: 470
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 473
+  text: We're not dressed appropriately
+  formattingOptions: []
+  position:
+  - 4.21915234375e+3
+  - 3.6015234375e+2
+  width: 1.1e+2
+  connections:
+    indexes:
+    - location: 470
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 474
+  text: Shopping Montage!
+  fillColorRGB:
+    red: 1e+0
+    green: 9.0283e-1
+    blue: 9.76506e-1
+  formattingOptions: []
+  position:
+  - 3.92081640625e+3
+  - 5.1103125e+2
+  width: 1.2e+2
+  connections:
+    indexes: []
+  _effectiveHeight: 1.4e+1
+- ID: 475
+  text: coming into Jireet
+  formattingOptions: []
+  position:
+  - 4.02591015625e+3
+  - 1.9316796875e+2
+  width: 1.1e+2
+  connections:
+    indexes:
+    - location: 447
+      length: 1
+    - location: 469
+      length: 1
+    - location: 476
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 476
+  text: main city
+  formattingOptions: []
+  position:
+  - 4.0668046875e+3
+  - 1.548984375e+2
+  width: 6e+1
+  connections:
+    indexes:
+    - location: 475
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 477
+  text: Claude goes into Professionalism Mode
+  formattingOptions: []
+  position:
+  - 3.69544140625e+3
+  - 2.9315234375e+2
+  width: 1.3e+2
+  connections:
+    indexes:
+    - location: 448
+      length: 1
+    - location: 478
+      length: 3
+  _effectiveHeight: 2.8e+1
+- ID: 478
+  text: looks, but doesn't obviously look
+  formattingOptions: []
+  position:
+  - 3.6526640625e+3
+  - 2.4918359375e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 477
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 479
+  text: Ricki is staring at C&C and other party members
+  formattingOptions: []
+  position:
+  - 3.6458984375e+3
+  - 3.4633203125e+2
+  width: 1.5e+2
+  connections:
+    indexes:
+    - location: 477
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 480
+  text: 'message:
+
+    "chat with him now or later?"
+
+    "maybe give some space, or be friends?"
+
+    "let''s be friends. No getting away from me"'
+  formattingOptions: []
+  position:
+  - 3.6687578125e+3
+  - 4.1187890625e+2
+  width: 1.3e+2
+  connections:
+    indexes:
+    - location: 477
+      length: 1
+  _effectiveHeight: 9.8e+1
+- ID: 481
+  text: Disembarking
+  fillColorRGB:
+    red: 1e+0
+    green: 9.0283e-1
+    blue: 9.76506e-1
+  formattingOptions: []
+  position:
+  - 3.9365078125e+3
+  - 3.57703125e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 447
+      length: 1
+  _effectiveHeight: 1.4e+1
