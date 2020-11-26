@@ -1513,8 +1513,8 @@
   text: C&C recognize it
   formattingOptions: []
   position:
-  - 2.2963828125e+3
-  - 5.4283203125e+2
+  - 2.29329296875e+3
+  - 5.3687109375e+2
   width: 1e+2
   connections:
     indexes:
@@ -1711,8 +1711,8 @@
     rangeStart: 0
     rangeLength: 21
   position:
-  - 2.09394921875e+3
-  - 7.792890625e+2
+  - 2.1034453125e+3
+  - 7.64984375e+2
   width: 1e+2
   connections:
     indexes:
@@ -1723,8 +1723,8 @@
   text: Stampede of Beers
   formattingOptions: []
   position:
-  - 2.09455078125e+3
-  - 8.43515625e+2
+  - 2.104046875e+3
+  - 8.292109375e+2
   width: 1.1e+2
   connections:
     indexes:
@@ -1743,8 +1743,8 @@
     blue: 9.76506e-1
   formattingOptions: []
   position:
-  - 2.07540625e+3
-  - 9.053515625e+2
+  - 2.08490234375e+3
+  - 8.91046875e+2
   width: 1.2e+2
   connections:
     indexes:
@@ -1765,8 +1765,8 @@
   text: Bear / Beaver hybrid
   formattingOptions: []
   position:
-  - 2.26301171875e+3
-  - 8.5528125e+2
+  - 2.2725078125e+3
+  - 8.409765625e+2
   width: 1.2e+2
   connections:
     indexes:
@@ -1779,8 +1779,8 @@
   text: multi-colored eyes and fur
   formattingOptions: []
   position:
-  - 2.23637109375e+3
-  - 7.9466796875e+2
+  - 2.2458671875e+3
+  - 7.8036328125e+2
   width: 1e+2
   connections:
     indexes:
@@ -1969,8 +1969,8 @@
   text: Combat!
   formattingOptions: []
   position:
-  - 1.97915234375e+3
-  - 8.16203125e+2
+  - 1.9886484375e+3
+  - 8.018984375e+2
   width: 6e+1
   connections:
     indexes:
@@ -1981,8 +1981,8 @@
   text: "Bearver Pride\u2122"
   formattingOptions: []
   position:
-  - 2.32851953125e+3
-  - 7.201875e+2
+  - 2.3964765625e+3
+  - 7.5480859375e+2
   width: 1e+2
   connections:
     indexes:
@@ -2239,8 +2239,8 @@
   text: Basil
   formattingOptions: []
   position:
-  - 1.89857421875e+3
-  - 8.935234375e+2
+  - 1.9080703125e+3
+  - 8.7921875e+2
   width: 1e+2
   connections:
     indexes:
@@ -2253,8 +2253,8 @@
   text: Chats with Duchess Eddie
   formattingOptions: []
   position:
-  - 1.89551745605469e+3
-  - 9.48337768554688e+2
+  - 1.90501354980469e+3
+  - 9.34033081054688e+2
   width: 1.5e+2
   connections:
     indexes:
@@ -2269,8 +2269,8 @@
   text: Welcome. Sorry.  Are you ok?  Can we do anything?
   formattingOptions: []
   position:
-  - 1.81653125e+3
-  - 9.9788671875e+2
+  - 1.82602734375e+3
+  - 9.8358203125e+2
   width: 1.5e+2
   connections:
     indexes:
@@ -2284,8 +2284,8 @@
     rangeStart: 56
     rangeLength: 17
   position:
-  - 1.90294921875e+3
-  - 1.058375e+3
+  - 1.9124453125e+3
+  - 1.0440703125e+3
   width: 1.2e+2
   connections:
     indexes:
@@ -2340,8 +2340,8 @@
   text: back then, it was a lot quicker froom appearance to explosion
   formattingOptions: []
   position:
-  - 4.93265625e+2
-  - 9.8243359375e+2
+  - 5.146796875e+2
+  - 9.9905078125e+2
   width: 1.5e+2
   connections:
     indexes:
@@ -2376,8 +2376,8 @@
   text: C&C
   formattingOptions: []
   position:
-  - 2.2036171875e+3
-  - 9.90484375e+2
+  - 2.21311328125e+3
+  - 9.761796875e+2
   width: 4e+1
   connections:
     indexes:
@@ -2392,8 +2392,8 @@
   text: '"that was the thing, right? We need to talk"'
   formattingOptions: []
   position:
-  - 2.44493872070312e+3
-  - 1.01039468383789e+3
+  - 2.45443481445312e+3
+  - 9.9608999633789e+2
   width: 1e+2
   connections:
     indexes:
@@ -2404,8 +2404,8 @@
   text: Claude keeps a scrap of metal
   formattingOptions: []
   position:
-  - 2.27576171875e+3
-  - 9.9800390625e+2
+  - 2.2852578125e+3
+  - 9.8369921875e+2
   width: 1e+2
   connections:
     indexes:
@@ -2418,8 +2418,8 @@
   text: Giz
   formattingOptions: []
   position:
-  - 2.25078125e+3
-  - 9.08875e+2
+  - 2.26027734375e+3
+  - 8.945703125e+2
   width: 3e+1
   connections:
     indexes:
@@ -2434,8 +2434,8 @@
   text: Grabs a chunk of metal
   formattingOptions: []
   position:
-  - 2.2629375e+3
-  - 9.463671875e+2
+  - 2.27243359375e+3
+  - 9.320625e+2
   width: 1e+2
   connections:
     indexes:
@@ -2448,8 +2448,8 @@
   text: Metal is powerful magic. Undifferentiated
   formattingOptions: []
   position:
-  - 2.39894067382812e+3
-  - 9.71084228515625e+2
+  - 2.40843676757812e+3
+  - 9.56779541015625e+2
   width: 1.3e+2
   connections:
     indexes:
@@ -2488,8 +2488,8 @@
   text: Back to bar job
   formattingOptions: []
   position:
-  - 2.3126796875e+3
-  - 9.0173046875e+2
+  - 2.32217578125e+3
+  - 8.8742578125e+2
   width: 1e+2
   connections:
     indexes:
@@ -2502,8 +2502,8 @@
   text: Patrons sicker than usual
   formattingOptions: []
   position:
-  - 2.41203125e+3
-  - 8.5375e+2
+  - 2.4396640625e+3
+  - 8.3568359375e+2
   width: 1e+2
   connections:
     indexes:
@@ -2514,8 +2514,8 @@
   text: Kiya
   formattingOptions: []
   position:
-  - 2.13975390625e+3
-  - 9.91234375e+2
+  - 2.14925e+3
+  - 9.769296875e+2
   width: 4e+1
   connections:
     indexes:
@@ -2567,8 +2567,8 @@
     rangeStart: 0
     rangeLength: 12
   position:
-  - 2.24892321777344e+3
-  - 1.28988079833984e+3
+  - 2.25841931152344e+3
+  - 1.27557611083984e+3
   width: 1e+2
   connections:
     indexes:
@@ -2585,8 +2585,8 @@
   text: Kind of freaks them out
   formattingOptions: []
   position:
-  - 1.85364453125e+3
-  - 1.136453125e+3
+  - 1.863140625e+3
+  - 1.1221484375e+3
   width: 1e+2
   connections:
     indexes:
@@ -2703,8 +2703,8 @@
   text: Rumors of another machine making effort
   formattingOptions: []
   position:
-  - 2.22938024902344e+3
-  - 1.33989642333984e+3
+  - 2.23887634277344e+3
+  - 1.32559173583984e+3
   width: 1e+2
   connections:
     indexes:
@@ -2761,8 +2761,8 @@
   text: '"machines and power"'
   formattingOptions: []
   position:
-  - 2.17785290527344e+3
-  - 1.43837298583984e+3
+  - 2.18734899902344e+3
+  - 1.42406829833984e+3
   width: 1.3e+2
   connections:
     indexes:
@@ -2773,8 +2773,8 @@
   text: tragedy in the past
   formattingOptions: []
   position:
-  - 2.18802087402344e+3
-  - 1.47903314208984e+3
+  - 2.19751696777344e+3
+  - 1.46472845458984e+3
   width: 1.2e+2
   connections:
     indexes:
@@ -2785,8 +2785,8 @@
   text: '"They''re getting supplies from some place'
   formattingOptions: []
   position:
-  - 2.32845300292969e+3
-  - 1.4655693359375e+3
+  - 2.33794909667969e+3
+  - 1.4512646484375e+3
   width: 9e+1
   connections:
     indexes:
@@ -2809,8 +2809,8 @@
   text: '"dismissed"'
   formattingOptions: []
   position:
-  - 1.98339453125e+3
-  - 1.01359765625e+3
+  - 1.992890625e+3
+  - 9.9929296875e+2
   width: 7e+1
   connections:
     indexes:
@@ -2847,8 +2847,8 @@
   text: checked out blast site
   formattingOptions: []
   position:
-  - 2.129484375e+3
-  - 1.05664453125e+3
+  - 2.13898046875e+3
+  - 1.04233984375e+3
   width: 6e+1
   connections:
     indexes:
@@ -2859,8 +2859,8 @@
   text: A lot of metal involved. Not much on Orub
   formattingOptions: []
   position:
-  - 2.365623046875e+3
-  - 1.27079675292968e+3
+  - 2.375119140625e+3
+  - 1.25649206542968e+3
   width: 1.6e+2
   connections:
     indexes:
@@ -2877,8 +2877,8 @@
   text: Pebbles
   formattingOptions: []
   position:
-  - 2.43730603027344e+3
-  - 1.23305267333984e+3
+  - 2.44680212402344e+3
+  - 1.21874798583984e+3
   width: 5e+1
   connections:
     indexes:
@@ -2891,8 +2891,8 @@
   text: Forbidden Lands?
   formattingOptions: []
   position:
-  - 2.37309899902344e+3
-  - 1.33988470458984e+3
+  - 2.38259509277344e+3
+  - 1.32558001708984e+3
   width: 1.1e+2
   connections:
     indexes:
@@ -2905,8 +2905,8 @@
   text: small amount
   formattingOptions: []
   position:
-  - 2.53105200195312e+3
-  - 1.23708605957031e+3
+  - 2.54054809570312e+3
+  - 1.22278137207031e+3
   width: 8e+1
   connections:
     indexes:
@@ -2917,8 +2917,8 @@
   text: Neepon
   formattingOptions: []
   position:
-  - 2.53870056152344e+3
-  - 1.28385736083984e+3
+  - 2.54819665527344e+3
+  - 1.26955267333984e+3
   width: 5e+1
   connections:
     indexes:
@@ -2931,8 +2931,8 @@
   text: mountain ranges
   formattingOptions: []
   position:
-  - 2.61003649902344e+3
-  - 1.31361517333984e+3
+  - 2.61953259277344e+3
+  - 1.29931048583984e+3
   width: 1e+2
   connections:
     indexes:
@@ -2943,8 +2943,8 @@
   text: Coombs
   formattingOptions: []
   position:
-  - 2.51167321777344e+3
-  - 1.34256829833984e+3
+  - 2.52116931152344e+3
+  - 1.32826361083984e+3
   width: 6e+1
   connections:
     indexes:
@@ -2957,8 +2957,8 @@
   text: not know much, but exists metal.
   formattingOptions: []
   position:
-  - 2.60230993652344e+3
-  - 1.35886126708984e+3
+  - 2.61180603027344e+3
+  - 1.34455657958984e+3
   width: 1e+2
   connections:
     indexes:
@@ -2987,6 +2987,8 @@
     - location: 314
       length: 2
     - location: 466
+      length: 1
+    - location: 531
       length: 1
   _effectiveHeight: 1.4e+1
 - ID: 212
@@ -3131,8 +3133,8 @@
   text: Nobody really knows
   formattingOptions: []
   position:
-  - 2.45103649902344e+3
-  - 1.38749017333984e+3
+  - 2.46053259277344e+3
+  - 1.37318548583984e+3
   width: 1.2e+2
   connections:
     indexes:
@@ -3143,8 +3145,8 @@
   text: maybe sell later
   formattingOptions: []
   position:
-  - 2.384234375e+3
-  - 9.386171875e+2
+  - 2.41471875e+3
+  - 9.1341015625e+2
   width: 1e+2
   connections:
     indexes:
@@ -3159,8 +3161,8 @@
     blue: 9.76506e-1
   formattingOptions: []
   position:
-  - 1.92330798339844e+3
-  - 1.34571264648438e+3
+  - 1.93280407714844e+3
+  - 1.33140795898438e+3
   width: 1e+2
   connections:
     indexes:
@@ -3185,8 +3187,8 @@
   text: Everyone is feeling ill
   formattingOptions: []
   position:
-  - 1.84152319335938e+3
-  - 1.38047735595703e+3
+  - 1.85101928710938e+3
+  - 1.36617266845703e+3
   width: 1e+2
   connections:
     indexes:
@@ -3199,8 +3201,8 @@
   text: Turns out island is moving
   formattingOptions: []
   position:
-  - 1.83637835693359e+3
-  - 1.43016253662109e+3
+  - 1.84587445068359e+3
+  - 1.41585784912109e+3
   width: 1e+2
   connections:
     indexes:
@@ -3213,8 +3215,8 @@
   text: Explains the "sun and clouds moving faster"
   formattingOptions: []
   position:
-  - 1.80388531494141e+3
-  - 1.51828369140625e+3
+  - 1.81338140869141e+3
+  - 1.50397900390625e+3
   width: 1e+2
   connections:
     indexes:
@@ -3225,8 +3227,8 @@
   text: powdered remedy and C-Bands
   formattingOptions: []
   position:
-  - 1.88199670410156e+3
-  - 1.4824111328125e+3
+  - 1.89149279785156e+3
+  - 1.4681064453125e+3
   width: 1.2e+2
   connections:
     indexes:
@@ -3237,8 +3239,8 @@
   text: Eddie & party comes over to chat
   formattingOptions: []
   position:
-  - 2.23222900390625e+3
-  - 1.06475534057617e+3
+  - 2.24172509765625e+3
+  - 1.05045065307617e+3
   width: 1.5e+2
   connections:
     indexes:
@@ -3253,8 +3255,8 @@
   text: '"colleague, Basil?  Assistant Director?  Says you may have more info"'
   formattingOptions: []
   position:
-  - 2.26901916503906e+3
-  - 1.11585757446289e+3
+  - 2.27851525878906e+3
+  - 1.10155288696289e+3
   width: 1e+2
   connections:
     indexes:
@@ -3265,8 +3267,8 @@
   text: asks politely, but obviously expecting an answer
   formattingOptions: []
   position:
-  - 2.4282109375e+3
-  - 1.06687387084961e+3
+  - 2.43770703125e+3
+  - 1.05256918334961e+3
   width: 1.5e+2
   connections:
     indexes:
@@ -3277,8 +3279,8 @@
   text: pays handsomely (1000gp) for information
   formattingOptions: []
   position:
-  - 2.42422387695312e+3
-  - 1.14881509399414e+3
+  - 2.43371997070312e+3
+  - 1.13451040649414e+3
   width: 1e+2
   connections:
     indexes:
@@ -3291,8 +3293,8 @@
   text: invitation to palace
   formattingOptions: []
   position:
-  - 2.54331335449219e+3
-  - 1.17485467529297e+3
+  - 2.55280944824219e+3
+  - 1.16054998779297e+3
   width: 1.2e+2
   connections:
     indexes:
@@ -3338,8 +3340,8 @@
     rangeStart: 43
     rangeLength: 9
   position:
-  - 2.54928051757812e+3
-  - 1.11828692626953e+3
+  - 2.55877661132812e+3
+  - 1.10398223876953e+3
   width: 1.6e+2
   connections:
     indexes:
@@ -3350,8 +3352,8 @@
   text: Options
   formattingOptions: []
   position:
-  - 1.97132629394531e+3
-  - 1.54043780517578e+3
+  - 1.98082238769531e+3
+  - 1.52613311767578e+3
   width: 1e+2
   connections:
     indexes:
@@ -3364,8 +3366,8 @@
   text: Pebbles
   formattingOptions: []
   position:
-  - 1.94759387207031e+3
-  - 1.57605493164062e+3
+  - 1.95708996582031e+3
+  - 1.56175024414062e+3
   width: 1e+2
   connections:
     indexes:
@@ -3380,8 +3382,8 @@
   text: There's an A.R.C.A.D.E. cell
   formattingOptions: []
   position:
-  - 1.85720593261719e+3
-  - 1.61090594482422e+3
+  - 1.86670202636719e+3
+  - 1.59660125732422e+3
   width: 1e+2
   connections:
     indexes:
@@ -3395,8 +3397,8 @@
     rangeStart: 0
     rangeLength: 6
   position:
-  - 1.84500915527344e+3
-  - 1.67852191162109e+3
+  - 1.85450524902344e+3
+  - 1.66421722412109e+3
   width: 1e+2
   connections:
     indexes:
@@ -3407,8 +3409,8 @@
   text: Another asplosion in Neepon
   formattingOptions: []
   position:
-  - 2.35659509277344e+3
-  - 1.40956274414062e+3
+  - 2.36609118652344e+3
+  - 1.39525805664062e+3
   width: 1.1e+2
   connections:
     indexes:
@@ -3443,8 +3445,8 @@
   text: '"Water in the Sky"'
   formattingOptions: []
   position:
-  - 1.95003515625e+3
-  - 1.67661218261719e+3
+  - 1.95953125e+3
+  - 1.66230749511719e+3
   width: 1.1e+2
   connections:
     indexes:
@@ -3515,8 +3517,8 @@
   text: didn't want to be in wedding
   formattingOptions: []
   position:
-  - 1.80574224853516e+3
-  - 1.20040786743164e+3
+  - 1.81523834228516e+3
+  - 1.18610317993164e+3
   width: 1e+2
   connections:
     indexes:
@@ -3527,8 +3529,8 @@
   text: doesn't want to be in chaotic town
   formattingOptions: []
   position:
-  - 1.85834515380859e+3
-  - 1.24939376831055e+3
+  - 1.86784124755859e+3
+  - 1.23508908081055e+3
   width: 1.1e+2
   connections:
     indexes:
@@ -3539,8 +3541,8 @@
   text: Dine
   formattingOptions: []
   position:
-  - 2.01584375e+3
-  - 1.2865078125e+3
+  - 2.02533984375e+3
+  - 1.272203125e+3
   width: 4e+1
   connections:
     indexes:
@@ -3555,8 +3557,8 @@
   text: so much metal
   formattingOptions: []
   position:
-  - 2.12505078125e+3
-  - 1.2559765625e+3
+  - 2.134546875e+3
+  - 1.241671875e+3
   width: 9e+1
   connections:
     indexes:
@@ -3567,8 +3569,8 @@
   text: so much magic
   formattingOptions: []
   position:
-  - 2.11116015625e+3
-  - 1.28899609375e+3
+  - 2.12065625e+3
+  - 1.27469140625e+3
   width: 9e+1
   connections:
     indexes:
@@ -3579,8 +3581,8 @@
   text: Claude
   formattingOptions: []
   position:
-  - 2.08123828125e+3
-  - 1.36117578125e+3
+  - 2.090734375e+3
+  - 1.34687109375e+3
   width: 5e+1
   connections:
     indexes:
@@ -3593,8 +3595,8 @@
   text: find where metal is coming from
   formattingOptions: []
   position:
-  - 2.09490234375e+3
-  - 1.3918984375e+3
+  - 2.1043984375e+3
+  - 1.37759375e+3
   width: 1e+2
   connections:
     indexes:
@@ -3605,8 +3607,8 @@
   text: Griz, thanks for saving the preacher
   formattingOptions: []
   position:
-  - 2.08061328125e+3
-  - 1.20267578125e+3
+  - 2.090109375e+3
+  - 1.18837109375e+3
   width: 1.2e+2
   connections:
     indexes:
@@ -3633,8 +3635,8 @@
     blue: 9.76506e-1
   formattingOptions: []
   position:
-  - 2.1570625e+3
-  - 1.5728828125e+3
+  - 2.16655859375e+3
+  - 1.558578125e+3
   width: 1.8e+2
   connections:
     indexes:
@@ -3649,8 +3651,8 @@
   text: GI Jane booked passage on airship
   formattingOptions: []
   position:
-  - 2.0942265625e+3
-  - 1.616078125e+3
+  - 2.10372265625e+3
+  - 1.6017734375e+3
   width: 1.4e+2
   connections:
     indexes:
@@ -3661,8 +3663,8 @@
   text: Tortle Family visits Giz
   formattingOptions: []
   position:
-  - 2.3748671875e+3
-  - 1.5450234375e+3
+  - 2.38436328125e+3
+  - 1.53071875e+3
   width: 1e+2
   connections:
     indexes:
@@ -3675,8 +3677,8 @@
   text: thaaaank.... you....
   formattingOptions: []
   position:
-  - 2.5014921875e+3
-  - 1.534984375e+3
+  - 2.51098828125e+3
+  - 1.5206796875e+3
   width: 1e+2
   connections:
     indexes:
@@ -3687,8 +3689,8 @@
   text: 100gp gift
   formattingOptions: []
   position:
-  - 2.48401171875e+3
-  - 1.58964453125e+3
+  - 2.4935078125e+3
+  - 1.57533984375e+3
   width: 1e+2
   connections:
     indexes:
@@ -3699,8 +3701,8 @@
   text: C&C check in with Eddie & River
   formattingOptions: []
   position:
-  - 2.24719140625e+3
-  - 1.6328046875e+3
+  - 2.2566875e+3
+  - 1.6185e+3
   width: 1.1e+2
   connections:
     indexes:
@@ -3715,8 +3717,8 @@
   text: Whole party is there
   formattingOptions: []
   position:
-  - 2.3704140625e+3
-  - 1.64828515625e+3
+  - 2.37991015625e+3
+  - 1.63398046875e+3
   width: 1e+2
   connections:
     indexes:
@@ -3729,8 +3731,8 @@
   text: Basil of course wants to be seen with the aristoracy
   formattingOptions: []
   position:
-  - 2.49253515625e+3
-  - 1.64494140625e+3
+  - 2.50203125e+3
+  - 1.63063671875e+3
   width: 1e+2
   connections:
     indexes:
@@ -3781,8 +3783,8 @@
   text: invited to residence
   formattingOptions: []
   position:
-  - 2.19851171875e+3
-  - 1.68240625e+3
+  - 2.2080078125e+3
+  - 1.6681015625e+3
   width: 1.1e+2
   connections:
     indexes:
@@ -3797,8 +3799,8 @@
   text: tea party spread
   formattingOptions: []
   position:
-  - 2.1369765625e+3
-  - 1.72455859375e+3
+  - 2.14647265625e+3
+  - 1.71025390625e+3
   width: 1e+2
   connections:
     indexes:
@@ -3811,8 +3813,8 @@
   text: travel to A'Hart City
   formattingOptions: []
   position:
-  - 2.12150390625e+3
-  - 1.52963671875e+3
+  - 2.131e+3
+  - 1.51533203125e+3
   width: 1.1e+2
   connections:
     indexes:
@@ -3825,8 +3827,8 @@
   text: mage research, two explosions 100 years ago
   formattingOptions: []
   position:
-  - 2.263421875e+3
-  - 1.72760546875e+3
+  - 2.27291796875e+3
+  - 1.71330078125e+3
   width: 1e+2
   connections:
     indexes:
@@ -3841,8 +3843,8 @@
   text: '"two?"'
   formattingOptions: []
   position:
-  - 2.3845546875e+3
-  - 1.7358359375e+3
+  - 2.39405078125e+3
+  - 1.72153125e+3
   width: 5e+1
   connections:
     indexes:
@@ -3857,8 +3859,8 @@
   text: little reported. "other side of the world"
   formattingOptions: []
   position:
-  - 2.47821875e+3
-  - 1.73379296875e+3
+  - 2.48771484375e+3
+  - 1.71948828125e+3
   width: 1e+2
   connections:
     indexes:
@@ -3869,8 +3871,8 @@
   text: one week to get more information
   formattingOptions: []
   position:
-  - 2.365671875e+3
-  - 1.8041875e+3
+  - 2.37516796875e+3
+  - 1.7898828125e+3
   width: 1e+2
   connections:
     indexes:
@@ -3893,8 +3895,8 @@
   text: Close to Forbidden Lands
   formattingOptions: []
   position:
-  - 2.496859375e+3
-  - 1.81652734375e+3
+  - 2.50635546875e+3
+  - 1.80222265625e+3
   width: 1.5e+2
   connections:
     indexes:
@@ -3920,8 +3922,8 @@
     rangeStart: 14
     rangeLength: 16
   position:
-  - 2.3294765625e+3
-  - 1.86769140625e+3
+  - 2.33897265625e+3
+  - 1.85338671875e+3
   width: 1.8e+2
   connections:
     indexes:
@@ -3932,8 +3934,8 @@
   text: 'Claude: Kiya, you studied the metal?'
   formattingOptions: []
   position:
-  - 2.20227734375e+3
-  - 1.7876171875e+3
+  - 2.2117734375e+3
+  - 1.7733125e+3
   width: 1e+2
   connections:
     indexes:
@@ -3944,8 +3946,8 @@
   text: Letter of introduction
   formattingOptions: []
   position:
-  - 2.09617578125e+3
-  - 1.86792578125e+3
+  - 2.105671875e+3
+  - 1.85362109375e+3
   width: 7e+1
   connections:
     indexes:
@@ -3960,8 +3962,8 @@
   text: Basil takes
   formattingOptions: []
   position:
-  - 1.92613671875e+3
-  - 1.86387109375e+3
+  - 1.9356328125e+3
+  - 1.84956640625e+3
   width: 7e+1
   connections:
     indexes:
@@ -3972,8 +3974,8 @@
   text: wax seal
   formattingOptions: []
   position:
-  - 1.997515625e+3
-  - 1.913984375e+3
+  - 2.00701171875e+3
+  - 1.8996796875e+3
   width: 6e+1
   connections:
     indexes:
@@ -3986,8 +3988,8 @@
   text: Embroidered "B" with cat claws
   formattingOptions: []
   position:
-  - 1.87312109375e+3
-  - 1.9189296875e+3
+  - 1.8826171875e+3
+  - 1.904625e+3
   width: 1e+2
   connections:
     indexes:
@@ -3998,8 +4000,8 @@
   text: '"consider this a commission of sorts"'
   formattingOptions: []
   position:
-  - 2.19423046875e+3
-  - 1.89216015625e+3
+  - 2.2037265625e+3
+  - 1.87785546875e+3
   width: 1.2e+2
   connections:
     indexes:
@@ -4012,8 +4014,8 @@
   text: '2000 gp '
   formattingOptions: []
   position:
-  - 2.254484375e+3
-  - 1.94346875e+3
+  - 2.26398046875e+3
+  - 1.9291640625e+3
   width: 6e+1
   connections:
     indexes:
@@ -5279,8 +5281,8 @@
   text: There's one map she kind of hides
   formattingOptions: []
   position:
-  - 3.36196484375e+3
-  - 8.46171875e+2
+  - 3.4108046875e+3
+  - 8.55203125e+2
   width: 1e+2
   connections:
     indexes:
@@ -6124,8 +6126,8 @@
   text: '"I know the land, once i''ve been to an area"'
   formattingOptions: []
   position:
-  - 3.294859375e+3
-  - 1.5647578125e+3
+  - 3.3049453125e+3
+  - 1.55571484375e+3
   width: 1e+2
   connections:
     indexes:
@@ -6471,8 +6473,8 @@
   text: Jireet - main city
   formattingOptions: []
   position:
-  - 5.3562890625e+2
-  - 2.4558203125e+2
+  - 5.4087109375e+2
+  - 2.2932421875e+2
   width: 1e+2
   connections:
     indexes:
@@ -6572,6 +6574,8 @@
       length: 1
     - location: 500
       length: 3
+    - location: 524
+      length: 1
   _effectiveHeight: 1.4e+1
 - ID: 475
   text: coming into Jireet
@@ -6805,8 +6809,8 @@
   text: Kiya
   formattingOptions: []
   position:
-  - 1.87497625732422e+3
-  - 1.30968469238281e+3
+  - 1.88447235107422e+3
+  - 1.29538000488281e+3
   width: 3e+1
   connections:
     indexes:
@@ -6951,8 +6955,8 @@
   text: Basil
   formattingOptions: []
   position:
-  - 4.02142578125e+3
-  - 7.230859375e+2
+  - 4.07781481933594e+3
+  - 6.75673461914062e+2
   width: 4e+1
   connections:
     indexes:
@@ -7097,8 +7101,8 @@
   text: squeezing him for info
   formattingOptions: []
   position:
-  - 3.72407421875e+3
-  - 9.1093359375e+2
+  - 3.70906640625e+3
+  - 9.0362890625e+2
   width: 1e+2
   connections:
     indexes:
@@ -7112,12 +7116,14 @@
     sent us
   formattingOptions: []
   position:
-  - 3.65255859375e+3
-  - 9.762265625e+2
+  - 3.6522890625e+3
+  - 9.532578125e+2
   width: 1.8e+2
   connections:
     indexes:
     - location: 513
+      length: 1
+    - location: 540
       length: 1
   _effectiveHeight: 4.2e+1
 - ID: 515
@@ -7148,8 +7154,8 @@
   text: gets a blue cloak to match the ambient color scheme
   formattingOptions: []
   position:
-  - 4.08133984375e+3
-  - 7.0218359375e+2
+  - 4.13772888183594e+3
+  - 6.54771118164062e+2
   width: 1.5e+2
   connections:
     indexes:
@@ -7162,8 +7168,8 @@
   text: Cloak of stealth
   formattingOptions: []
   position:
-  - 4.25977734375e+3
-  - 6.82296875e+2
+  - 4.31616638183594e+3
+  - 6.34884399414062e+2
   width: 1e+2
   connections:
     indexes:
@@ -7174,8 +7180,8 @@
   text: adv on stealth
   formattingOptions: []
   position:
-  - 4.2557890625e+3
-  - 7.2094921875e+2
+  - 4.31217810058594e+3
+  - 6.73536743164062e+2
   width: 1e+2
   connections:
     indexes:
@@ -7186,8 +7192,8 @@
   text: Bag of holding
   formattingOptions: []
   position:
-  - 4.13039453125e+3
-  - 7.6405078125e+2
+  - 4.18678356933594e+3
+  - 7.16638305664062e+2
   width: 1e+2
   connections:
     indexes:
@@ -7200,8 +7206,8 @@
   text: smells like potatoes for some reason
   formattingOptions: []
   position:
-  - 4.28211328125e+3
-  - 8.1813671875e+2
+  - 4.33850231933594e+3
+  - 7.70724243164062e+2
   width: 1e+2
   connections:
     indexes:
@@ -7212,8 +7218,8 @@
   text: man purse / European Handbag
   formattingOptions: []
   position:
-  - 4.30016613769531e+3
-  - 7.72545471191406e+2
+  - 4.35644409179687e+3
+  - 7.25132995605468e+2
   width: 1.5e+2
   connections:
     indexes:
@@ -7232,3 +7238,232 @@
     - location: 455
       length: 1
   _effectiveHeight: 2.8e+1
+- ID: 524
+  text: milling about
+  fillColorRGB:
+    red: 1e+0
+    green: 9.0283e-1
+    blue: 9.76506e-1
+  formattingOptions: []
+  position:
+  - 3.978953125e+3
+  - 7.815859375e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 474
+      length: 1
+    - location: 527
+      length: 1
+    - location: 533
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 525
+  text: asking about metal
+  formattingOptions: []
+  position:
+  - 4.14144140625e+3
+  - 8.115703125e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 527
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 526
+  text: 1/2 day journey south
+  formattingOptions: []
+  position:
+  - 4.12339453125e+3
+  - 9.3430078125e+2
+  width: 9e+1
+  connections:
+    indexes:
+    - location: 527
+      length: 1
+    - location: 530
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 527
+  text: met stork dude who knew metal
+  formattingOptions: []
+  position:
+  - 4.10180859375e+3
+  - 8.7204296875e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 524
+      length: 3
+    - location: 528
+      length: 2
+  _effectiveHeight: 2.8e+1
+- ID: 528
+  text: Claude shows him the shard
+  formattingOptions: []
+  position:
+  - 4.2415546875e+3
+  - 8.61125e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 527
+      length: 1
+    - location: 532
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 529
+  text: '"kind of old technique, not as refined as we do now"'
+  formattingOptions: []
+  position:
+  - 4.2370234375e+3
+  - 9.0971484375e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 527
+      length: 1
+  _effectiveHeight: 5.6e+1
+- ID: 530
+  text: Minas Mine
+  formattingOptions: []
+  position:
+  - 4.1383515625e+3
+  - 9.9831640625e+2
+  width: 8e+1
+  connections:
+    indexes:
+    - location: 526
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 531
+  text: Minas Mine, south island
+  formattingOptions: []
+  position:
+  - 5.47830749511719e+2
+  - 2.61857299804688e+2
+  width: 1.4e+2
+  connections:
+    indexes:
+    - location: 211
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 532
+  text: '"left by a friend. Want to surprise him for crafty projects"'
+  formattingOptions: []
+  position:
+  - 4.361921875e+3
+  - 8.5283984375e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 528
+      length: 1
+  _effectiveHeight: 5.6e+1
+- ID: 533
+  text: To the mine
+  fillColorRGB:
+    red: 1e+0
+    green: 9.0283e-1
+    blue: 9.76506e-1
+  formattingOptions: []
+  position:
+  - 3.9735703125e+3
+  - 9.9186328125e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 524
+      length: 1
+    - location: 534
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 534
+  text: invited Ricki along
+  formattingOptions: []
+  position:
+  - 3.8601953125e+3
+  - 1.0378828125e+3
+  width: 1.1e+2
+  connections:
+    indexes:
+    - location: 533
+      length: 1
+    - location: 535
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 535
+  text: 'How capable is him?  ''Dine: we can take care of him.'
+  formattingOptions: []
+  position:
+  - 3.8053984375e+3
+  - 1.08476171875e+3
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 534
+      length: 1
+    - location: 536
+      length: 4
+  _effectiveHeight: 5.6e+1
+- ID: 536
+  text: He's hard to read
+  formattingOptions: []
+  position:
+  - 3.6749921875e+3
+  - 1.08751953125e+3
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 535
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 537
+  text: can see he's packing a dagger
+  formattingOptions: []
+  position:
+  - 3.669546875e+3
+  - 1.11748046875e+3
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 535
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 538
+  text: seems like he's out of his element around a big crowd of strangers. But definitely
+    playing into the cuteness
+  formattingOptions: []
+  position:
+  - 3.66669140625e+3
+  - 1.1641875e+3
+  width: 1.7e+2
+  connections:
+    indexes:
+    - location: 535
+      length: 1
+  _effectiveHeight: 5.6e+1
+- ID: 539
+  text: keep friends close, and enemies closer
+  formattingOptions: []
+  position:
+  - 3.78328125e+3
+  - 1.2388359375e+3
+  width: 1.2e+2
+  connections:
+    indexes:
+    - location: 535
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 540
+  text: when talking about royalty, he's kind of awkward
+  formattingOptions: []
+  position:
+  - 3.68138806152344e+3
+  - 1.01268493652344e+3
+  width: 1.4e+2
+  connections:
+    indexes:
+    - location: 514
+      length: 1
+  _effectiveHeight: 4.2e+1
