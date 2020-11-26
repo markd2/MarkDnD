@@ -2990,6 +2990,8 @@
       length: 1
     - location: 531
       length: 1
+    - location: 552
+      length: 1
   _effectiveHeight: 1.4e+1
 - ID: 212
   text: Rolling hills
@@ -7257,6 +7259,8 @@
       length: 1
     - location: 533
       length: 1
+    - location: 553
+      length: 1
   _effectiveHeight: 1.4e+1
 - ID: 525
   text: asking about metal
@@ -7337,17 +7341,17 @@
       length: 1
   _effectiveHeight: 1.4e+1
 - ID: 531
-  text: Minas Mine, south island
+  text: Minas Mine, south part island
   formattingOptions: []
   position:
   - 5.47830749511719e+2
   - 2.61857299804688e+2
-  width: 1.4e+2
+  width: 1.1e+2
   connections:
     indexes:
     - location: 211
       length: 1
-  _effectiveHeight: 1.4e+1
+  _effectiveHeight: 2.8e+1
 - ID: 532
   text: '"left by a friend. Want to surprise him for crafty projects"'
   formattingOptions: []
@@ -7361,21 +7365,27 @@
       length: 1
   _effectiveHeight: 5.6e+1
 - ID: 533
-  text: To the mine
+  text: Out of Town
   fillColorRGB:
     red: 1e+0
     green: 9.0283e-1
     blue: 9.76506e-1
   formattingOptions: []
   position:
-  - 3.9735703125e+3
-  - 9.9186328125e+2
+  - 3.98077734375e+3
+  - 9.8784765625e+2
   width: 1e+2
   connections:
     indexes:
     - location: 524
       length: 1
     - location: 534
+      length: 1
+    - location: 541
+      length: 1
+    - location: 551
+      length: 1
+    - location: 558
       length: 1
   _effectiveHeight: 1.4e+1
 - ID: 534
@@ -7391,13 +7401,15 @@
       length: 1
     - location: 535
       length: 1
+    - location: 555
+      length: 1
   _effectiveHeight: 1.4e+1
 - ID: 535
-  text: 'How capable is him?  ''Dine: we can take care of him.'
+  text: 'How capable is he?  ''Dine: we can take care of him.'
   formattingOptions: []
   position:
-  - 3.8053984375e+3
-  - 1.08476171875e+3
+  - 3.81525720214844e+3
+  - 1.08465386962891e+3
   width: 1e+2
   connections:
     indexes:
@@ -7447,8 +7459,8 @@
   text: keep friends close, and enemies closer
   formattingOptions: []
   position:
-  - 3.78328125e+3
-  - 1.2388359375e+3
+  - 3.73319140625e+3
+  - 1.2639140625e+3
   width: 1.2e+2
   connections:
     indexes:
@@ -7467,3 +7479,435 @@
     - location: 514
       length: 1
   _effectiveHeight: 4.2e+1
+- ID: 541
+  text: Noticed throngs of people, increased tenor, jostling.
+  formattingOptions: []
+  position:
+  - 4.11094543457031e+3
+  - 1.03796697998047e+3
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 533
+      length: 1
+    - location: 542
+      length: 1
+  _effectiveHeight: 5.6e+1
+- ID: 542
+  text: '"She''ll be coming ''round the mountain when she comes"'
+  formattingOptions: []
+  position:
+  - 4.22202282714844e+3
+  - 1.10998577880859e+3
+  width: 1.4e+2
+  connections:
+    indexes:
+    - location: 541
+      length: 1
+    - location: 543
+      length: 2
+    - location: 546
+      length: 1
+    - location: 549
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 543
+  text: A.R.C.A.D.E. comms
+  formattingOptions: []
+  position:
+  - 4.26299499511719e+3
+  - 1.04747186279297e+3
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 542
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 544
+  text: '"meet at mount olympus when she comes"'
+  formattingOptions: []
+  position:
+  - 4.38577600097656e+3
+  - 1.06898211669922e+3
+  width: 1.4e+2
+  connections:
+    indexes:
+    - location: 542
+      length: 1
+    - location: 545
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 545
+  text: (location)
+  formattingOptions: []
+  position:
+  - 4.40284814453125e+3
+  - 1.02726293945312e+3
+  width: 6e+1
+  connections:
+    indexes:
+    - location: 544
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 546
+  text: '"Wearing Red Bandanas"'
+  formattingOptions: []
+  position:
+  - 4.38763024902344e+3
+  - 1.13008337402344e+3
+  width: 1.5e+2
+  connections:
+    indexes:
+    - location: 542
+      length: 1
+    - location: 547
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 547
+  text: individuals
+  formattingOptions: []
+  position:
+  - 4.3800751953125e+3
+  - 1.16364978027344e+3
+  width: 7e+1
+  connections:
+    indexes:
+    - location: 546
+      length: 1
+    - location: 548
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 548
+  text: we misunderstood exactly what it meant
+  formattingOptions: []
+  position:
+  - 4.39286999511719e+3
+  - 1.20179559326172e+3
+  width: 1.3e+2
+  connections:
+    indexes:
+    - location: 547
+      length: 1
+    - location: 554
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 549
+  text: Large creature, big head. Black and white fur
+  formattingOptions: []
+  position:
+  - 4.23028039550781e+3
+  - 1.18348638916016e+3
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 542
+      length: 1
+    - location: 550
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 550
+  text: walking badger in my head-canon
+  formattingOptions: []
+  position:
+  - 4.28176428222656e+3
+  - 1.25209027099609e+3
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 549
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 551
+  text: Basil with maps, figured out Mount Olympus is Mount Shigadira
+  formattingOptions:
+  - options: 1
+    rangeStart: 46
+    rangeLength: 15
+  position:
+  - 4.10840808105469e+3
+  - 1.13513385009766e+3
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 533
+      length: 1
+  _effectiveHeight: 5.6e+1
+- ID: 552
+  text: Mount Shigadira - template on south face
+  formattingOptions: []
+  position:
+  - 6.77819946289062e+2
+  - 2.41507232666016e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 211
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 553
+  text: hear of asplosion near Jiereet
+  formattingOptions: []
+  position:
+  - 4.11630590820312e+3
+  - 7.63850708007812e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 524
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 554
+  text: Caude buys a bolt of red cloth
+  formattingOptions: []
+  position:
+  - 4.4151484375e+3
+  - 1.26962780761719e+3
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 548
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 555
+  text: '"she can be a bit smothering, can''t she?"'
+  formattingOptions: []
+  position:
+  - 3.89691796875e+3
+  - 1.160421875e+3
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 534
+      length: 1
+    - location: 556
+      length: 2
+  _effectiveHeight: 4.2e+1
+- ID: 556
+  text: HEY!
+  formattingOptions:
+  - options: 1
+    rangeStart: 0
+    rangeLength: 4
+  position:
+  - 3.8456875e+3
+  - 1.2289765625e+3
+  width: 4e+1
+  connections:
+    indexes:
+    - location: 555
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 557
+  text: 'Power Word: Hug'
+  formattingOptions: []
+  position:
+  - 3.8655e+3
+  - 1.25887890625e+3
+  width: 1.1e+2
+  connections:
+    indexes:
+    - location: 555
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 558
+  text: Overland Travel
+  fillColorRGB:
+    red: 1e+0
+    green: 9.0283e-1
+    blue: 9.76506e-1
+  formattingOptions: []
+  position:
+  - 3.93266796875e+3
+  - 1.39815234375e+3
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 533
+      length: 1
+    - location: 559
+      length: 3
+  _effectiveHeight: 1.4e+1
+- ID: 559
+  text: decided to check out the A.R.C.A.D.E. warning before going to the mine
+  formattingOptions: []
+  position:
+  - 3.7364765625e+3
+  - 1.3243359375e+3
+  width: 1.4e+2
+  connections:
+    indexes:
+    - location: 558
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 560
+  text: Shigadira is a tall snow covered-peak
+  formattingOptions: []
+  position:
+  - 4.01293359375e+3
+  - 1.29984765625e+3
+  width: 1.2e+2
+  connections:
+    indexes:
+    - location: 558
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 561
+  text: Road -> Path -> through fields
+  formattingOptions: []
+  position:
+  - 3.80965625e+3
+  - 1.44221484375e+3
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 558
+      length: 1
+    - location: 562
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 562
+  text: shaded grove
+  formattingOptions: []
+  position:
+  - 3.94083203125e+3
+  - 1.45723046875e+3
+  width: 8e+1
+  connections:
+    indexes:
+    - location: 561
+      length: 1
+    - location: 563
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 563
+  text: canopy thickens
+  formattingOptions: []
+  position:
+  - 4.065828125e+3
+  - 1.44860546875e+3
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 562
+      length: 1
+    - location: 564
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 564
+  text: great fallen slate rock, fallen to make a tunnel
+  formattingOptions: []
+  position:
+  - 4.04968359375e+3
+  - 1.37285546875e+3
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 563
+      length: 1
+    - location: 565
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 565
+  text: humid, full of mushrooms
+  formattingOptions: []
+  position:
+  - 4.1721484375e+3
+  - 1.36946484375e+3
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 564
+      length: 1
+    - location: 566
+      length: 4
+  _effectiveHeight: 2.8e+1
+- ID: 566
+  text: some small
+  formattingOptions: []
+  position:
+  - 4.13524609375e+3
+  - 1.3284609375e+3
+  width: 7e+1
+  connections:
+    indexes:
+    - location: 565
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 567
+  text: some 5' tall bigguns
+  formattingOptions: []
+  position:
+  - 4.24340234375e+3
+  - 1.33725e+3
+  width: 1.2e+2
+  connections:
+    indexes:
+    - location: 565
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 568
+  text: 'Ricki: anyone hungry?  grabs a chunk of mushroom and stuffs into a pocket.'
+  formattingOptions: []
+  position:
+  - 4.30530078125e+3
+  - 1.3751796875e+3
+  width: 1.9e+2
+  connections:
+    indexes:
+    - location: 565
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 569
+  text: emerge in cold
+  formattingOptions: []
+  position:
+  - 4.1986484375e+3
+  - 1.44554296875e+3
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 565
+      length: 1
+    - location: 570
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 570
+  text: '"temple is on the south side", and we''re on the north side'
+  formattingOptions: []
+  position:
+  - 4.32399609375e+3
+  - 1.44288671875e+3
+  width: 1.7e+2
+  connections:
+    indexes:
+    - location: 569
+      length: 1
+    - location: 571
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 571
+  text: '"over (fater) or around (slower)?"'
+  formattingOptions: []
+  position:
+  - 4.467890625e+3
+  - 1.49158203125e+3
+  width: 1.1e+2
+  connections:
+    indexes:
+    - location: 570
+      length: 1
+    - location: 572
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 572
+  text: ooh, looks snowy. Let's go around
+  formattingOptions: []
+  position:
+  - 4.34028125e+3
+  - 1.51276171875e+3
+  width: 1.1e+2
+  connections:
+    indexes:
+    - location: 571
+      length: 1
+  _effectiveHeight: 2.8e+1
