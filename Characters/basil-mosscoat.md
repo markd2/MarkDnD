@@ -374,3 +374,43 @@ DC 8 + mod + prof + special mods
 Blight at 4th level slot
 
 
+----------
+
+
+----------
+
+After Found-the-Temple episode,
+
+bork at different timelines.
+
+* easiest way to think that character at that level.  Like at session #1, before
+or after that session, and tell based on situations things you know.
+
+Say ~before~ after the wedding.  Just had this weird experience in another.
+
+All the same timeline for your character as you know him, just has this.
+
+- just knows after the wedding session
+- same gear, hitpoints, spells as the level
+  - start that in the next session
+
+- probably challenging for character.
+
+- decent chance it'll go down for that battel.
+  - if it happens, it'll be a swap-in point for the level 10 character
+  - at the point
+
+Arrival of a new level 10 character.
+  - Go to green
+  - go back to blue.  Right now between green and blue
+  - like a level 9 basil, when do that scene, will take you scene a different
+    experience, then bring 10 blue basil in to swap out uncionous level 4
+  - Blue basil, but will have more knowledge than before.  Seen a little bit more.
+
+want it to be simpl enough that party gets an idea what's going on, and complicated
+enough that !necessarily figure out the whole thing.
+
+----------
+
+start session with that
+
