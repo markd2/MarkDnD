@@ -13,6 +13,13 @@ Original Info(e):
 * heal very quickly, regenerate X per round
 * GM Intrusion - takes over a device
 
+* +5 attack
+* 1d6 + 2 damage claw
+* 1d6 + 2 damage shadow raw
+* pounce attack - DC 15 STR or DEX save or be knocked prone
+* AC 14
+* HP 70
+
 ![](handouts/Sarrak.jpg)
 
 

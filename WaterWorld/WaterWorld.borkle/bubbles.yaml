@@ -4032,8 +4032,8 @@
   text: LEFT
   formattingOptions: []
   position:
-  - 3.9404765625e+3
-  - 2.25658203125e+3
+  - 4.74272265625e+3
+  - 2.2102421875e+3
   width: 1e+2
   connections:
     indexes:
@@ -4044,8 +4044,8 @@
   text: RIGHT
   formattingOptions: []
   position:
-  - 4.3709609375e+3
-  - 2.28901953125e+3
+  - 5.33851953125e+3
+  - 2.1798671875e+3
   width: 1e+2
   connections:
     indexes:
@@ -6194,7 +6194,7 @@
     rangeStart: 0
     rangeLength: 24
   position:
-  - 3.98273828125e+3
+  - 4.01759765625e+3
   - 3.466015625e+1
   width: 1.6e+2
   connections:
@@ -6232,7 +6232,7 @@
     blue: 9.76506e-1
   formattingOptions: []
   position:
-  - 4.03226953125e+3
+  - 4.06712890625e+3
   - 1.319375e+2
   width: 1e+2
   connections:
@@ -6254,7 +6254,7 @@
   text: '''Dine notices Ricki'
   formattingOptions: []
   position:
-  - 3.93969921875e+3
+  - 3.97455859375e+3
   - 2.5899609375e+2
   width: 1e+2
   connections:
@@ -6270,7 +6270,7 @@
   text: muted grens & browns
   formattingOptions: []
   position:
-  - 3.919328125e+3
+  - 3.9541875e+3
   - 1.952265625e+2
   width: 1e+2
   connections:
@@ -6284,7 +6284,7 @@
   text: a little suspicious
   formattingOptions: []
   position:
-  - 3.8150234375e+3
+  - 3.8498828125e+3
   - 1.708828125e+2
   width: 1e+2
   connections:
@@ -6296,7 +6296,7 @@
   text: seems weird
   formattingOptions: []
   position:
-  - 3.79125390625e+3
+  - 3.82611328125e+3
   - 2.168671875e+2
   width: 1e+2
   connections:
@@ -6308,7 +6308,7 @@
   text: '''Dine chats with Captain Jack'
   formattingOptions: []
   position:
-  - 4.16112109375e+3
+  - 4.19598046875e+3
   - 9.190625e+1
   width: 1e+2
   connections:
@@ -6324,7 +6324,7 @@
   text: '"appreciate you saving my ship"'
   formattingOptions: []
   position:
-  - 4.22796875e+3
+  - 4.262828125e+3
   - 3.951171875e+1
   width: 1e+2
   connections:
@@ -6336,7 +6336,7 @@
   text: You'll be getting a reward
   formattingOptions: []
   position:
-  - 4.2850625e+3
+  - 4.319921875e+3
   - 9.143359375e+1
   width: 1e+2
   connections:
@@ -6404,7 +6404,7 @@
   text: Do you have any idea what that was?
   formattingOptions: []
   position:
-  - 4.22106640625e+3
+  - 4.25592578125e+3
   - 1.5084765625e+2
   width: 1e+2
   connections:
@@ -6418,7 +6418,7 @@
   text: no one familiar with it - sea creature in space?
   formattingOptions: []
   position:
-  - 4.35695703125e+3
+  - 4.39181640625e+3
   - 1.44265625e+2
   width: 1.3e+2
   connections:
@@ -6430,7 +6430,7 @@
   text: similar colorization to the Beers
   formattingOptions: []
   position:
-  - 4.346234375e+3
+  - 4.38109375e+3
   - 1.9669921875e+2
   width: 1.2e+2
   connections:
@@ -6444,7 +6444,7 @@
   text: '''Dine looks for what was impacted by irrididesence (?)'
   formattingOptions: []
   position:
-  - 4.3988515625e+3
+  - 4.4337109375e+3
   - 2.4569921875e+2
   width: 1.3e+2
   connections:
@@ -6465,7 +6465,7 @@
     rangeStart: 84
     rangeLength: 9
   position:
-  - 3.75580859375e+3
+  - 3.79066796875e+3
   - 1.31015625e+1
   width: 1.9e+2
   connections:
@@ -6477,7 +6477,7 @@
   text: Docking inland (airship after all)
   formattingOptions: []
   position:
-  - 3.90086328125e+3
+  - 3.93572265625e+3
   - 1.2255078125e+2
   width: 1e+2
   connections:
@@ -6503,7 +6503,7 @@
   text: less organic than A'Hart
   formattingOptions: []
   position:
-  - 4.163625e+3
+  - 4.198484375e+3
   - 2.7948046875e+2
   width: 8e+1
   connections:
@@ -6515,7 +6515,7 @@
   text: a lot of metal in use
   formattingOptions: []
   position:
-  - 4.11265625e+3
+  - 4.147515625e+3
   - 2.2638671875e+2
   width: 1.2e+2
   connections:
@@ -6529,7 +6529,7 @@
   text: it's cold!
   formattingOptions: []
   position:
-  - 4.25693359375e+3
+  - 4.29179296875e+3
   - 2.774609375e+2
   width: 5e+1
   connections:
@@ -6543,7 +6543,7 @@
   text: Since everything moves around orub, seasons cycle every 2-3 months
   formattingOptions: []
   position:
-  - 4.31603125e+3
+  - 4.350890625e+3
   - 3.090625e+2
   width: 2.1e+2
   connections:
@@ -6555,7 +6555,7 @@
   text: snow on mountaitops
   formattingOptions: []
   position:
-  - 4.251e+3
+  - 4.285859375e+3
   - 2.1775390625e+2
   width: 8e+1
   connections:
@@ -6567,7 +6567,7 @@
   text: We're not dressed appropriately
   formattingOptions: []
   position:
-  - 4.29622265625e+3
+  - 4.33108203125e+3
   - 3.6015234375e+2
   width: 1.1e+2
   connections:
@@ -6583,7 +6583,7 @@
     blue: 9.76506e-1
   formattingOptions: []
   position:
-  - 4.0048671875e+3
+  - 4.0397265625e+3
   - 5.834921875e+2
   width: 1.2e+2
   connections:
@@ -6599,7 +6599,7 @@
   text: coming into Jireet
   formattingOptions: []
   position:
-  - 4.10298046875e+3
+  - 4.13783984375e+3
   - 1.9316796875e+2
   width: 1.1e+2
   connections:
@@ -6615,7 +6615,7 @@
   text: main city
   formattingOptions: []
   position:
-  - 4.143875e+3
+  - 4.178734375e+3
   - 1.548984375e+2
   width: 6e+1
   connections:
@@ -6627,7 +6627,7 @@
   text: Claude goes into Professionalism Mode
   formattingOptions: []
   position:
-  - 3.77251171875e+3
+  - 3.80737109375e+3
   - 2.9315234375e+2
   width: 1.3e+2
   connections:
@@ -6641,7 +6641,7 @@
   text: looks, but doesn't obviously look
   formattingOptions: []
   position:
-  - 3.729734375e+3
+  - 3.76459375e+3
   - 2.4918359375e+2
   width: 1e+2
   connections:
@@ -6653,7 +6653,7 @@
   text: Ricki is staring at C&C and other party members
   formattingOptions: []
   position:
-  - 3.72296875e+3
+  - 3.757828125e+3
   - 3.4633203125e+2
   width: 1.5e+2
   connections:
@@ -6671,7 +6671,7 @@
     "let''s be friends. No getting away from me"'
   formattingOptions: []
   position:
-  - 3.745828125e+3
+  - 3.7806875e+3
   - 4.1187890625e+2
   width: 1.3e+2
   connections:
@@ -6687,7 +6687,7 @@
     blue: 9.76506e-1
   formattingOptions: []
   position:
-  - 4.06836328125e+3
+  - 4.10322265625e+3
   - 3.544765625e+2
   width: 1e+2
   connections:
@@ -6705,7 +6705,7 @@
   text: drop down gangplank
   formattingOptions: []
   position:
-  - 3.94933203125e+3
+  - 3.98419140625e+3
   - 3.2171875e+2
   width: 1.3e+2
   connections:
@@ -6717,7 +6717,7 @@
   text: Ricki bumps into Basi, ruffles his pockets
   formattingOptions: []
   position:
-  - 3.93307421875e+3
+  - 3.96793359375e+3
   - 3.99953125e+2
   width: 1e+2
   connections:
@@ -6731,7 +6731,7 @@
   text: Tells Claude
   formattingOptions: []
   position:
-  - 3.89095703125e+3
+  - 3.92581640625e+3
   - 3.6593359375e+2
   width: 8e+1
   connections:
@@ -6743,7 +6743,7 @@
   text: 2' tall
   formattingOptions: []
   position:
-  - 3.93108203125e+3
+  - 3.96594140625e+3
   - 1.64015625e+2
   width: 4e+1
   connections:
@@ -6755,7 +6755,7 @@
   text: 'Dine: "Ricki! We''re going shopping! Let''s get hot choclate!"'
   formattingOptions: []
   position:
-  - 3.929359375e+3
+  - 3.96421875e+3
   - 4.593828125e+2
   width: 1.2e+2
   connections:
@@ -6767,7 +6767,7 @@
   text: Delegation meets the party
   formattingOptions: []
   position:
-  - 4.14703515625e+3
+  - 4.18189453125e+3
   - 4.65796875e+2
   width: 1e+2
   connections:
@@ -6787,7 +6787,7 @@
   text: Loxodons
   formattingOptions: []
   position:
-  - 4.265546875e+3
+  - 4.30040625e+3
   - 4.3068359375e+2
   width: 1e+2
   connections:
@@ -6815,7 +6815,7 @@
   text: dressed in all grey.  Long snouts
   formattingOptions: []
   position:
-  - 4.40449609375e+3
+  - 4.43935546875e+3
   - 4.1630078125e+2
   width: 1.1e+2
   connections:
@@ -6855,7 +6855,7 @@
   text: Carrying a chest
   formattingOptions: []
   position:
-  - 4.2603515625e+3
+  - 4.2952109375e+3
   - 4.66640625e+2
   width: 1e+2
   connections:
@@ -6869,7 +6869,7 @@
   text: '"hope this will be sufficient"'
   formattingOptions: []
   position:
-  - 4.4157734375e+3
+  - 4.4506328125e+3
   - 4.635390625e+2
   width: 1e+2
   connections:
@@ -6881,7 +6881,7 @@
   text: Gives each party member a bag of gold
   formattingOptions: []
   position:
-  - 4.27178125e+3
+  - 4.306640625e+3
   - 5.19328125e+2
   width: 1e+2
   connections:
@@ -6895,7 +6895,7 @@
   text: exquisitely embroidered
   formattingOptions: []
   position:
-  - 4.4086875e+3
+  - 4.443546875e+3
   - 5.1598828125e+2
   width: 8e+1
   connections:
@@ -6907,7 +6907,7 @@
   text: 5000gp (each?)
   formattingOptions: []
   position:
-  - 4.395609375e+3
+  - 4.43046875e+3
   - 5.74984375e+2
   width: 1e+2
   connections:
@@ -6931,7 +6931,7 @@
   text: open invitation to the palace
   formattingOptions: []
   position:
-  - 4.17357421875e+3
+  - 4.20843359375e+3
   - 3.834140625e+2
   width: 1e+2
   connections:
@@ -6943,7 +6943,7 @@
   text: Claude
   formattingOptions: []
   position:
-  - 3.92159765625e+3
+  - 3.95645703125e+3
   - 5.8328515625e+2
   width: 5e+1
   connections:
@@ -6957,7 +6957,7 @@
   text: '''Dine'
   formattingOptions: []
   position:
-  - 3.951234375e+3
+  - 3.98609375e+3
   - 7.24421875e+2
   width: 4e+1
   connections:
@@ -6973,7 +6973,7 @@
   text: Basil
   formattingOptions: []
   position:
-  - 4.13416638183594e+3
+  - 4.16902575683594e+3
   - 6.75673461914062e+2
   width: 4e+1
   connections:
@@ -6989,7 +6989,7 @@
   text: looks for small low-volume shop
   formattingOptions: []
   position:
-  - 3.77286328125e+3
+  - 3.80772265625e+3
   - 5.8776171875e+2
   width: 1e+2
   connections:
@@ -7003,7 +7003,7 @@
   text: '"I''m actually rich" kind of shop'
   formattingOptions: []
   position:
-  - 3.74266015625e+3
+  - 3.77751953125e+3
   - 6.333671875e+2
   width: 1e+2
   connections:
@@ -7015,7 +7015,7 @@
   text: 'nice grey outfit, heathering, '
   formattingOptions: []
   position:
-  - 3.74641796875e+3
+  - 3.78127734375e+3
   - 5.3848828125e+2
   width: 1e+2
   connections:
@@ -7027,7 +7027,7 @@
   text: shopping for layers and hat accessories
   formattingOptions: []
   position:
-  - 3.8686171875e+3
+  - 3.9034765625e+3
   - 6.5538671875e+2
   width: 1e+2
   connections:
@@ -7041,7 +7041,7 @@
   text: shiny satin ribbon for the hat
   formattingOptions: []
   position:
-  - 3.744375e+3
+  - 3.779234375e+3
   - 6.977734375e+2
   width: 1e+2
   connections:
@@ -7053,7 +7053,7 @@
   text: layer for cape, wool striped stockings
   formattingOptions: []
   position:
-  - 3.7941640625e+3
+  - 3.8290234375e+3
   - 7.5039453125e+2
   width: 1e+2
   connections:
@@ -7065,7 +7065,7 @@
   text: Takes Ricki for hot chocolate
   formattingOptions: []
   position:
-  - 3.89380078125e+3
+  - 3.92866015625e+3
   - 7.98546875e+2
   width: 1e+2
   connections:
@@ -7081,7 +7081,7 @@
   text: buys him a jacket
   formattingOptions: []
   position:
-  - 3.78854296875e+3
+  - 3.82340234375e+3
   - 8.6917578125e+2
   width: 1e+2
   connections:
@@ -7095,7 +7095,7 @@
   text: this would look good on you
   formattingOptions: []
   position:
-  - 3.725578125e+3
+  - 3.7604375e+3
   - 8.1399609375e+2
   width: 1e+2
   connections:
@@ -7107,7 +7107,7 @@
   text: '"you''re the nicest person!"'
   formattingOptions: []
   position:
-  - 3.92958984375e+3
+  - 3.96444921875e+3
   - 8.695390625e+2
   width: 1e+2
   connections:
@@ -7119,7 +7119,7 @@
   text: squeezing him for info
   formattingOptions: []
   position:
-  - 3.76541796875e+3
+  - 3.80027734375e+3
   - 9.0362890625e+2
   width: 1e+2
   connections:
@@ -7134,7 +7134,7 @@
     sent us
   formattingOptions: []
   position:
-  - 3.708640625e+3
+  - 3.7435e+3
   - 9.532578125e+2
   width: 1.8e+2
   connections:
@@ -7148,7 +7148,7 @@
   text: he's bad at changing topics
   formattingOptions: []
   position:
-  - 3.9053984375e+3
+  - 3.9402578125e+3
   - 9.43875e+2
   width: 9e+1
   connections:
@@ -7172,7 +7172,7 @@
   text: gets a blue cloak to match the ambient color scheme
   formattingOptions: []
   position:
-  - 4.19408044433594e+3
+  - 4.22893981933594e+3
   - 6.54771118164062e+2
   width: 1.5e+2
   connections:
@@ -7186,7 +7186,7 @@
   text: Cloak of stealth
   formattingOptions: []
   position:
-  - 4.37251794433594e+3
+  - 4.40737731933594e+3
   - 6.34884399414062e+2
   width: 1e+2
   connections:
@@ -7198,7 +7198,7 @@
   text: adv on stealth
   formattingOptions: []
   position:
-  - 4.36852966308594e+3
+  - 4.40338903808594e+3
   - 6.73536743164062e+2
   width: 1e+2
   connections:
@@ -7210,7 +7210,7 @@
   text: Bag of holding
   formattingOptions: []
   position:
-  - 4.24313513183594e+3
+  - 4.27799450683594e+3
   - 7.16638305664062e+2
   width: 1e+2
   connections:
@@ -7224,7 +7224,7 @@
   text: smells like potatoes for some reason
   formattingOptions: []
   position:
-  - 4.39485388183594e+3
+  - 4.42971325683594e+3
   - 7.70724243164062e+2
   width: 1e+2
   connections:
@@ -7236,7 +7236,7 @@
   text: man purse / European Handbag
   formattingOptions: []
   position:
-  - 4.41279565429687e+3
+  - 4.44765502929687e+3
   - 7.25132995605468e+2
   width: 1.5e+2
   connections:
@@ -7264,7 +7264,7 @@
     blue: 9.76506e-1
   formattingOptions: []
   position:
-  - 4.0353046875e+3
+  - 4.0701640625e+3
   - 7.815859375e+2
   width: 1e+2
   connections:
@@ -7282,7 +7282,7 @@
   text: asking about metal
   formattingOptions: []
   position:
-  - 4.19779296875e+3
+  - 4.23265234375e+3
   - 8.115703125e+2
   width: 1e+2
   connections:
@@ -7294,7 +7294,7 @@
   text: 1/2 day journey south
   formattingOptions: []
   position:
-  - 4.17974609375e+3
+  - 4.21460546875e+3
   - 9.3430078125e+2
   width: 9e+1
   connections:
@@ -7308,7 +7308,7 @@
   text: met stork dude who knew metal
   formattingOptions: []
   position:
-  - 4.15816015625e+3
+  - 4.19301953125e+3
   - 8.7204296875e+2
   width: 1e+2
   connections:
@@ -7322,7 +7322,7 @@
   text: Claude shows him the shard
   formattingOptions: []
   position:
-  - 4.29790625e+3
+  - 4.332765625e+3
   - 8.61125e+2
   width: 1e+2
   connections:
@@ -7336,7 +7336,7 @@
   text: '"kind of old technique, not as refined as we do now"'
   formattingOptions: []
   position:
-  - 4.293375e+3
+  - 4.328234375e+3
   - 9.0971484375e+2
   width: 1e+2
   connections:
@@ -7348,7 +7348,7 @@
   text: Minas Mine
   formattingOptions: []
   position:
-  - 4.194703125e+3
+  - 4.2295625e+3
   - 9.9831640625e+2
   width: 8e+1
   connections:
@@ -7372,7 +7372,7 @@
   text: '"left by a friend. Want to surprise him for crafty projects"'
   formattingOptions: []
   position:
-  - 4.4182734375e+3
+  - 4.4531328125e+3
   - 8.5283984375e+2
   width: 1e+2
   connections:
@@ -7388,7 +7388,7 @@
     blue: 9.76506e-1
   formattingOptions: []
   position:
-  - 4.03712890625e+3
+  - 4.07198828125e+3
   - 9.8784765625e+2
   width: 1e+2
   connections:
@@ -7408,7 +7408,7 @@
   text: invited Ricki along
   formattingOptions: []
   position:
-  - 3.916546875e+3
+  - 3.95140625e+3
   - 1.0378828125e+3
   width: 1.1e+2
   connections:
@@ -7424,7 +7424,7 @@
   text: 'How capable is he?  ''Dine: we can take care of him.'
   formattingOptions: []
   position:
-  - 3.87160876464844e+3
+  - 3.90646813964844e+3
   - 1.08465386962891e+3
   width: 1e+2
   connections:
@@ -7438,7 +7438,7 @@
   text: He's hard to read
   formattingOptions: []
   position:
-  - 3.73134375e+3
+  - 3.766203125e+3
   - 1.08751953125e+3
   width: 1e+2
   connections:
@@ -7450,7 +7450,7 @@
   text: can see he's packing a dagger
   formattingOptions: []
   position:
-  - 3.7258984375e+3
+  - 3.7607578125e+3
   - 1.11748046875e+3
   width: 1e+2
   connections:
@@ -7463,7 +7463,7 @@
     playing into the cuteness
   formattingOptions: []
   position:
-  - 3.72304296875e+3
+  - 3.75790234375e+3
   - 1.1641875e+3
   width: 1.7e+2
   connections:
@@ -7475,7 +7475,7 @@
   text: keep friends close, and enemies closer
   formattingOptions: []
   position:
-  - 3.78954296875e+3
+  - 3.82440234375e+3
   - 1.2639140625e+3
   width: 1.2e+2
   connections:
@@ -7487,7 +7487,7 @@
   text: when talking about royalty, he's kind of awkward
   formattingOptions: []
   position:
-  - 3.73773962402344e+3
+  - 3.77259899902344e+3
   - 1.01268493652344e+3
   width: 1.4e+2
   connections:
@@ -7499,7 +7499,7 @@
   text: Noticed throngs of people, increased tenor, jostling.
   formattingOptions: []
   position:
-  - 4.16729699707031e+3
+  - 4.20215637207031e+3
   - 1.03796697998047e+3
   width: 1e+2
   connections:
@@ -7513,7 +7513,7 @@
   text: '"She''ll be coming ''round the mountain when she comes"'
   formattingOptions: []
   position:
-  - 4.27837438964844e+3
+  - 4.31323376464844e+3
   - 1.10998577880859e+3
   width: 1.4e+2
   connections:
@@ -7531,7 +7531,7 @@
   text: A.R.C.A.D.E. comms
   formattingOptions: []
   position:
-  - 4.31934655761719e+3
+  - 4.35420593261719e+3
   - 1.04747186279297e+3
   width: 1e+2
   connections:
@@ -7543,7 +7543,7 @@
   text: '"meet at mount olympus when she comes"'
   formattingOptions: []
   position:
-  - 4.44212756347656e+3
+  - 4.47698693847656e+3
   - 1.06898211669922e+3
   width: 1.4e+2
   connections:
@@ -7557,7 +7557,7 @@
   text: (location)
   formattingOptions: []
   position:
-  - 4.45919970703125e+3
+  - 4.49405908203125e+3
   - 1.02726293945312e+3
   width: 6e+1
   connections:
@@ -7569,7 +7569,7 @@
   text: '"Wearing Red Bandanas"'
   formattingOptions: []
   position:
-  - 4.44398181152344e+3
+  - 4.47884118652344e+3
   - 1.13008337402344e+3
   width: 1.5e+2
   connections:
@@ -7583,7 +7583,7 @@
   text: individuals
   formattingOptions: []
   position:
-  - 4.4364267578125e+3
+  - 4.4712861328125e+3
   - 1.16364978027344e+3
   width: 7e+1
   connections:
@@ -7597,7 +7597,7 @@
   text: we misunderstood exactly what it meant
   formattingOptions: []
   position:
-  - 4.44922155761719e+3
+  - 4.48408093261719e+3
   - 1.20179559326172e+3
   width: 1.3e+2
   connections:
@@ -7611,7 +7611,7 @@
   text: Large creature, big head. Black and white fur
   formattingOptions: []
   position:
-  - 4.28663195800781e+3
+  - 4.32149133300781e+3
   - 1.18348638916016e+3
   width: 1e+2
   connections:
@@ -7625,7 +7625,7 @@
   text: walking badger in my head-canon
   formattingOptions: []
   position:
-  - 4.33811584472656e+3
+  - 4.37297521972656e+3
   - 1.25209027099609e+3
   width: 1e+2
   connections:
@@ -7640,7 +7640,7 @@
     rangeStart: 46
     rangeLength: 15
   position:
-  - 4.16475964355469e+3
+  - 4.19961901855469e+3
   - 1.13513385009766e+3
   width: 1e+2
   connections:
@@ -7664,7 +7664,7 @@
   text: hear of asplosion near Jiereet
   formattingOptions: []
   position:
-  - 4.17265747070312e+3
+  - 4.20751684570312e+3
   - 7.63850708007812e+2
   width: 1e+2
   connections:
@@ -7676,7 +7676,7 @@
   text: Caude buys a bolt of red cloth
   formattingOptions: []
   position:
-  - 4.4715e+3
+  - 4.506359375e+3
   - 1.26962780761719e+3
   width: 1e+2
   connections:
@@ -7688,7 +7688,7 @@
   text: '"she can be a bit smothering, can''t she?"'
   formattingOptions: []
   position:
-  - 3.95326953125e+3
+  - 3.98812890625e+3
   - 1.160421875e+3
   width: 1e+2
   connections:
@@ -7705,7 +7705,7 @@
     rangeStart: 0
     rangeLength: 4
   position:
-  - 3.9020390625e+3
+  - 3.9368984375e+3
   - 1.2289765625e+3
   width: 4e+1
   connections:
@@ -7717,7 +7717,7 @@
   text: 'Power Word: Hug'
   formattingOptions: []
   position:
-  - 3.9218515625e+3
+  - 3.9567109375e+3
   - 1.25887890625e+3
   width: 1.1e+2
   connections:
@@ -7733,7 +7733,7 @@
     blue: 9.76506e-1
   formattingOptions: []
   position:
-  - 3.98901953125e+3
+  - 4.02387890625e+3
   - 1.39815234375e+3
   width: 1e+2
   connections:
@@ -7747,7 +7747,7 @@
   text: decided to check out the A.R.C.A.D.E. warning before going to the mine
   formattingOptions: []
   position:
-  - 3.792828125e+3
+  - 3.8276875e+3
   - 1.3243359375e+3
   width: 1.4e+2
   connections:
@@ -7759,7 +7759,7 @@
   text: Shigadira is a tall snow covered-peak
   formattingOptions: []
   position:
-  - 4.06928515625e+3
+  - 4.10414453125e+3
   - 1.29984765625e+3
   width: 1.2e+2
   connections:
@@ -7771,7 +7771,7 @@
   text: Road -> Path -> through fields
   formattingOptions: []
   position:
-  - 3.8660078125e+3
+  - 3.9008671875e+3
   - 1.44221484375e+3
   width: 1e+2
   connections:
@@ -7785,7 +7785,7 @@
   text: shaded grove
   formattingOptions: []
   position:
-  - 3.99718359375e+3
+  - 4.03204296875e+3
   - 1.45723046875e+3
   width: 8e+1
   connections:
@@ -7799,7 +7799,7 @@
   text: canopy thickens
   formattingOptions: []
   position:
-  - 4.1221796875e+3
+  - 4.1570390625e+3
   - 1.44860546875e+3
   width: 1e+2
   connections:
@@ -7813,7 +7813,7 @@
   text: great fallen slate rock, fallen to make a tunnel
   formattingOptions: []
   position:
-  - 4.10603515625e+3
+  - 4.14089453125e+3
   - 1.37285546875e+3
   width: 1e+2
   connections:
@@ -7827,7 +7827,7 @@
   text: humid, full of mushrooms
   formattingOptions: []
   position:
-  - 4.2285e+3
+  - 4.263359375e+3
   - 1.36946484375e+3
   width: 1e+2
   connections:
@@ -7841,7 +7841,7 @@
   text: some small
   formattingOptions: []
   position:
-  - 4.19159765625e+3
+  - 4.22645703125e+3
   - 1.3284609375e+3
   width: 7e+1
   connections:
@@ -7853,7 +7853,7 @@
   text: some 5' tall bigguns
   formattingOptions: []
   position:
-  - 4.29975390625e+3
+  - 4.33461328125e+3
   - 1.33725e+3
   width: 1.2e+2
   connections:
@@ -7865,7 +7865,7 @@
   text: 'Ricki: anyone hungry?  grabs a chunk of mushroom and stuffs into a pocket.'
   formattingOptions: []
   position:
-  - 4.36165234375e+3
+  - 4.39651171875e+3
   - 1.3751796875e+3
   width: 1.9e+2
   connections:
@@ -7877,7 +7877,7 @@
   text: emerge in cold
   formattingOptions: []
   position:
-  - 4.255e+3
+  - 4.289859375e+3
   - 1.44554296875e+3
   width: 1e+2
   connections:
@@ -7891,7 +7891,7 @@
   text: '"temple is on the south side", and we''re on the north side'
   formattingOptions: []
   position:
-  - 4.38034765625e+3
+  - 4.41520703125e+3
   - 1.44288671875e+3
   width: 1.7e+2
   connections:
@@ -7902,10 +7902,10 @@
       length: 1
   _effectiveHeight: 2.8e+1
 - ID: 571
-  text: '"over (fater) or around (slower)?"'
+  text: '"over (faster) or around (slower)?"'
   formattingOptions: []
   position:
-  - 4.5242421875e+3
+  - 4.55902307128906e+3
   - 1.49158203125e+3
   width: 1.1e+2
   connections:
@@ -7919,7 +7919,7 @@
   text: ooh, looks snowy. Let's go around
   formattingOptions: []
   position:
-  - 4.3966328125e+3
+  - 4.4314921875e+3
   - 1.51276171875e+3
   width: 1.1e+2
   connections:
@@ -7935,7 +7935,7 @@
   text: 17 Nature check
   formattingOptions: []
   position:
-  - 4.44491015625e+3
+  - 4.47976953125e+3
   - 1.56279296875e+3
   width: 1e+2
   connections:
@@ -7949,7 +7949,7 @@
   text: little bent bushes, found a path
   formattingOptions: []
   position:
-  - 4.53144140625e+3
+  - 4.56630078125e+3
   - 1.60546875e+3
   width: 1e+2
   connections:
@@ -7961,7 +7961,7 @@
   text: climbing etc
   formattingOptions: []
   position:
-  - 4.2739921875e+3
+  - 4.3088515625e+3
   - 1.52633984375e+3
   width: 1e+2
   connections:
@@ -7975,7 +7975,7 @@
   text: '"oh yeah, we can fly!"'
   formattingOptions: []
   position:
-  - 4.1554140625e+3
+  - 4.1902734375e+3
   - 1.5099140625e+3
   width: 7e+1
   connections:
@@ -7991,7 +7991,7 @@
   text: Ricky and Dine on a broom
   formattingOptions: []
   position:
-  - 4.16134765625e+3
+  - 4.19620703125e+3
   - 1.60630859375e+3
   width: 1e+2
   connections:
@@ -8003,7 +8003,7 @@
   text: Basil, Claude, 'Dine
   formattingOptions: []
   position:
-  - 4.1701171875e+3
+  - 4.2049765625e+3
   - 2.606640625e+1
   width: 5e+1
   connections:
@@ -8051,7 +8051,7 @@
   text: Kia can fly
   formattingOptions: []
   position:
-  - 4.265921875e+3
+  - 4.30078125e+3
   - 1.57187890625e+3
   width: 7e+1
   connections:
@@ -8066,7 +8066,7 @@
     rangeStart: 21
     rangeLength: 3
   position:
-  - 4.28327734375e+3
+  - 4.31813671875e+3
   - 1.61480078125e+3
   width: 1e+2
   connections:
@@ -8078,7 +8078,7 @@
   text: Up ahead, a small temple of gold and silver
   formattingOptions: []
   position:
-  - 3.98540234375e+3
+  - 4.02026171875e+3
   - 1.5191328125e+3
   width: 1e+2
   connections:
@@ -8092,7 +8092,7 @@
   text: not at the peak, but a ways down the mountainside
   formattingOptions: []
   position:
-  - 4.00136328125e+3
+  - 4.03622265625e+3
   - 1.5895e+3
   width: 1e+2
   connections:
@@ -8104,7 +8104,7 @@
   text: Claude tears up the red cloth, and hands out bandans to those wanting them
   formattingOptions: []
   position:
-  - 3.77230078125e+3
+  - 3.80716015625e+3
   - 1.56793359375e+3
   width: 1.7e+2
   connections:
@@ -8120,7 +8120,7 @@
     NO: ''Dine and Ricki'
   formattingOptions: []
   position:
-  - 3.82385546875e+3
+  - 3.85871484375e+3
   - 1.50494921875e+3
   width: 1.4e+2
   connections:
@@ -8132,7 +8132,7 @@
   text: Basil and Claude approach, Dine and Ricki still in the air
   formattingOptions: []
   position:
-  - 3.7412265625e+3
+  - 3.7760859375e+3
   - 1.66563671875e+3
   width: 1.6e+2
   connections:
@@ -8148,7 +8148,7 @@
   text: SHOT WITH ARROWS
   formattingOptions: []
   position:
-  - 3.73055078125e+3
+  - 3.76541015625e+3
   - 1.72957421875e+3
   width: 1.3e+2
   connections:
@@ -8164,7 +8164,7 @@
     blue: 9.76506e-1
   formattingOptions: []
   position:
-  - 4.05018359375e+3
+  - 4.08504296875e+3
   - 1.75293359375e+3
   width: 1e+2
   connections:
@@ -8184,7 +8184,7 @@
   text: A.R.C.A.D.E. folks
   formattingOptions: []
   position:
-  - 4.00051171875e+3
+  - 4.03537109375e+3
   - 1.6657578125e+3
   width: 1.1e+2
   connections:
@@ -8201,7 +8201,7 @@
     rangeStart: 11
     rangeLength: 19
   position:
-  - 4.16535546875e+3
+  - 4.20021484375e+3
   - 1.68890234375e+3
   width: 1.9e+2
   connections:
@@ -8213,7 +8213,7 @@
   text: 'Basil: We''re not the baddies'
   formattingOptions: []
   position:
-  - 3.91368359375e+3
+  - 3.94854296875e+3
   - 1.73398828125e+3
   width: 1e+2
   connections:
@@ -8229,7 +8229,7 @@
   text: 26 on persuasion
   formattingOptions: []
   position:
-  - 3.93128515625e+3
+  - 3.96614453125e+3
   - 1.696953125e+3
   width: 1e+2
   connections:
@@ -8241,7 +8241,7 @@
   text: '"the orbiting witch is making us nervous"'
   formattingOptions: []
   position:
-  - 3.8552734375e+3
+  - 3.8901328125e+3
   - 1.79744140625e+3
   width: 1.2e+2
   connections:
@@ -8253,7 +8253,7 @@
   text: Pandafolk
   formattingOptions: []
   position:
-  - 4.1339296875e+3
+  - 4.1687890625e+3
   - 1.659921875e+3
   width: 1e+2
   connections:
@@ -8265,7 +8265,7 @@
   text: There's a cult
   formattingOptions: []
   position:
-  - 4.27121484375e+3
+  - 4.30607421875e+3
   - 1.8019921875e+3
   width: 1e+2
   connections:
@@ -8281,7 +8281,7 @@
   text: They caught one of our folks. Haven't heard from them
   formattingOptions: []
   position:
-  - 4.4153359375e+3
+  - 4.4501953125e+3
   - 1.79279296875e+3
   width: 1.7e+2
   connections:
@@ -8293,7 +8293,7 @@
   text: around last couple of years
   formattingOptions: []
   position:
-  - 4.43808984375e+3
+  - 4.47294921875e+3
   - 1.74160546875e+3
   width: 1e+2
   connections:
@@ -8308,7 +8308,7 @@
     rangeStart: 0
     rangeLength: 42
   position:
-  - 4.23490625e+3
+  - 4.269765625e+3
   - 1.73775e+3
   width: 1.2e+2
   connections:
@@ -8320,7 +8320,7 @@
   text: attacked another temple
   formattingOptions: []
   position:
-  - 4.31642578125e+3
+  - 4.35128515625e+3
   - 1.84981640625e+3
   width: 1.4e+2
   connections:
@@ -8332,7 +8332,7 @@
   text: wear blacks and greys with red highlights
   formattingOptions: []
   position:
-  - 4.1704453125e+3
+  - 4.2053046875e+3
   - 1.84449609375e+3
   width: 1.3e+2
   connections:
@@ -8346,7 +8346,7 @@
   text: cult has been buying and smuggling metal
   formattingOptions: []
   position:
-  - 4.010796875e+3
+  - 4.04565625e+3
   - 1.80621484375e+3
   width: 1e+2
   connections:
@@ -8362,7 +8362,7 @@
   text: large amounts, using magic to transport?
   formattingOptions: []
   position:
-  - 3.8580625e+3
+  - 3.892921875e+3
   - 1.85541796875e+3
   width: 1.2e+2
   connections:
@@ -8374,7 +8374,7 @@
   text: the other asplosion - shards
   formattingOptions: []
   position:
-  - 4.0086328125e+3
+  - 4.0434921875e+3
   - 1.9260390625e+3
   width: 1.6e+2
   connections:
@@ -8390,7 +8390,7 @@
   text: 'Claude: "like this?"'
   formattingOptions: []
   position:
-  - 3.95862109375e+3
+  - 3.99348046875e+3
   - 1.99737890625e+3
   width: 1.2e+2
   connections:
@@ -8404,7 +8404,7 @@
   text: '"looks similar. Simple iron mixture'
   formattingOptions: []
   position:
-  - 3.8334296875e+3
+  - 3.8682890625e+3
   - 2.01205078125e+3
   width: 1.1e+2
   connections:
@@ -8416,7 +8416,7 @@
   text: high profile attack
   formattingOptions: []
   position:
-  - 3.8789375e+3
+  - 3.913796875e+3
   - 1.9474140625e+3
   width: 1e+2
   connections:
@@ -8428,7 +8428,7 @@
   text: '''Dine'
   formattingOptions: []
   position:
-  - 3.899765625e+3
+  - 3.934625e+3
   - 1.90738671875e+3
   width: 1.2e+2
   connections:
@@ -8442,7 +8442,7 @@
   text: See where they're coming form
   formattingOptions: []
   position:
-  - 3.73562109375e+3
+  - 3.77048046875e+3
   - 1.9100625e+3
   width: 1.2e+2
   connections:
@@ -8454,7 +8454,7 @@
   text: Maybe dress like them and infiltrate
   formattingOptions: []
   position:
-  - 3.72268359375e+3
+  - 3.75754296875e+3
   - 1.8397421875e+3
   width: 1.2e+2
   connections:
@@ -8466,7 +8466,7 @@
   text: think they're making a Machine
   formattingOptions: []
   position:
-  - 4.4785625e+3
+  - 4.513421875e+3
   - 1.84415625e+3
   width: 1.1e+2
   connections:
@@ -8480,7 +8480,7 @@
   text: they're going to need to be shipping it
   formattingOptions: []
   position:
-  - 4.471421875e+3
+  - 4.50628125e+3
   - 1.91165625e+3
   width: 1.2e+2
   connections:
@@ -8518,7 +8518,7 @@
   text: '''Dine - what''s the history of the cult?'
   formattingOptions: []
   position:
-  - 4.26303515625e+3
+  - 4.29789453125e+3
   - 1.9099921875e+3
   width: 1.1e+2
   connections:
@@ -8534,7 +8534,7 @@
   text: sprung up the last couple of years
   formattingOptions: []
   position:
-  - 4.164296875e+3
+  - 4.19915625e+3
   - 1.9758515625e+3
   width: 1.1e+2
   connections:
@@ -8548,7 +8548,7 @@
   text: a long time ago, machine-making effort
   formattingOptions: []
   position:
-  - 4.17370703125e+3
+  - 4.20856640625e+3
   - 2.0333515625e+3
   width: 1e+2
   connections:
@@ -8562,7 +8562,7 @@
   text: mages extending their capabilities
   formattingOptions: []
   position:
-  - 4.228484375e+3
+  - 4.26334375e+3
   - 2.1121875e+3
   width: 1e+2
   connections:
@@ -8574,7 +8574,7 @@
   text: '"where''s their home base?"'
   formattingOptions: []
   position:
-  - 4.28930078125e+3
+  - 4.32416015625e+3
   - 1.96879296875e+3
   width: 1e+2
   connections:
@@ -8588,7 +8588,7 @@
   text: haven't found it yet
   formattingOptions: []
   position:
-  - 4.299328125e+3
+  - 4.3341875e+3
   - 2.0317265625e+3
   width: 7e+1
   connections:
@@ -8600,7 +8600,7 @@
   text: notes became illegible
   formattingOptions: []
   position:
-  - 4.031921875e+3
+  - 4.06678125e+3
   - 2.05877734375e+3
   width: 1e+2
   connections:
@@ -8614,7 +8614,7 @@
   text: '"there''s something going on outside"'
   formattingOptions: []
   position:
-  - 4.03103515625e+3
+  - 4.06589453125e+3
   - 2.11249609375e+3
   width: 1.2e+2
   connections:
@@ -8622,3 +8622,20 @@
     - location: 622
       length: 1
   _effectiveHeight: 2.8e+1
+- ID: 624
+  text: 'Session #5'
+  fillColorRGB:
+    red: 1e+0
+    green: 9.0283e-1
+    blue: 9.76506e-1
+  formattingOptions:
+  - options: 1
+    rangeStart: 0
+    rangeLength: 10
+  position:
+  - 4.91175e+3
+  - 6.44375e+1
+  width: 1e+2
+  connections:
+    indexes: []
+  _effectiveHeight: 1.4e+1

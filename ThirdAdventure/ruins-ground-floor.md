@@ -95,11 +95,20 @@ filligree incised in it. almost burned.
   - The orb has a B5-Shadows type attack. That's what the filligree on the wall is
   - Basically a tiger with a ranged attack. DC 15 DEX save
 
+* +5 attack
+* 1d6 + 2 damage claw
+* 1d6 + 2 damage shadow raw
+* pounce attack - DC 15 STR or DEX save or be knocked prone
+* AC 14
+* HP 70
+
+
 ### 10 - Engineering Room
 
 * Not locked
 * Strange tools.  Switches and controls on the wall
-* A familiar, but much smaller, power chamber on the wall. No crystal, just a fine red powder
+* A familiar, but much smaller, power chamber on the wall. No crystal, just a fine red powder, 1/2" layer
+
 
 
 ## G2 - Kobold Korridor
