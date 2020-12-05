@@ -501,6 +501,8 @@
       length: 2
     - location: 125
       length: 1
+    - location: 676
+      length: 1
   _effectiveHeight: 1.4e+1
 - ID: 34
   text: Halfling
@@ -530,6 +532,8 @@
     - location: 127
       length: 2
     - location: 184
+      length: 1
+    - location: 652
       length: 1
   _effectiveHeight: 2.8e+1
 - ID: 36
@@ -588,7 +592,7 @@
   text: moves Claude too
   formattingOptions: []
   position:
-  - 1.35657421875e+3
+  - 1.3421640625e+3
   - 7.9184765625e+2
   width: 1.1e+2
   connections:
@@ -600,8 +604,8 @@
   text: Hunting Bandits?
   formattingOptions: []
   position:
-  - 1.040625e+3
-  - 9.402421875e+2
+  - 1.02439453125e+3
+  - 9.4047265625e+2
   width: 7e+1
   connections:
     indexes:
@@ -637,8 +641,8 @@
     rangeStart: 0
     rangeLength: 6
   position:
-  - 9.6891015625e+2
-  - 1.08328125e+3
+  - 9.5837890625e+2
+  - 1.13081640625e+3
   width: 6e+1
   connections:
     indexes:
@@ -651,6 +655,8 @@
     - location: 268
       length: 1
     - location: 323
+      length: 1
+    - location: 676
       length: 1
   _effectiveHeight: 1.4e+1
 - ID: 44
@@ -680,6 +686,8 @@
       length: 2
     - location: 129
       length: 1
+    - location: 667
+      length: 1
   _effectiveHeight: 2.8e+1
 - ID: 46
   text: invisibility for crowd control
@@ -697,7 +705,7 @@
   text: mistystep makes nauseous
   formattingOptions: []
   position:
-  - 1.23118359375e+3
+  - 1.21461328125e+3
   - 1.10245703125e+3
   width: 1e+2
   connections:
@@ -1841,8 +1849,8 @@
   text: Sword Burst
   formattingOptions: []
   position:
-  - 1.28310546875e+3
-  - 7.3891015625e+2
+  - 1.2527265625e+3
+  - 7.376796875e+2
   width: 1e+2
   connections:
     indexes:
@@ -4601,8 +4609,8 @@
     blue: 9.76506e-1
   formattingOptions: []
   position:
-  - 1.48222882080078e+3
-  - 1.22558441162109e+3
+  - 1.48845928955078e+3
+  - 1.29615863037109e+3
   width: 1.1e+2
   connections:
     indexes:
@@ -4615,8 +4623,8 @@
   text: Tabaxi
   formattingOptions: []
   position:
-  - 1.62615850830078e+3
-  - 1.20244378662109e+3
+  - 1.63263507080078e+3
+  - 1.27326409912109e+3
   width: 1e+2
   connections:
     indexes:
@@ -4629,8 +4637,8 @@
   text: Spotted
   formattingOptions: []
   position:
-  - 1.68066241455078e+3
-  - 1.23977191162109e+3
+  - 1.68689288330078e+3
+  - 1.31034613037109e+3
   width: 1e+2
   connections:
     indexes:
@@ -4651,6 +4659,8 @@
   connections:
     indexes:
     - location: 333
+      length: 1
+    - location: 638
       length: 1
   _effectiveHeight: 1.4e+1
 - ID: 333
@@ -6151,8 +6161,8 @@
   text: Magic map maker
   formattingOptions: []
   position:
-  - 1.53243402099609e+3
-  - 1.278755859375e+3
+  - 1.53866448974609e+3
+  - 1.349330078125e+3
   width: 1.1e+2
   connections:
     indexes:
@@ -6169,6 +6179,8 @@
   connections:
     indexes:
     - location: 371
+      length: 1
+    - location: 670
       length: 1
   _effectiveHeight: 2.8e+1
 - ID: 444
@@ -8633,9 +8645,815 @@
     rangeStart: 0
     rangeLength: 10
   position:
-  - 4.91175e+3
-  - 6.44375e+1
+  - 4.975796875e+3
+  - 4.60390625e+1
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 625
+      length: 1
+    - location: 630
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 625
+  text: At Table Drinking Tea
+  fillColorRGB:
+    red: 1e+0
+    green: 9.0283e-1
+    blue: 9.76506e-1
+  formattingOptions: []
+  position:
+  - 4.964765625e+3
+  - 1.051953125e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 624
+      length: 1
+    - location: 626
+      length: 3
+  _effectiveHeight: 2.8e+1
+- ID: 626
+  text: with the Pandas
+  formattingOptions: []
+  position:
+  - 4.83794921875e+3
+  - 8.651171875e+1
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 625
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 627
+  text: warning sounds outside
+  formattingOptions: []
+  position:
+  - 4.795921875e+3
+  - 1.3010546875e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 625
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 628
+  text: attention of the guards
+  formattingOptions: []
+  position:
+  - 5.10541796875e+3
+  - 1.2131640625e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 625
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 629
+  text: Blue-Cloak Basil
+  formattingOptions: []
+  position:
+  - 5.22810546875e+3
+  - 6.0321484375e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 653
+      length: 1
+    - location: 659
+      length: 2
+  _effectiveHeight: 1.4e+1
+- ID: 630
+  text: fine nib hard to read with really fast writing :-(
+  formattingOptions: []
+  position:
+  - 5.1322109375e+3
+  - 2.065625e+1
+  width: 1.4e+2
+  connections:
+    indexes:
+    - location: 624
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 631
+  text: Black-dressed ninjas inside
+  formattingOptions: []
+  position:
+  - 4.816e+3
+  - 2.3579296875e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 635
+      length: 1
+    - location: 640
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 632
+  text: Claude sets fire to the bamboo wall
+  formattingOptions: []
+  position:
+  - 5.10512109375e+3
+  - 2.39432586669922e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 633
+      length: 2
+  _effectiveHeight: 4.2e+1
+- ID: 633
+  text: Casts charm person on ninja to pour tea on fire
+  formattingOptions: []
+  position:
+  - 5.24561328125e+3
+  - 2.3277734375e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 632
+      length: 1
+  _effectiveHeight: 5.6e+1
+- ID: 634
+  text: Basil conjures water and puts it out
+  formattingOptions: []
+  position:
+  - 5.24656640625e+3
+  - 3.1231640625e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 632
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 635
+  text: they "glitch" and move short distances
+  formattingOptions: []
+  position:
+  - 4.7685546875e+3
+  - 3.0097265625e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 631
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 636
+  text: Ricki in corner with two daggers
+  formattingOptions: []
+  position:
+  - 4.8084375e+3
+  - 5.70609375e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 637
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 637
+  text: looks excited
+  formattingOptions: []
+  position:
+  - 4.742453125e+3
+  - 6.413359375e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 636
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 638
+  text: packing daggers
+  formattingOptions: []
+  position:
+  - 1.5409609375e+3
+  - 1.18237109375e+3
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 332
+      length: 1
+    - location: 639
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 639
+  text: pretty good with them
+  formattingOptions: []
+  position:
+  - 1.67050390625e+3
+  - 1.18194921875e+3
+  width: 1.3e+2
+  connections:
+    indexes:
+    - location: 638
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 640
+  text: More ninjas outside
+  formattingOptions: []
+  position:
+  - 4.88269921875e+3
+  - 3.74671875e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 631
+      length: 1
+    - location: 641
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 641
+  text: Giant silver gorilla
+  formattingOptions: []
+  position:
+  - 4.76128125e+3
+  - 4.1184375e+2
+  width: 1.1e+2
+  connections:
+    indexes:
+    - location: 640
+      length: 1
+    - location: 646
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 642
+  text: '''Dine - "we just going to be staying inside?"'
+  formattingOptions: []
+  position:
+  - 5.38892578125e+3
+  - 4.10859375e+2
+  width: 1.3e+2
+  connections:
+    indexes:
+    - location: 643
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 643
+  text: casts invisibility on herself
+  formattingOptions: []
+  position:
+  - 5.26008203125e+3
+  - 3.8670703125e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 642
+      length: 1
+    - location: 644
+      length: 2
+  _effectiveHeight: 2.8e+1
+- ID: 644
+  text: cackles madly
+  formattingOptions: []
+  position:
+  - 5.37112890625e+3
+  - 3.56265625e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 643
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 645
+  text: takes off on broom and goes outside
+  formattingOptions: []
+  position:
+  - 5.37026953125e+3
+  - 4.7590234375e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 643
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 646
+  text: bashing on the wall
+  formattingOptions: []
+  position:
+  - 4.76277734375e+3
+  - 4.504296875e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 641
+      length: 1
+    - location: 651
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 647
+  text: Green basil
+  formattingOptions: []
+  position:
+  - 4.9237265625e+3
+  - 1.9664453125e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 648
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 648
+  text: Kind of confused
+  formattingOptions: []
+  position:
+  - 4.94337109375e+3
+  - 2.3574609375e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 647
+      length: 1
+    - location: 649
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 649
+  text: '''Dine: "you ok?"'
+  formattingOptions: []
+  position:
+  - 4.95687890625e+3
+  - 2.71046875e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 648
+      length: 1
+    - location: 650
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 650
+  text: '"discontinunity... Situation?'
+  formattingOptions: []
+  position:
+  - 4.931515625e+3
+  - 3.092890625e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 649
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 651
+  text: Basil(Green) cloud of daggers
+  formattingOptions: []
+  position:
+  - 4.74571875e+3
+  - 5.048984375e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 646
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 652
+  text: Witch Bolt
+  formattingOptions: []
+  position:
+  - 1.3477734375e+3
+  - 7.47890625e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 35
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 653
+  text: crouched down, overlooking a day at court
+  formattingOptions: []
+  position:
+  - 5.35244921875e+3
+  - 5.675859375e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 629
+      length: 1
+    - location: 654
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 654
+  text: Empress gets a message
+  formattingOptions: []
+  position:
+  - 5.4441640625e+3
+  - 6.3032421875e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 653
+      length: 1
+    - location: 655
+      length: 4
+  _effectiveHeight: 2.8e+1
+- ID: 655
+  text: '"Mages made a terrible mistake"'
+  formattingOptions: []
+  position:
+  - 5.5658203125e+3
+  - 6.2121484375e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 654
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 656
+  text: '"claim responsibility"'
+  formattingOptions: []
+  position:
+  - 5.50846484375e+3
+  - 7.3520703125e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 654
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 657
+  text: Remembers from map, they're talking about Forbidden Island
+  formattingOptions: []
+  position:
+  - 5.3995703125e+3
+  - 7.1469921875e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 654
+      length: 1
+  _effectiveHeight: 5.6e+1
+- ID: 658
+  text: islands moving on their own. might destroy everything
+  formattingOptions: []
+  position:
+  - 5.29264599609375e+3
+  - 6.7015869140625e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 654
+      length: 1
+  _effectiveHeight: 5.6e+1
+- ID: 659
+  text: led around by grey-cloaked (panda?)
+  formattingOptions: []
+  position:
+  - 5.20267578125e+3
+  - 5.231484375e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 629
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 660
+  text: told to "get the book"
+  formattingOptions: []
+  position:
+  - 5.175671875e+3
+  - 6.3594140625e+2
+  width: 1.2e+2
+  connections:
+    indexes:
+    - location: 629
+      length: 1
+    - location: 661
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 661
+  text: Basil remembers somehow the book, the battle, etc
+  formattingOptions: []
+  position:
+  - 5.173296875e+3
+  - 6.763203125e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 660
+      length: 1
+    - location: 662
+      length: 1
+  _effectiveHeight: 5.6e+1
+- ID: 662
+  text: grabs book
+  formattingOptions: []
+  position:
+  - 5.18284375e+3
+  - 7.8910546875e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 661
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 663
+  text: Green Basil gets forehead gash
+  formattingOptions: []
+  position:
+  - 4.91242578125e+3
+  - 4.4524609375e+2
   width: 1e+2
   connections:
     indexes: []
+  _effectiveHeight: 2.8e+1
+- ID: 664
+  text: Bell rings. "Everyone Out!
+  formattingOptions: []
+  position:
+  - 5.06146875e+3
+  - 3.7909765625e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 665
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 665
+  text: makes way to exit portal
+  formattingOptions: []
+  position:
+  - 5.04794921875e+3
+  - 4.38515625e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 664
+      length: 1
+    - location: 668
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 666
+  text: Claude casts bend luck
+  formattingOptions: []
+  position:
+  - 4.8816953125e+3
+  - 5.0779296875e+2
+  width: 1e+2
+  connections:
+    indexes: []
+  _effectiveHeight: 2.8e+1
+- ID: 667
+  text: Bend Luck
+  formattingOptions: []
+  position:
+  - 1.332734375e+3
+  - 1.08935546875e+3
+  width: 7e+1
+  connections:
+    indexes:
+    - location: 45
+      length: 1
   _effectiveHeight: 1.4e+1
+- ID: 668
+  text: flags 'Dine to come in for a landing
+  formattingOptions: []
+  position:
+  - 5.01796484375e+3
+  - 5.076171875e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 665
+      length: 1
+    - location: 669
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 669
+  text: on-way out, Claude got some nice spell paper and ink
+  formattingOptions: []
+  position:
+  - 4.97862890625e+3
+  - 6.0406640625e+2
+  width: 1.1e+2
+  connections:
+    indexes:
+    - location: 668
+      length: 1
+    - location: 672
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 670
+  text: + 4 spell scrolls (blank) and ink
+  formattingOptions: []
+  position:
+  - 1.3193359375e+3
+  - 3.7799609375e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 443
+      length: 1
+    - location: 671
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 671
+  text: 500gp worth
+  formattingOptions: []
+  position:
+  - 1.22856640625e+3
+  - 3.92375e+2
+  width: 8e+1
+  connections:
+    indexes:
+    - location: 670
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 672
+  text: Through portal
+  fillColorRGB:
+    red: 1e+0
+    green: 9.0283e-1
+    blue: 9.76506e-1
+  formattingOptions: []
+  position:
+  - 4.95391015625e+3
+  - 6.9891015625e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 669
+      length: 1
+    - location: 677
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 673
+  text: 'Basil: "is this the forbidden lands?"'
+  formattingOptions: []
+  position:
+  - 4.80320703125e+3
+  - 7.372109375e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 674
+      length: 1
+    - location: 677
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 674
+  text: 'eldest panda: "how do you know that"'
+  formattingOptions: []
+  position:
+  - 4.81905859375e+3
+  - 7.89046875e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 673
+      length: 1
+    - location: 675
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 675
+  text: here, have a book
+  formattingOptions: []
+  position:
+  - 4.759125e+3
+  - 8.7840234375e+2
+  width: 1.2e+2
+  connections:
+    indexes:
+    - location: 674
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 676
+  text: '"mysterious time magic is our brand"'
+  formattingOptions: []
+  position:
+  - 1.08108203125e+3
+  - 8.83e+2
+  width: 9e+1
+  connections:
+    indexes:
+    - location: 33
+      length: 1
+    - location: 43
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 677
+  text: on beach
+  formattingOptions: []
+  position:
+  - 4.9556796875e+3
+  - 7.53875e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 672
+      length: 2
+    - location: 678
+      length: 2
+  _effectiveHeight: 1.4e+1
+- ID: 678
+  text: we're on a moving island south of Forbidden Lands
+  formattingOptions: []
+  position:
+  - 5.05786328125e+3
+  - 7.7858203125e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 677
+      length: 1
+  _effectiveHeight: 5.6e+1
+- ID: 679
+  text: Sharing watch
+  formattingOptions: []
+  position:
+  - 4.98084375e+3
+  - 8.6217578125e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 677
+      length: 1
+    - location: 682
+      length: 2
+    - location: 685
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 680
+  text: Claude asking Basil "WTF man?"
+  formattingOptions: []
+  position:
+  - 4.84784765625e+3
+  - 9.3051953125e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 681
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 681
+  text: Basil rewinds time six seconds. "this :-)"
+  formattingOptions: []
+  position:
+  - 4.82418359375e+3
+  - 1.00373046875e+3
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 680
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 682
+  text: Claude sees giant bird(?) in the distance
+  formattingOptions: []
+  position:
+  - 5.19737890625e+3
+  - 8.5364453125e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 679
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 683
+  text: Claude has a dream
+  formattingOptions: []
+  position:
+  - 5.09029296875e+3
+  - 9.0141796875e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 679
+      length: 1
+    - location: 684
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 684
+  text: goes to city underwater
+  formattingOptions: []
+  position:
+  - 5.227109375e+3
+  - 9.291640625e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 683
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 685
+  text: '''Dine uses Tides of Chaos to re-roll a check'
+  formattingOptions: []
+  position:
+  - 4.974078125e+3
+  - 9.340625e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 679
+      length: 1
+    - location: 686
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 686
+  text: After-effect is blue flowers and butterlfies
+  formattingOptions: []
+  position:
+  - 4.95355859375e+3
+  - 1.01809765625e+3
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 685
+      length: 1
+  _effectiveHeight: 4.2e+1
