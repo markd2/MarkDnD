@@ -2,6 +2,114 @@
 
 Reverse chronology
 
+# Session 6 - Bunny Grenadine
+
+"What the hell is that?"
+
+Bargain tries to mentally command it to stand down, but gets his command reflected
+back at him, but stronger. Most everyone hears a whispered version.
+
+It leaps at Mui, pinning him down to the ground.
+While holding Mui down, a thin pink beam of light comes out of the head, and traces
+a random pattern in the ceiling (oh, so that's where the filigree came from)
+until it acquires Yansha (IIRC).  _(inspired by Babylon 5 Shadow vessels : https://www.youtube.com/watch?v=jlMiG7f-Edw)_
+
+The party surrounds it, gets some hits in. It beam-attacks Laeryn.  Then it VTOL's straight
+up and moves to the back to the room.  The party swarms it and defeats it, as it vanishes
+from wherever it came from.
+
+The regular thumping sound continues.  Every two minutes or so. "thump".  Bargain 
+investigates the bedroom on the end, finds some more papers in that strange
+handwriting.  Finds a Potion of Greater Healing.
+
+There's dishes on one table, the other table has some sheets of paper, some large
+graph paper with lines on it, and some small figurines that look like the humanoids
+seen (dead) around, in fancy costumes. <!-- yes, they were playing their form of D&D -->
+
+Jessica investigates the little room to the north. Door wasn't locked, just closed.
+There were shelves of strange tools. Switches and controls on the wall.  There's a
+familiar, but much smaller (about the side of a 1 liter Dr Pepper bottle),
+ power chamber similar to the Drill's, with some pipes(?)
+conduits leading into the wall.  The top comes off easily. It's got about 2 inches
+of a reddish dust at the bottom.  Jessica scoops some into a bag.  Breathes in some
+dust and sneezes.  The switches on the wall do nothing.
+
+In the mean time, Bargain and Mui are having difficulty opening the closed door.
+Every two minutes, a _thump_.... _thump_ as they try.  Bargain(?) first tries using
+thieves tools, but couldn't find any familiar mechanism.  Mui(?) tries punching
+the door. Only succeeds in doing nothing.
+
+Sam wildshapes into a warhorse and kicks down the door.  It had been barred from the
+inside.
+
+Out wanders a zombie-like being, similar to the ones that originally came out of
+the drill, but wearing the civilian garb.  Mui, with his wand of polymorph, decides
+to polymorph the zombie into a bunny rabbit.  Bargain easily captures the bunny.
+The two monks discuss what they're going to do next.
+
+Jessica finishes her reconnoitering of the engineering closet, sees Bargain and
+Mui arguing over a bunny rabbit, grabs it, snaps its neck.
+
+Doing 1 HP damage, causing the polymorph to break, and transforming into a zombie.
+Some battle ensues, and Mui polymorphs it again.  As Jessica and the monks argue,
+the bunny runs around, panicked.  Eventually Bargain grabs it and closes it into
+the open bedroom.  Then you hear every couple of minutes, a soft thump against the
+door near the floor.  The party nopes out back to the lobby.
+
+### Shadrach, SHU-PAC and Abednego
+
+The party decided to avoid the middle (fully-lit) hallway full of junk
+and graffiti _(KING TORG)_, and goes down the north-east corridor
+(partially-lit), which is definitely going underneath the hill.
+
+The entry vestibule is open to the elements, has junk on the ground, and more
+half-literate scrawling on the wall a couple of feet up.
+
+Going throygh the double-doors, is a beautifully clean hallway. On the western
+wall are works of art (colorful abstract art).  There's also direction arrows and
+unfamiliar iconography.
+
+The first door is plain (like in the ambassadorial hallway) and has an abstract-icon
+person on it. The party moves on.
+
+There's two double-doors, fancy, next.  Bargain listens to the door.  Hears very
+faint voices.  Quietly debating with Mui whether to barge in, or stealth in, Bargain
+decides to stealth in.
+
+It's a small entry chamber, double doors to north and south. Small table with 
+flyers - About 10 pages, arranged nicely.  Front page has smiling faces, holding
+strange objects. Might be musical instruments?  On the inside is more of the strange
+writing. Some of it tabular. Some of it prose. There are low-quality images of
+other strange-people on the inside. In the back, the pages are 2x2 grids with
+images and writing, including pictures (realistic and stylized) that look like food.
+
+Bargain looks out the door while hearing someone orating
+
+```
+As thus with thee in prayer in my sore need. 
+Oh, lift me as a wave, a leaf, a cloud! 
+I fall upon the thorns of life! I bleed!
+```
+
+As that ends, there's polite clapping, and "good job Jorble, some of your best work".
+Bargain peeks in, sees several rows of seats in an arc, with a stage (short stairs
+up to the stages). Looks kind of like
+https://www.wqed.org/sebak_blog/wp-content/uploads/2009/10/Seton-Hill-hall-450x337.jpg
+
+The speaker is up on the stage. All of them are human males,
+dressed in black, long hair. Some have earlobe guages. One from the audience
+stands up and heads to the stage as Bargain nopes out.
+
+Moving up the hallway, there's another plain door with person-iconography,
+and a pair of nondescript double doors.  (I forgot if I said you could hear some 
+animal sounds behind it, maybe like clucking of chickens?)
+
+Shortly past the double doors, you can see far down, the end of the hallway,
+a floating sekelton - about 3 feet tall with a big head and lots of teeth.
+It's floating two feet in the air), one hand outstretched. Then it starts
+moving towards the party...
+
+
 ----------
 
 # Session 5 - Ruinous Irulan
