@@ -107,7 +107,7 @@ animal sounds behind it, maybe like clucking of chickens?)
 Shortly past the double doors, you can see far down, the end of the hallway,
 a floating sekelton - about 3 feet tall with a big head and lots of teeth.
 It's floating two feet in the air), one hand outstretched. Then it starts
-moving towards the party...
+gliding towards the party...
 
 
 ----------
