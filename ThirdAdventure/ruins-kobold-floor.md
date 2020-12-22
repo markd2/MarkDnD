@@ -3,6 +3,14 @@
 * Kobolds At My Baby is canon
 * This floor is infested with dozens, if not hundreds of them.
 
+This floor was support for the labs below ground.  A couple of scientists, a couple
+of troops.  An administrator or two.  They generally didn't mix much with the
+ambassadorial staff.
+
+Although the chief ambassador was also the leader of this section as well.  Their
+ID cards open all the doors here and below.
+
+
 ### 1 - Main hallway
 
 * A couple of kobold guards at either end
