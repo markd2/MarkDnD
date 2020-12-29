@@ -1321,7 +1321,7 @@
   text: Snorgle
   formattingOptions: []
   position:
-  - 2.34280078125e+3
+  - 2.3604609375e+3
   - 1.003453125e+3
   width: 1e+2
   connections:
@@ -1335,7 +1335,7 @@
     blue: 9.42763e-1
   formattingOptions: []
   position:
-  - 1.6628828125e+3
+  - 1.6790234375e+3
   - 3.48828125e+1
   width: 9e+1
   connections:
@@ -1353,7 +1353,7 @@
   text: three radiating cooridors
   formattingOptions: []
   position:
-  - 1.6435e+3
+  - 1.659640625e+3
   - 8.939453125e+1
   width: 1.4e+2
   connections:
@@ -1369,7 +1369,7 @@
   text: Middle
   formattingOptions: []
   position:
-  - 1.66386328125e+3
+  - 1.68000390625e+3
   - 1.6917578125e+2
   width: 6e+1
   connections:
@@ -1385,7 +1385,7 @@
   text: Left
   formattingOptions: []
   position:
-  - 1.517265625e+3
+  - 1.53340625e+3
   - 1.767578125e+2
   width: 4e+1
   connections:
@@ -1401,7 +1401,7 @@
   text: Right
   formattingOptions: []
   position:
-  - 1.8237265625e+3
+  - 1.8398671875e+3
   - 1.7430859375e+2
   width: 5e+1
   connections:
@@ -1419,7 +1419,7 @@
   text: Spikes
   formattingOptions: []
   position:
-  - 1.6688671875e+3
+  - 1.6850078125e+3
   - 2.1706640625e+2
   width: 5e+1
   connections:
@@ -1433,7 +1433,7 @@
   text: Graffiti
   formattingOptions: []
   position:
-  - 1.66921484375e+3
+  - 1.68535546875e+3
   - 2.589296875e+2
   width: 5e+1
   connections:
@@ -1447,7 +1447,7 @@
   text: Traps galore
   formattingOptions: []
   position:
-  - 1.6534375e+3
+  - 1.669578125e+3
   - 3.10953125e+2
   width: 8e+1
   connections:
@@ -1461,7 +1461,7 @@
   text: Stairs down to second level
   formattingOptions: []
   position:
-  - 1.65237109375e+3
+  - 1.66851171875e+3
   - 3.549921875e+2
   width: 1e+2
   connections:
@@ -1480,7 +1480,7 @@
     rangeStart: 0
     rangeLength: 12
   position:
-  - 1.62407421875e+3
+  - 1.64021484375e+3
   - 5.10640625e+2
   width: 9e+1
   connections:
@@ -1500,7 +1500,7 @@
   text: Throne room near stairs down
   formattingOptions: []
   position:
-  - 1.6156171875e+3
+  - 1.6317578125e+3
   - 5.7828125e+2
   width: 1e+2
   connections:
@@ -1512,7 +1512,7 @@
   text: Large kitchen
   formattingOptions: []
   position:
-  - 1.46890625e+3
+  - 1.485046875e+3
   - 5.948515625e+2
   width: 1e+2
   connections:
@@ -1524,7 +1524,7 @@
   text: Several Barracks
   formattingOptions: []
   position:
-  - 1.7639375e+3
+  - 1.780078125e+3
   - 5.664453125e+2
   width: 1e+2
   connections:
@@ -1536,7 +1536,7 @@
   text: Library
   formattingOptions: []
   position:
-  - 1.51536328125e+3
+  - 1.53150390625e+3
   - 2.4226953125e+2
   width: 5e+1
   connections:
@@ -1552,7 +1552,7 @@
   text: Offices
   formattingOptions: []
   position:
-  - 1.520078125e+3
+  - 1.53621875e+3
   - 2.9339453125e+2
   width: 5e+1
   connections:
@@ -1566,7 +1566,7 @@
   text: Meeting rooms
   formattingOptions: []
   position:
-  - 1.47897265625e+3
+  - 1.49511328125e+3
   - 3.4959765625e+2
   width: 1e+2
   connections:
@@ -1578,7 +1578,7 @@
   text: Rooms
   formattingOptions: []
   position:
-  - 1.867296875e+3
+  - 1.8834375e+3
   - 2.3166796875e+2
   width: 5e+1
   connections:
@@ -1592,7 +1592,7 @@
   text: Private quarters
   formattingOptions: []
   position:
-  - 1.7517578125e+3
+  - 1.7678984375e+3
   - 2.5614453125e+2
   width: 1e+2
   connections:
@@ -1606,7 +1606,7 @@
   text: Weapons room
   formattingOptions: []
   position:
-  - 1.75565234375e+3
+  - 1.77179296875e+3
   - 6.427265625e+2
   width: 1e+2
   connections:
@@ -1622,7 +1622,7 @@
   text: Kobolds sparring
   formattingOptions: []
   position:
-  - 1.67321875e+3
+  - 1.689359375e+3
   - 6.933046875e+2
   width: 1e+2
   connections:
@@ -1636,7 +1636,7 @@
   text: Badly
   formattingOptions: []
   position:
-  - 1.67872265625e+3
+  - 1.69486328125e+3
   - 7.4985546875e+2
   width: 5e+1
   connections:
@@ -1648,7 +1648,7 @@
   text: Ishi Snaggletooth's guide to stabbing
   formattingOptions: []
   position:
-  - 1.80896484375e+3
+  - 1.82510546875e+3
   - 7.4140625e+2
   width: 1.1e+2
   connections:
@@ -1660,7 +1660,7 @@
   text: As open and spralwing as the top floor is cramped
   formattingOptions: []
   position:
-  - 1.4864140625e+3
+  - 1.5025546875e+3
   - 4.6943359375e+2
   width: 1e+2
   connections:
@@ -1672,7 +1672,7 @@
   text: Cramped
   formattingOptions: []
   position:
-  - 1.48969140625e+3
+  - 1.50583203125e+3
   - 4.8640625e+1
   width: 7e+1
   connections:
@@ -1684,7 +1684,7 @@
   text: Half the roof is missing
   formattingOptions: []
   position:
-  - 1.43694140625e+3
+  - 1.45308203125e+3
   - 1.260234375e+2
   width: 1e+2
   connections:
@@ -1696,7 +1696,7 @@
   text: Parts with ceiling have light
   formattingOptions: []
   position:
-  - 1.804296875e+3
+  - 1.8204375e+3
   - 6.5515625e+1
   width: 1e+2
   connections:
@@ -1710,7 +1710,7 @@
   text: Glowing ceiling
   formattingOptions: []
   position:
-  - 1.7888828125e+3
+  - 1.8050234375e+3
   - 4.7940234375e+2
   width: 1e+2
   connections:
@@ -1724,7 +1724,7 @@
   text: light goes out when battery stolen
   formattingOptions: []
   position:
-  - 1.8980390625e+3
+  - 1.9141796875e+3
   - 1.541796875e+1
   width: 1.1e+2
   connections:
@@ -1736,7 +1736,7 @@
   text: light goes out when battery stolen
   formattingOptions: []
   position:
-  - 1.85980859375e+3
+  - 1.87594921875e+3
   - 5.13265625e+2
   width: 1.1e+2
   connections:
@@ -1748,7 +1748,7 @@
   text: Gelatenous Cube with surfing skeleton
   formattingOptions: []
   position:
-  - 1.80347265625e+3
+  - 1.81961328125e+3
   - 3.31296875e+2
   width: 1e+2
   connections:
@@ -1760,7 +1760,7 @@
   text: Decayed
   formattingOptions: []
   position:
-  - 1.52356640625e+3
+  - 1.53970703125e+3
   - 1.300390625e+1
   width: 6e+1
   connections:
@@ -1772,7 +1772,7 @@
   text: Nicely worked stone
   formattingOptions: []
   position:
-  - 1.6521328125e+3
+  - 1.6682734375e+3
   - 4.497734375e+2
   width: 1e+2
   connections:
@@ -1786,7 +1786,7 @@
   text: Stonecunning - never seen it before
   formattingOptions: []
   position:
-  - 1.80015625e+3
+  - 1.816296875e+3
   - 4.18765625e+2
   width: 1.2e+2
   connections:
@@ -1798,7 +1798,7 @@
   text: similarly vandalized
   formattingOptions: []
   position:
-  - 1.427140625e+3
+  - 1.44328125e+3
   - 2.0385546875e+2
   width: 7e+1
   connections:
@@ -1810,7 +1810,7 @@
   text: very clean
   formattingOptions: []
   position:
-  - 1.91728515625e+3
+  - 1.93342578125e+3
   - 2.020390625e+2
   width: 7e+1
   connections:
@@ -1824,7 +1824,7 @@
   text: Someone's been taking care of it
   formattingOptions: []
   position:
-  - 1.9399765625e+3
+  - 1.9561171875e+3
   - 2.39671875e+2
   width: 1e+2
   connections:
@@ -1836,7 +1836,7 @@
   text: Hear quiet weird noises from the floor
   formattingOptions: []
   position:
-  - 1.846796875e+3
+  - 1.8629375e+3
   - 1.1187890625e+2
   width: 1.3e+2
   connections:
@@ -1850,7 +1850,7 @@
   text: All the kobold cacophony downstairs
   formattingOptions: []
   position:
-  - 1.905203125e+3
+  - 1.92134375e+3
   - 1.557890625e+2
   width: 1.3e+2
   connections:
@@ -1866,7 +1866,7 @@
     blue: 9.42763e-1
   formattingOptions: []
   position:
-  - 1.59626171875e+3
+  - 1.61240234375e+3
   - 8.6896875e+2
   width: 8e+1
   connections:
@@ -1878,7 +1878,7 @@
   text: Mouther Cell
   formattingOptions: []
   position:
-  - 1.7280390625e+3
+  - 1.7441796875e+3
   - 8.8335546875e+2
   width: 1e+2
   connections:
@@ -1890,7 +1890,7 @@
   text: Action-Oriented?
   formattingOptions: []
   position:
-  - 2.0974375e+3
+  - 2.11509765625e+3
   - 2.760703125e+2
   width: 1e+2
   connections:
@@ -1902,7 +1902,7 @@
   text: Gibbering Mouther
   formattingOptions: []
   position:
-  - 2.14307421875e+3
+  - 2.160734375e+3
   - 2.1893359375e+2
   width: 1.1e+2
   connections:
@@ -1914,7 +1914,7 @@
   text: Crystal Room
   formattingOptions: []
   position:
-  - 1.46599609375e+3
+  - 1.48213671875e+3
   - 9.675703125e+2
   width: 1e+2
   connections:
@@ -1926,7 +1926,7 @@
   text: red corundum elemental gem
   formattingOptions: []
   position:
-  - 1.41979296875e+3
+  - 1.43593359375e+3
   - 1.0093671875e+3
   width: 1e+2
   connections:
@@ -1938,7 +1938,7 @@
   text: Charging Leads from the floor
   formattingOptions: []
   position:
-  - 1.50783984375e+3
+  - 1.52398046875e+3
   - 1.06329296875e+3
   width: 1e+2
   connections:
@@ -1955,7 +1955,7 @@
     rangeStart: 16
     rangeLength: 6
   position:
-  - 1.4725859375e+3
+  - 1.4887265625e+3
   - 1.15780859375e+3
   width: 1.5e+2
   connections:
@@ -1967,7 +1967,7 @@
   text: roof in good shape
   formattingOptions: []
   position:
-  - 1.74225390625e+3
+  - 1.75839453125e+3
   - 2.1418359375e+2
   width: 1.1e+2
   connections:
@@ -1979,7 +1979,7 @@
   text: some roof missing
   formattingOptions: []
   position:
-  - 1.58036328125e+3
+  - 1.59650390625e+3
   - 1.951796875e+2
   width: 6e+1
   connections:
