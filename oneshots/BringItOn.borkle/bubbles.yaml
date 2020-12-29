@@ -6,38 +6,44 @@
     blue: 9.42763e-1
   formattingOptions: []
   position:
-  - 1.83203125e+2
-  - 4.878125e+1
+  - 3.975703125e+2
+  - 8.61484375e+1
   width: 1e+2
   connections:
     indexes: []
   _effectiveHeight: 1.4e+1
 - ID: 2
-  text: ''
+  text: Roll for mental state - d6
   formattingOptions: []
   position:
-  - 6.6178125e+2
-  - 4.4455859375e+2
-  width: 1e+2
+  - 1.24259375e+3
+  - 4.757421875e+2
+  width: 1.5e+2
   connections:
-    indexes: []
+    indexes:
+    - location: 66
+      length: 1
+    - location: 68
+      length: 1
   _effectiveHeight: 1.4e+1
 - ID: 3
-  text: ''
+  text: Discover an ancient evil has awoken in the ruined cathedral
   formattingOptions: []
   position:
-  - 9.3134765625e+2
-  - 4.6765625e+2
+  - 1.47686328125e+3
+  - 8.284375e+1
   width: 1e+2
   connections:
-    indexes: []
-  _effectiveHeight: 1.4e+1
+    indexes:
+    - location: 61
+      length: 1
+  _effectiveHeight: 5.6e+1
 - ID: 4
   text: ''
   formattingOptions: []
   position:
-  - 1.06417578125e+3
-  - 4.5430859375e+2
+  - 1.60698828125e+3
+  - 1.1894140625e+2
   width: 1e+2
   connections:
     indexes: []
@@ -46,8 +52,8 @@
   text: PCs ambushed en route to somewhere
   formattingOptions: []
   position:
-  - 6.057421875e+1
-  - 2.086015625e+2
+  - 1.9865625e+2
+  - 1.1933203125e+2
   width: 1e+2
   connections:
     indexes:
@@ -60,8 +66,8 @@
   text: attacked by dryads
   formattingOptions: []
   position:
-  - 5.5453125e+1
-  - 2.77609375e+2
+  - 1.9353515625e+2
+  - 1.8833984375e+2
   width: 1e+2
   connections:
     indexes:
@@ -74,8 +80,8 @@
   text: discover a lich living in an abandoned cathedral
   formattingOptions: []
   position:
-  - 5.55703125e+1
-  - 3.466171875e+2
+  - 1.9365234375e+2
+  - 2.5734765625e+2
   width: 1e+2
   connections:
     indexes:
@@ -88,8 +94,8 @@
   text: venture inside and face the lich
   formattingOptions: []
   position:
-  - 4.251953125e+1
-  - 4.36640625e+2
+  - 1.806015625e+2
+  - 3.4737109375e+2
   width: 1e+2
   connections:
     indexes:
@@ -104,8 +110,8 @@
     blue: 9.76506e-1
   formattingOptions: []
   position:
-  - 4.266015625e+2
-  - 1.71859375e+2
+  - 6.4096875e+2
+  - 2.092265625e+2
   width: 1e+2
   connections:
     indexes:
@@ -120,8 +126,8 @@
     blue: 9.76506e-1
   formattingOptions: []
   position:
-  - 1.972265625e+1
-  - 1.6857421875e+2
+  - 1.578046875e+2
+  - 7.93046875e+1
   width: 1e+2
   connections:
     indexes:
@@ -137,8 +143,8 @@
     rangeStart: 0
     rangeLength: 12
   position:
-  - 3.6073046875e+2
-  - 1.1262109375e+2
+  - 5.7509765625e+2
+  - 1.4998828125e+2
   width: 1.5e+2
   connections:
     indexes:
@@ -154,8 +160,8 @@
     rangeStart: 0
     rangeLength: 11
   position:
-  - 3.5480078125e+2
-  - 2.2966796875e+2
+  - 5.6916796875e+2
+  - 2.6703515625e+2
   width: 1.5e+2
   connections:
     indexes:
@@ -171,8 +177,8 @@
     rangeStart: 0
     rangeLength: 7
   position:
-  - 2.8273828125e+2
-  - 1.6808203125e+2
+  - 4.9710546875e+2
+  - 2.0544921875e+2
   width: 1e+2
   connections:
     indexes:
@@ -181,11 +187,1074 @@
   _effectiveHeight: 2.8e+1
 - ID: 14
   text: Chapter 1 - Attacked!
+  fillColorRGB:
+    red: 8.93993e-1
+    green: 9.92872e-1
+    blue: 1e+0
+  formattingOptions:
+  - options: 1
+    rangeStart: 0
+    rangeLength: 21
+  position:
+  - 4.703046875e+2
+  - 3.426640625e+2
+  width: 1.3e+2
+  connections:
+    indexes:
+    - location: 22
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 15
+  text: The Fogbreaker
   formattingOptions: []
   position:
-  - 2.168515625e+2
-  - 3.2824609375e+2
+  - 6.535234375e+2
+  - 4.047890625e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 16
+      length: 2
+    - location: 20
+      length: 1
+    - location: 22
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 16
+  text: airship
+  formattingOptions: []
+  position:
+  - 7.01890625e+2
+  - 3.430703125e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 15
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 17
+  text: competent crew
+  formattingOptions: []
+  position:
+  - 7.798046875e+2
+  - 4.0197265625e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 15
+      length: 1
+    - location: 18
+      length: 2
+    - location: 21
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 18
+  text: Captained by Captain Keen
+  formattingOptions: []
+  position:
+  - 8.2202734375e+2
+  - 3.3343359375e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 17
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 19
+  text: 'Crew Names:
+
+    Porid
+
+    Salmardine
+
+    Abbath
+
+    Crysin
+
+    Embil
+
+    Invie
+
+    Illyin
+
+    Thumbless
+
+    Gorgi
+
+    Domnak
+
+    Andis
+
+    Herb
+
+    Nakyata
+
+    Homsa
+
+    Dreysk'
+  formattingOptions:
+  - options: 1
+    rangeStart: 0
+    rangeLength: 10
+  position:
+  - 9.4819140625e+2
+  - 2.6750390625e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 17
+      length: 1
+  _effectiveHeight: 2.24e+2
+- ID: 20
+  text: If PCs try to steal the ship, crew overpowers them and maroons them
+  formattingOptions:
+  - options: 2
+    rangeStart: 0
+    rangeLength: 67
+  position:
+  - 7.42421875e+2
+  - 4.5451953125e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 15
+      length: 1
+  _effectiveHeight: 7e+1
+- ID: 21
+  text: 15 sailors + captain
+  formattingOptions: []
+  position:
+  - 8.721171875e+2
+  - 4.378828125e+2
+  width: 7e+1
+  connections:
+    indexes:
+    - location: 17
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 22
+  text: Box text on 3
+  formattingOptions: []
+  position:
+  - 4.8951171875e+2
+  - 4.1085546875e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 14
+      length: 2
+    - location: 23
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 23
+  text: '"Captain Keen who loves his job stands next to you"'
+  formattingOptions: []
+  position:
+  - 4.4658984375e+2
+  - 4.7062109375e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 22
+      length: 1
+    - location: 24
+      length: 1
+    - location: 27
+      length: 1
+  _effectiveHeight: 5.6e+1
+- ID: 24
+  text: 'Points out
+
+    * The ship is making good time
+
+    * Passing over a foest known as Brightglade Wood known for its beauty and tranquility
+
+    * The cook has prepared a rabbit stew for dinner'
+  formattingOptions:
+  - options: 1
+    rangeStart: 74
+    rangeLength: 16
+  position:
+  - 2.60984375e+2
+  - 4.3639453125e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 23
+      length: 1
+  _effectiveHeight: 1.26e+2
+- ID: 25
+  text: each crew eager to make the next city and spend their salary
+  formattingOptions: []
+  position:
+  - 3.246484375e+2
+  - 5.77890625e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 27
+      length: 1
+  _effectiveHeight: 5.6e+1
+- ID: 26
+  text: captain eager to take on cargo for another run
+  formattingOptions: []
+  position:
+  - 6.026640625e+2
+  - 5.5873046875e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 27
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 27
+  text: if players want to hobnob with NPCs
+  formattingOptions:
+  - options: 2
+    rangeStart: 0
+    rangeLength: 35
+  position:
+  - 4.56390625e+2
+  - 5.866484375e+2
+  width: 1.1e+2
+  connections:
+    indexes:
+    - location: 23
+      length: 1
+    - location: 25
+      length: 2
+    - location: 28
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 28
+  text: 'box text - see what looks like a temple half-strangled in the forest below.
+
+    Black beam of pure evil slams into the Fogbreaker'
+  fillColorRGB:
+    red: 8.96043e-1
+    green: 9.97437e-1
+    blue: 9.42763e-1
+  formattingOptions: []
+  position:
+  - 4.36188537597656e+2
+  - 6.59263854980469e+2
+  width: 1.5e+2
+  connections:
+    indexes:
+    - location: 27
+      length: 1
+    - location: 31
+      length: 1
+  _effectiveHeight: 7e+1
+- ID: 29
+  text: ''
+  formattingOptions: []
+  position:
+  - 1.86207556152344e+3
+  - 1.32722369384766e+3
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 30
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 30
+  text: ''
+  formattingOptions: []
+  position:
+  - 1.58863653564453e+3
+  - 1.13610864257812e+3
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 29
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 31
+  text: Dex DC 14 save / 1d4
+  formattingOptions: []
+  position:
+  - 3.90203125e+2
+  - 7.7174609375e+2
+  width: 1.3e+2
+  connections:
+    indexes:
+    - location: 28
+      length: 1
+    - location: 32
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 32
+  text: wheel not manned / freely spinning
+  formattingOptions: []
+  position:
+  - 3.825234375e+2
+  - 8.0946875e+2
+  width: 1.5e+2
+  connections:
+    indexes:
+    - location: 31
+      length: 1
+    - location: 33
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 33
+  text: DC 13 STR to get to it
+  formattingOptions: []
+  position:
+  - 3.7594921875e+2
+  - 8.59515625e+2
+  width: 1.5e+2
+  connections:
+    indexes:
+    - location: 32
+      length: 1
+    - location: 34
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 34
+  text: Controls unresponsive!
+  formattingOptions: []
+  position:
+  - 3.8094921875e+2
+  - 9.012109375e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 33
+      length: 1
+    - location: 35
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 35
+  text: Crash!  PCs take 1d6 impact damage
+  formattingOptions: []
+  position:
+  - 3.365546875e+2
+  - 9.5408203125e+2
+  width: 1.3e+2
+  connections:
+    indexes:
+    - location: 34
+      length: 1
+    - location: 36
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 36
+  text: Perception check DC 13
+  formattingOptions: []
+  position:
+  - 3.1790234375e+2
+  - 1.01469140625e+3
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 35
+      length: 1
+    - location: 37
+      length: 1
+    - location: 41
+      length: 2
+  _effectiveHeight: 2.8e+1
+- ID: 37
+  text: 'Success: trees trying to grab the ship'
+  formattingOptions: []
+  position:
+  - 1.8195703125e+2
+  - 9.7872265625e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 36
+      length: 1
+    - location: 38
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 38
+  text: they look angry
+  formattingOptions: []
+  position:
+  - 1.7783203125e+2
+  - 1.05333984375e+3
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 37
+      length: 1
+    - location: 39
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 39
+  text: and hungry
+  formattingOptions: []
+  position:
+  - 1.6419140625e+2
+  - 1.093921875e+3
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 38
+      length: 1
+    - location: 40
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 40
+  text: not trying to slow it down, but trying to eat it
+  formattingOptions: []
+  position:
+  - 1.5367578125e+2
+  - 1.1250546875e+3
+  width: 1.5e+2
+  connections:
+    indexes:
+    - location: 39
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 41
+  text: If this is brightwood, who named it has an amazing sense of humor ... this
+    is a forsaken place
+  formattingOptions:
+  - options: 2
+    rangeStart: 0
+    rangeLength: 94
+  position:
+  - 3.2779296875e+2
+  - 1.07660546875e+3
+  width: 1.5e+2
+  connections:
+    indexes:
+    - location: 36
+      length: 1
+  _effectiveHeight: 5.6e+1
+- ID: 42
+  text: aftermath
+  fillColorRGB:
+    red: 8.96043e-1
+    green: 9.97437e-1
+    blue: 9.42763e-1
+  formattingOptions: []
+  position:
+  - 4.907265625e+2
+  - 1.01208203125e+3
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 36
+      length: 1
+    - location: 43
+      length: 2
+  _effectiveHeight: 1.4e+1
+- ID: 43
+  text: 'Captain Keen sruvived, but is wounded.
+
+    15 crew down to 10'
+  formattingOptions: []
+  position:
+  - 5.26328125e+2
+  - 9.3073828125e+2
+  width: 1.4e+2
+  connections:
+    indexes:
+    - location: 42
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 44
+  text: ship is damaged
+  formattingOptions: []
+  position:
+  - 6.10328125e+2
+  - 1.02027734375e+3
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 42
+      length: 1
+    - location: 45
+      length: 2
+  _effectiveHeight: 1.4e+1
+- ID: 45
+  text: hopeful can get back up in about a day or two
+  formattingOptions: []
+  position:
+  - 6.3809375e+2
+  - 1.06258203125e+3
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 44
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 46
+  text: characters asked to keep watch while the crew asses the damage
+  formattingOptions: []
+  position:
+  - 7.00203125e+2
+  - 9.2953125e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 44
+      length: 1
+    - location: 47
+      length: 1
+  _effectiveHeight: 7e+1
+- ID: 47
+  text: was led to believe Brightglade Wood was meant to be beautiful and pretty
+  formattingOptions: []
+  position:
+  - 6.3861328125e+2
+  - 8.202890625e+2
+  width: 1.8e+2
+  connections:
+    indexes:
+    - location: 46
+      length: 1
+    - location: 48
+      length: 2
+  _effectiveHeight: 4.2e+1
+- ID: 48
+  text: tidal wave (Leaf'Nami)
+  formattingOptions: []
+  position:
+  - 6.0433984375e+2
+  - 7.473984375e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 47
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 49
+  text: Six Dryads
+  fillColorRGB:
+    red: 8.96043e-1
+    green: 9.97437e-1
+    blue: 9.42763e-1
+  formattingOptions: []
+  position:
+  - 7.291171875e+2
+  - 7.6547265625e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 47
+      length: 1
+    - location: 50
+      length: 1
+    - location: 52
+      length: 2
+    - location: 56
+      length: 1
+    - location: 67
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 50
+  text: any can control the leaf beast
+  formattingOptions: []
+  position:
+  - 6.7696484375e+2
+  - 6.9741015625e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 49
+      length: 1
+    - location: 51
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 51
+  text: if all knocked off, leaf beast dissapates
+  formattingOptions: []
+  position:
+  - 6.5035546875e+2
+  - 6.3443359375e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 50
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 52
+  text: appear rotten
+  formattingOptions: []
+  position:
+  - 7.898671875e+2
+  - 7.2697265625e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 49
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 53
+  text: one has a golden amulet
+  formattingOptions: []
+  position:
+  - 8.815546875e+2
+  - 7.6562109375e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 49
+      length: 1
+    - location: 54
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 54
+  text: sacred order of light
+  formattingOptions: []
+  position:
+  - 8.9794921875e+2
+  - 7.1765625e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 53
+      length: 1
+    - location: 55
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 55
+  text: lore on page 5
+  formattingOptions: []
+  position:
+  - 9.305703125e+2
+  - 6.794453125e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 54
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 56
+  text: Once Defeated
+  fillColorRGB:
+    red: 8.96043e-1
+    green: 9.97437e-1
+    blue: 9.42763e-1
+  formattingOptions: []
+  position:
+  - 8.4750390625e+2
+  - 8.3834765625e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 49
+      length: 1
+    - location: 57
+      length: 1
+    - location: 60
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 57
+  text: Bad news. The Cloudbalance Gyroscope has popped a seam. Cannot fly.  Need
+    lead to seal it
+  formattingOptions: []
+  position:
+  - 8.6073046875e+2
+  - 8.956953125e+2
+  width: 1.7e+2
+  connections:
+    indexes:
+    - location: 56
+      length: 1
+    - location: 58
+      length: 1
+  _effectiveHeight: 5.6e+1
+- ID: 58
+  text: He saw the same ruins, thinks they should be easily to get at least 1/2 pound
+    of lead
+  formattingOptions: []
+  position:
+  - 8.385859375e+2
+  - 9.9070703125e+2
+  width: 1.7e+2
+  connections:
+    indexes:
+    - location: 57
+      length: 1
+    - location: 59
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 59
+  text: if PCs have lead. "must be iron-forged lead. yours is too soft"
+  formattingOptions: []
+  position:
+  - 1.07674609375e+3
+  - 9.6635546875e+2
+  width: 1.5e+2
+  connections:
+    indexes:
+    - location: 58
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 60
+  text: TO CRASH SITE MAP
+  formattingOptions: []
+  position:
+  - 9.8329296875e+2
+  - 8.215390625e+2
+  width: 1.3e+2
+  connections:
+    indexes:
+    - location: 56
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 61
+  text: 'Chapter 2
+
+    The Forest'
+  fillColorRGB:
+    red: 8.93993e-1
+    green: 9.92872e-1
+    blue: 1e+0
+  formattingOptions:
+  - options: 1
+    rangeStart: 0
+    rangeLength: 10
+  - options: 1
+    rangeStart: 10
+    rangeLength: 10
+  position:
+  - 1.3444921875e+3
+  - 1.4626953125e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 3
+      length: 1
+    - location: 62
+      length: 2
+  _effectiveHeight: 2.8e+1
+- ID: 62
+  text: PCs meet a madman Dryad who begs them for help.
+  formattingOptions: []
+  position:
+  - 1.224609375e+3
+  - 7.548828125e+1
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 61
+      length: 1
+  _effectiveHeight: 5.6e+1
+- ID: 63
+  text: box text page 6
+  formattingOptions: []
+  position:
+  - 1.32719921875e+3
+  - 2.1983203125e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 61
+      length: 1
+    - location: 64
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 64
+  text: up ahead you see the ruined outline of a wall marking the edge of a cemetary
+  formattingOptions: []
+  position:
+  - 1.290140625e+3
+  - 2.684921875e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 63
+      length: 1
+    - location: 65
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 65
+  text: '... a face emerges from the mass. A withered old face of a dryad'
+  formattingOptions: []
+  position:
+  - 1.2841640625e+3
+  - 3.3859375e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 64
+      length: 1
+    - location: 66
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 66
+  text: eyes shine with a GREEN light
+  formattingOptions: []
+  position:
+  - 1.28596484375e+3
+  - 4.0642578125e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 2
+      length: 1
+    - location: 65
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 67
+  text: eyes shine with PURPLE light
+  formattingOptions: []
+  position:
+  - 7.8396484375e+2
+  - 6.4686328125e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 49
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 68
+  text: she is/was the matriarch of the Dryads. last one left. Rest have turned to
+    corruption and necromancy
+  formattingOptions: []
+  position:
+  - 1.2143828125e+3
+  - 5.374609375e+2
+  width: 2.1e+2
+  connections:
+    indexes:
+    - location: 2
+      length: 1
+    - location: 69
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 69
+  text: her goal is to slay the foul eveil within the temple, but it's too powerful
+  formattingOptions: []
+  position:
+  - 1.23789453125e+3
+  - 6.1496484375e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 68
+      length: 1
+    - location: 70
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 70
+  text: she gets turned back by his magic. If she had her golden amulet, she might
+    be able to help.
+  formattingOptions: []
+  position:
+  - 1.26576171875e+3
+  - 6.94109375e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 69
+      length: 1
+    - location: 71
+      length: 1
+  _effectiveHeight: 5.6e+1
+- ID: 71
+  text: and if she can keep her senses
+  formattingOptions: []
+  position:
+  - 1.29103515625e+3
+  - 7.9601953125e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 70
+      length: 1
+    - location: 72
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 72
+  text: (she cannot)
+  formattingOptions: []
+  position:
+  - 1.18355859375e+3
+  - 7.8326953125e+2
+  width: 8e+1
+  connections:
+    indexes:
+    - location: 71
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 73
+  text: ''
+  formattingOptions: []
+  position:
+  - 1.55737109375e+3
+  - 1.0382421875e+3
   width: 1e+2
   connections:
     indexes: []
+  _effectiveHeight: 1.4e+1
+- ID: 74
+  text: PCs offer to help, or show the gold amulet?
+  formattingOptions: []
+  position:
+  - 1.54903125e+3
+  - 2.0038671875e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 75
+      length: 2
+  _effectiveHeight: 4.2e+1
+- ID: 75
+  text: 'yes'
+  formattingOptions: []
+  position:
+  - 1.55908203125e+3
+  - 2.8116015625e+2
+  width: 4e+1
+  connections:
+    indexes:
+    - location: 74
+      length: 1
+    - location: 78
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 76
+  text: 'no'
+  formattingOptions: []
+  position:
+  - 1.684453125e+3
+  - 1.87625e+2
+  width: 3e+1
+  connections:
+    indexes:
+    - location: 74
+      length: 1
+    - location: 77
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 77
+  text: go to Temptation of the Damned
+  formattingOptions: []
+  position:
+  - 1.76887890625e+3
+  - 2.4858203125e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 76
+      length: 1
+    - location: 85
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 78
+  text: box text page 6. "there is another way"
+  formattingOptions: []
+  position:
+  - 1.51883984375e+3
+  - 3.4069140625e+2
+  width: 1.3e+2
+  connections:
+    indexes:
+    - location: 75
+      length: 1
+    - location: 79
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 79
+  text: look to the weeping angel. She guards the dead, and through her you will find
+    a passage within
+  formattingOptions: []
+  position:
+  - 1.50497265625e+3
+  - 4.0746484375e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 78
+      length: 1
+    - location: 80
+      length: 1
+  _effectiveHeight: 5.6e+1
+- ID: 80
+  text: once inside, the amulet wll lead them to the evil. They must destry it, but
+    she doesn't know how
+  formattingOptions: []
+  position:
+  - 1.500203125e+3
+  - 4.988515625e+2
+  width: 1.7e+2
+  connections:
+    indexes:
+    - location: 79
+      length: 1
+    - location: 82
+      length: 1
+  _effectiveHeight: 5.6e+1
+- ID: 81
+  text: '    GENDER FLIP DRYAD AND LICH'
+  fillColorRGB:
+    red: 1e+0
+    green: 9.0283e-1
+    blue: 9.76506e-1
+  formattingOptions: []
+  position:
+  - 1.36575390625e+3
+  - 2.8296875e+1
+  width: 2.2e+2
+  connections:
+    indexes: []
+  _effectiveHeight: 1.4e+1
+- ID: 82
+  text: her idea was to face him in open combat and how her strength would be enough.
+  formattingOptions: []
+  position:
+  - 1.475609375e+3
+  - 5.8040625e+2
+  width: 1.8e+2
+  connections:
+    indexes:
+    - location: 80
+      length: 1
+    - location: 83
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 83
+  text: anything they find in the temple is theres to keep, including the amulet
+  formattingOptions: []
+  position:
+  - 1.47098046875e+3
+  - 6.469765625e+2
+  width: 1.8e+2
+  connections:
+    indexes:
+    - location: 82
+      length: 1
+    - location: 84
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 84
+  text: there's six stained-glass windows with lead
+  formattingOptions: []
+  position:
+  - 1.59848828125e+3
+  - 7.0784765625e+2
+  width: 1.2e+2
+  connections:
+    indexes:
+    - location: 83
+      length: 1
+    - location: 85
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 85
+  text: temptation of the damned
+  fillColorRGB:
+    red: 8.93993e-1
+    green: 9.92872e-1
+    blue: 1e+0
+  formattingOptions: []
+  position:
+  - 1.75908984375e+3
+  - 5.159296875e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 77
+      length: 1
+    - location: 84
+      length: 1
   _effectiveHeight: 2.8e+1
