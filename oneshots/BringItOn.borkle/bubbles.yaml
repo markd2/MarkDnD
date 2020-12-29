@@ -1,0 +1,191 @@
+- ID: 1
+  text: Bring It On
+  fillColorRGB:
+    red: 8.96043e-1
+    green: 9.97437e-1
+    blue: 9.42763e-1
+  formattingOptions: []
+  position:
+  - 1.83203125e+2
+  - 4.878125e+1
+  width: 1e+2
+  connections:
+    indexes: []
+  _effectiveHeight: 1.4e+1
+- ID: 2
+  text: ''
+  formattingOptions: []
+  position:
+  - 6.6178125e+2
+  - 4.4455859375e+2
+  width: 1e+2
+  connections:
+    indexes: []
+  _effectiveHeight: 1.4e+1
+- ID: 3
+  text: ''
+  formattingOptions: []
+  position:
+  - 9.3134765625e+2
+  - 4.6765625e+2
+  width: 1e+2
+  connections:
+    indexes: []
+  _effectiveHeight: 1.4e+1
+- ID: 4
+  text: ''
+  formattingOptions: []
+  position:
+  - 1.06417578125e+3
+  - 4.5430859375e+2
+  width: 1e+2
+  connections:
+    indexes: []
+  _effectiveHeight: 1.4e+1
+- ID: 5
+  text: PCs ambushed en route to somewhere
+  formattingOptions: []
+  position:
+  - 6.057421875e+1
+  - 2.086015625e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 6
+      length: 1
+    - location: 10
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 6
+  text: attacked by dryads
+  formattingOptions: []
+  position:
+  - 5.5453125e+1
+  - 2.77609375e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 5
+      length: 1
+    - location: 7
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 7
+  text: discover a lich living in an abandoned cathedral
+  formattingOptions: []
+  position:
+  - 5.55703125e+1
+  - 3.466171875e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 6
+      length: 1
+    - location: 8
+      length: 1
+  _effectiveHeight: 5.6e+1
+- ID: 8
+  text: venture inside and face the lich
+  formattingOptions: []
+  position:
+  - 4.251953125e+1
+  - 4.36640625e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 7
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 9
+  text: NPCs
+  fillColorRGB:
+    red: 1e+0
+    green: 9.0283e-1
+    blue: 9.76506e-1
+  formattingOptions: []
+  position:
+  - 4.266015625e+2
+  - 1.71859375e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 11
+      length: 3
+  _effectiveHeight: 1.4e+1
+- ID: 10
+  text: Plot
+  fillColorRGB:
+    red: 1e+0
+    green: 9.0283e-1
+    blue: 9.76506e-1
+  formattingOptions: []
+  position:
+  - 1.972265625e+1
+  - 1.6857421875e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 5
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 11
+  text: 'Captain Keen
+
+    Captain of the Fogbreaker'
+  formattingOptions:
+  - options: 1
+    rangeStart: 0
+    rangeLength: 12
+  position:
+  - 3.6073046875e+2
+  - 1.1262109375e+2
+  width: 1.5e+2
+  connections:
+    indexes:
+    - location: 9
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 12
+  text: 'Count Rotz
+
+    Lich Lord of the Cathedral'
+  formattingOptions:
+  - options: 1
+    rangeStart: 0
+    rangeLength: 11
+  position:
+  - 3.5480078125e+2
+  - 2.2966796875e+2
+  width: 1.5e+2
+  connections:
+    indexes:
+    - location: 9
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 13
+  text: 'Oakitha
+
+    Dryad leader'
+  formattingOptions:
+  - options: 1
+    rangeStart: 0
+    rangeLength: 7
+  position:
+  - 2.8273828125e+2
+  - 1.6808203125e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 9
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 14
+  text: Chapter 1 - Attacked!
+  formattingOptions: []
+  position:
+  - 2.168515625e+2
+  - 3.2824609375e+2
+  width: 1e+2
+  connections:
+    indexes: []
+  _effectiveHeight: 2.8e+1
