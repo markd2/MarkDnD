@@ -37,6 +37,9 @@ GRAPPLE RULES
 - **Sam** - Hill Dwarf Druid - https://www.dndbeyond.com/characters/25496459
    - the magical oar magic item?
     - magic item: Seafarer's Jacket. https://bignerdranch.slack.com/archives/D04UX6B6S/p1598360516009700
+   - the magical oar magic item?
+
+
 
 
 - **Muiri Dale** - Wood Elf Monk  https://www.dndbeyond.com/characters/28882025/e3BIOE
@@ -51,9 +54,6 @@ GRAPPLE RULES
 
 - **Laeryn** - High Elf Bard - https://www.dndbeyond.com/characters/28882064/Kelmjn
   - think needs magic item
-
-
-
 
 
 
