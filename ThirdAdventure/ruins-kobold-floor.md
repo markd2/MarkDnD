@@ -10,6 +10,13 @@ ambassadorial staff.
 Although the chief ambassador was also the leader of this section as well.  Their
 ID cards open all the doors here and below.
 
+The Kobolds are pretty friendly.
+  - "why you tall ones out here?"
+  - "you met any dragons?"
+  - "you want something to eat?  Coldn't find any babies out here so have to make do.  Screaming birds
+     upstairs are tasty, but hard to catch"
+  - like carton wth "have u seen Meepo?"
+
 
 ### 1 - Main hallway
 
@@ -72,15 +79,18 @@ ID cards open all the doors here and below.
 
 * originally a classroom.  Now full of baby kobolds
 
+
 ### 11 Classroom
 
 * originally a classroom.
 * Trash storage
 
+
 ### 12 Classroom
 
 * originally a classroom
 * something goes here.
+
 
 ### 13 Stairs down
 
@@ -88,25 +98,27 @@ ID cards open all the doors here and below.
   - shoots nervous look at area 9
   - She's mean.  She'll make a good King Torg (ALL HAIL KING TORG)
 
+
 ### Clearning of the level
 
 * While talking to Leader Flunkins for a while, someone will come up
   - looks frightend
   - everyone knows that Kobolds are too stupid to be frightened of anything
   - "hey chunk?  uh... you need to see something downstairs"
+  - "please be excusing me"
   - goes down with a sychophant or two
 
-* 10 minutes later
+* 10-20 minutes later
   - hear a scream from downstairs
   - see the sycophants hightailing it down the hall, still screaming
-  - Chunk's frightened
-  - "We... gotta get out of here now.  EVERYONE LET'S GO!"
+  - Chunk is visibly terrified
+  - "Kobolds. we leave.  now. EVERYONE LET'S GO!"
     - still a cacophony
   - "EVERYONE LET'S GO. SCREW KING TORG!"
     - sielnce
     - EVERYONE OUT. SCREW KING TORG!
   - and the place clears out in 30 seconds
-  -eerily quiet...
+  - eerily quiet...
 
 
 

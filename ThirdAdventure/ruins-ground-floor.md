@@ -42,7 +42,6 @@ filligree incised in it. almost burned.
 * Kind of moldy / slimy
 
 
-
 ### 4 - Banquet room
 
 * Mirror on the wall.  Some comfy chairs, the leather(?) kind of half-destroyed.
@@ -115,6 +114,23 @@ filligree incised in it. almost burned.
 
 Full power - bright light
 
+* trip-wire that drops a blade from the ceiling
+* just a pile of logs
+* rug over a pit.  Only about 2 feet down, until ti got to a layer of rock
+* fishnet overhead full of rocks
+  - see a crude pressure plate on the floor
+* Some torches(?)
+  - If one is fiddled with then they drop
+  - spilling oil on the floor
+  - see a spark coming from the sconses
+    - 1-in-3 chance of them catching the oil on fire
+* 1 in 4 chance per turn of seeing some paper on the ground
+  - in that strange writing
+  - three edges cut, one torn  (from another Thesaurus)
+
+* Graffiti continues
+  - YOU STAY OUT
+
 
 ## G3 - Auditorium
 
@@ -144,20 +160,48 @@ Partial power on this level - dim light
 ### 5 - Auditorium
 
 * the crude lines are rows of seats
+
 * The bandits are goths who are doing low-key smuggling / theft in the area, using the
   forest as a base.  _(although these are kind of a long way away from civilization)_
-* Maybe could be like the Saltmarsh Merkilites.
+  - They're really late-teens hanging out.  The smuggling is just a fabrication
+
 * Hear some occasionall screetching from back stage / alternating with singing
+
 * "I don't know why we picked this place. It's noisy.  Got that smelly ugly bird back
   there, and the screamies across the hall.  Can't even hear my poetry"  "Hey, it's your turn
-  to feed noisy"  "Not until later. She just got a rat"
-* NEED NAMES
+  to feed Noisy"  "Not until later. She just got a rat"
+
 * "Leader" has three ID cards. Sometimes idly playing with them.
+
 * Faces on the cards (all with Peersa hair)
   - Emily
-  - Leo
+  - Leo/Happy
   - Arthur - has a full head of hair.  unpleasant expression on face.
     - obviously a mutant
+
+* Maybe could be like the Saltmarsh Merkilites.
+* Names
+  - DeathBringer - the leader, lishps
+  - Discord - yes man
+  - Strife - moody
+  - BlackSkull - the quiet one
+  - Ephemera - kind of the scary murderer type
+  - Venus (no!  You're Shadows!) - youngest
+
+- Goth followers of Myrkul - the lord of bones
+  - Religion check - an ancient god, most folks have forgotten about him
+    - Lord of Bones, the Reaper, God of the Dead
+    - originally mortal man, a necromancer, ascended into godnood
+    - lived in the Bone Castle until usurpt by some other god (Kelemvor), still spicy about that
+    - he is waiting for us all when we die
+    - avatar is a skeleton in flowing black robes
+    - holy symbol is a white skull inset into a black triangle    
+    - speaks in a high whisper, though words never showed inflection
+    - Bane and Bhaal are often mentioned, but they are pretty much forgotten
+
+The Kobolds are friendly enough.  Pretty stupid. Just don't question their ruing hierarchy.
+   - ALL HAIL KING TORG! (laughs)
+
 
 ### 6 - Stage
 
@@ -165,12 +209,15 @@ Partial power on this level - dim light
 * Curtains / etc.
 * Tall "hole in the ceiling"
 
+
 ### 7 - Backstage
 
 * Full of props / sets
-* Harpy up in the rafters.  Fat. Nomming on a big rat
+* Harpy up in the rafters. (a.k.a. Noisy)  Fat. Nomming on a big rat
 * HARPY POOP EVERYWHERE
-* "For a while Gwatney was looking for harpy poop.  Nobody understood why"
+* "We heard someone in Castle-Lantern was looking for harpy poop on the QT. Nobody understood why"
+  - where would they have heard that?
+
 
 ### 8 - backstage hallway
 
@@ -178,10 +225,12 @@ Partial power on this level - dim light
 * The door to 12 is securely barred
 * The door to 10 is crudely barred / easy to disengage - like Mr. Bob's plastic torch binder
 
+
 ### 9 - Soloist greenroom
 
 * Makeup panel.  Light is quite a bit brighter
 * Five bodies piled in here.  No ID cards.
+
 
 ### 10 - Greenroom
 
@@ -200,21 +249,36 @@ Partial power on this level - dim light
 
 * Full of Ithsyn
   - maybe size of an abyssal chicken
+  - "screamers"
 * maybe 3 foot tall
 * _lots_ of bones.  Some kobold, can see some larger animals, bears
 * See lots of traffic through the door, they've dragged in the larger prey
 * a lot of foot traffic too
 * nests with eggs
 
+ABYSSAL CHICKEN
+* AC 13
+* 10 HP
+* 30 feet / fly 30 (bad flyer) - (falls at the end of a turn if it's airborne and it's just flapping
+* two attacks - bite and claw
+  - +4 to hit  1d4 + 1
+* not smart
+* the Miryulites draw one out at a time to feed to Noisy
+
+
 ### 13 - Loading Dock
 
 * Open to the rest of the forest
 * The hill looks just large enough to accomodate the auditorium
+* cyclone fence gate that can be pulled in front of doors
+* kind of a bit of road leading off, but quickly overrun by forest
+
 
 ### 14 - spiral staircase
 
 * Spiral staircase (metal) up to the catwalks.
 * access to the sound booth (15) directly above area 4
+
 
 ### 15 - Soundbooth
 
