@@ -225,6 +225,7 @@ Gwatney was looking for some, but none was available"
 
 * Poetry Slam
 
+```
 hey all think they're smarter than me
 and treat me like some kind of baby
     i do have a brain
@@ -271,6 +272,7 @@ damn existing in the first place
     am i asking too much
     to be vying for your touch
 it's turning my heart into paste 
+```
 
 etc etc etc
 
