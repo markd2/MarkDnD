@@ -184,7 +184,7 @@ Partial power on this level - dim light
   - DeathBringer - the leader, lishps
   - Discord - yes man
   - Strife - moody
-  - BlackSkull - the quiet one
+  - BlackSkull - the quiet one.  This is the one Yansha knows
   - Ephemera - kind of the scary murderer type
   - Venus (no!  You're Shadows!) - youngest
 
@@ -201,6 +201,78 @@ Partial power on this level - dim light
 
 The Kobolds are friendly enough.  Pretty stupid. Just don't question their ruing hierarchy.
    - ALL HAIL KING TORG! (laughs)
+
+Yansha recognizes BlackSkull (a.k.a. Stannard Billings)
+  - one of the kids that didn't come back
+  - got chased by a guy on an owlbear
+    - turned out it wanted to talk about fire safety
+  - came back, met the other folks. They're here collecting the harpy poop backstage.
+    Myrkyl's kind of cool. I hated my folks anyway, and castle-lantern is so dull.
+  - The group wanders around, finds Harpies, hangs out and feeds them, befriends then,
+    and collects the poop, until they have a a full load, then take it to hookhill for a lot
+    of money.
+  - their last order was placed about six months ago.
+
+Hopefully the party will remember Harpy Poop (that'd be Sam / Mui / Lauren).
+Y looks a little concerned.  "what... what's the deal with harpy poop.  Moose said
+Gwatney was looking for some, but none was available"
+
+* About to pack up, especially because Squishy is dead
+* before they leave, a Kobold comes with a note from Leader Flunkins
+  - "Defbringer, 
+     hey we found new floor. U wanna see?
+    ~Chu~ Leeder Flunkins"
+
+* Poetry Slam
+
+hey all think they're smarter than me
+and treat me like some kind of baby
+    i do have a brain
+    that i try to train
+so please don't treat me abysmally 
+
+"gah"
+i'm tired of all my friends
+their pettiness reaches no end
+    they quibble and fight
+    and rarely are right
+why even try to amend? 
+
+"hmmmmm"
+i know that you are not a lover
+just like i'm not much of a fighter
+    you have to be strong
+    and we'll get along
+the future will be that might brighter 
+
+"feh"
+sometimes loneliness is the cure
+a meaningful traffic detour
+    i'll sit all alone
+    prop up my chinbone
+purge all that is in me impure 
+
+they sit there so damn self absorb-ed
+and talk so conceited and morbid
+    i'm tired of this
+    real friendship i miss
+but depending on people is sordid 
+
+
+my friends they think i'm explosive
+personality something corrosive
+    they think i'm too deep
+    when i break down and weep
+the feelings i sense are implosive
+
+
+you and your untouchable face
+damn existing in the first place
+    am i asking too much
+    to be vying for your touch
+it's turning my heart into paste 
+
+etc etc etc
 
 
 ### 6 - Stage
