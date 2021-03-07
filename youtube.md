@@ -1,4 +1,4 @@
-# Favorite YouTubers n'at
+# Favorite YouTubers n Twitch n'at
 
 
 ### Immediate watches
@@ -6,6 +6,10 @@
 YouTube has stopped email notifications (bastards), but I still troll the notification bell.
 If anything from these channels show up, I usually watch it right then.  I typically support
 them on Patreon as well
+
+* Legal Kimchi : https://www.youtube.com/channel/UC4foBu4WY5EwzN_pwsBeYaQ . Some D&D advice, but lately a lot of videos on the social side of RPG players - consent, mental health, race, accessibility, etc.
+
+* Jen Kretchmer : https://www.twitch.tv/dreamwispjen . DM / Advice, accessibility advocacy.  Her "Retail Terrorpy" charity game was amazing, and is the author of the (unfortunately controversial) "accessible dungeon" adventure in _Candlekeep Mysteries_.
 
 * Matt Colville : https://www.youtube.com/user/mcolville . Running the game, MCDM, movie reviews.
   Dude is of My Generation so I get most of the references.  Articulate videos on dungeon
@@ -17,7 +21,7 @@ them on Patreon as well
   A new / low-subscriber channel.
 
 * Matt Koebel Office Hours : https://www.youtube.com/watch?v=cpHN-sm__o0&list=PLAmPx8nWedFVGdrP2JmcYzdvZC8sWV5b4
-  Unfortunately he _really_ screwed up last April and got internet-cancelled, but he is/was an excellent
+  Unfortunately he _really_ screwed up last April and got internet-cancelled, and behavior since then has been ಠ_ಠ, but he is/was an excellent
   DM (his Roll20 games are some of my favorites), and this office hours show has a lot of excellent advice
   both general and specific on RPG and at-the-table relationships.  Plus he covers a ton of
   RPG systems (Mosueguard, Burning Wheel, Powered by the Apocolypse, creator of Dungeon World,
@@ -34,11 +38,12 @@ them on Patreon as well
   and his skit characters (Jack the NPC, Dweebles, etc) are surprisingly not cringy. 
 
 
-* The Dungeon Run : Live on Caffeine (http://caffeine.tv/thedungeonrun) - archive  https://www.youtube.com/watch?v=mJIAatNWLMM&list=PLkgwwAiuZ301FVTHCyuuqAU39jIeAD8g_ . Highly produced live play.  Jeff Canatta is
+* The Dungeon Run : (formerly) Live on Caffeine (http://caffeine.tv/thedungeonrun) - archive  https://www.youtube.com/watch?v=mJIAatNWLMM&list=PLkgwwAiuZ301FVTHCyuuqAU39jIeAD8g_ . Highly produced live play.  Jeff Canatta is
   pretty amazing at building the story and bringing the NPCs to life.  The characters have a
   great chemistry.  Most fun catching it live 9pm eastern on wednesdays to enjoy the chat
   and "props" giving (3-D animated fidget toys).  Plus there's a puppet mindflayer who is the
-  host.
+  host.  Caffeine cancelled it early 2021, and the cast is in the process
+  of acquring the IP rights to continue to show.
 
 * Web DM : https://www.youtube.com/channel/UC7XFmdssWgaPzGyGbKk8GaQ - pun nerd interviews
   DM expert.  The intros and outtakes are usually really clever.  They're long, so I sometimes
