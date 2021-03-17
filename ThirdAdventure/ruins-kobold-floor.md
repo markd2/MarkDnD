@@ -15,7 +15,7 @@ The Kobolds are pretty friendly.
   - "you met any dragons?"
   - "you want something to eat?  Coldn't find any babies out here so have to make do.  Screaming birds
      upstairs are tasty, but hard to catch"
-  - like carton wth "have u seen Meepo?"
+  - like carton with "have u seen Meepo?"
 
 
 ### 1 - Main hallway
@@ -39,6 +39,8 @@ The Kobolds are pretty friendly.
 * Kobold Duelist and Kobold Dagger handouts
 * Maybe challenge someone to a duel
   - part way through. "Can you check Ishi's Book?"  "uh, pray to Uptao"
+
+
 
 
 ### 4 - restroom
@@ -120,6 +122,27 @@ The Kobolds are pretty friendly.
   - and the place clears out in 30 seconds
   - eerily quiet...
 
+==================================================
+Peat  Pee-at - Duelist
 
-
+Soux
+Salty
+Vosh
+* Luhk
+D'Hil
+Bug
+Loo
+* Hamwise
+Bail
+Bierund
+Huntr
+Gnail
+* Trik
+Ollie
+Amok
+Nosh
+- Wardo
+K'Frd
+Grime (grim-ay)
+Kirkh
 

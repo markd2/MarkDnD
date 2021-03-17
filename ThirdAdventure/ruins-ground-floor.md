@@ -182,10 +182,9 @@ Partial power on this level - dim light
 * Maybe could be like the Saltmarsh Merkilites.
 * Names
   - DeathBringer - the leader, lishps
-  - Discord - yes man
-  - Strife - moody
+  - Discord - yes man, current harpy tenderer
   - BlackSkull - the quiet one.  This is the one Yansha knows
-  - Ephemera - kind of the scary murderer type
+  - Ephemera - kind of the scary murderer type.  can make us dinner
   - Venus (no!  You're Shadows!) - youngest
 
 - Goth followers of Myrkul - the lord of bones
@@ -199,7 +198,8 @@ Partial power on this level - dim light
     - speaks in a high whisper, though words never showed inflection
     - Bane and Bhaal are often mentioned, but they are pretty much forgotten
 
-The Kobolds are friendly enough.  Pretty stupid. Just don't question their ruing hierarchy.
+The Kobolds are friendly enough.  Pretty stupid. Just don't question
+their ruing hierarchy.
    - ALL HAIL KING TORG! (laughs)
 
 Yansha recognizes BlackSkull (a.k.a. Stannard Billings)
@@ -239,12 +239,7 @@ their pettiness reaches no end
     and rarely are right
 why even try to amend? 
 
-"hmmmmm"
-i know that you are not a lover
-just like i'm not much of a fighter
-    you have to be strong
-    and we'll get along
-the future will be that might brighter 
+----------
 
 "feh"
 sometimes loneliness is the cure
@@ -260,12 +255,19 @@ and talk so conceited and morbid
 but depending on people is sordid 
 
 
+"hmmmmm"
 my friends they think i'm explosive
 personality something corrosive
     they think i'm too deep
     when i break down and weep
 the feelings i sense are implosive
 
+
+i know that you are not a lover
+just like i'm not much of a fighter
+    you have to be strong
+    and we'll get along
+the future will be that might brighter 
 
 you and your untouchable face
 damn existing in the first place
@@ -358,3 +360,16 @@ ABYSSAL CHICKEN
 
 * One body, in casual dress.  ID card.  Looks like Lisamitch with Peersa hair
 * Window overlooking the auditorium
+
+==================================================
+
+DefBringer
+
+"Out the way you came in, the middle door"
+
+* The Kobold Duelest by Ishi Snaggletooh
+  - Can you return this to Pee-at. He's their fighting... instructor?
+  - "first you take the sord. maybe ray-pee-er.  then you stab."
+
+[ ] Wovel TV news
+
