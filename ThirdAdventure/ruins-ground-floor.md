@@ -202,7 +202,7 @@ The Kobolds are friendly enough.  Pretty stupid. Just don't question
 their ruing hierarchy.
    - ALL HAIL KING TORG! (laughs)
 
-Yansha recognizes BlackSkull (a.k.a. Stannard Billings)
+Yansha recognizes DarkSkull (a.k.a. Stannard Billings)
   - one of the kids that didn't come back
   - got chased by a guy on an owlbear
     - turned out it wanted to talk about fire safety

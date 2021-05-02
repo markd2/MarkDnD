@@ -157,6 +157,7 @@ Some flavor of warlock, leaning hexblade, but I still need to research.
   * Flavorful magic item
 
 google doc with stuff
+
   https://docs.google.com/document/d/103qFVbYJd-nTELF__3xyXq32vX_5RBzzf2jQSmAhxs4/edit?usp=sharing
 
 ----------
