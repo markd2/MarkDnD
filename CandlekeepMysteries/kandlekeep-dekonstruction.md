@@ -8,6 +8,11 @@ get the dude with Kandlekeep Dekonstruction
 - Mayastan Sadaar - missing "finest sages"
 - Great Reader A'lai Aivenmore
 
+### LAST EPISODE
+
+* Jessica drinking with Orin the guide
+* Jorje the barkeep
+
 ### Kandlekeep
 
 - DeathBringer is "Dog Nuts", angry that didn't become one of the Avowed.
@@ -110,11 +115,18 @@ get the dude with Kandlekeep Dekonstruction
 * Door sealed with Arcane Lock : pw "jeopardy
 
 #### B1 LIBRARY
+
+* come in right at t-minus 45:00
+* "center at your convenience"
+
 * Custodians sweepng - most fanatical
   - Chicken Peach (rock gnome)
   - Cow Cottom (half elf)
 * attack intruders
 * broom as a weapon, but bludgeoning damage
+
+* thick velvet curtain on stairs going up
+  - that's why upstairs didn't hear the fight
 
 * Books
   - cultists believe to be priceless
@@ -132,6 +144,9 @@ get the dude with Kandlekeep Dekonstruction
   - needs to be a farm animal + product form
     - "$NAME not found in primary list.  Correct form.  Please proceed"
   - otherwise somewhat impenetrable
+
+Kancel Kulture
+Kao'K'Cat
 
 
 ### SECOND FLOOR
@@ -196,6 +211,7 @@ get the dude with Kandlekeep Dekonstruction
 * Launch in 5 minutes.  Blast Doors closing soon.
   - Stonky J Noptopper, please report to command center immediately
 
+* Bonk: Ram Sugar
 
 ### UNDER THE BARN DOOR
 
@@ -247,6 +263,7 @@ Stonky and his crew down below looking for the ring of telekinesis.
   - drains in one minute
   - see dead skitterwidget at the bottom
 * Hidden in the wreckage is an undamaged Ring of Telekinesis that Stonky dropped
+  - looks like a bolt, but the only undamaged one in there
 
 
 #### U6  Workshop
@@ -264,6 +281,8 @@ Stonky and his crew down below looking for the ring of telekinesis.
 * Knock / similar magic / DC 30 Strength check
 * (or just knock on the door), distracted he'll open it
   - attack in panic
+  - "who are you..."
+  - Jessica feels a bit of warm
   - carries iron key for the dougble-door
 
 * has a console with a countdown and a blinking red button
@@ -354,6 +373,6 @@ Stonky and his crew down below looking for the ring of telekinesis.
   - Sheep Sweet Corn	  Yohn Biofrond      Human
   X Ram Sugar		  Norty              Brass dragonborn
 
-
 ----------
 
+Pig Sugar
