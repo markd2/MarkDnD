@@ -85,9 +85,220 @@ get the dude with Kandlekeep Dekonstruction
   - Stonky read KD and realized Barn Door is a rocket
   - been fixing for months
   - Box Text on pg 126
+  - "To the stars, my animals, to the stars!"
 
-* 
 
+#### Barn door
+
+* Outside
+  - nothing outwardly peculiar
+  - cylinder, with a bulge on one side
+  - examing the ground, find several metal shingles (red) that came
+    loose
+  - Closer - crack in ground
+
+* Inside
+  - ceilings are 10 foot high
+  - murals painted on them depicting humanoids with the heads of farm animals
+  - very clean
+  - doors are iron and fitted with iron fittings and handles
+  - windows - made of glassteel, can't be opened or smashed
+  - lit by lanterns holding wax candles
+
+### GROUND FLOOR
+
+* Door sealed with Arcane Lock : pw "jeopardy
+
+#### B1 LIBRARY
+* Custodians sweepng - most fanatical
+  - Chicken Peach (rock gnome)
+  - Cow Cottom (half elf)
+* attack intruders
+* broom as a weapon, but bludgeoning damage
+
+* Books
+  - cultists believe to be priceless
+  - most are plodding disserations of questionable value
+  - arranged in alphabetical order by title
+  - gap on one shelf shows where Kandlekeep Dekonstruktion was stored
+
+* Secret door built into a short stretch of bookcase
+  - DC 13 perception - fale book. PUlled, causes door to swing open
+  - narrow staircase leads down
+  - small wooden pedal at the top opens the door from the inside
+
+* See a magical curtain.  
+  - "Please state your name"
+  - needs to be a farm animal + product form
+    - "$NAME not found in primary list.  Correct form.  Please proceed"
+  - otherwise somewhat impenetrable
+
+
+### SECOND FLOOR
+
+#### B2  MAIN ROOM
+
+* coming up the stairs
+  - 
+
+* larger part of the tower's second floor
+* (box text)
+  - just one half-orc - Goat Beet replaced with Dog Nuts
+
+* DeathBringer / Dog Nutes
+  - We are the Livestock!
+  - "Be Shtrong!  We're gonna be epic!"
+  - angry that didn't become one of the Avowed.
+    "Myrkul the lord of bones let me down", one of the tied-down
+  - not terribly happy with his name
+  - Stonky planning on launching us and all our books into space
+    - IT HAS BEGUN
+    - Don't know when it's begon
+  - Stonky and two senior members are underlevel making final preparations
+    - Sheep Sweet Corn and Ram Sugar
+  - Secret door in the library
+  - Launched into space by arcane devices called rockets, attached to the bottom
+    of the tower
+
+#### B3  STONKY'S STUDY
+
+* arcane lock
+* knock of DC 30 (or lower)
+* task list
+* search of books find navigation notes in his spellbook
+* Assuming they won't get here
+
+
+### THIRD FLOOR 
+
+* B4  OBSERVATORY / COMMAND CENTER
+  - Iron door at the top from B2
+  - closed but not locked
+* if someone tampers with telescope, a lightning golem conjured
+  - humans made of crackling lightning
+* lever - glyph of warding on the red ruby on top the lever
+  - DC 16 investigation to see the glyoh
+  - fills room with magical lightning
+  - DC 16 DEX taking 8d8 lightning damage
+* LEVER STATES
+  - COOP - aborted when countdown timer reaches zero
+  - SHED - paused
+  - STABLE - current position blasts off
+* Steering wheel -currently at 646
+  - should be between 626 and 666
+
+### MAGIC VOICE
+
+* Launch in ... 30 minutes ...  Condition: Stable
+  - Stonky J Noptopper, please report to command center at your convenience
+  - Sheep Sweet Corn, "
+  - Ram Sugar, "
+* Launch in 5 minutes.  Blast Doors closing soon.
+  - Stonky J Noptopper, please report to command center immediately
+
+
+### UNDER THE BARN DOOR
+
+* Ceilings are 20 feet high and flat
+* Floors once littered with scraps of meta, most have been swept out of the way and
+  piled near the walls
+* Doors - made of thick iron and fitted with iron fittings and handles
+* lit by oil-burning lanterns hanging from iron hooks
+
+Stonky and his crew down below looking for the ring of telekinesis.
+
+#### U1  Descending Staircase
+
+* gets warmer
+* eventually gives way to an iron bannister, showing an unobstucted view of
+  area U2
+* WALL OF STONE - when countdown reaches zero
+
+#### U2 Rocket Boosters
+
+* four-section rocket engine attached to the underside of the tower
+* falling embers falling from rocket fill the area with bright orange light
+* Three Skitterwidgets
+* Attack anyone who is not a livestock member.
+  - break off if the characters take a kiddywidget hostage
+* Double-door is locked
+  - DC 15 DEX with thieves tools (1 minute)
+  - DC 22 STR (athletics) check
+
+#### U3  UNLIT HALLWAY
+
+* illusory monster
+* roll initiative (monster on count 15)
+* examing the creature DC 16 INT check
+* physical interaction betrays its true nature
+* disappears after 5 minutes, and resets
+
+#### U4  FORGE
+
+* can spend 5 minutes exploring
+  - find a 4-inch tall mechanical owlbear (750 gp)
+
+#### U5  STONKY'S MISSING RING
+
+* Iron Lever in the floor
+* well is 30' deep and 10' dep pool of corrosive acid
+  - 6d6 acid damage
+* Puling lever so angles away from the door
+  - drains in one minute
+  - see dead skitterwidget at the bottom
+* Hidden in the wreckage is an undamaged Ring of Telekinesis that Stonky dropped
+
+
+#### U6  Workshop
+
+* Two figures in custodial uniforms
+  - not the halfling (pigwheat)
+* Two Skitterwidgets
+* Ram Sugar is a dragonborn (fire breath), DC 11 DEX, take 2d6 fire damage
+* thorough search of the room requires 10 minutes
+  - four metal gizmos worth 250 gp each
+
+#### U7  Stonky's BATTLE BRIDGE
+
+* Door is sealed with an arcane lock that Livestock can bypass
+* Knock / similar magic / DC 30 Strength check
+* (or just knock on the door), distracted he'll open it
+  - attack in panic
+  - carries iron key for the dougble-door
+
+* has a console with a countdown and a blinking red button
+  - blinks when the countodwn is active
+  - timer reaches zero == blast off
+  - pushing the button has no effect when the countdown is in progress
+  - if delay the launch with the lever, the timer pauses.
+  - if aborted the timer resets and redbutton stops blinking.
+* suspended over it are four wireframe windows, each with a projected image
+  - security cameras
+  - Shows B1 / B2 / B3 / B4 (SW clockwise to SE)
+* The safe is empty
+  - combination lock with tiny images of farm animals instead of numbers.
+    - 17 - bull cat cow dog donkey 
+      falcon goat hen horse llama
+      ox pig pigeon rabbit rooster
+      sheep turtle
+    - combo is pig goat llama hen rooster
+    - can try to find the combination with a DEX 25 check. Takes a minute
+
+* STONKY!
+  - attack in panic
+  - delighted to share his master plan
+  - lainching the barn door into space, keeping Candlekeep's most precious books out
+    of the hnads of all who are unworthy of such knowledge
+    - characters are OBVIOUSLY part of that group
+  - takes pride in making it operational once more
+    - "once the countdown timer reaches ero, WHOOSH!"
+    - only way to abort the launch is to shift the lever in the tower observator
+  - has a wand for spellcasting focus
+  - brass locket with a broken chain (5gp)
+  - scrap of paper, gnomish
+    - Coop - Abort
+    - Shed - Delay
+    - Stable - Blastoff!
 
 ### Objects
 
