@@ -9,8 +9,8 @@
     rangeStart: 0
     rangeLength: 6
   position:
-  - 1.34403125e+3
-  - 8.7835546875e+2
+  - 1.3962578125e+3
+  - 1.0238046875e+3
   width: 1e+2
   connections:
     indexes:
@@ -30,8 +30,8 @@
     rangeStart: 0
     rangeLength: 17
   position:
-  - 1.4975e+3
-  - 9.1781640625e+2
+  - 1.5497265625e+3
+  - 1.063265625e+3
   width: 1e+2
   connections:
     indexes:
@@ -46,8 +46,8 @@
   text: Have a quick round of combat
   formattingOptions: []
   position:
-  - 1.58530078125e+3
-  - 9.6828125e+2
+  - 1.63752734375e+3
+  - 1.11373046875e+3
   width: 1.7e+2
   connections:
     indexes:
@@ -61,8 +61,8 @@
     sequencing.
   formattingOptions: []
   position:
-  - 1.51719921875e+3
-  - 8.3717578125e+2
+  - 1.56942578125e+3
+  - 9.82625e+2
   width: 2.2e+2
   connections:
     indexes:
@@ -80,8 +80,8 @@
     rangeStart: 0
     rangeLength: 6
   position:
-  - 1.326484375e+3
-  - 1.18396484375e+3
+  - 1.35416796875e+3
+  - 1.31912890625e+3
   width: 1e+2
   connections:
     indexes:
@@ -94,8 +94,8 @@
   text: Some of you are spell-slingers.
   formattingOptions: []
   position:
-  - 1.41321484375e+3
-  - 1.107234375e+3
+  - 1.4408984375e+3
+  - 1.242625e+3
   width: 1.8e+2
   connections:
     indexes:
@@ -106,8 +106,8 @@
   text: In real games, resource management is a Big Thing
   formattingOptions: []
   position:
-  - 1.47712109375e+3
-  - 1.16826953125e+3
+  - 1.5048046875e+3
+  - 1.30366015625e+3
   width: 2e+2
   connections:
     indexes:
@@ -123,8 +123,8 @@
     rangeStart: 0
     rangeLength: 50
   position:
-  - 1.71640625e+3
-  - 1.1542109375e+3
+  - 1.74408984375e+3
+  - 1.2896015625e+3
   width: 2e+2
   connections:
     indexes:
@@ -135,8 +135,8 @@
   text: Think of it like currency, but you don't get change back
   formattingOptions: []
   position:
-  - 1.471546875e+3
-  - 1.22765625e+3
+  - 1.49923046875e+3
+  - 1.363046875e+3
   width: 1.8e+2
   connections:
     indexes:
@@ -150,8 +150,8 @@
     buy (cast) costs 1$.  I'm going to have to spend all of my fiver
   formattingOptions: []
   position:
-  - 1.6751953125e+3
-  - 1.2170078125e+3
+  - 1.70287890625e+3
+  - 1.3523984375e+3
   width: 2.7e+2
   connections:
     indexes:
@@ -164,9 +164,9 @@
   text: Sometimes you get extra goodies when you cast at a higher level
   formattingOptions: []
   position:
-  - 1.9681875e+3
-  - 1.2022109375e+3
-  width: 1e+2
+  - 1.99613671875e+3
+  - 1.336828125e+3
+  width: 1.3e+2
   connections:
     indexes:
     - location: 10
@@ -177,8 +177,8 @@
     have to then find your D8 and roll it and do the math.'
   formattingOptions: []
   position:
-  - 1.2685859375e+3
-  - 7.8862109375e+2
+  - 1.3208125e+3
+  - 9.340703125e+2
   width: 1.8e+2
   connections:
     indexes:
@@ -363,6 +363,8 @@
       length: 1
     - location: 101
       length: 1
+    - location: 115
+      length: 1
   _effectiveHeight: 1.4e+1
 - ID: 25
   text: d20
@@ -417,8 +419,8 @@
   text: Goblins attack
   formattingOptions: []
   position:
-  - 1.7867265625e+3
-  - 9.3080859375e+2
+  - 1.838953125e+3
+  - 1.0762578125e+3
   width: 1e+2
   connections:
     indexes:
@@ -429,8 +431,8 @@
   text: Describe your attack, and roll
   formattingOptions: []
   position:
-  - 1.794234375e+3
-  - 9.8158203125e+2
+  - 1.8464609375e+3
+  - 1.12703125e+3
   width: 1e+2
   connections:
     indexes:
@@ -441,8 +443,8 @@
   text: Roll gobbo's initiative too
   formattingOptions: []
   position:
-  - 1.62665234375e+3
-  - 9.07515625e+2
+  - 1.67887890625e+3
+  - 1.05296484375e+3
   width: 1.4e+2
   connections:
     indexes:
@@ -500,6 +502,8 @@
       length: 1
     - location: 35
       length: 2
+    - location: 110
+      length: 3
   _effectiveHeight: 1.4e+1
 - ID: 35
   text: to inject chaos
@@ -533,8 +537,8 @@
     "ok cool.  That''s pretty easy you just do it"'
   formattingOptions: []
   position:
-  - 1.69583984375e+3
-  - 6.46859375e+2
+  - 1.85448828125e+3
+  - 6.3292578125e+2
   width: 1.9e+2
   connections:
     indexes:
@@ -548,8 +552,8 @@
     on some kitchen grease, so give me an acrobatics check
   formattingOptions: []
   position:
-  - 1.7633046875e+3
-  - 7.1947265625e+2
+  - 1.92560546875e+3
+  - 7.0722265625e+2
   width: 2.2e+2
   connections:
     indexes:
@@ -845,6 +849,8 @@
       length: 1
     - location: 63
       length: 1
+    - location: 122
+      length: 1
   _effectiveHeight: 2.8e+1
 - ID: 59
   text: Swords / sorcery / elves / dwarvs / goblins / dragons
@@ -865,7 +871,7 @@
   formattingOptions: []
   position:
   - 2.9809765625e+2
-  - 3.7309375e+2
+  - 3.513359375e+2
   width: 1e+2
   connections:
     indexes:
@@ -884,6 +890,8 @@
     - location: 58
       length: 1
     - location: 62
+      length: 1
+    - location: 121
       length: 1
   _effectiveHeight: 2.8e+1
 - ID: 62
@@ -1173,8 +1181,8 @@
   text: How to read 2d8+3
   formattingOptions: []
   position:
-  - 1.56281640625e+3
-  - 4.0317578125e+2
+  - 1.61948046875e+3
+  - 3.6840625e+2
   width: 1e+2
   connections:
     indexes:
@@ -1459,8 +1467,8 @@
   text: Positioning
   formattingOptions: []
   position:
-  - 1.3410703125e+3
-  - 9.5536328125e+2
+  - 1.393296875e+3
+  - 1.1008125e+3
   width: 1e+2
   connections:
     indexes:
@@ -1473,8 +1481,8 @@
   text: Flanking / Grappling / etc
   formattingOptions: []
   position:
-  - 1.35586328125e+3
-  - 1.0153515625e+3
+  - 1.40808984375e+3
+  - 1.16080078125e+3
   width: 1.5e+2
   connections:
     indexes:
@@ -1553,3 +1561,186 @@
     - location: 98
       length: 1
   _effectiveHeight: 4.2e+1
+- ID: 110
+  text: Skill Checks
+  formattingOptions: []
+  position:
+  - 1.36110546875e+3
+  - 5.54015625e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 34
+      length: 1
+    - location: 113
+      length: 2
+  _effectiveHeight: 1.4e+1
+- ID: 111
+  text: Saving Throws
+  formattingOptions: []
+  position:
+  - 1.47696484375e+3
+  - 6.1583203125e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 34
+      length: 1
+    - location: 116
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 112
+  text: Attack and Damage
+  formattingOptions: []
+  position:
+  - 1.60701171875e+3
+  - 6.5538671875e+2
+  width: 1.2e+2
+  connections:
+    indexes:
+    - location: 34
+      length: 1
+    - location: 120
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 113
+  text: vs Tool checks
+  formattingOptions: []
+  position:
+  - 1.27035546875e+3
+  - 4.8112109375e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 110
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 114
+  text: '(Wave at character sheet)
+
+    This is for things like "I want to somorsault over the lava pit" (DEX - acrobatics)
+    or "I want to jump on the t-rex and try to ride it (WIS - Animal Handling)
+
+
+    These include extra modifiers over and above Saving Throws'
+  formattingOptions:
+  - options: 2
+    rangeStart: 0
+    rangeLength: 26
+  position:
+  - 1.24048828125e+3
+  - 5.90984375e+2
+  width: 1.8e+2
+  connections:
+    indexes:
+    - location: 110
+      length: 1
+  _effectiveHeight: 1.26e+2
+- ID: 115
+  text: Roll dice, add modifiers, see if it meets or beats a target number decided
+    by the rules or the DM. The higher the number, the more difficult the challenge
+  formattingOptions: []
+  position:
+  - 1.4031328125e+3
+  - 3.8783203125e+2
+  width: 1.8e+2
+  connections:
+    indexes:
+    - location: 24
+      length: 1
+  _effectiveHeight: 7e+1
+- ID: 116
+  text: These use your base stat adjustments
+  formattingOptions: []
+  position:
+  - 1.45368359375e+3
+  - 6.5944140625e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 111
+      length: 1
+    - location: 117
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 117
+  text: Things that you don't really have time to prepare for.
+  formattingOptions: []
+  position:
+  - 1.36030078125e+3
+  - 7.395e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 116
+      length: 1
+    - location: 118
+      length: 2
+  _effectiveHeight: 2.8e+1
+- ID: 118
+  text: '"The roof caves in.  Give me a DEX save"'
+  formattingOptions: []
+  position:
+  - 1.294046875e+3
+  - 7.977265625e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 117
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 119
+  text: A poison dart shoots out of the wall and it hits!  Give me a CON save to see
+    if you're posisoned
+  formattingOptions: []
+  position:
+  - 1.41568359375e+3
+  - 7.9975e+2
+  width: 1.8e+2
+  connections:
+    indexes:
+    - location: 117
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 120
+  text: D&D has its history in wargaming, so beating up on monsters is in its DNA
+  formattingOptions: []
+  position:
+  - 1.62635546875e+3
+  - 7.170234375e+2
+  width: 1.9e+2
+  connections:
+    indexes:
+    - location: 112
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 121
+  text: 5e a blend of the history
+  formattingOptions: []
+  position:
+  - 6.902734375e+1
+  - 5.1921875e+2
+  width: 1.4e+2
+  connections:
+    indexes:
+    - location: 61
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 122
+  text: 'The three pillars:
+
+    * Exploration
+
+    * Social interaction
+
+    * Combat'
+  formattingOptions: []
+  position:
+  - 4.14671875e+2
+  - 4.151875e+2
+  width: 1.3e+2
+  connections:
+    indexes:
+    - location: 58
+      length: 1
+  _effectiveHeight: 5.6e+1
