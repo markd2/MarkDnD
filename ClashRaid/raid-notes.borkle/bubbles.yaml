@@ -9,8 +9,8 @@
     rangeStart: 0
     rangeLength: 6
   position:
-  - 1.5427734375e+3
-  - 6.8201171875e+2
+  - 1.34403125e+3
+  - 8.7835546875e+2
   width: 1e+2
   connections:
     indexes:
@@ -20,6 +20,8 @@
       length: 1
     - location: 12
       length: 1
+    - location: 103
+      length: 1
   _effectiveHeight: 1.4e+1
 - ID: 2
   text: '"Roll initiative"'
@@ -28,8 +30,8 @@
     rangeStart: 0
     rangeLength: 17
   position:
-  - 1.69612109375e+3
-  - 7.2147265625e+2
+  - 1.4975e+3
+  - 9.1781640625e+2
   width: 1e+2
   connections:
     indexes:
@@ -44,8 +46,8 @@
   text: Have a quick round of combat
   formattingOptions: []
   position:
-  - 1.783921875e+3
-  - 7.719375e+2
+  - 1.58530078125e+3
+  - 9.6828125e+2
   width: 1.7e+2
   connections:
     indexes:
@@ -59,8 +61,8 @@
     sequencing.
   formattingOptions: []
   position:
-  - 1.7158203125e+3
-  - 6.4083203125e+2
+  - 1.51719921875e+3
+  - 8.3717578125e+2
   width: 2.2e+2
   connections:
     indexes:
@@ -78,8 +80,8 @@
     rangeStart: 0
     rangeLength: 6
   position:
-  - 1.37843359375e+3
-  - 5.1605078125e+2
+  - 1.326484375e+3
+  - 1.18396484375e+3
   width: 1e+2
   connections:
     indexes:
@@ -92,8 +94,8 @@
   text: Some of you are spell-slingers.
   formattingOptions: []
   position:
-  - 1.4651640625e+3
-  - 4.394375e+2
+  - 1.41321484375e+3
+  - 1.107234375e+3
   width: 1.8e+2
   connections:
     indexes:
@@ -104,8 +106,8 @@
   text: In real games, resource management is a Big Thing
   formattingOptions: []
   position:
-  - 1.5290703125e+3
-  - 5.0047265625e+2
+  - 1.47712109375e+3
+  - 1.16826953125e+3
   width: 2e+2
   connections:
     indexes:
@@ -121,8 +123,8 @@
     rangeStart: 0
     rangeLength: 50
   position:
-  - 1.76835546875e+3
-  - 4.864140625e+2
+  - 1.71640625e+3
+  - 1.1542109375e+3
   width: 2e+2
   connections:
     indexes:
@@ -133,8 +135,8 @@
   text: Think of it like currency, but you don't get change back
   formattingOptions: []
   position:
-  - 1.52349609375e+3
-  - 5.59859375e+2
+  - 1.471546875e+3
+  - 1.22765625e+3
   width: 1.8e+2
   connections:
     indexes:
@@ -148,8 +150,8 @@
     buy (cast) costs 1$.  I'm going to have to spend all of my fiver
   formattingOptions: []
   position:
-  - 1.72714453125e+3
-  - 5.492109375e+2
+  - 1.6751953125e+3
+  - 1.2170078125e+3
   width: 2.7e+2
   connections:
     indexes:
@@ -162,8 +164,8 @@
   text: Sometimes you get extra goodies when you cast at a higher level
   formattingOptions: []
   position:
-  - 2.02013671875e+3
-  - 5.344140625e+2
+  - 1.9681875e+3
+  - 1.2022109375e+3
   width: 1e+2
   connections:
     indexes:
@@ -175,8 +177,8 @@
     have to then find your D8 and roll it and do the math.'
   formattingOptions: []
   position:
-  - 1.5360625e+3
-  - 7.7393359375e+2
+  - 1.2685859375e+3
+  - 7.8862109375e+2
   width: 1.8e+2
   connections:
     indexes:
@@ -348,8 +350,8 @@
     rangeStart: 0
     rangeLength: 8
   position:
-  - 1.5377734375e+3
-  - 1.27015625e+2
+  - 1.62472265625e+3
+  - 4.5834375e+2
   width: 1e+2
   connections:
     indexes:
@@ -357,6 +359,10 @@
       length: 1
     - location: 33
       length: 2
+    - location: 83
+      length: 1
+    - location: 101
+      length: 1
   _effectiveHeight: 1.4e+1
 - ID: 25
   text: d20
@@ -365,8 +371,8 @@
     rangeStart: 0
     rangeLength: 3
   position:
-  - 1.6658671875e+3
-  - 1.0609375e+2
+  - 1.73234765625e+3
+  - 4.32375e+2
   width: 4e+1
   connections:
     indexes:
@@ -376,13 +382,17 @@
       length: 2
     - location: 31
       length: 1
+    - location: 84
+      length: 1
+    - location: 86
+      length: 1
   _effectiveHeight: 1.4e+1
 - ID: 26
   text: The main one
   formattingOptions: []
   position:
-  - 1.7307734375e+3
-  - 4.139453125e+1
+  - 1.81826953125e+3
+  - 3.7256640625e+2
   width: 1e+2
   connections:
     indexes:
@@ -393,22 +403,22 @@
   text: Rolling with advantage / disadvantage
   formattingOptions: []
   position:
-  - 1.752125e+3
-  - 1.2429296875e+2
+  - 1.90716015625e+3
+  - 4.492578125e+2
   width: 1e+2
   connections:
     indexes:
     - location: 25
       length: 1
-    - location: 32
+    - location: 85
       length: 1
   _effectiveHeight: 4.2e+1
 - ID: 28
   text: Goblins attack
   formattingOptions: []
   position:
-  - 1.98534765625e+3
-  - 7.3446484375e+2
+  - 1.7867265625e+3
+  - 9.3080859375e+2
   width: 1e+2
   connections:
     indexes:
@@ -419,8 +429,8 @@
   text: Describe your attack, and roll
   formattingOptions: []
   position:
-  - 1.99285546875e+3
-  - 7.8523828125e+2
+  - 1.794234375e+3
+  - 9.8158203125e+2
   width: 1e+2
   connections:
     indexes:
@@ -431,8 +441,8 @@
   text: Roll gobbo's initiative too
   formattingOptions: []
   position:
-  - 1.8252734375e+3
-  - 7.11171875e+2
+  - 1.62665234375e+3
+  - 9.07515625e+2
   width: 1.4e+2
   connections:
     indexes:
@@ -443,32 +453,34 @@
   text: Each number is 5% probability
   formattingOptions: []
   position:
-  - 1.77131640625e+3
-  - 7.318359375e+1
+  - 1.94425e+3
+  - 3.6700390625e+2
   width: 1e+2
   connections:
     indexes:
     - location: 25
+      length: 1
+    - location: 87
       length: 1
   _effectiveHeight: 2.8e+1
 - ID: 32
   text: Bell curve
   formattingOptions: []
   position:
-  - 1.8844140625e+3
-  - 1.205234375e+2
+  - 2.11130859375e+3
+  - 5.2525e+2
   width: 1e+2
   connections:
     indexes:
-    - location: 27
+    - location: 84
       length: 1
   _effectiveHeight: 1.4e+1
 - ID: 33
   text: (describe the others)
   formattingOptions: []
   position:
-  - 1.633546875e+3
-  - 1.5468359375e+2
+  - 1.72104296875e+3
+  - 4.8585546875e+2
   width: 1.2e+2
   connections:
     indexes:
@@ -479,8 +491,8 @@
   text: What they're used for
   formattingOptions: []
   position:
-  - 1.51435546875e+3
-  - 1.9946484375e+2
+  - 1.6018515625e+3
+  - 5.3063671875e+2
   width: 1.3e+2
   connections:
     indexes:
@@ -493,8 +505,8 @@
   text: to inject chaos
   formattingOptions: []
   position:
-  - 1.67870703125e+3
-  - 1.96109375e+2
+  - 1.766203125e+3
+  - 5.2728125e+2
   width: 1e+2
   connections:
     indexes:
@@ -505,8 +517,8 @@
   text: The main thing that makes this a game vs just a collaborative novel
   formattingOptions: []
   position:
-  - 1.62480078125e+3
-  - 2.3949609375e+2
+  - 1.712296875e+3
+  - 5.7066796875e+2
   width: 1.7e+2
   connections:
     indexes:
@@ -521,8 +533,8 @@
     "ok cool.  That''s pretty easy you just do it"'
   formattingOptions: []
   position:
-  - 1.60834375e+3
-  - 3.156875e+2
+  - 1.69583984375e+3
+  - 6.46859375e+2
   width: 1.9e+2
   connections:
     indexes:
@@ -536,8 +548,8 @@
     on some kitchen grease, so give me an acrobatics check
   formattingOptions: []
   position:
-  - 1.67580859375e+3
-  - 3.8830078125e+2
+  - 1.7633046875e+3
+  - 7.1947265625e+2
   width: 2.2e+2
   connections:
     indexes:
@@ -718,7 +730,7 @@
   text: ''
   formattingOptions: []
   position:
-  - 2.99874609375e+3
+  - 3.11212109375e+3
   - 1.25689453125e+3
   width: 1e+2
   connections:
@@ -810,8 +822,8 @@
   text: Other systems have different names, like Referee, or Keepr of Arcane Lore
   formattingOptions: []
   position:
-  - 1.0060859375e+3
-  - 4.953125e+2
+  - 9.5437890625e+2
+  - 5.79125e+2
   width: 2.1e+2
   connections:
     indexes:
@@ -894,7 +906,10 @@
     red: 8.96043e-1
     green: 9.97437e-1
     blue: 9.42763e-1
-  formattingOptions: []
+  formattingOptions:
+  - options: 1
+    rangeStart: 0
+    rangeLength: 6
   position:
   - 3.5306640625e+2
   - 6.2537109375e+2
@@ -954,8 +969,8 @@
   text: Stars without Number
   formattingOptions: []
   position:
-  - 6.4982421875e+2
-  - 6.245078125e+2
+  - 6.6564453125e+2
+  - 6.2163671875e+2
   width: 1.3e+2
   connections:
     indexes:
@@ -966,7 +981,7 @@
   text: Bounty Hunter
   formattingOptions: []
   position:
-  - 6.7692578125e+2
+  - 7.159140625e+2
   - 6.504765625e+2
   width: 1e+2
   connections:
@@ -1154,3 +1169,387 @@
     - location: 79
       length: 1
   _effectiveHeight: 1.4e+1
+- ID: 83
+  text: How to read 2d8+3
+  formattingOptions: []
+  position:
+  - 1.56281640625e+3
+  - 4.0317578125e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 24
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 84
+  text: Rolling Multiple Dice
+  formattingOptions: []
+  position:
+  - 1.9232421875e+3
+  - 5.31171875e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 25
+      length: 1
+    - location: 32
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 85
+  text: 'bulging curve
+
+    (image)'
+  formattingOptions: []
+  position:
+  - 2.07711328125e+3
+  - 4.56171875e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 27
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 86
+  text: on attacks - crits
+  formattingOptions: []
+  position:
+  - 1.90656640625e+3
+  - 4.15703125e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 25
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 87
+  text: Then add modifiers
+  formattingOptions: []
+  position:
+  - 2.076296875e+3
+  - 3.7138671875e+2
+  width: 1.2e+2
+  connections:
+    indexes:
+    - location: 31
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 88
+  text: HOW PLAY WORKS
+  fillColorRGB:
+    red: 1e+0
+    green: 9.0283e-1
+    blue: 9.76506e-1
+  formattingOptions:
+  - options: 1
+    rangeStart: 0
+    rangeLength: 14
+  position:
+  - 1.23527734375e+3
+  - 1.712109375e+1
+  width: 1e+2
+  connections:
+    indexes: []
+  _effectiveHeight: 2.8e+1
+- ID: 89
+  text: BASIC LOOP
+  fillColorRGB:
+    red: 8.96043e-1
+    green: 9.97437e-1
+    blue: 9.42763e-1
+  formattingOptions:
+  - options: 1
+    rangeStart: 0
+    rangeLength: 10
+  position:
+  - 1.270765625e+3
+  - 9.6859375e+1
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 90
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 90
+  text: DM describes the world.
+  formattingOptions: []
+  position:
+  - 1.24115234375e+3
+  - 1.370703125e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 89
+      length: 1
+    - location: 91
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 91
+  text: '20: Players choose what they want to do'
+  formattingOptions: []
+  position:
+  - 1.24664453125e+3
+  - 1.981484375e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 90
+      length: 1
+    - location: 92
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 92
+  text: 'Maybe Rules are invoked.
+
+    Maybe dice are rolled'
+  formattingOptions: []
+  position:
+  - 1.24603515625e+3
+  - 2.5969921875e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 91
+      length: 1
+    - location: 93
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 93
+  text: The resulting change of the world is communcated from the DM to the players
+  formattingOptions: []
+  position:
+  - 1.248734375e+3
+  - 3.13203125e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 92
+      length: 1
+    - location: 94
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 94
+  text: GOTO 20
+  formattingOptions: []
+  position:
+  - 1.2805390625e+3
+  - 3.9319921875e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 93
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 95
+  text: ROLEPLAY
+  fillColorRGB:
+    red: 8.96043e-1
+    green: 9.97437e-1
+    blue: 9.42763e-1
+  formattingOptions:
+  - options: 1
+    rangeStart: 0
+    rangeLength: 8
+  position:
+  - 1.5021953125e+3
+  - 8.421484375e+1
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 96
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 96
+  text: It is a a TT RPG after all
+  formattingOptions:
+  - options: 1
+    rangeStart: 13
+    rangeLength: 3
+  position:
+  - 1.645921875e+3
+  - 7.193359375e+1
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 95
+      length: 1
+    - location: 97
+      length: 2
+  _effectiveHeight: 2.8e+1
+- ID: 97
+  text: This is where you interact with the environment
+  formattingOptions: []
+  position:
+  - 1.781296875e+3
+  - 2.04609375e+1
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 96
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 98
+  text: And each other!
+  formattingOptions: []
+  position:
+  - 1.7736171875e+3
+  - 9.705859375e+1
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 96
+      length: 1
+    - location: 99
+      length: 2
+    - location: 109
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 99
+  text: Sometimes players can RP with each other for 20 minutes while the DM does
+    nothing but listen
+  formattingOptions: []
+  position:
+  - 1.91243359375e+3
+  - 7.0296875e+1
+  width: 1.8e+2
+  connections:
+    indexes:
+    - location: 98
+      length: 1
+    - location: 102
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 100
+  text: '"you know charlie, you always take risks to get shiny stuff. That worries
+    us. We appreciate the money, but you''re more important"'
+  formattingOptions: []
+  position:
+  - 1.6802734375e+3
+  - 1.5871875e+2
+  width: 2e+2
+  connections:
+    indexes:
+    - location: 98
+      length: 1
+  _effectiveHeight: 5.6e+1
+- ID: 101
+  text: Dice Goblin
+  formattingOptions: []
+  position:
+  - 1.48999609375e+3
+  - 4.90125e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 24
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 102
+  text: '"Yes And"'
+  formattingOptions: []
+  position:
+  - 1.9615e+3
+  - 1.2399609375e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 99
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 103
+  text: Positioning
+  formattingOptions: []
+  position:
+  - 1.3410703125e+3
+  - 9.5536328125e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 1
+      length: 1
+    - location: 104
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 104
+  text: Flanking / Grappling / etc
+  formattingOptions: []
+  position:
+  - 1.35586328125e+3
+  - 1.0153515625e+3
+  width: 1.5e+2
+  connections:
+    indexes:
+    - location: 103
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 105
+  text: CLASSES
+  fillColorRGB:
+    red: 8.96043e-1
+    green: 9.97437e-1
+    blue: 9.42763e-1
+  formattingOptions:
+  - options: 1
+    rangeStart: 0
+    rangeLength: 7
+  position:
+  - 1.5258515625e+3
+  - 2.5650390625e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 106
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 106
+  text: Broad strokes of what your character does. Then you create your own character
+    inside of that
+  formattingOptions: []
+  position:
+  - 1.66233984375e+3
+  - 2.4653125e+2
+  width: 2.1e+2
+  connections:
+    indexes:
+    - location: 105
+      length: 1
+    - location: 107
+      length: 2
+  _effectiveHeight: 4.2e+1
+- ID: 107
+  text: Bullsai the barbarian bouncer
+  formattingOptions: []
+  position:
+  - 1.92155859375e+3
+  - 2.4641796875e+2
+  width: 1.7e+2
+  connections:
+    indexes:
+    - location: 106
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 108
+  text: Basil Mosscoat, the warlock middle-management bureaucrat who could control
+    time... to a limited extent
+  formattingOptions: []
+  position:
+  - 1.94641015625e+3
+  - 2.812890625e+2
+  width: 2.2e+2
+  connections:
+    indexes:
+    - location: 106
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 109
+  text: '"Claudine, I have many powers" as Basil Mossocat englobes them in a time-stop
+    bubble.  Best not to underestimate me'
+  formattingOptions: []
+  position:
+  - 1.9052421875e+3
+  - 1.6298046875e+2
+  width: 2.5e+2
+  connections:
+    indexes:
+    - location: 98
+      length: 1
+  _effectiveHeight: 4.2e+1
