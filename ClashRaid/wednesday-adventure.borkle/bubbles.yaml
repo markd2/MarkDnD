@@ -1,1 +1,225 @@
-[]
+- ID: 1
+  text: Entrance Room
+  formattingOptions:
+  - options: 1
+    rangeStart: 0
+    rangeLength: 13
+  position:
+  - 5.495546875e+2
+  - 1.2453125e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 2
+      length: 1
+    - location: 5
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 2
+  text: VileSilencer's Study
+  formattingOptions:
+  - options: 1
+    rangeStart: 0
+    rangeLength: 20
+  position:
+  - 7.3901953125e+2
+  - 9.09140625e+1
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 1
+      length: 1
+    - location: 4
+      length: 1
+    - location: 6
+      length: 3
+    - location: 10
+      length: 3
+  _effectiveHeight: 2.8e+1
+- ID: 3
+  text: 'Storage room
+
+    With Key'
+  formattingOptions:
+  - options: 1
+    rangeStart: 0
+    rangeLength: 21
+  position:
+  - 7.700234375e+2
+  - 3.38453125e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 4
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 4
+  text: Skill Challenge
+  formattingOptions:
+  - options: 1
+    rangeStart: 0
+    rangeLength: 15
+  position:
+  - 6.896171875e+2
+  - 2.72234375e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 2
+      length: 2
+  _effectiveHeight: 1.4e+1
+- ID: 5
+  text: 'croaker
+
+    oh! why are you here? do you have an appointment with the vilesilencer?'
+  formattingOptions:
+  - options: 1
+    rangeStart: 0
+    rangeLength: 7
+  position:
+  - 5.545390625e+2
+  - 2.0411328125e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 1
+      length: 1
+  _effectiveHeight: 8.4e+1
+- ID: 6
+  text: Big, impressive
+  formattingOptions: []
+  position:
+  - 8.721171875e+2
+  - 5.7734375e+1
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 2
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 7
+  text: array of weapons
+  formattingOptions: []
+  position:
+  - 9.253984375e+2
+  - 1.076953125e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 2
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 8
+  text: Gashes in stone floor and wall
+  formattingOptions: []
+  position:
+  - 1.00378515625e+3
+  - 5.85859375e+1
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 2
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 9
+  text: "Darebgar, VileSilencer\nOwner of the key\n\nSee: Massively Strong Orc\nPortray:
+    Restrained, but an undercurrent of violence.\n         Former student at Arcane
+    Academy of Waterdeep\nProgress: Working on necromancy"
+  formattingOptions:
+  - options: 1
+    rangeStart: 0
+    rangeLength: 22
+  - options: 2
+    rangeStart: 23
+    rangeLength: 16
+  - options: 1
+    rangeStart: 41
+    rangeLength: 3
+  - options: 1
+    rangeStart: 67
+    rangeLength: 7
+  - options: 1
+    rangeStart: 176
+    rangeLength: 8
+  position:
+  - 6.5859375e+1
+  - 1.0162890625e+2
+  width: 3e+2
+  connections:
+    indexes: []
+  _effectiveHeight: 9.8e+1
+- ID: 10
+  text: Piles of body parts
+  formattingOptions: []
+  position:
+  - 9.08484375e+2
+  - 1.484296875e+2
+  width: 1.2e+2
+  connections:
+    indexes:
+    - location: 2
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 11
+  text: AAoW pennant on the wall
+  formattingOptions: []
+  position:
+  - 7.06515625e+2
+  - 3.79609375e+1
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 2
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 12
+  text: RP opportunities
+  formattingOptions:
+  - options: 1
+    rangeStart: 0
+    rangeLength: 16
+  position:
+  - 8.0700390625e+2
+  - 1.9714453125e+2
+  width: 1.2e+2
+  connections:
+    indexes:
+    - location: 2
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 13
+  text: 'Croaker
+
+    Greeter for the Vilesiencer
+
+
+    See: Looks vaguely human.  Maybe elvish.  But something doesn''t seem to be quite
+    right
+
+    Portray: Bunter.  A butler charged with the comfort and efficiency of his patron.
+    A bit of C3-3PO in the personality
+
+    Progress: constructed being (necromancy) '
+  formattingOptions:
+  - options: 1
+    rangeStart: 0
+    rangeLength: 8
+  - options: 2
+    rangeStart: 8
+    rangeLength: 29
+  - options: 1
+    rangeStart: 37
+    rangeLength: 4
+  - options: 1
+    rangeStart: 124
+    rangeLength: 7
+  - options: 1
+    rangeStart: 241
+    rangeLength: 8
+  position:
+  - 7.17890625e+1
+  - 2.587109375e+2
+  width: 2.6e+2
+  connections:
+    indexes: []
+  _effectiveHeight: 1.26e+2

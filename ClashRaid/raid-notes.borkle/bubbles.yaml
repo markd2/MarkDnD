@@ -1,1 +1,1156 @@
-[]
+- ID: 1
+  text: COMBAT
+  fillColorRGB:
+    red: 8.96043e-1
+    green: 9.97437e-1
+    blue: 9.42763e-1
+  formattingOptions:
+  - options: 1
+    rangeStart: 0
+    rangeLength: 6
+  position:
+  - 1.5427734375e+3
+  - 6.8201171875e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 2
+      length: 1
+    - location: 4
+      length: 1
+    - location: 12
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 2
+  text: '"Roll initiative"'
+  formattingOptions:
+  - options: 2
+    rangeStart: 0
+    rangeLength: 17
+  position:
+  - 1.69612109375e+3
+  - 7.2147265625e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 1
+      length: 1
+    - location: 3
+      length: 1
+    - location: 30
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 3
+  text: Have a quick round of combat
+  formattingOptions: []
+  position:
+  - 1.783921875e+3
+  - 7.719375e+2
+  width: 1.7e+2
+  connections:
+    indexes:
+    - location: 2
+      length: 1
+    - location: 28
+      length: 2
+  _effectiveHeight: 1.4e+1
+- ID: 4
+  text: When things go from freeform "hey I want to do this" to things that require
+    sequencing.
+  formattingOptions: []
+  position:
+  - 1.7158203125e+3
+  - 6.4083203125e+2
+  width: 2.2e+2
+  connections:
+    indexes:
+    - location: 1
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 5
+  text: SPELLS
+  fillColorRGB:
+    red: 8.96043e-1
+    green: 9.97437e-1
+    blue: 9.42763e-1
+  formattingOptions:
+  - options: 1
+    rangeStart: 0
+    rangeLength: 6
+  position:
+  - 1.37843359375e+3
+  - 5.1605078125e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 6
+      length: 2
+    - location: 9
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 6
+  text: Some of you are spell-slingers.
+  formattingOptions: []
+  position:
+  - 1.4651640625e+3
+  - 4.394375e+2
+  width: 1.8e+2
+  connections:
+    indexes:
+    - location: 5
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 7
+  text: In real games, resource management is a Big Thing
+  formattingOptions: []
+  position:
+  - 1.5290703125e+3
+  - 5.0047265625e+2
+  width: 2e+2
+  connections:
+    indexes:
+    - location: 5
+      length: 1
+    - location: 8
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 8
+  text: '"This game is so cool, I get to be an accountant!"'
+  formattingOptions:
+  - options: 2
+    rangeStart: 0
+    rangeLength: 50
+  position:
+  - 1.76835546875e+3
+  - 4.864140625e+2
+  width: 2e+2
+  connections:
+    indexes:
+    - location: 7
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 9
+  text: Think of it like currency, but you don't get change back
+  formattingOptions: []
+  position:
+  - 1.52349609375e+3
+  - 5.59859375e+2
+  width: 1.8e+2
+  connections:
+    indexes:
+    - location: 5
+      length: 1
+    - location: 10
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 10
+  text: I've run out of singles, just have a couple of fives.  This thing I want to
+    buy (cast) costs 1$.  I'm going to have to spend all of my fiver
+  formattingOptions: []
+  position:
+  - 1.72714453125e+3
+  - 5.492109375e+2
+  width: 2.7e+2
+  connections:
+    indexes:
+    - location: 9
+      length: 1
+    - location: 11
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 11
+  text: Sometimes you get extra goodies when you cast at a higher level
+  formattingOptions: []
+  position:
+  - 2.02013671875e+3
+  - 5.344140625e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 10
+      length: 1
+  _effectiveHeight: 5.6e+1
+- ID: 12
+  text: 'Pro Tip: Roll attack and damage at the same time. If you hit, you don''t
+    have to then find your D8 and roll it and do the math.'
+  formattingOptions: []
+  position:
+  - 1.5360625e+3
+  - 7.7393359375e+2
+  width: 1.8e+2
+  connections:
+    indexes:
+    - location: 1
+      length: 1
+  _effectiveHeight: 5.6e+1
+- ID: 13
+  text: CHARACTER SHEET
+  fillColorRGB:
+    red: 8.96043e-1
+    green: 9.97437e-1
+    blue: 9.42763e-1
+  formattingOptions:
+  - options: 1
+    rangeStart: 0
+    rangeLength: 15
+  position:
+  - 4.4769921875e+2
+  - 9.8301953125e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 14
+      length: 2
+    - location: 39
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 14
+  text: 'omg so much information.
+
+    It is overwhelming'
+  formattingOptions:
+  - options: 1
+    rangeStart: 28
+    rangeLength: 2
+  position:
+  - 5.8351953125e+2
+  - 9.29109375e+2
+  width: 1.5e+2
+  connections:
+    indexes:
+    - location: 13
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 15
+  text: The important stuff
+  formattingOptions: []
+  position:
+  - 5.7068359375e+2
+  - 1.0335625e+3
+  width: 1.3e+2
+  connections:
+    indexes:
+    - location: 13
+      length: 1
+    - location: 16
+      length: 5
+    - location: 22
+      length: 2
+    - location: 43
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 16
+  text: Skills & Attributes
+  formattingOptions: []
+  position:
+  - 7.0809765625e+2
+  - 1.15490625e+3
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 15
+      length: 1
+    - location: 21
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 17
+  text: Saves
+  formattingOptions: []
+  position:
+  - 7.4925390625e+2
+  - 1.0121796875e+3
+  width: 6e+1
+  connections:
+    indexes:
+    - location: 15
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 18
+  text: Initiative
+  formattingOptions: []
+  position:
+  - 7.615078125e+2
+  - 9.7144140625e+2
+  width: 6e+1
+  connections:
+    indexes:
+    - location: 15
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 19
+  text: HP
+  formattingOptions: []
+  position:
+  - 7.576171875e+2
+  - 1.0529375e+3
+  width: 5e+1
+  connections:
+    indexes:
+    - location: 15
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 20
+  text: AC
+  formattingOptions: []
+  position:
+  - 7.6028125e+2
+  - 1.09614453125e+3
+  width: 5e+1
+  connections:
+    indexes:
+    - location: 15
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 21
+  text: The whole 3-18 thing is legacy. You can ignore it.  The +.- numbers are important
+  formattingOptions: []
+  position:
+  - 8.3594921875e+2
+  - 1.08168359375e+3
+  width: 2.3e+2
+  connections:
+    indexes:
+    - location: 16
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 22
+  text: Gear
+  formattingOptions: []
+  position:
+  - 6.1357421875e+2
+  - 1.17896484375e+3
+  width: 5e+1
+  connections:
+    indexes:
+    - location: 15
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 23
+  text: RP Tools
+  formattingOptions: []
+  position:
+  - 6.78e+2
+  - 1.23571484375e+3
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 15
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 24
+  text: THE DICE
+  fillColorRGB:
+    red: 8.96043e-1
+    green: 9.97437e-1
+    blue: 9.42763e-1
+  formattingOptions:
+  - options: 1
+    rangeStart: 0
+    rangeLength: 8
+  position:
+  - 1.5377734375e+3
+  - 1.27015625e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 25
+      length: 1
+    - location: 33
+      length: 2
+  _effectiveHeight: 1.4e+1
+- ID: 25
+  text: d20
+  formattingOptions:
+  - options: 3
+    rangeStart: 0
+    rangeLength: 3
+  position:
+  - 1.6658671875e+3
+  - 1.0609375e+2
+  width: 4e+1
+  connections:
+    indexes:
+    - location: 24
+      length: 1
+    - location: 26
+      length: 2
+    - location: 31
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 26
+  text: The main one
+  formattingOptions: []
+  position:
+  - 1.7307734375e+3
+  - 4.139453125e+1
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 25
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 27
+  text: Rolling with advantage / disadvantage
+  formattingOptions: []
+  position:
+  - 1.752125e+3
+  - 1.2429296875e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 25
+      length: 1
+    - location: 32
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 28
+  text: Goblins attack
+  formattingOptions: []
+  position:
+  - 1.98534765625e+3
+  - 7.3446484375e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 3
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 29
+  text: Describe your attack, and roll
+  formattingOptions: []
+  position:
+  - 1.99285546875e+3
+  - 7.8523828125e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 3
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 30
+  text: Roll gobbo's initiative too
+  formattingOptions: []
+  position:
+  - 1.8252734375e+3
+  - 7.11171875e+2
+  width: 1.4e+2
+  connections:
+    indexes:
+    - location: 2
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 31
+  text: Each number is 5% probability
+  formattingOptions: []
+  position:
+  - 1.77131640625e+3
+  - 7.318359375e+1
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 25
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 32
+  text: Bell curve
+  formattingOptions: []
+  position:
+  - 1.8844140625e+3
+  - 1.205234375e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 27
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 33
+  text: (describe the others)
+  formattingOptions: []
+  position:
+  - 1.633546875e+3
+  - 1.5468359375e+2
+  width: 1.2e+2
+  connections:
+    indexes:
+    - location: 24
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 34
+  text: What they're used for
+  formattingOptions: []
+  position:
+  - 1.51435546875e+3
+  - 1.9946484375e+2
+  width: 1.3e+2
+  connections:
+    indexes:
+    - location: 24
+      length: 1
+    - location: 35
+      length: 2
+  _effectiveHeight: 1.4e+1
+- ID: 35
+  text: to inject chaos
+  formattingOptions: []
+  position:
+  - 1.67870703125e+3
+  - 1.96109375e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 34
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 36
+  text: The main thing that makes this a game vs just a collaborative novel
+  formattingOptions: []
+  position:
+  - 1.62480078125e+3
+  - 2.3949609375e+2
+  width: 1.7e+2
+  connections:
+    indexes:
+    - location: 34
+      length: 1
+    - location: 37
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 37
+  text: '"I want to do something"
+
+    "ok cool.  That''s pretty easy you just do it"'
+  formattingOptions: []
+  position:
+  - 1.60834375e+3
+  - 3.156875e+2
+  width: 1.9e+2
+  connections:
+    indexes:
+    - location: 36
+      length: 1
+    - location: 38
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 38
+  text: or "You want to leap up and swing on the chandelier. You're currently standing
+    on some kitchen grease, so give me an acrobatics check
+  formattingOptions: []
+  position:
+  - 1.67580859375e+3
+  - 3.8830078125e+2
+  width: 2.2e+2
+  connections:
+    indexes:
+    - location: 37
+      length: 1
+  _effectiveHeight: 5.6e+1
+- ID: 39
+  text: cover this first, and relate other things back to it
+  formattingOptions: []
+  position:
+  - 2.329375e+2
+  - 1.00576171875e+3
+  width: 1.8e+2
+  connections:
+    indexes:
+    - location: 13
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 40
+  text: Intro
+  fillColorRGB:
+    red: 1e+0
+    green: 9.0283e-1
+    blue: 9.76506e-1
+  formattingOptions: []
+  position:
+  - 2.84484375e+2
+  - 3.863671875e+1
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 41
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 41
+  text: Mechanics
+  fillColorRGB:
+    red: 1e+0
+    green: 9.0283e-1
+    blue: 9.76506e-1
+  formattingOptions: []
+  position:
+  - 4.71359375e+2
+  - 4.2046875e+1
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 40
+      length: 1
+    - location: 42
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 42
+  text: Raid
+  fillColorRGB:
+    red: 1e+0
+    green: 9.0283e-1
+    blue: 9.76506e-1
+  formattingOptions: []
+  position:
+  - 6.64890625e+2
+  - 4.056640625e+1
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 41
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 43
+  text: Special Abilities
+  formattingOptions: []
+  position:
+  - 5.0373046875e+2
+  - 1.08333984375e+3
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 15
+      length: 1
+    - location: 44
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 44
+  text: Like Rage
+  formattingOptions:
+  - options: 1
+    rangeStart: 5
+    rangeLength: 4
+  position:
+  - 4.6733984375e+2
+  - 1.1455e+3
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 43
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 45
+  text: TTRPG
+  fillColorRGB:
+    red: 8.96043e-1
+    green: 9.97437e-1
+    blue: 9.42763e-1
+  formattingOptions:
+  - options: 1
+    rangeStart: 0
+    rangeLength: 5
+  position:
+  - 4.80765625e+2
+  - 1.4720703125e+2
+  width: 6e+1
+  connections:
+    indexes:
+    - location: 46
+      length: 2
+    - location: 51
+      length: 1
+    - location: 54
+      length: 1
+    - location: 79
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 46
+  text: '"Tabletop Role Playing Game"'
+  formattingOptions: []
+  position:
+  - 5.85046875e+2
+  - 1.1018359375e+2
+  width: 1.8e+2
+  connections:
+    indexes:
+    - location: 45
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 47
+  text: '"You''ve played RPGs - Zelda, Dragon Age, Skyrim, Mass Effect, etc'
+  formattingOptions: []
+  position:
+  - 5.841171875e+2
+  - 1.512578125e+2
+  width: 2.1e+2
+  connections:
+    indexes:
+    - location: 45
+      length: 1
+    - location: 48
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 48
+  text: '"you, the player are playing a role. You''re not you, you are Commander Sheperd.
+    You make the decisions that you believe Commander Sheperd would make. Or to make
+    the story more interesting'
+  formattingOptions: []
+  position:
+  - 8.6067578125e+2
+  - 1.1755078125e+2
+  width: 2.3e+2
+  connections:
+    indexes:
+    - location: 47
+      length: 1
+  _effectiveHeight: 7e+1
+- ID: 49
+  text: show conversation tree
+  formattingOptions: []
+  position:
+  - 6.826796875e+2
+  - 2.854765625e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 51
+      length: 1
+    - location: 53
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 50
+  text: ''
+  formattingOptions: []
+  position:
+  - 2.99874609375e+3
+  - 1.25689453125e+3
+  width: 1e+2
+  connections:
+    indexes: []
+  _effectiveHeight: 1.4e+1
+- ID: 51
+  text: But this RPG happens literally at a tabletop
+  formattingOptions: []
+  position:
+  - 6.176328125e+2
+  - 2.1309765625e+2
+  width: 1.8e+2
+  connections:
+    indexes:
+    - location: 45
+      length: 1
+    - location: 49
+      length: 1
+    - location: 52
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 52
+  text: (pictures, real / virtual)
+  formattingOptions: []
+  position:
+  - 8.48203125e+2
+  - 2.0906640625e+2
+  width: 1.3e+2
+  connections:
+    indexes:
+    - location: 51
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 53
+  text: But there's no pre-set path given by the developers
+  formattingOptions: []
+  position:
+  - 8.277421875e+2
+  - 3.0407421875e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 49
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 54
+  text: TTRPGs are asymmetric games
+  formattingOptions: []
+  position:
+  - 6.8685546875e+2
+  - 4.05890625e+2
+  width: 1.1e+2
+  connections:
+    indexes:
+    - location: 45
+      length: 1
+    - location: 55
+      length: 2
+  _effectiveHeight: 2.8e+1
+- ID: 55
+  text: Got a bunch of players.  You are role playing one character. Sometimes for
+    years.  My character Bullsai Target has been an ongoing concern for four(?) years
+    now
+  formattingOptions: []
+  position:
+  - 8.2697265625e+2
+  - 4.01578125e+2
+  width: 2.4e+2
+  connections:
+    indexes:
+    - location: 54
+      length: 1
+  _effectiveHeight: 7e+1
+- ID: 56
+  text: Then you have the DM (Dungeon Master - for D&D) or GM (Game Master)
+  formattingOptions: []
+  position:
+  - 7.598984375e+2
+  - 4.95609375e+2
+  width: 2.1e+2
+  connections:
+    indexes:
+    - location: 54
+      length: 1
+    - location: 57
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 57
+  text: Other systems have different names, like Referee, or Keepr of Arcane Lore
+  formattingOptions: []
+  position:
+  - 1.0060859375e+3
+  - 4.953125e+2
+  width: 2.1e+2
+  connections:
+    indexes:
+    - location: 56
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 58
+  text: D&D is High Mideval Fantasy
+  formattingOptions: []
+  position:
+  - 2.5640625e+2
+  - 4.9393359375e+2
+  width: 1.2e+2
+  connections:
+    indexes:
+    - location: 59
+      length: 1
+    - location: 61
+      length: 1
+    - location: 63
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 59
+  text: Swords / sorcery / elves / dwarvs / goblins / dragons
+  formattingOptions: []
+  position:
+  - 1.727421875e+2
+  - 3.783359375e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 58
+      length: 1
+    - location: 60
+      length: 1
+  _effectiveHeight: 5.6e+1
+- ID: 60
+  text: But can be adapted to different genres
+  formattingOptions: []
+  position:
+  - 2.9809765625e+2
+  - 3.7309375e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 59
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 61
+  text: History of edition pictures
+  formattingOptions: []
+  position:
+  - 2.27e+2
+  - 5.538828125e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 58
+      length: 1
+    - location: 62
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 62
+  text: Add pathfinder and offshoots
+  formattingOptions: []
+  position:
+  - 1.1030859375e+2
+  - 6.40109375e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 61
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 63
+  text: 'Genres
+
+    (and hundreds more'
+  fillColorRGB:
+    red: 8.96043e-1
+    green: 9.97437e-1
+    blue: 9.42763e-1
+  formattingOptions: []
+  position:
+  - 3.5306640625e+2
+  - 6.2537109375e+2
+  width: 1.2e+2
+  connections:
+    indexes:
+    - location: 58
+      length: 1
+    - location: 64
+      length: 1
+    - location: 69
+      length: 1
+    - location: 71
+      length: 1
+    - location: 75
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 64
+  text: Sci-fi
+  formattingOptions: []
+  position:
+  - 5.0254296875e+2
+  - 6.0094140625e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 63
+      length: 1
+    - location: 65
+      length: 4
+  _effectiveHeight: 1.4e+1
+- ID: 65
+  text: Star Finder
+  formattingOptions: []
+  position:
+  - 5.8826953125e+2
+  - 5.6495703125e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 64
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 66
+  text: Traveler
+  formattingOptions: []
+  position:
+  - 6.255234375e+2
+  - 5.962421875e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 64
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 67
+  text: Stars without Number
+  formattingOptions: []
+  position:
+  - 6.4982421875e+2
+  - 6.245078125e+2
+  width: 1.3e+2
+  connections:
+    indexes:
+    - location: 64
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 68
+  text: Bounty Hunter
+  formattingOptions: []
+  position:
+  - 6.7692578125e+2
+  - 6.504765625e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 64
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 69
+  text: Courtly intrigue
+  formattingOptions: []
+  position:
+  - 4.992421875e+2
+  - 6.6878515625e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 63
+      length: 1
+    - location: 70
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 70
+  text: Burning Wheel
+  formattingOptions: []
+  position:
+  - 6.166328125e+2
+  - 6.7837109375e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 69
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 71
+  text: Horror
+  formattingOptions: []
+  position:
+  - 5.096953125e+2
+  - 7.394609375e+2
+  width: 6e+1
+  connections:
+    indexes:
+    - location: 63
+      length: 1
+    - location: 72
+      length: 3
+  _effectiveHeight: 1.4e+1
+- ID: 72
+  text: Call of Cthulhu
+  formattingOptions: []
+  position:
+  - 5.8709765625e+2
+  - 7.1695703125e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 71
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 73
+  text: Ten Candles
+  formattingOptions: []
+  position:
+  - 5.9219921875e+2
+  - 7.463984375e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 71
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 74
+  text: Dread - Jenga Tower
+  formattingOptions: []
+  position:
+  - 5.9563671875e+2
+  - 7.7834765625e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 71
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 75
+  text: Comedy
+  formattingOptions: []
+  position:
+  - 2.7693359375e+2
+  - 7.0037109375e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 63
+      length: 1
+    - location: 76
+      length: 3
+  _effectiveHeight: 1.4e+1
+- ID: 76
+  text: Paranoia
+  formattingOptions: []
+  position:
+  - 2.7638671875e+2
+  - 7.5634765625e+2
+  width: 6e+1
+  connections:
+    indexes:
+    - location: 75
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 77
+  text: Kobolds Ate My Baby (in Colour)
+  formattingOptions: []
+  position:
+  - 3.5237109375e+2
+  - 7.5326953125e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 75
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 78
+  text: Honey Heist
+  formattingOptions: []
+  position:
+  - 1.5165234375e+2
+  - 7.37390625e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 75
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 79
+  text: popularity thanks to
+  fillColorRGB:
+    red: 8.96043e-1
+    green: 9.97437e-1
+    blue: 9.42763e-1
+  formattingOptions: []
+  position:
+  - 4.05234375e+2
+  - 2.055234375e+2
+  width: 1.2e+2
+  connections:
+    indexes:
+    - location: 45
+      length: 1
+    - location: 80
+      length: 3
+  _effectiveHeight: 1.4e+1
+- ID: 80
+  text: Critical Role
+  formattingOptions: []
+  position:
+  - 3.4065625e+2
+  - 2.52e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 79
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 81
+  text: Stranger Things
+  formattingOptions: []
+  position:
+  - 3.994296875e+2
+  - 3.0631640625e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 79
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 82
+  text: Online VTTs
+  formattingOptions: []
+  position:
+  - 4.716953125e+2
+  - 2.5549609375e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 79
+      length: 1
+  _effectiveHeight: 1.4e+1
