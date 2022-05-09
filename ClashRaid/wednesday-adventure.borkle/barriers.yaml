@@ -1,0 +1,12 @@
+- ID: 1
+  label: Snorgle
+  horizontalPosition: 1e+2
+  width: 6e+0
+- ID: 2
+  label: Characters
+  horizontalPosition: 3e+2
+  width: 4e+0
+- ID: 3
+  label: Flongwaffle
+  horizontalPosition: 6e+2
+  width: 8e+0
