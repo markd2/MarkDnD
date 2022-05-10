@@ -465,6 +465,10 @@
   _effectiveHeight: 1.4e+1
 - ID: 31
   text: Each number is 5% probability
+  fillColorRGB:
+    red: 8.93993e-1
+    green: 9.92872e-1
+    blue: 1e+0
   formattingOptions: []
   position:
   - 1.94400390625e+3
@@ -1219,10 +1223,14 @@
   _effectiveHeight: 1.4e+1
 - ID: 83
   text: How to read 2d8+3
+  fillColorRGB:
+    red: 8.93993e-1
+    green: 9.92872e-1
+    blue: 1e+0
   formattingOptions: []
   position:
-  - 1.61948046875e+3
-  - 3.6840625e+2
+  - 1.61935546875e+3
+  - 3.6828125e+2
   width: 1e+2
   connections:
     indexes:
@@ -1283,6 +1291,10 @@
   _effectiveHeight: 1.4e+1
 - ID: 87
   text: Then add modifiers
+  fillColorRGB:
+    red: 8.93993e-1
+    green: 9.92872e-1
+    blue: 1e+0
   formattingOptions: []
   position:
   - 2.07605078125e+3
@@ -1731,6 +1743,10 @@
 - ID: 115
   text: Roll dice, add modifiers, see if it meets or beats a target number decided
     by the rules or the DM. The higher the number, the more difficult the challenge
+  fillColorRGB:
+    red: 8.93993e-1
+    green: 9.92872e-1
+    blue: 1e+0
   formattingOptions: []
   position:
   - 1.4031328125e+3
