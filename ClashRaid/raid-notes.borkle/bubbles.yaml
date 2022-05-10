@@ -368,13 +368,17 @@
   _effectiveHeight: 1.4e+1
 - ID: 25
   text: d20
+  fillColorRGB:
+    red: 8.93993e-1
+    green: 9.92872e-1
+    blue: 1e+0
   formattingOptions:
   - options: 3
     rangeStart: 0
     rangeLength: 3
   position:
-  - 1.73234765625e+3
-  - 4.32375e+2
+  - 1.73288671875e+3
+  - 4.3210546875e+2
   width: 4e+1
   connections:
     indexes:
@@ -391,10 +395,14 @@
   _effectiveHeight: 1.4e+1
 - ID: 26
   text: The main one
+  fillColorRGB:
+    red: 8.93993e-1
+    green: 9.92872e-1
+    blue: 1e+0
   formattingOptions: []
   position:
-  - 1.81826953125e+3
-  - 3.7256640625e+2
+  - 1.81880859375e+3
+  - 3.7242578125e+2
   width: 1e+2
   connections:
     indexes:
@@ -403,6 +411,10 @@
   _effectiveHeight: 1.4e+1
 - ID: 27
   text: Rolling with advantage / disadvantage
+  fillColorRGB:
+    red: 8.93993e-1
+    green: 9.92872e-1
+    blue: 1e+0
   formattingOptions: []
   position:
   - 1.90716015625e+3
@@ -455,8 +467,8 @@
   text: Each number is 5% probability
   formattingOptions: []
   position:
-  - 1.94425e+3
-  - 3.6700390625e+2
+  - 1.94400390625e+3
+  - 3.6687890625e+2
   width: 1e+2
   connections:
     indexes:
@@ -467,10 +479,14 @@
   _effectiveHeight: 2.8e+1
 - ID: 32
   text: Bell curve
+  fillColorRGB:
+    red: 8.93993e-1
+    green: 9.92872e-1
+    blue: 1e+0
   formattingOptions: []
   position:
   - 2.11130859375e+3
-  - 5.2525e+2
+  - 5.249765625e+2
   width: 1e+2
   connections:
     indexes:
@@ -479,10 +495,14 @@
   _effectiveHeight: 1.4e+1
 - ID: 33
   text: (describe the others)
+  fillColorRGB:
+    red: 8.93993e-1
+    green: 9.92872e-1
+    blue: 1e+0
   formattingOptions: []
   position:
-  - 1.72104296875e+3
-  - 4.8585546875e+2
+  - 1.72158203125e+3
+  - 4.855859375e+2
   width: 1.2e+2
   connections:
     indexes:
@@ -491,10 +511,14 @@
   _effectiveHeight: 1.4e+1
 - ID: 34
   text: What they're used for
+  fillColorRGB:
+    red: 8.93993e-1
+    green: 9.92872e-1
+    blue: 1e+0
   formattingOptions: []
   position:
-  - 1.6018515625e+3
-  - 5.3063671875e+2
+  - 1.60172265625e+3
+  - 5.305078125e+2
   width: 1.3e+2
   connections:
     indexes:
@@ -507,10 +531,14 @@
   _effectiveHeight: 1.4e+1
 - ID: 35
   text: to inject chaos
+  fillColorRGB:
+    red: 8.93993e-1
+    green: 9.92872e-1
+    blue: 1e+0
   formattingOptions: []
   position:
-  - 1.766203125e+3
-  - 5.2728125e+2
+  - 1.7667421875e+3
+  - 5.2701171875e+2
   width: 1e+2
   connections:
     indexes:
@@ -519,10 +547,14 @@
   _effectiveHeight: 1.4e+1
 - ID: 36
   text: The main thing that makes this a game vs just a collaborative novel
+  fillColorRGB:
+    red: 8.93993e-1
+    green: 9.92872e-1
+    blue: 1e+0
   formattingOptions: []
   position:
-  - 1.712296875e+3
-  - 5.7066796875e+2
+  - 1.71216796875e+3
+  - 5.705390625e+2
   width: 1.7e+2
   connections:
     indexes:
@@ -535,10 +567,14 @@
   text: '"I want to do something"
 
     "ok cool.  That''s pretty easy you just do it"'
+  fillColorRGB:
+    red: 8.93993e-1
+    green: 9.92872e-1
+    blue: 1e+0
   formattingOptions: []
   position:
-  - 1.85448828125e+3
-  - 6.3292578125e+2
+  - 1.854359375e+3
+  - 6.32796875e+2
   width: 1.9e+2
   connections:
     indexes:
@@ -550,10 +586,14 @@
 - ID: 38
   text: or "You want to leap up and swing on the chandelier. You're currently standing
     on some kitchen grease, so give me an acrobatics check
+  fillColorRGB:
+    red: 8.93993e-1
+    green: 9.92872e-1
+    blue: 1e+0
   formattingOptions: []
   position:
-  - 1.92560546875e+3
-  - 7.0722265625e+2
+  - 1.9254765625e+3
+  - 7.0709375e+2
   width: 2.2e+2
   connections:
     indexes:
@@ -850,7 +890,7 @@
     - location: 63
       length: 1
     - location: 122
-      length: 1
+      length: 2
   _effectiveHeight: 2.8e+1
 - ID: 59
   text: Swords / sorcery / elves / dwarvs / goblins / dragons
@@ -1191,10 +1231,14 @@
   _effectiveHeight: 2.8e+1
 - ID: 84
   text: Rolling Multiple Dice
+  fillColorRGB:
+    red: 8.93993e-1
+    green: 9.92872e-1
+    blue: 1e+0
   formattingOptions: []
   position:
   - 1.9232421875e+3
-  - 5.31171875e+2
+  - 5.308984375e+2
   width: 1e+2
   connections:
     indexes:
@@ -1207,6 +1251,10 @@
   text: 'bulging curve
 
     (image)'
+  fillColorRGB:
+    red: 8.93993e-1
+    green: 9.92872e-1
+    blue: 1e+0
   formattingOptions: []
   position:
   - 2.07711328125e+3
@@ -1219,10 +1267,14 @@
   _effectiveHeight: 2.8e+1
 - ID: 86
   text: on attacks - crits
+  fillColorRGB:
+    red: 8.93993e-1
+    green: 9.92872e-1
+    blue: 1e+0
   formattingOptions: []
   position:
-  - 1.90656640625e+3
-  - 4.15703125e+2
+  - 1.9068359375e+3
+  - 4.158359375e+2
   width: 1e+2
   connections:
     indexes:
@@ -1233,7 +1285,7 @@
   text: Then add modifiers
   formattingOptions: []
   position:
-  - 2.076296875e+3
+  - 2.07605078125e+3
   - 3.7138671875e+2
   width: 1.2e+2
   connections:
@@ -1261,9 +1313,9 @@
 - ID: 89
   text: BASIC LOOP
   fillColorRGB:
-    red: 8.96043e-1
-    green: 9.97437e-1
-    blue: 9.42763e-1
+    red: 8.93993e-1
+    green: 9.92872e-1
+    blue: 1e+0
   formattingOptions:
   - options: 1
     rangeStart: 0
@@ -1279,6 +1331,10 @@
   _effectiveHeight: 1.4e+1
 - ID: 90
   text: DM describes the world.
+  fillColorRGB:
+    red: 8.93993e-1
+    green: 9.92872e-1
+    blue: 1e+0
   formattingOptions: []
   position:
   - 1.24115234375e+3
@@ -1293,6 +1349,10 @@
   _effectiveHeight: 1.4e+1
 - ID: 91
   text: '20: Players choose what they want to do'
+  fillColorRGB:
+    red: 8.93993e-1
+    green: 9.92872e-1
+    blue: 1e+0
   formattingOptions: []
   position:
   - 1.24664453125e+3
@@ -1309,6 +1369,10 @@
   text: 'Maybe Rules are invoked.
 
     Maybe dice are rolled'
+  fillColorRGB:
+    red: 8.93993e-1
+    green: 9.92872e-1
+    blue: 1e+0
   formattingOptions: []
   position:
   - 1.24603515625e+3
@@ -1323,6 +1387,10 @@
   _effectiveHeight: 2.8e+1
 - ID: 93
   text: The resulting change of the world is communcated from the DM to the players
+  fillColorRGB:
+    red: 8.93993e-1
+    green: 9.92872e-1
+    blue: 1e+0
   formattingOptions: []
   position:
   - 1.248734375e+3
@@ -1337,6 +1405,10 @@
   _effectiveHeight: 4.2e+1
 - ID: 94
   text: GOTO 20
+  fillColorRGB:
+    red: 8.93993e-1
+    green: 9.92872e-1
+    blue: 1e+0
   formattingOptions: []
   position:
   - 1.2805390625e+3
@@ -1441,9 +1513,13 @@
   _effectiveHeight: 5.6e+1
 - ID: 101
   text: Dice Goblin
+  fillColorRGB:
+    red: 8.93993e-1
+    green: 9.92872e-1
+    blue: 1e+0
   formattingOptions: []
   position:
-  - 1.48999609375e+3
+  - 1.48987109375e+3
   - 4.90125e+2
   width: 1e+2
   connections:
@@ -1563,10 +1639,14 @@
   _effectiveHeight: 4.2e+1
 - ID: 110
   text: Skill Checks
+  fillColorRGB:
+    red: 8.93993e-1
+    green: 9.92872e-1
+    blue: 1e+0
   formattingOptions: []
   position:
-  - 1.36110546875e+3
-  - 5.54015625e+2
+  - 1.36098046875e+3
+  - 5.5413671875e+2
   width: 1e+2
   connections:
     indexes:
@@ -1577,10 +1657,14 @@
   _effectiveHeight: 1.4e+1
 - ID: 111
   text: Saving Throws
+  fillColorRGB:
+    red: 8.93993e-1
+    green: 9.92872e-1
+    blue: 1e+0
   formattingOptions: []
   position:
-  - 1.47696484375e+3
-  - 6.1583203125e+2
+  - 1.4768359375e+3
+  - 6.16078125e+2
   width: 1e+2
   connections:
     indexes:
@@ -1591,10 +1675,14 @@
   _effectiveHeight: 1.4e+1
 - ID: 112
   text: Attack and Damage
+  fillColorRGB:
+    red: 8.93993e-1
+    green: 9.92872e-1
+    blue: 1e+0
   formattingOptions: []
   position:
-  - 1.60701171875e+3
-  - 6.5538671875e+2
+  - 1.6068828125e+3
+  - 6.552578125e+2
   width: 1.2e+2
   connections:
     indexes:
@@ -1623,6 +1711,10 @@
 
 
     These include extra modifiers over and above Saving Throws'
+  fillColorRGB:
+    red: 8.93993e-1
+    green: 9.92872e-1
+    blue: 1e+0
   formattingOptions:
   - options: 2
     rangeStart: 0
@@ -1651,10 +1743,14 @@
   _effectiveHeight: 7e+1
 - ID: 116
   text: These use your base stat adjustments
+  fillColorRGB:
+    red: 8.93993e-1
+    green: 9.92872e-1
+    blue: 1e+0
   formattingOptions: []
   position:
-  - 1.45368359375e+3
-  - 6.5944140625e+2
+  - 1.4535546875e+3
+  - 6.596875e+2
   width: 1e+2
   connections:
     indexes:
@@ -1665,10 +1761,14 @@
   _effectiveHeight: 4.2e+1
 - ID: 117
   text: Things that you don't really have time to prepare for.
+  fillColorRGB:
+    red: 8.93993e-1
+    green: 9.92872e-1
+    blue: 1e+0
   formattingOptions: []
   position:
-  - 1.36030078125e+3
-  - 7.395e+2
+  - 1.360171875e+3
+  - 7.39625e+2
   width: 1.6e+2
   connections:
     indexes:
@@ -1679,10 +1779,14 @@
   _effectiveHeight: 2.8e+1
 - ID: 118
   text: '"The roof caves in.  Give me a DEX save"'
+  fillColorRGB:
+    red: 8.93993e-1
+    green: 9.92872e-1
+    blue: 1e+0
   formattingOptions: []
   position:
-  - 1.294046875e+3
-  - 7.977265625e+2
+  - 1.29391796875e+3
+  - 7.978515625e+2
   width: 1e+2
   connections:
     indexes:
@@ -1692,10 +1796,14 @@
 - ID: 119
   text: A poison dart shoots out of the wall and it hits!  Give me a CON save to see
     if you're posisoned
+  fillColorRGB:
+    red: 8.93993e-1
+    green: 9.92872e-1
+    blue: 1e+0
   formattingOptions: []
   position:
-  - 1.41568359375e+3
-  - 7.9975e+2
+  - 1.4155546875e+3
+  - 7.99875e+2
   width: 1.8e+2
   connections:
     indexes:
@@ -1704,6 +1812,10 @@
   _effectiveHeight: 4.2e+1
 - ID: 120
   text: D&D has its history in wargaming, so beating up on monsters is in its DNA
+  fillColorRGB:
+    red: 8.93993e-1
+    green: 9.92872e-1
+    blue: 1e+0
   formattingOptions: []
   position:
   - 1.62635546875e+3
@@ -1736,11 +1848,28 @@
     * Combat'
   formattingOptions: []
   position:
-  - 4.14671875e+2
-  - 4.151875e+2
+  - 4.496796875e+2
+  - 4.1980859375e+2
   width: 1.3e+2
   connections:
     indexes:
     - location: 58
       length: 1
   _effectiveHeight: 5.6e+1
+- ID: 123
+  text: 'currecny is gold pieces
+
+    (quick chart)'
+  formattingOptions:
+  - options: 2
+    rangeStart: 24
+    rangeLength: 13
+  position:
+  - 4.3314453125e+2
+  - 5.151015625e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 58
+      length: 1
+  _effectiveHeight: 4.2e+1

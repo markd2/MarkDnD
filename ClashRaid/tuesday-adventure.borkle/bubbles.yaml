@@ -5,14 +5,16 @@
     rangeStart: 0
     rangeLength: 13
   position:
-  - 5.495546875e+2
-  - 1.2453125e+2
+  - 5.9487109375e+2
+  - 1.438828125e+2
   width: 1e+2
   connections:
     indexes:
     - location: 2
       length: 1
     - location: 5
+      length: 1
+    - location: 55
       length: 1
   _effectiveHeight: 1.4e+1
 - ID: 2
@@ -23,18 +25,24 @@
     rangeLength: 20
   position:
   - 7.3901953125e+2
-  - 9.09140625e+1
+  - 9.079296875e+1
   width: 1e+2
   connections:
     indexes:
     - location: 1
       length: 1
-    - location: 4
-      length: 1
     - location: 6
       length: 3
     - location: 10
-      length: 3
+      length: 1
+    - location: 12
+      length: 1
+    - location: 15
+      length: 1
+    - location: 56
+      length: 1
+    - location: 66
+      length: 2
   _effectiveHeight: 2.8e+1
 - ID: 3
   text: 'Storage room
@@ -45,29 +53,14 @@
     rangeStart: 0
     rangeLength: 21
   position:
-  - 7.700234375e+2
-  - 3.38453125e+2
+  - 6.8114453125e+2
+  - 3.721484375e+2
   width: 1e+2
   connections:
     indexes:
-    - location: 4
-      length: 1
-  _effectiveHeight: 2.8e+1
-- ID: 4
-  text: Skill Challenge
-  formattingOptions:
-  - options: 1
-    rangeStart: 0
-    rangeLength: 15
-  position:
-  - 6.896171875e+2
-  - 2.72234375e+2
-  width: 1e+2
-  connections:
-    indexes:
-    - location: 2
+    - location: 15
       length: 2
-  _effectiveHeight: 1.4e+1
+  _effectiveHeight: 2.8e+1
 - ID: 5
   text: 'croaker
 
@@ -78,7 +71,7 @@
     rangeLength: 7
   position:
   - 5.545390625e+2
-  - 2.0411328125e+2
+  - 2.2937890625e+2
   width: 1e+2
   connections:
     indexes:
@@ -89,8 +82,8 @@
   text: Big, impressive
   formattingOptions: []
   position:
-  - 8.721171875e+2
-  - 5.7734375e+1
+  - 8.3511328125e+2
+  - 3.784375e+1
   width: 1e+2
   connections:
     indexes:
@@ -98,23 +91,23 @@
       length: 1
   _effectiveHeight: 1.4e+1
 - ID: 7
-  text: array of weapons
+  text: array of weapons everywhere
   formattingOptions: []
   position:
-  - 9.253984375e+2
-  - 1.076953125e+2
+  - 9.099375e+2
+  - 8.019921875e+1
   width: 1e+2
   connections:
     indexes:
     - location: 2
       length: 1
-  _effectiveHeight: 1.4e+1
+  _effectiveHeight: 2.8e+1
 - ID: 8
   text: Gashes in stone floor and wall
   formattingOptions: []
   position:
-  - 1.00378515625e+3
-  - 5.85859375e+1
+  - 9.5942578125e+2
+  - 2.46953125e+1
   width: 1e+2
   connections:
     indexes:
@@ -142,36 +135,28 @@
     rangeStart: 176
     rangeLength: 8
   position:
-  - 6.5859375e+1
-  - 1.0162890625e+2
+  - 9.671484375e+1
+  - 4.136328125e+1
   width: 3e+2
   connections:
-    indexes: []
+    indexes:
+    - location: 53
+      length: 1
+    - location: 57
+      length: 1
   _effectiveHeight: 9.8e+1
 - ID: 10
   text: Piles of body parts
   formattingOptions: []
   position:
-  - 9.08484375e+2
-  - 1.484296875e+2
+  - 8.4946484375e+2
+  - 1.5458203125e+2
   width: 1.2e+2
   connections:
     indexes:
     - location: 2
       length: 1
   _effectiveHeight: 1.4e+1
-- ID: 11
-  text: AAoW pennant on the wall
-  formattingOptions: []
-  position:
-  - 7.06515625e+2
-  - 3.79609375e+1
-  width: 1e+2
-  connections:
-    indexes:
-    - location: 2
-      length: 1
-  _effectiveHeight: 2.8e+1
 - ID: 12
   text: RP opportunities
   formattingOptions:
@@ -179,8 +164,8 @@
     rangeStart: 0
     rangeLength: 16
   position:
-  - 8.0700390625e+2
-  - 1.9714453125e+2
+  - 6.7487109375e+2
+  - 1.803125e+2
   width: 1.2e+2
   connections:
     indexes:
@@ -193,13 +178,12 @@
     Greeter for the Vilesiencer
 
 
-    See: Looks vaguely human.  Maybe elvish.  But something doesn''t seem to be quite
-    right
+    See: Looks vaguely human.  Maybe elvish.  But crossed with a frog
 
     Portray: Bunter.  A butler charged with the comfort and efficiency of his patron.
-    A bit of C3-3PO in the personality
+    A bit of C3-3PO in the personality. hunched body language
 
-    Progress: constructed being (necromancy) '
+    Progress: constructed being (necromancy). Telepathic link with the VileSilencer'
   formattingOptions:
   - options: 1
     rangeStart: 0
@@ -211,15 +195,713 @@
     rangeStart: 37
     rangeLength: 4
   - options: 1
-    rangeStart: 124
+    rangeStart: 103
     rangeLength: 7
   - options: 1
-    rangeStart: 241
+    rangeStart: 243
     rangeLength: 8
   position:
-  - 7.17890625e+1
-  - 2.587109375e+2
-  width: 2.6e+2
+  - 4.678515625e+1
+  - 5.11390625e+2
+  width: 2.8e+2
   connections:
     indexes: []
-  _effectiveHeight: 1.26e+2
+  _effectiveHeight: 1.4e+2
+- ID: 14
+  text: "Deathbringer\nManager of the library\n\nSee: Skinny, almost too skinny human
+    male. Very average height.  Pale skin, black hair covering most of the face, Emo
+    haircut.  Wearing red robes with small skulls decorating.  Religion check - symbols
+    of Myrkul, the lord of bones, \nPortray: Post-Candlekeep DeathBringer.  Looks
+    at Shannon's character a little too long. Trying to recognize you, but doesn't\n"
+  formattingOptions:
+  - options: 2
+    rangeStart: 13
+    rangeLength: 22
+  - options: 1
+    rangeStart: 37
+    rangeLength: 3
+  - options: 1
+    rangeStart: 270
+    rangeLength: 7
+  position:
+  - 1.58109375e+2
+  - 7.1034765625e+2
+  width: 2.9e+2
+  connections:
+    indexes:
+    - location: 27
+      length: 1
+  _effectiveHeight: 1.68e+2
+- ID: 15
+  text: 'Follow Croaker to the storage '
+  formattingOptions:
+  - options: 1
+    rangeStart: 0
+    rangeLength: 30
+  position:
+  - 6.8391796875e+2
+  - 2.650625e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 2
+      length: 2
+    - location: 17
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 16
+  text: DeathBringer, at a desk
+  formattingOptions: []
+  position:
+  - 8.44390625e+2
+  - 3.082265625e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 3
+      length: 1
+    - location: 19
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 17
+  text: Winding hallway.  Lots of branching
+  formattingOptions: []
+  position:
+  - 8.19109375e+2
+  - 2.404609375e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 15
+      length: 1
+    - location: 18
+      length: 1
+    - location: 32
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 18
+  text: L, R, R, L, Straight
+  formattingOptions: []
+  position:
+  - 9.9658203125e+2
+  - 2.1720703125e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 17
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 19
+  text: To advance past here, you need to defeat me in personal combat1
+  formattingOptions: []
+  position:
+  - 8.07640625e+2
+  - 3.92546875e+2
+  width: 1.7e+2
+  connections:
+    indexes:
+    - location: 16
+      length: 1
+    - location: 20
+      length: 2
+  _effectiveHeight: 4.2e+1
+- ID: 20
+  text: Croaker sigjhs heavily, and leaves
+  formattingOptions: []
+  position:
+  - 1.032484375e+3
+  - 3.6951953125e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 19
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 21
+  text: Your choice.  Strength!  Combat!  or Poetry!
+  formattingOptions: []
+  position:
+  - 7.4144921875e+2
+  - 4.9601171875e+2
+  width: 1.7e+2
+  connections:
+    indexes:
+    - location: 19
+      length: 1
+    - location: 22
+      length: 1
+    - location: 24
+      length: 1
+    - location: 37
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 22
+  text: poetry - ruins-ground-floor
+  formattingOptions: []
+  position:
+  - 9.7389453125e+2
+  - 4.729296875e+2
+  width: 1.5e+2
+  connections:
+    indexes:
+    - location: 21
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 23
+  text: With about 10-5 minutes to go - start the skill challenge
+  formattingOptions:
+  - options: 1
+    rangeStart: 0
+    rangeLength: 57
+  position:
+  - 5.8886328125e+2
+  - 6.065625e+2
+  width: 1.7e+2
+  connections:
+    indexes:
+    - location: 25
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 24
+  text: Strength and Combat are laughably bad
+  formattingOptions: []
+  position:
+  - 9.4801953125e+2
+  - 5.14125e+2
+  width: 1.5e+2
+  connections:
+    indexes:
+    - location: 21
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 25
+  text: The ground starts shaking, roof starts caving in
+  formattingOptions: []
+  position:
+  - 6.1202734375e+2
+  - 6.7608984375e+2
+  width: 1.5e+2
+  connections:
+    indexes:
+    - location: 23
+      length: 1
+    - location: 26
+      length: 1
+    - location: 65
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 26
+  text: DeathBringer and crew pop out of secret doors.  "Sorry, you're on your own!
+    VileSilencer's rules"
+  formattingOptions: []
+  position:
+  - 7.7830078125e+2
+  - 7.4748828125e+2
+  width: 1.9e+2
+  connections:
+    indexes:
+    - location: 25
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 27
+  text: Hired by the VileSilencer for his insider information about Candlekeep
+  formattingOptions: []
+  position:
+  - 7.9703125e+1
+  - 8.883046875e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 14
+      length: 1
+    - location: 28
+      length: 1
+  _effectiveHeight: 7e+1
+- ID: 28
+  text: The necromancy angle kind of fits in well with the Myrkul-isms
+  formattingOptions: []
+  position:
+  - 2.5094921875e+2
+  - 8.709921875e+2
+  width: 1.4e+2
+  connections:
+    indexes:
+    - location: 27
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 29
+  text: 'tracing steps backward
+
+    passes a doorway and realize geometry of keep, stairway up - follow me
+
+    T intersection, unsure of the way to go - breeze from the right
+
+    looks at the ground, sees tracks, tries to read the grown
+
+    monk notices and pushes sigard out of the way.
+
+    corridor blocked by a column of stone. concentrating heaves and lifts and hurls
+    the stone out of the way
+
+    as the walls shake and crumble and collapse - it''s a secret door leading up
+
+    about to be crushed, four-way intersection, sigard notices tracks - this way.
+    To the final staircase and freedom'
+  formattingOptions: []
+  position:
+  - 1.2093046875e+3
+  - 1.911328125e+1
+  width: 5.2e+2
+  connections:
+    indexes: []
+  _effectiveHeight: 1.4e+2
+- ID: 30
+  text: Getting out is its own challenge
+  formattingOptions: []
+  position:
+  - 1.17888671875e+3
+  - 2.1093359375e+2
+  width: 1e+2
+  connections:
+    indexes: []
+  _effectiveHeight: 2.8e+1
+- ID: 31
+  text: Taking a montage scene from a movie or a book
+  formattingOptions: []
+  position:
+  - 1.2973359375e+3
+  - 2.1433203125e+2
+  width: 1.5e+2
+  connections:
+    indexes: []
+  _effectiveHeight: 2.8e+1
+- ID: 32
+  text: Goes down a couple of floors
+  formattingOptions: []
+  position:
+  - 9.6428125e+2
+  - 2.668671875e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 17
+      length: 1
+    - location: 43
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 33
+  text: Everyone making skill checks
+  formattingOptions: []
+  position:
+  - 1.49101953125e+3
+  - 2.1358203125e+2
+  width: 1e+2
+  connections:
+    indexes: []
+  _effectiveHeight: 2.8e+1
+- ID: 34
+  text: successes vs failures
+  formattingOptions: []
+  position:
+  - 1.66645703125e+3
+  - 2.0525390625e+2
+  width: 1.2e+2
+  connections:
+    indexes: []
+  _effectiveHeight: 1.4e+1
+- ID: 35
+  text: three failures - end
+  formattingOptions: []
+  position:
+  - 1.404921875e+3
+  - 2.7301171875e+2
+  width: 1.2e+2
+  connections:
+    indexes: []
+  _effectiveHeight: 1.4e+1
+- ID: 36
+  text: athletics or acrobatics if can get out
+  formattingOptions: []
+  position:
+  - 1.1791875e+3
+  - 2.7174609375e+2
+  width: 2e+2
+  connections:
+    indexes: []
+  _effectiveHeight: 1.4e+1
+- ID: 37
+  text: Get the Key!
+  fillColorRGB:
+    red: 1e+0
+    green: 9.0283e-1
+    blue: 9.76506e-1
+  formattingOptions: []
+  position:
+  - 9.630078125e+2
+  - 5.8825390625e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 21
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 38
+  text: 'simple - three successes
+
+    difficult - six or nine'
+  formattingOptions: []
+  position:
+  - 1.56375e+3
+  - 2.6534765625e+2
+  width: 1.4e+2
+  connections:
+    indexes: []
+  _effectiveHeight: 2.8e+1
+- ID: 39
+  text: 'make skill checks '
+  formattingOptions: []
+  position:
+  - 1.1723125e+3
+  - 3.154140625e+2
+  width: 1e+2
+  connections:
+    indexes: []
+  _effectiveHeight: 1.4e+1
+- ID: 40
+  text: Let players know they're in a skill challenge, in a minigame
+  formattingOptions: []
+  position:
+  - 1.29641796875e+3
+  - 3.0763671875e+2
+  width: 1e+2
+  connections:
+    indexes: []
+  _effectiveHeight: 5.6e+1
+- ID: 41
+  text: list or two or three ksills that will work - gives them an idea
+  formattingOptions: []
+  position:
+  - 1.41752734375e+3
+  - 3.103671875e+2
+  width: 1.7e+2
+  connections:
+    indexes:
+    - location: 42
+      length: 1
+    - location: 44
+      length: 2
+  _effectiveHeight: 2.8e+1
+- ID: 42
+  text: survival for retraceing stepsr
+  formattingOptions: []
+  position:
+  - 1.61009375e+3
+  - 3.1897265625e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 41
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 43
+  text: hours
+  formattingOptions: []
+  position:
+  - 9.73390625e+2
+  - 3.2614453125e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 32
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 44
+  text: Insight - shortcut
+  formattingOptions: []
+  position:
+  - 1.43896875e+3
+  - 3.57609375e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 41
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 45
+  text: investigation find secret doors
+  formattingOptions: []
+  position:
+  - 1.571109375e+3
+  - 3.7254296875e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 41
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 46
+  text: DC 13
+  formattingOptions: []
+  position:
+  - 1.25263671875e+3
+  - 3.9144921875e+2
+  width: 5e+1
+  connections:
+    indexes:
+    - location: 47
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 47
+  text: If 18 or highter, two successes
+  formattingOptions: []
+  position:
+  - 1.25747265625e+3
+  - 4.1757421875e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 46
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 48
+  text: nature? - describe to me how she'd describe nature
+  formattingOptions: []
+  position:
+  - 1.3825078125e+3
+  - 3.895859375e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 49
+      length: 1
+  _effectiveHeight: 5.6e+1
+- ID: 49
+  text: roleplaying skills
+  formattingOptions: []
+  position:
+  - 1.529296875e+3
+  - 4.206953125e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 48
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 50
+  text: If they are proficient.
+  formattingOptions: []
+  position:
+  - 1.4900390625e+3
+  - 4.54703125e+2
+  width: 1e+2
+  connections:
+    indexes: []
+  _effectiveHeight: 2.8e+1
+- ID: 51
+  text: avoid - obviously should not be good at this and rolls a 20
+  formattingOptions: []
+  position:
+  - 1.59357421875e+3
+  - 5.090546875e+2
+  width: 1.7e+2
+  connections:
+    indexes: []
+  _effectiveHeight: 2.8e+1
+- ID: 52
+  text: Once you make an attempt - can't try again with that skills
+  formattingOptions: []
+  position:
+  - 1.22545703125e+3
+  - 4.86859375e+2
+  width: 1.6e+2
+  connections:
+    indexes: []
+  _effectiveHeight: 2.8e+1
+- ID: 53
+  text: He's a superfan.
+  formattingOptions: []
+  position:
+  - 3.97890625e+1
+  - 1.907890625e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 9
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 54
+  text: 'Arcane Academy of Waterdeep
+
+
+    Mascot : let the players choose'
+  formattingOptions:
+  - options: 1
+    rangeStart: 0
+    rangeLength: 27
+  position:
+  - 3.95234375e+1
+  - 4.319296875e+2
+  width: 2e+2
+  connections:
+    indexes: []
+  _effectiveHeight: 4.2e+1
+- ID: 55
+  text: Let players describe the teleportation
+  formattingOptions: []
+  position:
+  - 5.3883203125e+2
+  - 3.85859375e+1
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 1
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 56
+  text: A ton of AAW memerobelia - pennants, mascot art and sculptures
+  formattingOptions: []
+  position:
+  - 9.83265625e+2
+  - 1.238203125e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 2
+      length: 1
+  _effectiveHeight: 7e+1
+- ID: 57
+  text: Generally private, just interested in his own studies
+  formattingOptions: []
+  position:
+  - 5.2890625e+1
+  - 2.3610546875e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 9
+      length: 1
+    - location: 58
+      length: 3
+  _effectiveHeight: 2.8e+1
+- ID: 58
+  text: Created beings for recreational combat
+  formattingOptions: []
+  position:
+  - 2.2226953125e+2
+  - 1.643046875e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 57
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 59
+  text: Knowledge for knowledge's sake
+  formattingOptions: []
+  position:
+  - 2.6423046875e+2
+  - 2.3851171875e+2
+  width: 1.1e+2
+  connections:
+    indexes:
+    - location: 57
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 60
+  text: VileSilencer is an earned title in the Orcish society
+  formattingOptions: []
+  position:
+  - 1.19390625e+2
+  - 3.15578125e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 57
+      length: 1
+    - location: 61
+      length: 4
+  _effectiveHeight: 4.2e+1
+- ID: 61
+  text: Balance of combat, arcana, and esoteric knowledge
+  formattingOptions: []
+  position:
+  - 2.569609375e+2
+  - 2.88953125e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 60
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 62
+  text: earned through a series of calndestine assassinations
+  formattingOptions: []
+  position:
+  - 2.7753515625e+2
+  - 3.3958203125e+2
+  width: 1.5e+2
+  connections:
+    indexes:
+    - location: 60
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 63
+  text: There is a higher rank, but its title and requirements are unknown
+  formattingOptions: []
+  position:
+  - 2.7598046875e+2
+  - 3.983359375e+2
+  width: 1.5e+2
+  connections:
+    indexes:
+    - location: 60
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 64
+  text: Not a pleasant connotation
+  formattingOptions: []
+  position:
+  - 8.38359375e+1
+  - 3.8315234375e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 60
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 65
+  text: '"ut oh, we''ve got another shift happening.  Evacuate!"'
+  formattingOptions: []
+  position:
+  - 6.15375e+2
+  - 7.769765625e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 25
+      length: 1
+  _effectiveHeight: 5.6e+1
+- ID: 66
+  text: organized disorganization
+  formattingOptions: []
+  position:
+  - 6.834609375e+2
+  - 3.82109375e+1
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 2
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 67
+  text: piles of notebooks
+  formattingOptions: []
+  position:
+  - 8.0276953125e+2
+  - 1.9978515625e+2
+  width: 1.2e+2
+  connections:
+    indexes:
+    - location: 2
+      length: 1
+  _effectiveHeight: 1.4e+1
