@@ -1,12 +1,16 @@
 - ID: 1
   text: Entrance Room
+  fillColorRGB:
+    red: 8.93993e-1
+    green: 9.92872e-1
+    blue: 1e+0
   formattingOptions:
   - options: 1
     rangeStart: 0
     rangeLength: 13
   position:
-  - 5.9487109375e+2
-  - 1.438828125e+2
+  - 5.9274609375e+2
+  - 2.8344921875e+2
   width: 1e+2
   connections:
     indexes:
@@ -24,8 +28,8 @@
     rangeStart: 0
     rangeLength: 20
   position:
-  - 7.3901953125e+2
-  - 9.079296875e+1
+  - 7.36765625e+2
+  - 2.3023046875e+2
   width: 1e+2
   connections:
     indexes:
@@ -42,7 +46,7 @@
     - location: 56
       length: 1
     - location: 66
-      length: 2
+      length: 4
   _effectiveHeight: 2.8e+1
 - ID: 3
   text: 'Storage room
@@ -53,8 +57,8 @@
     rangeStart: 0
     rangeLength: 21
   position:
-  - 6.8114453125e+2
-  - 3.721484375e+2
+  - 7.0569140625e+2
+  - 4.765078125e+2
   width: 1e+2
   connections:
     indexes:
@@ -65,13 +69,17 @@
   text: 'croaker
 
     oh! why are you here? do you have an appointment with the vilesilencer?'
+  fillColorRGB:
+    red: 8.93993e-1
+    green: 9.92872e-1
+    blue: 1e+0
   formattingOptions:
   - options: 1
     rangeStart: 0
     rangeLength: 7
   position:
-  - 5.545390625e+2
-  - 2.2937890625e+2
+  - 5.524140625e+2
+  - 3.690703125e+2
   width: 1e+2
   connections:
     indexes:
@@ -82,8 +90,8 @@
   text: Big, impressive
   formattingOptions: []
   position:
-  - 8.3511328125e+2
-  - 3.784375e+1
+  - 8.3298828125e+2
+  - 1.7741015625e+2
   width: 1e+2
   connections:
     indexes:
@@ -92,10 +100,14 @@
   _effectiveHeight: 1.4e+1
 - ID: 7
   text: array of weapons everywhere
+  fillColorRGB:
+    red: 8.93993e-1
+    green: 9.92872e-1
+    blue: 1e+0
   formattingOptions: []
   position:
-  - 9.099375e+2
-  - 8.019921875e+1
+  - 9.078125e+2
+  - 2.19765625e+2
   width: 1e+2
   connections:
     indexes:
@@ -104,10 +116,14 @@
   _effectiveHeight: 2.8e+1
 - ID: 8
   text: Gashes in stone floor and wall
+  fillColorRGB:
+    red: 8.93993e-1
+    green: 9.92872e-1
+    blue: 1e+0
   formattingOptions: []
   position:
-  - 9.5942578125e+2
-  - 2.46953125e+1
+  - 9.5730078125e+2
+  - 1.6426171875e+2
   width: 1e+2
   connections:
     indexes:
@@ -115,28 +131,28 @@
       length: 1
   _effectiveHeight: 2.8e+1
 - ID: 9
-  text: "Darebgar, VileSilencer\nOwner of the key\n\nSee: Massively Strong Orc\nPortray:
+  text: "Daregar, VileSilencer\nOwner of the key\n\nSee: Massively Strong Orc\nPortray:
     Restrained, but an undercurrent of violence.\n         Former student at Arcane
     Academy of Waterdeep\nProgress: Working on necromancy"
   formattingOptions:
   - options: 1
     rangeStart: 0
-    rangeLength: 22
+    rangeLength: 21
   - options: 2
-    rangeStart: 23
+    rangeStart: 22
     rangeLength: 16
   - options: 1
-    rangeStart: 41
+    rangeStart: 40
     rangeLength: 3
   - options: 1
-    rangeStart: 67
+    rangeStart: 66
     rangeLength: 7
   - options: 1
-    rangeStart: 176
+    rangeStart: 175
     rangeLength: 8
   position:
   - 9.671484375e+1
-  - 4.136328125e+1
+  - 4.12774658203125e+1
   width: 3e+2
   connections:
     indexes:
@@ -147,10 +163,14 @@
   _effectiveHeight: 9.8e+1
 - ID: 10
   text: Piles of body parts
+  fillColorRGB:
+    red: 8.93993e-1
+    green: 9.92872e-1
+    blue: 1e+0
   formattingOptions: []
   position:
-  - 8.4946484375e+2
-  - 1.5458203125e+2
+  - 8.4721484375e+2
+  - 2.940234375e+2
   width: 1.2e+2
   connections:
     indexes:
@@ -164,8 +184,8 @@
     rangeStart: 0
     rangeLength: 16
   position:
-  - 6.7487109375e+2
-  - 1.803125e+2
+  - 6.7274609375e+2
+  - 3.1987890625e+2
   width: 1.2e+2
   connections:
     indexes:
@@ -224,8 +244,8 @@
     rangeStart: 270
     rangeLength: 7
   position:
-  - 1.58109375e+2
-  - 7.1034765625e+2
+  - 1.7605078125e+2
+  - 6.9686328125e+2
   width: 2.9e+2
   connections:
     indexes:
@@ -239,8 +259,8 @@
     rangeStart: 0
     rangeLength: 30
   position:
-  - 6.8391796875e+2
-  - 2.650625e+2
+  - 6.738125e+2
+  - 4.0315625e+2
   width: 1e+2
   connections:
     indexes:
@@ -253,8 +273,8 @@
   text: DeathBringer, at a desk
   formattingOptions: []
   position:
-  - 8.44390625e+2
-  - 3.082265625e+2
+  - 8.42265625e+2
+  - 4.4779296875e+2
   width: 1e+2
   connections:
     indexes:
@@ -267,8 +287,8 @@
   text: Winding hallway.  Lots of branching
   formattingOptions: []
   position:
-  - 8.19109375e+2
-  - 2.404609375e+2
+  - 8.16984375e+2
+  - 3.8002734375e+2
   width: 1e+2
   connections:
     indexes:
@@ -283,8 +303,8 @@
   text: L, R, R, L, Straight
   formattingOptions: []
   position:
-  - 9.9658203125e+2
-  - 2.1720703125e+2
+  - 9.9445703125e+2
+  - 3.567734375e+2
   width: 1e+2
   connections:
     indexes:
@@ -295,8 +315,8 @@
   text: To advance past here, you need to defeat me in personal combat1
   formattingOptions: []
   position:
-  - 8.07640625e+2
-  - 3.92546875e+2
+  - 8.05640625e+2
+  - 5.31984375e+2
   width: 1.7e+2
   connections:
     indexes:
@@ -309,8 +329,8 @@
   text: Croaker sigjhs heavily, and leaves
   formattingOptions: []
   position:
-  - 1.032484375e+3
-  - 3.6951953125e+2
+  - 1.030359375e+3
+  - 5.090859375e+2
   width: 1e+2
   connections:
     indexes:
@@ -321,8 +341,8 @@
   text: Your choice.  Strength!  Combat!  or Poetry!
   formattingOptions: []
   position:
-  - 7.4144921875e+2
-  - 4.9601171875e+2
+  - 7.3932421875e+2
+  - 6.35578125e+2
   width: 1.7e+2
   connections:
     indexes:
@@ -339,8 +359,8 @@
   text: poetry - ruins-ground-floor
   formattingOptions: []
   position:
-  - 9.7389453125e+2
-  - 4.729296875e+2
+  - 9.7176953125e+2
+  - 6.1249609375e+2
   width: 1.5e+2
   connections:
     indexes:
@@ -354,8 +374,8 @@
     rangeStart: 0
     rangeLength: 57
   position:
-  - 5.8886328125e+2
-  - 6.065625e+2
+  - 5.5488671875e+2
+  - 6.8821875e+2
   width: 1.7e+2
   connections:
     indexes:
@@ -366,8 +386,8 @@
   text: Strength and Combat are laughably bad
   formattingOptions: []
   position:
-  - 9.4801953125e+2
-  - 5.14125e+2
+  - 9.4589453125e+2
+  - 6.5369140625e+2
   width: 1.5e+2
   connections:
     indexes:
@@ -378,8 +398,8 @@
   text: The ground starts shaking, roof starts caving in
   formattingOptions: []
   position:
-  - 6.1202734375e+2
-  - 6.7608984375e+2
+  - 6.4744140625e+2
+  - 7.5198828125e+2
   width: 1.5e+2
   connections:
     indexes:
@@ -395,8 +415,8 @@
     VileSilencer's rules"
   formattingOptions: []
   position:
-  - 7.7830078125e+2
-  - 7.4748828125e+2
+  - 7.7509375e+2
+  - 8.4994921875e+2
   width: 1.9e+2
   connections:
     indexes:
@@ -407,8 +427,8 @@
   text: Hired by the VileSilencer for his insider information about Candlekeep
   formattingOptions: []
   position:
-  - 7.9703125e+1
-  - 8.883046875e+2
+  - 4.673828125e+1
+  - 7.4190625e+2
   width: 1e+2
   connections:
     indexes:
@@ -421,8 +441,8 @@
   text: The necromancy angle kind of fits in well with the Myrkul-isms
   formattingOptions: []
   position:
-  - 2.5094921875e+2
-  - 8.709921875e+2
+  - 5.0671875e+1
+  - 9.1664453125e+2
   width: 1.4e+2
   connections:
     indexes:
@@ -479,8 +499,8 @@
   text: Goes down a couple of floors
   formattingOptions: []
   position:
-  - 9.6428125e+2
-  - 2.668671875e+2
+  - 9.6215625e+2
+  - 4.0643359375e+2
   width: 1e+2
   connections:
     indexes:
@@ -537,8 +557,8 @@
     blue: 9.76506e-1
   formattingOptions: []
   position:
-  - 9.630078125e+2
-  - 5.8825390625e+2
+  - 9.608828125e+2
+  - 7.278203125e+2
   width: 1e+2
   connections:
     indexes:
@@ -607,8 +627,8 @@
   text: hours
   formattingOptions: []
   position:
-  - 9.73390625e+2
-  - 3.2614453125e+2
+  - 9.71265625e+2
+  - 4.657109375e+2
   width: 1e+2
   connections:
     indexes:
@@ -747,10 +767,14 @@
   _effectiveHeight: 4.2e+1
 - ID: 55
   text: Let players describe the teleportation
+  fillColorRGB:
+    red: 8.93993e-1
+    green: 9.92872e-1
+    blue: 1e+0
   formattingOptions: []
   position:
-  - 5.3883203125e+2
-  - 3.85859375e+1
+  - 5.3670703125e+2
+  - 1.7827734375e+2
   width: 1e+2
   connections:
     indexes:
@@ -759,10 +783,14 @@
   _effectiveHeight: 4.2e+1
 - ID: 56
   text: A ton of AAW memerobelia - pennants, mascot art and sculptures
+  fillColorRGB:
+    red: 8.93993e-1
+    green: 9.92872e-1
+    blue: 1e+0
   formattingOptions: []
   position:
-  - 9.83265625e+2
-  - 1.238203125e+2
+  - 9.8101171875e+2
+  - 2.632578125e+2
   width: 1e+2
   connections:
     indexes:
@@ -811,8 +839,8 @@
   text: VileSilencer is an earned title in the Orcish society
   formattingOptions: []
   position:
-  - 1.19390625e+2
-  - 3.15578125e+2
+  - 1.0579296875e+2
+  - 3.0655078125e+2
   width: 1e+2
   connections:
     indexes:
@@ -837,7 +865,7 @@
   text: earned through a series of calndestine assassinations
   formattingOptions: []
   position:
-  - 2.7753515625e+2
+  - 3.1196484375e+2
   - 3.3958203125e+2
   width: 1.5e+2
   connections:
@@ -849,8 +877,8 @@
   text: There is a higher rank, but its title and requirements are unknown
   formattingOptions: []
   position:
-  - 2.7598046875e+2
-  - 3.983359375e+2
+  - 2.7185546875e+2
+  - 3.8301953125e+2
   width: 1.5e+2
   connections:
     indexes:
@@ -861,8 +889,8 @@
   text: Not a pleasant connotation
   formattingOptions: []
   position:
-  - 8.38359375e+1
-  - 3.8315234375e+2
+  - 4.4e+1
+  - 3.756015625e+2
   width: 1e+2
   connections:
     indexes:
@@ -873,8 +901,8 @@
   text: '"ut oh, we''ve got another shift happening.  Evacuate!"'
   formattingOptions: []
   position:
-  - 6.15375e+2
-  - 7.769765625e+2
+  - 5.66296875e+2
+  - 8.3615625e+2
   width: 1e+2
   connections:
     indexes:
@@ -885,8 +913,8 @@
   text: organized disorganization
   formattingOptions: []
   position:
-  - 6.834609375e+2
-  - 3.82109375e+1
+  - 6.465e+2
+  - 1.6351953125e+2
   width: 1e+2
   connections:
     indexes:
@@ -895,13 +923,55 @@
   _effectiveHeight: 2.8e+1
 - ID: 67
   text: piles of notebooks
+  fillColorRGB:
+    red: 8.93993e-1
+    green: 9.92872e-1
+    blue: 1e+0
   formattingOptions: []
   position:
-  - 8.0276953125e+2
-  - 1.9978515625e+2
+  - 8.0064453125e+2
+  - 3.393515625e+2
   width: 1.2e+2
   connections:
     indexes:
     - location: 2
       length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 68
+  text: '"ooh, is that one of the Dean''s homing crystals. Can I see it?'
+  fillColorRGB:
+    red: 8.93993e-1
+    green: 9.92872e-1
+    blue: 1e+0
+  formattingOptions: []
+  position:
+  - 7.0428515625e+2
+  - 5.628515625e+1
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 2
+      length: 1
+  _effectiveHeight: 5.6e+1
+- ID: 69
+  text: Dean Deen
+  formattingOptions: []
+  position:
+  - 8.2748046875e+2
+  - 7.366796875e+1
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 2
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 70
+  text: Profesor McGullable
+  formattingOptions: []
+  position:
+  - 9.44234375e+2
+  - 5.11640625e+1
+  width: 1.3e+2
+  connections:
+    indexes: []
   _effectiveHeight: 1.4e+1
