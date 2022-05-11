@@ -1,1 +1,927 @@
-[]
+- ID: 1
+  text: GOBLINS
+  fillColorRGB:
+    red: 1e+0
+    green: 9.0283e-1
+    blue: 9.76506e-1
+  formattingOptions: []
+  position:
+  - 1.1171484375e+2
+  - 7.673046875e+1
+  width: 1e+2
+  connections:
+    indexes: []
+  _effectiveHeight: 1.4e+1
+- ID: 2
+  text: '"Rogabrin"'
+  formattingOptions: []
+  position:
+  - 6.41328125e+1
+  - 1.237421875e+2
+  width: 7e+1
+  connections:
+    indexes:
+    - location: 3
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 3
+  text: More Of Us
+  formattingOptions: []
+  position:
+  - 4.197265625e+1
+  - 1.7508984375e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 2
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 4
+  text: Why Candlekeep(e)
+  formattingOptions: []
+  position:
+  - 8.0017578125e+2
+  - 3.131640625e+1
+  width: 1.2e+2
+  connections:
+    indexes:
+    - location: 5
+      length: 2
+  _effectiveHeight: 1.4e+1
+- ID: 5
+  text: They want information
+  formattingOptions: []
+  position:
+  - 7.622578125e+2
+  - 8.85625e+1
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 4
+      length: 1
+    - location: 8
+      length: 1
+    - location: 34
+      length: 2
+  _effectiveHeight: 2.8e+1
+- ID: 6
+  text: After the ... incident with Stonky J Noptopper, many visitors left, some staff
+    resigned. The place is a bit of a ghost town now
+  formattingOptions: []
+  position:
+  - 9.832421875e+2
+  - 1.97265625e+1
+  width: 2.5e+2
+  connections:
+    indexes:
+    - location: 4
+      length: 1
+    - location: 7
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 7
+  text: Party still waiting for Great Reader A'lai Aivenmore
+  formattingOptions: []
+  position:
+  - 1.06162231445312e+3
+  - 9.17892150878906e+1
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 6
+      length: 1
+    - location: 49
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 8
+  text: Gobbos unfairly barred from candlekeep
+  formattingOptions: []
+  position:
+  - 6.4659765625e+2
+  - 1.5531640625e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 5
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 9
+  text: War Spider and Queen  Bargnot are outside the front gate
+  formattingOptions: []
+  position:
+  - 7.8545703125e+2
+  - 2.474765625e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 10
+      length: 1
+  _effectiveHeight: 5.6e+1
+- ID: 10
+  text: Advance wave is exploiting a flaw in the wall
+  formattingOptions: []
+  position:
+  - 9.02870483398438e+2
+  - 2.18476531982422e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 9
+      length: 1
+    - location: 11
+      length: 2
+  _effectiveHeight: 4.2e+1
+- ID: 11
+  text: near the place where party is staying
+  formattingOptions: []
+  position:
+  - 1.02002807617188e+3
+  - 2.83106903076172e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 10
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 12
+  text: Plan is to come in, and open the gate from the inside
+  formattingOptions: []
+  position:
+  - 8.84771545410156e+2
+  - 3.51070678710938e+2
+  width: 1.4e+2
+  connections:
+    indexes:
+    - location: 10
+      length: 1
+    - location: 13
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 13
+  text: Goblin assassins for taking care of the guards on the inside
+  formattingOptions: []
+  position:
+  - 1.04529992675781e+3
+  - 4.0692236328125e+2
+  width: 1.3e+2
+  connections:
+    indexes:
+    - location: 12
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 14
+  text: By the tavern
+  formattingOptions: []
+  position:
+  - 1.477359375e+3
+  - 4.9827734375e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 18
+      length: 1
+    - location: 20
+      length: 1
+    - location: 40
+      length: 1
+    - location: 42
+      length: 1
+    - location: 46
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 15
+  text: Front Gate
+  formattingOptions: []
+  position:
+  - 1.5826640625e+3
+  - 6.759375e+1
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 16
+      length: 2
+    - location: 53
+      length: 2
+    - location: 56
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 16
+  text: War Spider
+  fillColorRGB:
+    red: 8.93993e-1
+    green: 9.92872e-1
+    blue: 1e+0
+  formattingOptions: []
+  position:
+  - 1.44871875e+3
+  - 1.2395703125e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 15
+      length: 1
+    - location: 50
+      length: 1
+    - location: 55
+      length: 1
+    - location: 59
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 17
+  text: Queen Bargnot
+  fillColorRGB:
+    red: 8.93993e-1
+    green: 9.92872e-1
+    blue: 1e+0
+  formattingOptions: []
+  position:
+  - 1.57043359375e+3
+  - 1.330546875e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 15
+      length: 1
+    - location: 51
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 18
+  text: 4 Goblin Assassins
+  fillColorRGB:
+    red: 8.93993e-1
+    green: 9.92872e-1
+    blue: 1e+0
+  formattingOptions: []
+  position:
+  - 1.46315234375e+3
+  - 5.69546875e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 14
+      length: 1
+    - location: 39
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 20
+  text: 2 Goblin Snipers
+  fillColorRGB:
+    red: 8.93993e-1
+    green: 9.92872e-1
+    blue: 1e+0
+  formattingOptions: []
+  position:
+  - 1.62427734375e+3
+  - 5.4716796875e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 14
+      length: 1
+    - location: 36
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 22
+  text: Long arms / Prehensile toes
+  formattingOptions: []
+  position:
+  - 2.352890625e+2
+  - 1.0729296875e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 23
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 23
+  text: Can be arborial
+  formattingOptions: []
+  position:
+  - 1.9821484375e+2
+  - 1.8590234375e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 22
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 24
+  text: They thrive by working together
+  formattingOptions: []
+  position:
+  - 3.5629296875e+2
+  - 8.8921875e+1
+  width: 1e+2
+  connections:
+    indexes: []
+  _effectiveHeight: 2.8e+1
+- ID: 25
+  text: Mobile and seneaky
+  formattingOptions: []
+  position:
+  - 3.9492578125e+2
+  - 1.63109375e+2
+  width: 1.2e+2
+  connections:
+    indexes: []
+  _effectiveHeight: 1.4e+1
+- ID: 26
+  text: Skirmisers run wild through battle, hacking at their enemie's knnes
+  formattingOptions: []
+  position:
+  - 9.202734375e+1
+  - 2.71265625e+2
+  width: 1.6e+2
+  connections:
+    indexes: []
+  _effectiveHeight: 4.2e+1
+- ID: 28
+  text: 'Skitterling
+
+
+    Six-legged rodent the size of a housecat.
+
+    Fly. attack with clawed feetsies
+
+    Look like scurrying through the air
+
+
+    Feet secrete toxin causing temporary blindness'
+  formattingOptions:
+  - options: 1
+    rangeStart: 0
+    rangeLength: 11
+  position:
+  - 7.008203125e+1
+  - 3.8116015625e+2
+  width: 2e+2
+  connections:
+    indexes: []
+  _effectiveHeight: 1.26e+2
+- ID: 29
+  text: Sam asleep on the roof.
+  formattingOptions: []
+  position:
+  - 7.0974609375e+2
+  - 4.995078125e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 30
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 30
+  text: Sees some skitterlings in the dark
+  formattingOptions: []
+  position:
+  - 7.6605078125e+2
+  - 5.6505859375e+2
+  width: 1.3e+2
+  connections:
+    indexes:
+    - location: 29
+      length: 1
+    - location: 31
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 31
+  text: air patrol
+  formattingOptions: []
+  position:
+  - 9.1098828125e+2
+  - 5.186171875e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 30
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 32
+  text: 'War Spider
+
+
+    Enormous arachnid mount
+
+    Bladed legs.
+
+    Archers fire from a platform
+
+    Flicks warriors into the air'
+  formattingOptions:
+  - options: 1
+    rangeStart: 0
+    rangeLength: 11
+  position:
+  - 3.056796875e+2
+  - 3.7422265625e+2
+  width: 1.6e+2
+  connections:
+    indexes: []
+  _effectiveHeight: 8.4e+1
+- ID: 33
+  text: 'Queen Bargnot
+
+
+    Scourge of the High roads
+
+    Leads the Jagged Edge Goblins.
+
+    Leads from the the battle until half-HP, then moves back'
+  formattingOptions:
+  - options: 1
+    rangeStart: 0
+    rangeLength: 13
+  position:
+  - 2.9772265625e+2
+  - 2.5037109375e+2
+  width: 2.3e+2
+  connections:
+    indexes: []
+  _effectiveHeight: 8.4e+1
+- ID: 34
+  text: Species history
+  formattingOptions: []
+  position:
+  - 7.7176171875e+2
+  - 1.707265625e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 5
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 35
+  text: Powerful magics
+  formattingOptions: []
+  position:
+  - 8.5899609375e+2
+  - 1.339140625e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 5
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 36
+  text: Taking position for coverage in the courtyard
+  formattingOptions: []
+  position:
+  - 1.61540234375e+3
+  - 5.9729296875e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 20
+      length: 1
+    - location: 37
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 37
+  text: First taking position on top of the House of Rest
+  formattingOptions: []
+  position:
+  - 1.61875e+3
+  - 6.7616796875e+2
+  width: 1.2e+2
+  connections:
+    indexes:
+    - location: 36
+      length: 1
+    - location: 38
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 38
+  text: Then moving over to the Smithy and stables roof
+  formattingOptions: []
+  position:
+  - 1.68269921875e+3
+  - 7.5132421875e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 37
+      length: 1
+  _effectiveHeight: 5.6e+1
+- ID: 39
+  text: Tasked with dispatching guards and opening gates
+  formattingOptions: []
+  position:
+  - 1.41976953125e+3
+  - 6.5536328125e+2
+  width: 1.5e+2
+  connections:
+    indexes:
+    - location: 18
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 40
+  text: Goblin Boss
+  fillColorRGB:
+    red: 8.93993e-1
+    green: 9.92872e-1
+    blue: 1e+0
+  formattingOptions: []
+  position:
+  - 1.3180390625e+3
+  - 4.8253515625e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 14
+      length: 1
+    - location: 41
+      length: 1
+    - location: 44
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 41
+  text: In charge of this squad
+  formattingOptions: []
+  position:
+  - 1.2900546875e+3
+  - 4.211328125e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 40
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 42
+  text: 5 Goblin Minions
+  fillColorRGB:
+    red: 8.93993e-1
+    green: 9.92872e-1
+    blue: 1e+0
+  formattingOptions: []
+  position:
+  - 1.4018125e+3
+  - 3.922734375e+2
+  width: 1.2e+2
+  connections:
+    indexes:
+    - location: 14
+      length: 1
+    - location: 43
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 43
+  text: hang out with the boss
+  formattingOptions: []
+  position:
+  - 1.34876171875e+3
+  - 3.2971875e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 42
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 44
+  text: Second wave after the assassins
+  formattingOptions: []
+  position:
+  - 1.2935390625e+3
+  - 5.22265625e+2
+  width: 1.2e+2
+  connections:
+    indexes:
+    - location: 40
+      length: 1
+    - location: 45
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 45
+  text: Should they fail, the boss gets the door
+  formattingOptions: []
+  position:
+  - 1.3080625e+3
+  - 5.7459765625e+2
+  width: 1.3e+2
+  connections:
+    indexes:
+    - location: 44
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 46
+  text: 2 Skitterlings
+  fillColorRGB:
+    red: 8.93993e-1
+    green: 9.92872e-1
+    blue: 1e+0
+  formattingOptions: []
+  position:
+  - 1.52729296875e+3
+  - 4.2546484375e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 14
+      length: 1
+    - location: 47
+      length: 2
+  _effectiveHeight: 1.4e+1
+- ID: 47
+  text: air recon
+  formattingOptions: []
+  position:
+  - 1.68925390625e+3
+  - 4.0373046875e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 46
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 48
+  text: trained to return and chitter if they see a mob of non-goblins
+  formattingOptions: []
+  position:
+  - 1.63687109375e+3
+  - 4.568359375e+2
+  width: 1.5e+2
+  connections:
+    indexes:
+    - location: 46
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 49
+  text: She shows up at the end and gives the elven salute    t(-_-t)
+  formattingOptions: []
+  position:
+  - 1.09875244140625e+3
+  - 1.5488330078125e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 7
+      length: 1
+  _effectiveHeight: 5.6e+1
+- ID: 50
+  text: 2 Goblin Snipers
+  fillColorRGB:
+    red: 8.93993e-1
+    green: 9.92872e-1
+    blue: 1e+0
+  formattingOptions: []
+  position:
+  - 1.3136796875e+3
+  - 1.1606640625e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 16
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 51
+  text: Goblin Spinecleaver
+  fillColorRGB:
+    red: 8.93993e-1
+    green: 9.92872e-1
+    blue: 1e+0
+  formattingOptions: []
+  position:
+  - 1.52955078125e+3
+  - 1.8834375e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 17
+      length: 1
+    - location: 52
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 52
+  text: queen's personal bodyguard
+  formattingOptions: []
+  position:
+  - 1.539234375e+3
+  - 2.5491015625e+2
+  width: 1.4e+2
+  connections:
+    indexes:
+    - location: 51
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 53
+  text: 4 Skitterlings
+  fillColorRGB:
+    red: 8.93993e-1
+    green: 9.92872e-1
+    blue: 1e+0
+  formattingOptions: []
+  position:
+  - 1.7043828125e+3
+  - 2.995703125e+1
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 15
+      length: 1
+    - location: 57
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 54
+  text: Goblin Cursespitter
+  fillColorRGB:
+    red: 8.93993e-1
+    green: 9.92872e-1
+    blue: 1e+0
+  formattingOptions: []
+  position:
+  - 1.7035e+3
+  - 1.2865625e+2
+  width: 1.2e+2
+  connections:
+    indexes:
+    - location: 15
+      length: 1
+    - location: 58
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 55
+  text: 5 Goblin Minions
+  fillColorRGB:
+    red: 8.93993e-1
+    green: 9.92872e-1
+    blue: 1e+0
+  formattingOptions: []
+  position:
+  - 1.40666796875e+3
+  - 1.944765625e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 16
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 56
+  text: 20 Goblin Minions
+  fillColorRGB:
+    red: 8.93993e-1
+    green: 9.92872e-1
+    blue: 1e+0
+  formattingOptions: []
+  position:
+  - 1.5047265625e+3
+  - 1.88671875e+1
+  width: 1.2e+2
+  connections:
+    indexes:
+    - location: 15
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 57
+  text: Forward air support
+  formattingOptions: []
+  position:
+  - 1.71931640625e+3
+  - 7.120703125e+1
+  width: 1.2e+2
+  connections:
+    indexes:
+    - location: 53
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 58
+  text: moves folks on the battlefield
+  formattingOptions: []
+  position:
+  - 1.727578125e+3
+  - 1.74296875e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 54
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 59
+  text: 2 Goblin Spinecleavers
+  fillColorRGB:
+    red: 8.93993e-1
+    green: 9.92872e-1
+    blue: 1e+0
+  formattingOptions: []
+  position:
+  - 1.428125e+3
+  - 6.694921875e+1
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 16
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 60
+  text: Skitter/KiddyWidgets
+  formattingOptions: []
+  position:
+  - 9.902890625e+2
+  - 6.0725390625e+2
+  width: 1.3e+2
+  connections:
+    indexes:
+    - location: 61
+      length: 1
+    - location: 63
+      length: 2
+  _effectiveHeight: 1.4e+1
+- ID: 61
+  text: How many did Sam end up with?
+  formattingOptions: []
+  position:
+  - 9.056640625e+2
+  - 6.4977734375e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 60
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 62
+  text: 'MINIONS
+
+
+    - don''t multiattack, roll for damage, or take bonus/re-actions
+
+    - attacks are grouped to be faster to run
+
+    - static amount of damage
+
+    - share turns
+
+    - if take any damage from attack or failed save, HP reduced to zero
+
+    - Any other effect, die if the damage >- HP max, otherwise no damage
+
+    - overkill - If the weapon does > minion''s HP max, can be applied to a second
+    minion and is in range
+
+    - overkill range - in range of the melee attack, or along line of fire for ranged
+    attack
+
+    - group attack - single attack for the group,  _1 bonus for each minion in the
+    attack
+
+    - all mioninons in a group attack must have [dis]advantage for it to kick in,
+    otherwise a straight roll
+
+    - can do a group opportunity attack
+
+    '
+  formattingOptions:
+  - options: 1
+    rangeStart: 0
+    rangeLength: 7
+  - options: 1
+    rangeStart: 293
+    rangeLength: 8
+  - options: 1
+    rangeStart: 394
+    rangeLength: 17
+  - options: 1
+    rangeStart: 483
+    rangeLength: 15
+  position:
+  - 2.078515625e+2
+  - 5.2994140625e+2
+  width: 3e+2
+  connections:
+    indexes: []
+  _effectiveHeight: 2.94e+2
+- ID: 63
+  text: Birthwidget can't make another for 3d6 days afterward
+  formattingOptions: []
+  position:
+  - 9.8708203125e+2
+  - 7.62375e+2
+  width: 1.4e+2
+  connections:
+    indexes:
+    - location: 60
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 64
+  text: 3d6 hours gestation
+  formattingOptions: []
+  position:
+  - 1.08549609375e+3
+  - 6.6206640625e+2
+  width: 1.2e+2
+  connections:
+    indexes:
+    - location: 60
+      length: 1
+    - location: 65
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 65
+  text: grows full-sized in 10 days
+  formattingOptions: []
+  position:
+  - 1.10383984375e+3
+  - 7.053125e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 64
+      length: 1
+  _effectiveHeight: 2.8e+1
