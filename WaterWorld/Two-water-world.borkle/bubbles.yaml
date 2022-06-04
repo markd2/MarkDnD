@@ -1,0 +1,10 @@
+- ID: 1
+  text: YAY NEW ADVENTURE!
+  formattingOptions: []
+  position:
+  - 5.50850067138672e+1
+  - 9.32373962402344e+1
+  width: 1.5e+2
+  connections:
+    indexes: []
+  _effectiveHeight: 1.4e+1
