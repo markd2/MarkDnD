@@ -85,3 +85,20 @@ must recommend with the sash to reclaim a sense of balance.p
 
 Yansha Orlova
 * https://www.dndbeyond.com/profile/borkware/characters/38513822
+
+
+
+LEVEL 5
+
+[ ] six or so sessions - right into it
+    - even more extensive travel, don't be in the same places
+
+Leomand's Tiny Yurt
+
+- what we enjoy doing
+  - our group name definitely needs to involve
+    “self-saboteurs-extraordinaire” somehow
+
+the markd thread desanitizer
+
+

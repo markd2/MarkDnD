@@ -204,7 +204,7 @@ Kao'K'Cat
 
 ### MAGIC VOICE
 
-* Launch in ... 30 minutes ...  Condition: Stable
+* Launch in ... 30 minutes ...  Condition: Stable (Shed)
   - Stonky J Noptopper, please report to command center at your convenience
   - Sheep Sweet Corn, "
   - Ram Sugar, "
@@ -264,6 +264,9 @@ Stonky and his crew down below looking for the ring of telekinesis.
   - see dead skitterwidget at the bottom
 * Hidden in the wreckage is an undamaged Ring of Telekinesis that Stonky dropped
   - looks like a bolt, but the only undamaged one in there
+
+Chicken Peach (rock gnome, hurt, bruised) "ya'll/these are the ones Dog Nuts 
+told us about. I thought he was just making it all up"
 
 
 #### U6  Workshop
@@ -369,10 +372,14 @@ Stonky and his crew down below looking for the ring of telekinesis.
   X Goat Beet		  Stekk              half-orc
   - Horse Egg		  Glynn Yamanachi    Half-elf
 * Inner Circle
-  - Pig Wheat		  Neff Cunningfoot   Lightfoot halfing
+  X Pig Wheat		  Neff Cunningfoot   Lightfoot halfing  (25ft)
   - Sheep Sweet Corn	  Yohn Biofrond      Human
-  X Ram Sugar		  Norty              Brass dragonborn
+  - Ram Sugar		  Norty              Brass dragonborn
 
 ----------
 
 Pig Sugar
+
+
+Gigantic
+Ginormous
