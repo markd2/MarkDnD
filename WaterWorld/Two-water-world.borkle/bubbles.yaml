@@ -8,3 +8,2358 @@
   connections:
     indexes: []
   _effectiveHeight: 1.4e+1
+- ID: 2
+  text: Bork
+  fillColorRGB:
+    red: 1e+0
+    green: 9.0283e-1
+    blue: 9.76506e-1
+  formattingOptions: []
+  position:
+  - 4.4758168381911e+2
+  - 3.06092225686098e+3
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 3
+      length: 4
+    - location: 147
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 3
+  text: '"Chandra"'
+  formattingOptions: []
+  position:
+  - 4.26024695763222e+2
+  - 3.00718244272936e+3
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 2
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 4
+  text: Panderan
+  formattingOptions: []
+  position:
+  - 5.49120492788462e+2
+  - 3.02480803660856e+3
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 2
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 5
+  text: Cleric
+  formattingOptions: []
+  position:
+  - 5.66795053335336e+2
+  - 3.09927153758512e+3
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 2
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 6
+  text: Has little baggie of fragrant leaves they like to munch on
+  formattingOptions: []
+  position:
+  - 5.33397085336538e+2
+  - 3.15788939647184e+3
+  width: 1.4e+2
+  connections:
+    indexes:
+    - location: 2
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 7
+  text: Orub Chapter 2
+  formattingOptions: []
+  position:
+  - 1.38246600811298e+2
+  - 4.16764667615685e+1
+  width: 1e+2
+  connections:
+    indexes: []
+  _effectiveHeight: 1.4e+1
+- ID: 8
+  text: What do we want this season to be?
+  formattingOptions: []
+  position:
+  - 1.00804232083834e+2
+  - 1.76741511338642e+2
+  width: 1.5e+2
+  connections:
+    indexes: []
+  _effectiveHeight: 2.8e+1
+- ID: 9
+  text: '"love about RPGs"'
+  fillColorRGB:
+    red: 8.96043e-1
+    green: 9.97437e-1
+    blue: 9.42763e-1
+  formattingOptions: []
+  position:
+  - 4.88682755690354e+2
+  - 2.02133532401834e+2
+  width: 1.2e+2
+  connections:
+    indexes:
+    - location: 14
+      length: 5
+  _effectiveHeight: 1.4e+1
+- ID: 10
+  text: 'Step Daughter''s Art
+
+    '
+  formattingOptions: []
+  position:
+  - 2.81374981219952e+2
+  - 1.00610008826614e+2
+  width: 1.3e+2
+  connections:
+    indexes:
+    - location: 11
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 11
+  text: Gateway Monestary
+  formattingOptions: []
+  position:
+  - 3.09953801081731e+2
+  - 1.64821082481962e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 10
+      length: 1
+    - location: 12
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 12
+  text: In the mountains on a tiny island on Orub
+  formattingOptions: []
+  position:
+  - 3.59903611403245e+2
+  - 2.15595876840436e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 11
+      length: 1
+    - location: 13
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 13
+  text: Homebase. might never get back there
+  formattingOptions: []
+  position:
+  - 3.76160606971154e+2
+  - 2.84584031325111e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 12
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 14
+  text: 'Step: Love the silliness and the creating a wild story together
+
+    Favorite moment - the God Box.  '
+  formattingOptions: []
+  position:
+  - 5.61028343005058e+2
+  - 2.51348970853357e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 9
+      length: 1
+  _effectiveHeight: 8.4e+1
+- ID: 15
+  text: Bork; hang out with fine silly.  Also like reading the books
+  formattingOptions: []
+  position:
+  - 7.00718947190505e+2
+  - 2.47216371193902e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 9
+      length: 1
+  _effectiveHeight: 5.6e+1
+- ID: 16
+  text: Zach - love the moments of interacting with just the people who make up this
+    world, saying architetype you are making the orindary understand - make the DM
+    suffer for taking this on. (RP against people in the world and inflicting (non-physical)
+    pain).  Meta-anguish. Hurting with words
+  formattingOptions: []
+  position:
+  - 4.74794709816956e+2
+  - 2.53584704276756e+1
+  width: 1.7e+2
+  connections:
+    indexes:
+    - location: 9
+      length: 1
+  _effectiveHeight: 1.54e+2
+- ID: 17
+  text: 'Drew: prior character - Bard that killed with words. '
+  formattingOptions: []
+  position:
+  - 6.63808810503054e+2
+  - 6.70029046474273e+1
+  width: 1.9e+2
+  connections:
+    indexes:
+    - location: 9
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 18
+  text: 'Mikey: depends on which side of the table.  from DM love the creative challenge
+    of just enough road they don''t run off the cliff, on this side, love the creativity
+    with friends and bouncing ideas off of each other'
+  formattingOptions: []
+  position:
+  - 6.82193397717598e+2
+  - 1.32090091020624e+2
+  width: 2e+2
+  connections:
+    indexes:
+    - location: 9
+      length: 1
+  _effectiveHeight: 8.4e+1
+- ID: 19
+  text: Puzzles, Exploration, Combat, RP?
+  fillColorRGB:
+    red: 8.96043e-1
+    green: 9.97437e-1
+    blue: 9.42763e-1
+  formattingOptions: []
+  position:
+  - 1.55691763070914e+2
+  - 4.05106844388513e+2
+  width: 1.3e+2
+  connections:
+    indexes:
+    - location: 20
+      length: 6
+  _effectiveHeight: 2.8e+1
+- ID: 20
+  text: 'Drew: do like the mechanics. Doing the battles and stuff
+
+    Puzzles: impossible to DM.
+
+    The group can''t do puzzles meant for children.
+
+    Do enjoy solving mysteries about the world'
+  formattingOptions: []
+  position:
+  - 1.76791053185096e+2
+  - 2.44925645015004e+2
+  width: 1.5e+2
+  connections:
+    indexes:
+    - location: 19
+      length: 1
+  _effectiveHeight: 1.26e+2
+- ID: 21
+  text: (Cocoa eats shoes)
+  formattingOptions: []
+  position:
+  - 1.02843534029447e+1
+  - 3.59506234975942e+2
+  width: 1.3e+2
+  connections:
+    indexes:
+    - location: 19
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 22
+  text: 'Bork: Like RP and don''t get enough combat. Puzzles too much like work'
+  formattingOptions: []
+  position:
+  - 2.14722383939302e+1
+  - 4.71756601186879e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 19
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 23
+  text: 'Zach: I agree with everything said about puzzles'
+  formattingOptions: []
+  position:
+  - 1.1168935922476e+2
+  - 5.45880042442889e+2
+  width: 1.7e+2
+  connections:
+    indexes:
+    - location: 19
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 24
+  text: We will continue the puzzles until morale improves
+  formattingOptions: []
+  position:
+  - 2.44087959485179e+2
+  - 4.66199948041847e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 19
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 25
+  text: 'Mikey: Love wordplay vs logic puzzles'
+  formattingOptions: []
+  position:
+  - 3.18955782376805e+2
+  - 3.88730482755393e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 19
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 27
+  text: As a player what is a strength you bring to the game
+  fillColorRGB:
+    red: 8.96043e-1
+    green: 9.97437e-1
+    blue: 9.42763e-1
+  formattingOptions: []
+  position:
+  - 4.98528301532453e+2
+  - 6.28514465252418e+2
+  width: 1.7e+2
+  connections:
+    indexes:
+    - location: 28
+      length: 7
+  _effectiveHeight: 2.8e+1
+- ID: 28
+  text: 'Mikey: wordplay!  Think outside of the box ideas on how to proceed.  Approaching
+    things in a non-typical-mechanical way.'
+  formattingOptions: []
+  position:
+  - 6.33109271709737e+2
+  - 7.16742004314916e+2
+  width: 1.9e+2
+  connections:
+    indexes:
+    - location: 27
+      length: 1
+  _effectiveHeight: 5.6e+1
+- ID: 29
+  text: (everyone thinks)
+  formattingOptions: []
+  position:
+  - 2.80771531325122e+2
+  - 5.90129075270438e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 27
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 30
+  text: Drew - bring some humor or goofs that fit. character moments that are funny
+    for everyone - like the orcloaves. And bar brawl stuff
+  formattingOptions: []
+  position:
+  - 3.93492666391228e+2
+  - 5.11592533991893e+2
+  width: 1.5e+2
+  connections:
+    indexes:
+    - location: 27
+      length: 1
+  _effectiveHeight: 8.4e+1
+- ID: 31
+  text: 'Bork: behind the screen - lean into the surreal.  Player, remembering the
+    mechanics and leaning into the lulz'
+  formattingOptions: []
+  position:
+  - 5.68047109750603e+2
+  - 5.33807711087746e+2
+  width: 1.8e+2
+  connections:
+    indexes:
+    - location: 27
+      length: 1
+  _effectiveHeight: 5.6e+1
+- ID: 32
+  text: commit to the bit
+  formattingOptions: []
+  position:
+  - 7.15141695462742e+2
+  - 6.28834660456736e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 27
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 33
+  text: 'Step: willingness to build an interesting world. Mixed with the in-the-moment
+    willingness to discard what I''ve made. Creative characters and places, a fun
+    sandbox for you to destroy'
+  formattingOptions: []
+  position:
+  - 3.9851017878606e+2
+  - 7.12832087590149e+2
+  width: 1.9e+2
+  connections:
+    indexes:
+    - location: 27
+      length: 1
+  _effectiveHeight: 8.4e+1
+- ID: 35
+  text: ''
+  formattingOptions: []
+  position:
+  - 1.07282199957436e+2
+  - 3.62597492129988e+3
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 36
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 36
+  text: ''
+  formattingOptions: []
+  position:
+  - 1.47392511612333e+2
+  - 3.95590089739287e+3
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 35
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 34
+  text: 'Zach: famously known for not commiting to the bit, and commenting on how
+    ridiculous the bit is.
+
+    OH GOD WHAT DO I DO HERE
+
+    (DM suffering)
+
+    I bring wrenches with me'
+  formattingOptions: []
+  position:
+  - 2.12445666973411e+2
+  - 6.37071577805752e+2
+  width: 1.7e+2
+  connections:
+    indexes:
+    - location: 27
+      length: 1
+  _effectiveHeight: 1.12e+2
+- ID: 37
+  text: Scheduling
+  fillColorRGB:
+    red: 8.96043e-1
+    green: 9.97437e-1
+    blue: 9.42763e-1
+  formattingOptions: []
+  position:
+  - 1.36177749633789e+2
+  - 8.60917106628411e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 38
+      length: 2
+    - location: 41
+      length: 1
+    - location: 45
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 38
+  text: 6-8 session
+  formattingOptions: []
+  position:
+  - 3.03016757965086e+1
+  - 8.80327430725091e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 37
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 39
+  text: over course of 2 1/2 - 3 months
+  formattingOptions: []
+  position:
+  - 4.42929172515867e+1
+  - 9.40540901184075e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 37
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 41
+  text: 'markd@borkware.com
+
+    zach@waldowski.me
+
+    drwftz@gmail.com
+
+    mw@mikey.io'
+  formattingOptions: []
+  position:
+  - 6.78807258605954e+1
+  - 7.81601730346673e+2
+  width: 1.4e+2
+  connections:
+    indexes:
+    - location: 37
+      length: 1
+  _effectiveHeight: 5.6e+1
+- ID: 42
+  text: Typical Session - how long they last
+  fillColorRGB:
+    red: 8.96043e-1
+    green: 9.97437e-1
+    blue: 9.42763e-1
+  formattingOptions: []
+  position:
+  - 3.52312316894531e+2
+  - 8.36988006591791e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 43
+      length: 1
+    - location: 46
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 43
+  text: 10-1ish
+  formattingOptions: []
+  position:
+  - 3.01126289367675e+2
+  - 9.22590270996087e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 42
+      length: 1
+    - location: 44
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 44
+  text: Bring your lunch
+  formattingOptions: []
+  position:
+  - 2.7405891418457e+2
+  - 9.61749435424798e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 43
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 45
+  text: Missing chunk of july into August
+  formattingOptions: []
+  position:
+  - 1.6447790145874e+2
+  - 9.03400321960443e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 37
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 46
+  text: Zoom.  Could do mostly in person and have Bork in TV-land, like with Amanda
+  formattingOptions: []
+  position:
+  - 3.95596809387207e+2
+  - 9.45132461547844e+2
+  width: 1.5e+2
+  connections:
+    indexes:
+    - location: 42
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 47
+  text: How long to wait
+  fillColorRGB:
+    red: 8.96043e-1
+    green: 9.97437e-1
+    blue: 9.42763e-1
+  formattingOptions: []
+  position:
+  - 5.35224266052246e+2
+  - 8.27689949035645e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 48
+      length: 1
+    - location: 50
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 48
+  text: Chit chat?
+  formattingOptions: []
+  position:
+  - 4.92676620483398e+2
+  - 8.68155227661134e+2
+  width: 8e+1
+  connections:
+    indexes:
+    - location: 47
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 49
+  text: If DM is absent, will have to cancel
+  fillColorRGB:
+    red: 8.96043e-1
+    green: 9.97437e-1
+    blue: 9.42763e-1
+  formattingOptions: []
+  position:
+  - 4.22344169616699e+2
+  - 1.02363553619385e+3
+  width: 1.4e+2
+  connections:
+    indexes:
+    - location: 51
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 50
+  text: Good to play by ear
+  formattingOptions: []
+  position:
+  - 5.98844757080078e+2
+  - 8.79936061859132e+2
+  width: 8e+1
+  connections:
+    indexes:
+    - location: 47
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 51
+  text: If one player is absent, can continue with the session. Two absent - cancel
+    or switch to chit-chat, or battle Royale
+  formattingOptions: []
+  position:
+  - 3.24530868530273e+2
+  - 1.09164891815186e+3
+  width: 1.4e+2
+  connections:
+    indexes:
+    - location: 49
+      length: 1
+    - location: 52
+      length: 1
+  _effectiveHeight: 7e+1
+- ID: 52
+  text: Not with the party - the character and you don't know what happened
+  formattingOptions: []
+  position:
+  - 5.01741981506347e+2
+  - 1.07760861968994e+3
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 51
+      length: 1
+  _effectiveHeight: 7e+1
+- ID: 53
+  text: Food?
+  fillColorRGB:
+    red: 8.96043e-1
+    green: 9.97437e-1
+    blue: 9.42763e-1
+  formattingOptions: []
+  position:
+  - 1.6736759185791e+2
+  - 1.01106097412109e+3
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 54
+      length: 2
+  _effectiveHeight: 1.4e+1
+- ID: 54
+  text: Eat while muted
+  formattingOptions: []
+  position:
+  - 9.26422882080082e+1
+  - 1.05609042358398e+3
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 53
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 55
+  text: Alcohol?  yes
+  formattingOptions: []
+  position:
+  - 2.24926033020019e+2
+  - 1.05456107330322e+3
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 53
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 56
+  text: Smartphones?
+  fillColorRGB:
+    red: 8.96043e-1
+    green: 9.97437e-1
+    blue: 9.42763e-1
+  formattingOptions: []
+  position:
+  - 6.34344367980955e+2
+  - 1.02535676574709e+3
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 57
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 57
+  text: Yes - for looking things up
+  formattingOptions: []
+  position:
+  - 6.54087677001951e+2
+  - 1.0693263397217e+3
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 56
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 58
+  text: Player vs Character knowledge
+  fillColorRGB:
+    red: 8.96043e-1
+    green: 9.97437e-1
+    blue: 9.42763e-1
+  formattingOptions: []
+  position:
+  - 1.03101284027098e+2
+  - 1.24629922103884e+3
+  width: 1.3e+2
+  connections:
+    indexes:
+    - location: 59
+      length: 2
+  _effectiveHeight: 2.8e+1
+- ID: 59
+  text: Step doesn't have concerns with us and metagaming. We generally err on the
+    wrong side (entirely separate bubbles) or actively (self-)sabatage with metaknowledge
+  formattingOptions: []
+  position:
+  - 2.78906097412096e+1
+  - 1.11246154785158e+3
+  width: 1.7e+2
+  connections:
+    indexes:
+    - location: 58
+      length: 1
+  _effectiveHeight: 9.8e+1
+- ID: 60
+  text: Welcoming of bringing player knowledge in
+  formattingOptions: []
+  position:
+  - 2.25847867329914e+2
+  - 1.18204439544681e+3
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 58
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 61
+  text: Depth of RP
+  fillColorRGB:
+    red: 8.96043e-1
+    green: 9.97437e-1
+    blue: 9.42763e-1
+  formattingOptions: []
+  position:
+  - 4.96777244567872e+2
+  - 1.26637003580732e+3
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 62
+      length: 2
+  _effectiveHeight: 1.4e+1
+- ID: 62
+  text: '"Critical Role through Stranger Things"'
+  formattingOptions: []
+  position:
+  - 5.85016976674398e+2
+  - 1.20661379496259e+3
+  width: 1.2e+2
+  connections:
+    indexes:
+    - location: 61
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 63
+  text: More slightly more Reverant Taz(?).
+  formattingOptions: []
+  position:
+  - 3.89700833638509e+2
+  - 1.19593578592939e+3
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 61
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 64
+  text: Characters time in the spotlight?
+  fillColorRGB:
+    red: 8.96043e-1
+    green: 9.97437e-1
+    blue: 9.42763e-1
+  formattingOptions: []
+  position:
+  - 3.75284688313804e+2
+  - 1.29593591308595e+3
+  width: 1e+2
+  connections:
+    indexes: []
+  _effectiveHeight: 2.8e+1
+- ID: 65
+  text: Narrative Control
+  fillColorRGB:
+    red: 8.96043e-1
+    green: 9.97437e-1
+    blue: 9.42763e-1
+  formattingOptions: []
+  position:
+  - 2.02052124023439e+2
+  - 1.4435790201823e+3
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 66
+      length: 6
+  _effectiveHeight: 1.4e+1
+- ID: 66
+  text: will be clear by the second session
+  formattingOptions: []
+  position:
+  - 3.24178853352866e+2
+  - 1.34939945475261e+3
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 65
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 67
+  text: More collaborative where we come to a new room / island / land - what does
+    it look like
+  formattingOptions: []
+  position:
+  - 3.31457621256512e+2
+  - 1.41938694254558e+3
+  width: 1.7e+2
+  connections:
+    indexes:
+    - location: 65
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 68
+  text: 'Bork: plot points - DM control.  flavor - Players input'
+  formattingOptions: []
+  position:
+  - 3.22953491210955e+1
+  - 1.43329557291668e+3
+  width: 1.2e+2
+  connections:
+    indexes:
+    - location: 65
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 69
+  text: 'Mikey: player involvement in narrative control is fun in the way it can derail
+    thign, but in a water fall developed campaigned. But we have a set end date, derailing
+    can be more destructive (godbox notwithstanding)'
+  formattingOptions: []
+  position:
+  - 5.22459920247412e+1
+  - 1.33987727864584e+3
+  width: 2.6e+2
+  connections:
+    indexes:
+    - location: 65
+      length: 1
+  _effectiveHeight: 7e+1
+- ID: 70
+  text: "\"pile of meatballs\" style (Ikea!) \nThere' a sausage-links style, individual
+    chunks but linked together. within each link whatever happens, but have to end
+    at a point to start the next link\nspaghetti and meatball - longrunning noodle
+    from the start to end, and individual sidequests as meatballs\npile of meatballs
+    - monster of the week, indvidual sessions.  No thread. No long-running noodle.
+    (but this is step, so there is a thread)\nRnD is a spaghetti campaign where everyone
+    gets their own noodle."
+  formattingOptions:
+  - options: 1
+    rangeStart: 44
+    rangeLength: 13
+  - options: 1
+    rangeStart: 189
+    rangeLength: 22
+  - options: 1
+    rangeStart: 295
+    rangeLength: 17
+  - options: 2
+    rangeStart: 402
+    rangeLength: 2
+  position:
+  - 2.79146931966165e+1
+  - 1.51133614095053e+3
+  width: 2.8e+2
+  connections:
+    indexes:
+    - location: 65
+      length: 1
+  _effectiveHeight: 1.68e+2
+- ID: 71
+  text: (Cocoa killing hamster toys)
+  formattingOptions: []
+  position:
+  - 3.25937377929697e+2
+  - 1.49505281575526e+3
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 65
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 72
+  text: Takebacks / Retcon
+  fillColorRGB:
+    red: 8.96043e-1
+    green: 9.97437e-1
+    blue: 9.42763e-1
+  formattingOptions: []
+  position:
+  - 6.42383931477874e+2
+  - 1.37230836995447e+3
+  width: 1.3e+2
+  connections:
+    indexes:
+    - location: 73
+      length: 3
+  _effectiveHeight: 1.4e+1
+- ID: 73
+  text: Jokes can become canon if everyone engages
+  formattingOptions: []
+  position:
+  - 6.04427714029958e+2
+  - 1.31094205729171e+3
+  width: 1.5e+2
+  connections:
+    indexes:
+    - location: 72
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 74
+  text: Similarly if decide a spell, before rolling, can change your mind.
+  formattingOptions: []
+  position:
+  - 5.4368359375001e+2
+  - 1.42561189778651e+3
+  width: 1.5e+2
+  connections:
+    indexes:
+    - location: 72
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 75
+  text: taking a long time in combat?  get moved along
+  formattingOptions: []
+  position:
+  - 7.33764119466155e+2
+  - 1.42406701660161e+3
+  width: 1.2e+2
+  connections:
+    indexes:
+    - location: 72
+      length: 1
+    - location: 76
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 76
+  text: Can exercise the mechanics and have a little more risk
+  formattingOptions: []
+  position:
+  - 7.33274251302093e+2
+  - 1.50136596679692e+3
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 75
+      length: 1
+  _effectiveHeight: 5.6e+1
+- ID: 77
+  text: (not PvP) player interaction acceptable?
+  fillColorRGB:
+    red: 8.96043e-1
+    green: 9.97437e-1
+    blue: 9.42763e-1
+  formattingOptions: []
+  position:
+  - 5.02185139973969e+2
+  - 1.57305757649745e+3
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 78
+      length: 5
+  _effectiveHeight: 4.2e+1
+- ID: 78
+  text: can talk, collude
+  formattingOptions: []
+  position:
+  - 3.73189025878917e+2
+  - 1.60197627766933e+3
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 77
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 79
+  text: Bork last time with a time thread
+  formattingOptions: []
+  position:
+  - 6.01075032552094e+2
+  - 1.51211132812506e+3
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 77
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 80
+  text: Typically don't allow chaotic characters
+  formattingOptions: []
+  position:
+  - 4.72811971028657e+2
+  - 1.49919047037766e+3
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 77
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 81
+  text: 'Mikey: favorite moment, Chris Downey was too stuck in his mind to have open
+    conversation with teh group.  Liv''s character followed him into the woods and
+    beat him up'
+  formattingOptions: []
+  position:
+  - 3.45786865234386e+2
+  - 1.66234493001308e+3
+  width: 2.2e+2
+  connections:
+    indexes:
+    - location: 77
+      length: 1
+  _effectiveHeight: 7e+1
+- ID: 82
+  text: Drama ensuing in a major way
+  formattingOptions: []
+  position:
+  - 6.28684529622407e+2
+  - 1.58909256998704e+3
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 77
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 83
+  text: Serious Risk of Player death
+  fillColorRGB:
+    red: 8.96043e-1
+    green: 9.97437e-1
+    blue: 9.42763e-1
+  formattingOptions: []
+  position:
+  - 6.33227905273449e+2
+  - 1.64192240397141e+3
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 85
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 84
+  text: Serious Risk of Character Death
+  fillColorRGB:
+    red: 8.96043e-1
+    green: 9.97437e-1
+    blue: 9.42763e-1
+  formattingOptions: []
+  position:
+  - 6.36343668619803e+2
+  - 1.74861279296881e+3
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 86
+      length: 1
+    - location: 88
+      length: 1
+    - location: 90
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 85
+  text: yes!
+  formattingOptions: []
+  position:
+  - 7.60370239257824e+2
+  - 1.64969193522141e+3
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 83
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 86
+  text: 'Drew: don''t want it to not roll another character'
+  formattingOptions: []
+  position:
+  - 4.74327596028657e+2
+  - 1.77251944986985e+3
+  width: 1.4e+2
+  connections:
+    indexes:
+    - location: 84
+      length: 1
+    - location: 87
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 87
+  text: If we do something dumb and miss all our saves
+  formattingOptions: []
+  position:
+  - 5.43463806152355e+2
+  - 1.83249792480475e+3
+  width: 1.5e+2
+  connections:
+    indexes:
+    - location: 86
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 88
+  text: Family of suspiciously similar boys
+  formattingOptions: []
+  position:
+  - 7.55457967122408e+2
+  - 1.70236767578131e+3
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 84
+      length: 1
+    - location: 89
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 89
+  text: Shop with clones (Pumat Sol)
+  formattingOptions: []
+  position:
+  - 7.62324869791679e+2
+  - 1.76889986165371e+3
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 88
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 90
+  text: Just add a letter to your name!
+  formattingOptions: []
+  position:
+  - 6.05803344726575e+2
+  - 1.69609252929694e+3
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 84
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 91
+  text: RPG Pet Peeves?
+  fillColorRGB:
+    red: 8.96043e-1
+    green: 9.97437e-1
+    blue: 9.42763e-1
+  formattingOptions: []
+  position:
+  - 7.32756042480596e+1
+  - 1.79091369628913e+3
+  width: 1.1e+2
+  connections:
+    indexes:
+    - location: 92
+      length: 2
+  _effectiveHeight: 1.4e+1
+- ID: 92
+  text: Yes to drama
+  formattingOptions: []
+  position:
+  - 4.84205830892054e+1
+  - 1.71277577718105e+3
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 91
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 93
+  text: 'Bork: violence againt pets / chilluns.  No lovecraftian descriptions, details
+    please'
+  formattingOptions: []
+  position:
+  - 1.59453572591158e+2
+  - 1.71247465006517e+3
+  width: 1.5e+2
+  connections:
+    indexes:
+    - location: 91
+      length: 1
+  _effectiveHeight: 5.6e+1
+- ID: 94
+  text: Rating
+  fillColorRGB:
+    red: 8.96043e-1
+    green: 9.97437e-1
+    blue: 9.42763e-1
+  formattingOptions: []
+  position:
+  - 1.82317728678399e+2
+  - 1.88583715820319e+3
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 95
+      length: 3
+  _effectiveHeight: 1.4e+1
+- ID: 95
+  text: 'Bork: PG-13'
+  formattingOptions: []
+  position:
+  - 2.41432474772149e+2
+  - 1.84034623209642e+3
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 94
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 96
+  text: Not squeaky clean, some sweaing aloud, but not droppin' the bombs every minute
+  formattingOptions: []
+  position:
+  - 1.052360026043e+1
+  - 1.84952734375007e+3
+  width: 1.5e+2
+  connections:
+    indexes:
+    - location: 94
+      length: 1
+  _effectiveHeight: 5.6e+1
+- ID: 97
+  text: Hello Kitty 40K
+  formattingOptions:
+  - options: 2
+    rangeStart: 0
+    rangeLength: 15
+  position:
+  - 1.07785847981785e+2
+  - 1.93415926106778e+3
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 94
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 98
+  text: 'Setting: Orub
+
+    Accessibility of Magic: High
+
+    Levels of technology: (Zach wants a technomancer)
+
+    Primary environments: ...
+
+    Main theme: mystery and adventure
+
+    Environments: one bad-guy situation, Need to save the world from person/entity
+    trying to destroy it.
+
+    nature of adventure: (linear / non) magical threat
+
+    mode of play: try to more of a visual map for battles. And give us some real movement
+    and use of the terrain in battle'
+  fillColorRGB:
+    red: 8.96043e-1
+    green: 9.97437e-1
+    blue: 9.42763e-1
+  formattingOptions:
+  - options: 1
+    rangeStart: 0
+    rangeLength: 7
+  - options: 1
+    rangeStart: 14
+    rangeLength: 22
+  - options: 1
+    rangeStart: 43
+    rangeLength: 20
+  - options: 1
+    rangeStart: 119
+    rangeLength: 10
+  - options: 1
+    rangeStart: 153
+    rangeLength: 12
+  - options: 1
+    rangeStart: 254
+    rangeLength: 19
+  - options: 1
+    rangeStart: 305
+    rangeLength: 12
+  position:
+  - 2.55884419759129e+2
+  - 1.93110986328132e+3
+  width: 3e+2
+  connections:
+    indexes:
+    - location: 99
+      length: 1
+  _effectiveHeight: 1.54e+2
+- ID: 99
+  text: (Isabelle and Doom)
+  formattingOptions:
+  - options: 2
+    rangeStart: 0
+    rangeLength: 19
+  position:
+  - 3.11341288248712e+2
+  - 1.87275240071621e+3
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 98
+      length: 1
+    - location: 100
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 100
+  text: Animal Crossing Grimdark campaign
+  formattingOptions: []
+  position:
+  - 4.39448974609389e+2
+  - 1.86596870930996e+3
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 99
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 101
+  text: Starting Level
+  fillColorRGB:
+    red: 8.96043e-1
+    green: 9.97437e-1
+    blue: 9.42763e-1
+  formattingOptions: []
+  position:
+  - 1.84476521810039e+1
+  - 2.00289632161465e+3
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 102
+      length: 2
+  _effectiveHeight: 1.4e+1
+- ID: 102
+  text: Level 5!
+  formattingOptions: []
+  position:
+  - 9.91011352539206e+1
+  - 1.9662405598959e+3
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 101
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 103
+  text: 'Don''t need deep back story. Got powerful by training or adventuring.  '
+  formattingOptions: []
+  position:
+  - 2.44935099283998e+1
+  - 2.0574788004558e+3
+  width: 2e+2
+  connections:
+    indexes:
+    - location: 101
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 104
+  text: Mountainous Island
+  fillColorRGB:
+    red: 8.96043e-1
+    green: 9.97437e-1
+    blue: 9.42763e-1
+  formattingOptions: []
+  position:
+  - 3.06210144042983e+2
+  - 2.14990183512376e+3
+  width: 1.2e+2
+  connections:
+    indexes:
+    - location: 105
+      length: 1
+    - location: 108
+      length: 2
+  _effectiveHeight: 1.4e+1
+- ID: 105
+  text: What do we remember?
+  formattingOptions: []
+  position:
+  - 1.57285766601577e+2
+  - 2.13880171712247e+3
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 104
+      length: 1
+    - location: 106
+      length: 2
+  _effectiveHeight: 2.8e+1
+- ID: 106
+  text: pandas
+  formattingOptions: []
+  position:
+  - 2.57628438313816e+2
+  - 2.10425209554044e+3
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 105
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 107
+  text: Much later on, 100ish years
+  formattingOptions: []
+  position:
+  - 1.4632661946616e+2
+  - 2.19413854980476e+3
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 105
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 108
+  text: The monastary and local village have re-established
+  formattingOptions: []
+  position:
+  - 1.98351806640639e+2
+  - 2.26937052408861e+3
+  width: 1.5e+2
+  connections:
+    indexes:
+    - location: 104
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 109
+  text: Gradaran Cloister - locals call it as the Gateway Monestary
+  fillColorRGB:
+    red: 8.96043e-1
+    green: 9.97437e-1
+    blue: 9.42763e-1
+  formattingOptions:
+  - options: 1
+    rangeStart: 0
+    rangeLength: 17
+  position:
+  - 3.71187662760431e+2
+  - 2.20863865153002e+3
+  width: 1.8e+2
+  connections:
+    indexes:
+    - location: 104
+      length: 1
+    - location: 110
+      length: 4
+    - location: 118
+      length: 2
+    - location: 134
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 110
+  text: 12 foot tall thick stones that forms gateway
+  formattingOptions: []
+  position:
+  - 4.93485677083348e+2
+  - 2.10305192057299e+3
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 109
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 111
+  text: sun shines in morning, gets a ray split off that highlights the monestary,
+    get a wild visual effect
+  formattingOptions: []
+  position:
+  - 5.54443603515639e+2
+  - 2.26576090494799e+3
+  width: 1.5e+2
+  connections:
+    indexes:
+    - location: 109
+      length: 1
+  _effectiveHeight: 5.6e+1
+- ID: 112
+  text: Stunning, more when getting towards solstances.
+  formattingOptions: []
+  position:
+  - 2.34792154947931e+2
+  - 2.32062170410163e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 109
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 113
+  text: The monestary itself is walled off, usually not visited.
+  formattingOptions: []
+  position:
+  - 3.07669962565118e+2
+  - 2.3816760660808e+3
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 109
+      length: 1
+  _effectiveHeight: 5.6e+1
+- ID: 114
+  text: Heavy with Pandarians - pandas.  Three clawed fingers and a thumb.  And standing
+    like 7-9 foot tall
+  fillColorRGB:
+    red: 8.96043e-1
+    green: 9.97437e-1
+    blue: 9.42763e-1
+  formattingOptions: []
+  position:
+  - 6.48566792806133e+1
+  - 2.42324694824226e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 115
+      length: 4
+    - location: 148
+      length: 1
+  _effectiveHeight: 5.6e+1
+- ID: 115
+  text: White color plus others (red/brown/black)
+  formattingOptions: []
+  position:
+  - 2.36831461588687e+1
+  - 2.34514449055997e+3
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 114
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 116
+  text: Not the only ones, but far in the majority
+  formattingOptions: []
+  position:
+  - 6.15549926757957e+1
+  - 2.27327628580736e+3
+  width: 1.4e+2
+  connections:
+    indexes:
+    - location: 114
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 117
+  text: Your characters need to be connected to the monestary and care about the future
+  formattingOptions: []
+  position:
+  - 1.1314189656577e+2
+  - 2.60337662760424e+3
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 114
+      length: 1
+  _effectiveHeight: 8.4e+1
+- ID: 118
+  text: suffered greatly in the attack, and Pandarian influence - decimated
+  formattingOptions: []
+  position:
+  - 3.09618855794285e+2
+  - 2.4725598551433e+3
+  width: 1.9e+2
+  connections:
+    indexes:
+    - location: 109
+      length: 1
+    - location: 114
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 119
+  text: Has a charge (why it exists)
+  formattingOptions: []
+  position:
+  - 4.53558695475275e+2
+  - 2.35711295572924e+3
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 109
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 120
+  text: want characters motivated to protect and further the order
+  fillColorRGB:
+    red: 8.96043e-1
+    green: 9.97437e-1
+    blue: 9.42763e-1
+  formattingOptions: []
+  position:
+  - 2.37531168619806e+2
+  - 2.60668054199226e+3
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 121
+      length: 3
+  _effectiveHeight: 5.6e+1
+- ID: 121
+  text: inside the order - taken a vow
+  formattingOptions: []
+  position:
+  - 3.7312105305991e+2
+  - 2.58291113281257e+3
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 120
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 122
+  text: from the local village, protective and supportive, but not monastic
+  formattingOptions: []
+  position:
+  - 3.7272993977866e+2
+  - 2.63528279622403e+3
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 120
+      length: 1
+  _effectiveHeight: 5.6e+1
+- ID: 123
+  text: want one to be a learned student
+  formattingOptions: []
+  position:
+  - 2.197903849284e+2
+  - 2.54460424804695e+3
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 120
+      length: 1
+    - location: 124
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 124
+  text: driven and motivated by the monestary
+  formattingOptions: []
+  position:
+  - 3.56280700683608e+2
+  - 2.51648116048184e+3
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 123
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 125
+  text: Dieties?
+  formattingOptions: []
+  position:
+  - 2.29005126953139e+2
+  - 2.71827852376309e+3
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 127
+      length: 2
+    - location: 132
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 127
+  text: https://www.dandwiki.com/wiki/Pandafolk_(5e_Race)
+  formattingOptions: []
+  position:
+  - 1.06165059407567e+2
+  - 2.73321795654306e+3
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 125
+      length: 1
+  _effectiveHeight: 7e+1
+- ID: 128
+  text: guided by a spirit that sent ive envoys - turtle fox yeti jagwire and serpant
+  formattingOptions: []
+  position:
+  - 2.85632710774755e+2
+  - 2.77218387858082e+3
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 125
+      length: 1
+    - location: 129
+      length: 1
+  _effectiveHeight: 7e+1
+- ID: 129
+  text: Panda folk trained under different animals
+  formattingOptions: []
+  position:
+  - 4.08777221679702e+2
+  - 2.80775858561207e+3
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 128
+      length: 1
+    - location: 130
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 130
+  text: Society organized
+  formattingOptions: []
+  position:
+  - 3.19620564778661e+2
+  - 2.88118550618498e+3
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 129
+      length: 1
+    - location: 131
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 131
+  text: but in disarray
+  formattingOptions: []
+  position:
+  - 4.58662923177098e+2
+  - 2.88172070312509e+3
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 130
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 132
+  text: Not viewed as a god, but as nature connection or a connectedness
+  formattingOptions: []
+  position:
+  - 1.77758850097671e+2
+  - 2.84304988606779e+3
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 125
+      length: 1
+    - location: 133
+      length: 1
+  _effectiveHeight: 7e+1
+- ID: 133
+  text: Do not belive in the gods of orub
+  formattingOptions: []
+  position:
+  - 1.87359069824234e+2
+  - 2.95463346354175e+3
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 132
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 134
+  text: mission is to protect - protecting someting, but the studyiers would know
+    what is being protected
+  formattingOptions: []
+  position:
+  - 5.63819173177098e+2
+  - 2.39356416829436e+3
+  width: 1.5e+2
+  connections:
+    indexes:
+    - location: 109
+      length: 1
+    - location: 135
+      length: 1
+    - location: 138
+      length: 1
+  _effectiveHeight: 5.6e+1
+- ID: 135
+  text: protection is central to survival of Orub
+  formattingOptions: []
+  position:
+  - 5.30749877929703e+2
+  - 2.49297383626311e+3
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 134
+      length: 1
+    - location: 136
+      length: 2
+  _effectiveHeight: 4.2e+1
+- ID: 136
+  text: taboo subject. Only most trusted in community
+  formattingOptions: []
+  position:
+  - 5.00620768229182e+2
+  - 2.57115295410165e+3
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 135
+      length: 1
+    - location: 145
+      length: 1
+  _effectiveHeight: 5.6e+1
+- ID: 137
+  text: everyone must train in one of the animal arts
+  formattingOptions: []
+  position:
+  - 6.11527221679703e+2
+  - 2.62638028971363e+3
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 135
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 138
+  text: huge celebration when some reaches "Servent Master" level - achieved basic
+    mastery your chosen art well enough to serve  your village in a time of need
+  formattingOptions: []
+  position:
+  - 6.50999186197932e+2
+  - 2.51398966471364e+3
+  width: 1.7e+2
+  connections:
+    indexes:
+    - location: 134
+      length: 1
+  _effectiveHeight: 8.4e+1
+- ID: 139
+  text: How feel about non-panda folk and outsiders doing studies?
+  fillColorRGB:
+    red: 8.96043e-1
+    green: 9.97437e-1
+    blue: 9.42763e-1
+  formattingOptions: []
+  position:
+  - 5.59770507812517e+2
+  - 2.7638669840496e+3
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 140
+      length: 1
+  _effectiveHeight: 5.6e+1
+- ID: 140
+  text: Trust must be earned. Suspicious of all outsiders, but not via which part
+    of nature they spring - most suspicious is an outsider not of nature
+  formattingOptions: []
+  position:
+  - 7.22741577148455e+2
+  - 2.7885555419923e+3
+  width: 1.5e+2
+  connections:
+    indexes:
+    - location: 139
+      length: 1
+    - location: 141
+      length: 2
+  _effectiveHeight: 8.4e+1
+- ID: 141
+  text: walking robot would have more of a tough time
+  formattingOptions: []
+  position:
+  - 7.6489876302085e+2
+  - 2.89644075520845e+3
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 140
+      length: 1
+    - location: 143
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 142
+  text: Say a snake person, viewed as any other outsider - maybe fine, or maybe dangerous
+  formattingOptions: []
+  position:
+  - 5.92650939941423e+2
+  - 2.84335799153657e+3
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 140
+      length: 1
+    - location: 144
+      length: 1
+  _effectiveHeight: 8.4e+1
+- ID: 143
+  text: PARTY OF ALL WARFORGED
+  formattingOptions: []
+  position:
+  - 7.69392985026059e+2
+  - 2.97124324544282e+3
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 141
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 144
+  text: Access to the secrets would take years.
+  formattingOptions: []
+  position:
+  - 6.40227539062518e+2
+  - 2.95588468424491e+3
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 142
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 145
+  text: Clans and offspring
+  formattingOptions: []
+  position:
+  - 5.00282999674499e+2
+  - 2.6443493245444e+3
+  width: 8e+1
+  connections:
+    indexes:
+    - location: 136
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 146
+  text: Roll four, drop bottom, move  three points to get more extreme spread
+  formattingOptions: []
+  position:
+  - 1.74120686848979e+2
+  - 3.00924450683607e+3
+  width: 1e+2
+  connections:
+    indexes: []
+  _effectiveHeight: 7e+1
+- ID: 147
+  text: '14 (5543)
+
+    14 (6532)
+
+    12 (5521)
+
+    17 (6651)
+
+    15 (6541)
+
+    13 (5532)
+
+
+    STR  14
+
+    DEX  14
+
+    CON  12
+
+    INT   15
+
+    WIS  17
+
+    CHA  13'
+  formattingOptions: []
+  position:
+  - 2.88477783203146e+2
+  - 3.00624039713555e+3
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 2
+      length: 1
+  _effectiveHeight: 1.82e+2
+- ID: 148
+  text: GIFF race (hippo in DnD beyond
+  formattingOptions: []
+  position:
+  - 2.31365661621336e+1
+  - 2.49908109537776e+3
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 114
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 149
+  text: Community
+  fillColorRGB:
+    red: 8.96043e-1
+    green: 9.97437e-1
+    blue: 9.42763e-1
+  formattingOptions: []
+  position:
+  - 3.15508178710964e+2
+  - 3.22913488769548e+3
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 150
+      length: 2
+    - location: 153
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 150
+  text: 'Mountainous
+
+    '
+  formattingOptions: []
+  position:
+  - 2.3306634521487e+2
+  - 3.29709578450538e+3
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 149
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 151
+  text: Farming
+  formattingOptions: []
+  position:
+  - 4.52009318033881e+2
+  - 3.22742797851579e+3
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 149
+      length: 1
+    - location: 152
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 152
+  text: bamboo
+  formattingOptions: []
+  position:
+  - 5.26541259765651e+2
+  - 3.26711189778662e+3
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 151
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 153
+  text: Simple life - not citified. Not a huge amount of entertainment
+  formattingOptions: []
+  position:
+  - 3.79070760091172e+2
+  - 3.29163635253923e+3
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 149
+      length: 1
+    - location: 154
+      length: 1
+  _effectiveHeight: 5.6e+1
+- ID: 154
+  text: Tend to crops / community. Gather together in village center
+  formattingOptions: []
+  position:
+  - 5.12476928710964e+2
+  - 3.30185103352881e+3
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 153
+      length: 1
+  _effectiveHeight: 5.6e+1
+- ID: 155
+  text: Leveling
+  fillColorRGB:
+    red: 8.96043e-1
+    green: 9.97437e-1
+    blue: 9.42763e-1
+  formattingOptions: []
+  position:
+  - 4.70332356770861e+2
+  - 3.44905550130226e+3
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 157
+      length: 3
+    - location: 162
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 156
+  text: Get a token you can grant to another player
+  formattingOptions: []
+  position:
+  - 2.93586018880236e+2
+  - 3.48601362785174e+3
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 160
+      length: 2
+  _effectiveHeight: 4.2e+1
+- ID: 157
+  text: milestone
+  formattingOptions: []
+  position:
+  - 5.84905802408882e+2
+  - 3.41721267621964e+3
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 155
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 158
+  text: Roll HP
+  formattingOptions: []
+  position:
+  - 6.03148274739611e+2
+  - 3.47050255252172e+3
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 155
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 159
+  text: Feats instead of ASI
+  formattingOptions: []
+  position:
+  - 4.4619055175784e+2
+  - 3.39149071170141e+3
+  width: 1.3e+2
+  connections:
+    indexes:
+    - location: 155
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 160
+  text: All award inspiration (roll additional d20)
+  fillColorRGB:
+    red: 8.96043e-1
+    green: 9.97437e-1
+    blue: 9.42763e-1
+  formattingOptions: []
+  position:
+  - 3.20638753255236e+2
+  - 3.40791434399757e+3
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 156
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 161
+  text: lasts through rest of the session, then expires
+  formattingOptions: []
+  position:
+  - 4.22423095703153e+2
+  - 3.49444574913631e+3
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 156
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 162
+  text: Don't recommend multi-class.  If you're willing to do the work, go for it
+  formattingOptions: []
+  position:
+  - 5.57204589843779e+2
+  - 3.52730203931008e+3
+  width: 1.5e+2
+  connections:
+    indexes:
+    - location: 155
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 163
+  text: Gear
+  fillColorRGB:
+    red: 8.96043e-1
+    green: 9.97437e-1
+    blue: 9.42763e-1
+  formattingOptions: []
+  position:
+  - 3.75611409505238e+2
+  - 3.76330635246113e+3
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 164
+      length: 2
+  _effectiveHeight: 1.4e+1
+- ID: 164
+  text: BIG PILE OF COOL MAGIC ITEMS WOO HOO!!!!!
+  formattingOptions: []
+  position:
+  - 3.20826009114613e+2
+  - 3.66392736483092e+3
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 163
+      length: 1
+  _effectiveHeight: 5.6e+1
+- ID: 165
+  text: only a small supply of starting gold - 50gp  (life savings, previous time)
+  formattingOptions: []
+  position:
+  - 4.37304280598988e+2
+  - 3.65261001508684e+3
+  width: 1.4e+2
+  connections:
+    indexes:
+    - location: 163
+      length: 1
+    - location: 166
+      length: 2
+  _effectiveHeight: 4.2e+1
+- ID: 166
+  text: Money not a strong motivator
+  formattingOptions: []
+  position:
+  - 6.11914428710967e+2
+  - 3.63719090701392e+3
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 165
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 167
+  text: One magic item
+  formattingOptions: []
+  position:
+  - 5.84048380533884e+2
+  - 3.72666189496965e+3
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 165
+      length: 1
+    - location: 168
+      length: 3
+  _effectiveHeight: 1.4e+1
+- ID: 168
+  text: one common or uncommon item
+  formattingOptions: []
+  position:
+  - 7.20146402994821e+2
+  - 3.6868606254384e+3
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 167
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 169
+  text: in D&D Beyond
+  formattingOptions: []
+  position:
+  - 7.16713623046905e+2
+  - 3.75346438520403e+3
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 167
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 170
+  text: come up with how you got it
+  formattingOptions: []
+  position:
+  - 6.11309733072946e+2
+  - 3.79346324588111e+3
+  width: 1.3e+2
+  connections:
+    indexes:
+    - location: 167
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 171
+  text: 'Links:
+
+    https://www.dndbeyond.com/races/432739-pandafolk
+
+    https://ddb.ac/campaigns/join/29995222861801358
+
+    https://www.dandwiki.com/wiki/Pandafolk_(5e_Race)
+
+
+    animal crossing:
+
+    https://www.youtube.com/c/DensleMs/videos
+
+    https://images.app.goo.gl/BNqvRmKJZfy6peMY9
+
+
+    hello kitty:
+
+    https://i.kym-cdn.com/photos/images/newsfeed/000/570/972/ff6.jpg
+
+    '
+  formattingOptions: []
+  position:
+  - 3.13440836588572e+2
+  - 3.86856401492408e+3
+  width: 4e+2
+  connections:
+    indexes: []
+  _effectiveHeight: 1.68e+2
