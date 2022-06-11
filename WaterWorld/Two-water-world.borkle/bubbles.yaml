@@ -2363,3 +2363,69 @@
   connections:
     indexes: []
   _effectiveHeight: 1.68e+2
+- ID: 172
+  text: Episode One
+  formattingOptions: []
+  position:
+  - 9.0252734375e+2
+  - 2.92421875e+1
+  width: 1e+2
+  connections:
+    indexes: []
+  _effectiveHeight: 1.4e+1
+- ID: 173
+  text: ''
+  formattingOptions: []
+  position:
+  - 1.736234375e+3
+  - 2.473984375e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 174
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 174
+  text: ''
+  formattingOptions: []
+  position:
+  - 2.2167734375e+3
+  - 2.453125e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 173
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 175
+  text: Chandra
+  fillColorRGB:
+    red: 8.96043e-1
+    green: 9.97437e-1
+    blue: 9.42763e-1
+  formattingOptions: []
+  position:
+  - 1.21537109375e+3
+  - 1.4247265625e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 176
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 176
+  text: "* for years the Vana (leaders) have checked in with Chandra. \n* They have
+    taken to sharing many observations on nature with them, and over time built up
+    an unusual abstract and compositional way of referring the the many unique parts
+    of Orub - from small to large.\n* It seems to be a fun way for them to pass the
+    time, though they only do this when other trusted Gradaran members are around."
+  formattingOptions: []
+  position:
+  - 1.30690625e+3
+  - 2.3046875e+1
+  width: 3.9e+2
+  connections:
+    indexes:
+    - location: 175
+      length: 1
+  _effectiveHeight: 8.4e+1
