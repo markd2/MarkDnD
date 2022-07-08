@@ -192,8 +192,8 @@
   _effectiveHeight: 5.6e+1
 - ID: 16
   text: Zach - love the moments of interacting with just the people who make up this
-    world, saying archetype you are making the ordinary understand - make the DM
-    suffer for taking this on. (RP against people in the world and inflicting (non-physical)
+    world, saying archetype you are making the ordinary understand - make the DM suffer
+    for taking this on. (RP against people in the world and inflicting (non-physical)
     pain).  Meta-anguish. Hurting with words
   formattingOptions: []
   position:
@@ -2381,8 +2381,8 @@
   text: ''
   formattingOptions: []
   position:
-  - 1.80551198032924e+3
-  - 2.40453377859933e+2
+  - 2.54501871454148e+3
+  - 4.71446188063848e+1
   width: 1e+2
   connections:
     indexes:
@@ -2393,8 +2393,8 @@
   text: ''
   formattingOptions: []
   position:
-  - 2.28605104282924e+3
-  - 2.38367440359933e+2
+  - 3.67464367094494e+3
+  - 2.58603310721261e+2
   width: 1e+2
   connections:
     indexes:
@@ -2624,8 +2624,9 @@
       length: 1
   _effectiveHeight: 5.6e+1
 - ID: 190
-  text: Total nerd, embarrassed by real name, goes by widget. Nerdy graphic novel fan,
-    artificer, tinkers with stuff all the time, gets excited making items go kablowey
+  text: Total nerd, embarrassed by real name, goes by widget. Nerdy graphic novel
+    fan, artificer, tinkers with stuff all the time, gets excited making items go
+    kablowey
   formattingOptions: []
   position:
   - 9.12903382018372e+2
@@ -2924,8 +2925,8 @@
     him
 
 
-    Has sleep issues, so casts sleep on himself and does it too hard b/c studies
-    late into the night
+    Has sleep issues, so casts sleep on himself and does it too hard b/c studies late
+    into the night
 
     '
   formattingOptions: []
@@ -2996,12 +2997,12 @@
     super hard to pick up, there are many members of the community that are unsettled
     /unsure about this martial focus.  But now seems to be almost forced on everyone.
     a quiet undercurrent of concern and disagreement around the cloister.\n\nIt's
-    kept low because both know, not broadcast - have been more alarms lately. Not against
-    the monastery directly, but picked up on groups being sent out to deal with problems.
-    And amount of problems seems to be increasing.  \n\nNot historically this cloister
-    \"protect here\" mission, and not engaged with outside world. So this going out
-    to do other things met with some rumblings. And we have been significantly helpful
-    to that.\n\n(widget gets a secret message)"
+    kept low because both know, not broadcast - have been more alarms lately. Not
+    against the monastery directly, but picked up on groups being sent out to deal
+    with problems. And amount of problems seems to be increasing.  \n\nNot historically
+    this cloister \"protect here\" mission, and not engaged with outside world. So
+    this going out to do other things met with some rumblings. And we have been significantly
+    helpful to that.\n\n(widget gets a secret message)"
   formattingOptions: []
   position:
   - 1.26179007393977e+3
@@ -3495,8 +3496,8 @@
   _effectiveHeight: 5.18e+2
 - ID: 236
   text: Land in a foggy area.  Will be staying the night.  "We do have the one scout
-    that came back, keeping her here for recuperation at the moment until she is
-    able to travel. Be gentle and proceed slowly. At an Inn
+    that came back, keeping her here for recuperation at the moment until she is able
+    to travel. Be gentle and proceed slowly. At an Inn
   formattingOptions: []
   position:
   - 1.20113246372778e+3
@@ -3553,8 +3554,8 @@
   text: '"(Roh) How''d you find your way over here?
 
 
-    Just grunt and rolls his eyes. He''s not really engaging. (charicature of our actual
-    relationship #lolz)'
+    Just grunt and rolls his eyes. He''s not really engaging. (charicature of our
+    actual relationship #lolz)'
   formattingOptions: []
   position:
   - 1.18832135881708e+3
@@ -3745,8 +3746,8 @@
   text: ''
   formattingOptions: []
   position:
-  - 1.90253469613898e+3
-  - 4.14796248232667e+3
+  - 2.85288727589159e+3
+  - 4.12727965660239e+3
   width: 1e+2
   connections:
     indexes:
@@ -3757,8 +3758,8 @@
   text: ''
   formattingOptions: []
   position:
-  - 1.91258265233318e+3
-  - 4.48105369500803e+3
+  - 3.37359857960253e+3
+  - 4.13244896376617e+3
   width: 1e+2
   connections:
     indexes:
@@ -4105,7 +4106,7 @@
       length: 1
   _effectiveHeight: 2.8e+1
 - ID: 270
-  text: one asleep, one asploded.  Other four on Roh and Chandra's legs
+  text: one asleep, one asploded.  Other four on Roh and Chandra's legs - 2 each
   formattingOptions: []
   position:
   - 1.21439744215772e+3
@@ -4115,4 +4116,2258 @@
     indexes:
     - location: 269
       length: 1
+    - location: 273
+      length: 1
+  _effectiveHeight: 5.6e+1
+- ID: 271
+  text: Episode Two
+  fillColorRGB:
+    red: 1e+0
+    green: 9.0283e-1
+    blue: 9.76506e-1
+  formattingOptions: []
+  position:
+  - 1.80545268758138e+3
+  - 2.10338134765625e+1
+  width: 8e+1
+  connections:
+    indexes: []
+  _effectiveHeight: 1.4e+1
+- ID: 272
+  text: 'Blackness - empiness.  In the disstance, something small, red, spinning.  zoom
+    past.  Something small and blue and spinning.  zoom past, something small and
+    green. and nothing.  Then faar in the distance, some blue movement, coming closer,
+    see the figure 8 of Orub. In closer, see islands rushing by in the giant river
+    of an ocean.  Not to the familiar home we''re accustomed to, but to the south
+    - a low flat island, of which much of the island is covered in dense inpenetrable
+    fog.  Late afternoon sun burning, don''t see the sun, just a fog. and various
+    sizes of mushrooms and fungi and fauna. and a lot of browns and yellows.  '
+  formattingOptions: []
+  position:
+  - 1.92216720581051e+3
+  - 2.62514266967788e+1
+  width: 3.3e+2
+  connections:
+    indexes:
+    - location: 274
+      length: 1
+  _effectiveHeight: 1.54e+2
+- ID: 273
+  text: Steadfastly resistent to being moved.  More fire, exploding, and killed them  off,
+    and officespace-printered the sleeping one
+  formattingOptions: []
+  position:
+  - 1.01782129923501e+3
+  - 4.25535638427779e+3
+  width: 1.4e+2
+  connections:
+    indexes:
+    - location: 270
+      length: 1
+  _effectiveHeight: 8.4e+1
+- ID: 274
+  text: Around our legs, chompers - look like mushrooms, but caps have nasty rocklike
+    teefies. Survived the first accounter.  Getting late.  Waiting for some rest.  Roh
+    wants some rest
+  formattingOptions: []
+  position:
+  - 2.26452107747387e+3
+  - 3.00788523356584e+1
+  width: 2.2e+2
+  connections:
+    indexes:
+    - location: 272
+      length: 1
+    - location: 275
+      length: 1
+  _effectiveHeight: 7e+1
+- ID: 275
+  text: Roll a d10 - Roh roll a 9
+  formattingOptions: []
+  position:
+  - 2.28829325358064e+3
+  - 1.31850550333705e+2
+  width: 1.8e+2
+  connections:
+    indexes:
+    - location: 274
+      length: 1
+    - location: 276
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 276
+  text: Camp - anyone want to do anything?   Roh sweeps the area (10 on survival),
+    Chandra purifies food and drink
+  formattingOptions: []
+  position:
+  - 2.27270660400382e+3
+  - 1.92223424275763e+2
+  width: 2.1e+2
+  connections:
+    indexes:
+    - location: 275
+      length: 1
+    - location: 277
+      length: 3
+    - location: 282
+      length: 1
   _effectiveHeight: 4.2e+1
+- ID: 277
+  text: reminder - air is dense with spores. The air is noticably different - a taste
+    we've gotten accustomed to it
+  formattingOptions: []
+  position:
+  - 2.51442576090486e+3
+  - 1.02144409179734e+2
+  width: 1.4e+2
+  connections:
+    indexes:
+    - location: 276
+      length: 1
+  _effectiveHeight: 7e+1
+- ID: 278
+  text: watch?  chandra takes one
+  formattingOptions: []
+  position:
+  - 2.52022288004549e+3
+  - 1.97799621582078e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 276
+      length: 1
+    - location: 280
+      length: 2
+  _effectiveHeight: 2.8e+1
+- ID: 279
+  text: 'Tents? bedrolls?
+
+    Bedrolls.'
+  formattingOptions: []
+  position:
+  - 2.43912719726555e+3
+  - 3.20538675944057e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 276
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 280
+  text: Roh rolls over emphatically at the mention of watches
+  formattingOptions: []
+  position:
+  - 2.55910817464185e+3
+  - 2.80851506551154e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 278
+      length: 1
+  _effectiveHeight: 5.6e+1
+- ID: 281
+  text: Vana and Kash
+  formattingOptions: []
+  position:
+  - 2.46258931477857e+3
+  - 2.52858113606818e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 278
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 282
+  text: Overnight!
+  fillColorRGB:
+    red: 8.96043e-1
+    green: 9.97437e-1
+    blue: 9.42763e-1
+  formattingOptions: []
+  position:
+  - 2.31390329996737e+3
+  - 3.24965403238979e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 276
+      length: 1
+    - location: 283
+      length: 2
+  _effectiveHeight: 1.4e+1
+- ID: 283
+  text: 'Chandra - perception - 12+4 . Uneasy watch. Not the normal forest noises.  There
+    is an undercurrent of different sounds. Most recogniziable is a rustling, near
+    and far. Get the sense of things moving around. Not constantly.  Keeps you on-edge.  Amongst
+    that. other sounds, foreign sounds.  Nothing that registers being able to filter
+    out - is this normal? Normal to the fungal wild?  is this moving closer to us.
+    Can''t make sense of the noises. Just unsettling.  Nothing so loud and so close
+    it arouses direct suspicion of danger. '
+  formattingOptions: []
+  position:
+  - 1.81302001953117e+3
+  - 2.76638224283901e+2
+  width: 4.1e+2
+  connections:
+    indexes:
+    - location: 282
+      length: 1
+  _effectiveHeight: 1.12e+2
+- ID: 284
+  text: 'Kash - second watch - casting alarm for extra knowledge (audible).  (up for
+    8 hours). (all night or just take watch?  ok, do before sleep)  20-foot cube,
+    set right around you all.
+
+    Perception: 13.  Lulled by the protection, ease in to the nosie. Hear similar
+    noises. Feel of air currents moving, it''s muggy and stifling. Normally at night
+    used to cooling and feeling a refreshing sense, and don''t get that sense here.  But
+    make peace with it pretty quickly.  Midway through the watch, hear your bell begin
+    ringing.
+
+    Chandra is zonked, and Roh won''t wake up for the world.
+
+    Widget - not sleeping well, and anxious for noises, waking up at a drop of a hat.'
+  formattingOptions: []
+  position:
+  - 1.84835759480784e+3
+  - 4.1721424357101e+2
+  width: 3.4e+2
+  connections:
+    indexes:
+    - location: 282
+      length: 1
+    - location: 286
+      length: 1
+  _effectiveHeight: 1.68e+2
+- ID: 285
+  text: Roll initiaitave!
+  fillColorRGB:
+    red: 8.96043e-1
+    green: 9.97437e-1
+    blue: 9.42763e-1
+  formattingOptions: []
+  position:
+  - 2.40086781819646e+3
+  - 5.20995676676479e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 286
+      length: 1
+    - location: 288
+      length: 1
+    - location: 290
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 286
+  text: As the bell goes off, shake self out of a stupor - lulled into some phase,
+    and out of the corner of your eye, see a tendril drifting down. Tries to wrap
+    around your ~soul~ shoulder. Snaps to senses, and can roll out of the way, and
+    it drifts floats and pulls back into the fog
+  formattingOptions: []
+  position:
+  - 2.25653065999334e+3
+  - 4.02541213989304e+2
+  width: 2.7e+2
+  connections:
+    indexes:
+    - location: 284
+      length: 2
+    - location: 287
+      length: 1
+  _effectiveHeight: 8.4e+1
+- ID: 287
+  text: Kash shoots a ray of frost at it (reaction) (18 - hits) (10 cold damage)
+  formattingOptions: []
+  position:
+  - 2.21192199707017e+3
+  - 5.23803700765024e+2
+  width: 1.4e+2
+  connections:
+    indexes:
+    - location: 286
+      length: 1
+    - location: 289
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 288
+  text: not recovered long rest yet
+  formattingOptions: []
+  position:
+  - 2.54849711100248e+3
+  - 4.79259531656952e+2
+  width: 9e+1
+  connections:
+    indexes:
+    - location: 285
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 289
+  text: Hear "shhhhh" in his head
+  formattingOptions: []
+  position:
+  - 2.21376780192045e+3
+  - 5.89690338134817e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 287
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 290
+  text: Chandra Kash Roh Gadorm Widget
+  formattingOptions: []
+  position:
+  - 2.38722167968737e+3
+  - 5.69097610473684e+2
+  width: 1.5e+2
+  connections:
+    indexes:
+    - location: 285
+      length: 1
+    - location: 291
+      length: 1
+    - location: 302
+      length: 2
+    - location: 305
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 291
+  text: Chandra Roh are still asleep
+  formattingOptions: []
+  position:
+  - 2.55600443522125e+3
+  - 5.30623362223353e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 290
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 292
+  text: 'Kash: see the thing? or retracted?
+
+    perception: (12) see something descended from the fog - floating in place, tendrils
+    coming off of it. Sourronds a black / empty mouth. Kind of disturbing. A large
+    body above it.
+
+    Ray of frost - 5 damage.  See some of it fall off. A hiss, then back to "sshhh"
+    (in your head)
+
+    Free action to scream and kick Roh.  Roll a gitUpBitch check.'
+  formattingOptions: []
+  position:
+  - 2.38049749465206e+3
+  - 7.02642971947125e+2
+  width: 2.6e+2
+  connections:
+    indexes:
+    - location: 293
+      length: 1
+    - location: 302
+      length: 1
+  _effectiveHeight: 1.26e+2
+- ID: 293
+  text: 'Roh wakes up with powerful growl. Everyone can see creature above.  Was nestled
+    up to my great axe while asleep. Run up and go to town.
+
+    See tenrils extending to everybody.  They meet up at the body.  12 to hit (7 piercing)
+    thrown javelin
+
+    (Reminder to attack twice :-) )  Start hopping up impotently.'
+  formattingOptions: []
+  position:
+  - 2.38187363397498e+3
+  - 8.59086707705595e+2
+  width: 2.6e+2
+  connections:
+    indexes:
+    - location: 292
+      length: 1
+    - location: 294
+      length: 1
+  _effectiveHeight: 1.12e+2
+- ID: 294
+  text: Gadorm - rolls over and (deleted character sheet - oops!).  Yells "STOP",
+    see the tentacles moving towads each of you stop moving. "quick, we don't have
+    long. Hit it with everything you got"
+  formattingOptions: []
+  position:
+  - 2.41231814429863e+3
+  - 9.88404007684664e+2
+  width: 2.2e+2
+  connections:
+    indexes:
+    - location: 293
+      length: 1
+    - location: 295
+      length: 1
+  _effectiveHeight: 7e+1
+- ID: 295
+  text: Widget - crossbow - enchantment ignores the loading attribute, and fires towards
+    the middle, 4 piercing. Seems unfazed, but hard to tell.  The tendrils are still
+    gently drifting on the breeze
+  formattingOptions: []
+  position:
+  - 2.42383963448661e+3
+  - 1.10416299438477e+3
+  width: 2e+2
+  connections:
+    indexes:
+    - location: 294
+      length: 1
+  _effectiveHeight: 8.4e+1
+- ID: 296
+  text: Chandra - May Abel and Cantor aid us in our travails.  Bless.  WIS save -
+    20.  Tentacle wrapped around their body.  Curled around, almost gently.  Actually
+    initially see party sitting around a campfire, and seem to be like smiling and
+    passing around a bottle and taking drinks. Give a thumbs up. Then that fades into
+    the chaos. Like waking up from a dream, but not.
+  formattingOptions: []
+  position:
+  - 2.08596836635045e+3
+  - 7.02669115339007e+2
+  width: 2.5e+2
+  connections:
+    indexes:
+    - location: 298
+      length: 1
+    - location: 303
+      length: 1
+  _effectiveHeight: 1.26e+2
+- ID: 297
+  text: Giant bulbous body with tendrils. Hard to see too much. The creature hovers
+    there.
+  formattingOptions: []
+  position:
+  - 2.57433602469308e+3
+  - 5.95735663277763e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 314
+      length: 1
+  _effectiveHeight: 8.4e+1
+- ID: 298
+  text: 'Kash - Magic Missile at third level. Diamond-shaped, blue and shimmery.  Come
+    out of the orb, the thing that floats above the Sims, spinning through the air,
+    beautiful bright trail.
+
+    Air lights up above you, and can see chunks of fungi fly off the body of this
+    thing as it gets struck from various sides. First time in head hear a cry of pain
+    / a parody of a humanoid in a scream - unsettling between beast and humanoid.
+    It lists in the air a little bit.'
+  formattingOptions: []
+  position:
+  - 2.09449833461217e+3
+  - 8.48758549281533e+2
+  width: 2.7e+2
+  connections:
+    indexes:
+    - location: 296
+      length: 1
+    - location: 299
+      length: 1
+  _effectiveHeight: 1.4e+2
+- ID: 299
+  text: Roh - Get my javelin back.  DEX/athletic check (adv). Rolls well. "do some
+    damage on the way out - roll a d6"
+  formattingOptions: []
+  position:
+  - 2.08211914062501e+3
+  - 1.01724995640346e+3
+  width: 2.6e+2
+  connections:
+    indexes:
+    - location: 298
+      length: 1
+    - location: 300
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 300
+  text: Gadorn - looking warily around.  See shaking a bit. Don't know much more we
+    can do - gotta take it down. Flings off a firebolt.  A tendril is on fire.
+  formattingOptions: []
+  position:
+  - 2.09081821986611e+3
+  - 1.09282981218608e+3
+  width: 2.4e+2
+  connections:
+    indexes:
+    - location: 299
+      length: 1
+    - location: 301
+      length: 1
+  _effectiveHeight: 5.6e+1
+- ID: 301
+  text: Widget - exhaustion?  Will I get a full rest?  It's the middle of the night,
+    presumably, can continue resting until rested. Casts ray of sickness. (2 damage)
+    - seems to just eat it.
+  formattingOptions: []
+  position:
+  - 2.10759647914347e+3
+  - 1.17545561000282e+3
+  width: 2.4e+2
+  connections:
+    indexes:
+    - location: 300
+      length: 1
+    - location: 304
+      length: 1
+  _effectiveHeight: 5.6e+1
+- ID: 302
+  text: Round 1
+  formattingOptions: []
+  position:
+  - 2.38719247000565e+3
+  - 6.41436248779316e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 290
+      length: 1
+    - location: 292
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 303
+  text: Round 2
+  formattingOptions: []
+  position:
+  - 2.17965284075063e+3
+  - 6.7239190673829e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 290
+      length: 1
+    - location: 296
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 304
+  text: 'Creature hits Kash (20) and Roh (9 - nope). Kash is restrained.  Hears in
+    head "shhhh".  CHA save - 18 - see the '
+  formattingOptions: []
+  position:
+  - 2.13003025599898e+3
+  - 1.25265193830224e+3
+  width: 2.3e+2
+  connections:
+    indexes:
+    - location: 301
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 305
+  text: Round 3
+  formattingOptions: []
+  position:
+  - 1.87633370535724e+3
+  - 6.30906747000601e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 290
+      length: 1
+    - location: 306
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 306
+  text: Chandra - spiritual weapon - pizza sized wedding ring - hits - 9 HP, slams
+    againts it (bludgeoning).  See significant sized fungal umbrella part snap off,
+    and drop to the ground.  It's shifting and shaking in the air. Looking badly.
+  formattingOptions: []
+  position:
+  - 1.81381561279308e+3
+  - 6.868706229074e+2
+  width: 2.3e+2
+  connections:
+    indexes:
+    - location: 305
+      length: 1
+    - location: 307
+      length: 1
+  _effectiveHeight: 8.4e+1
+- ID: 307
+  text: 'Kash - CHA save (7). Feel the tendril release you, and look and attack you,
+    it floats up away, see the party confused. "you know what that was", and Roh comes
+    over and puts a hand on your shoulder, good job, you scared it off. "I did t his".
+    High fives and "time to go back to sleep" and laying on the ground.
+
+    Everything Gucci is go to sleep". Party sees him curl up and go back to sleep'
+  formattingOptions: []
+  position:
+  - 1.80481292724621e+3
+  - 7.99926130022357e+2
+  width: 2.5e+2
+  connections:
+    indexes:
+    - location: 306
+      length: 1
+    - location: 308
+      length: 1
+  _effectiveHeight: 1.26e+2
+- ID: 308
+  text: "Roh - just going to attack again. 10' in the air. Go for another Javelin.
+    \ Two numbers for range - 30' and 120' - if outside of that disadvantage.  And
+    bless. 18 to hit.  4 damage. (obtw has four javelins).\nSecond attack with another.
+    (+1 to make up for earlier).  OH GOD I JUST MADE A MENU COME UP AGAIN.  8 dam\xE1ge.
+    \ plus 5 damage. Looks to be in bad shape"
+  formattingOptions: []
+  position:
+  - 1.80331512451183e+3
+  - 9.5216568429133e+2
+  width: 2.4e+2
+  connections:
+    indexes:
+    - location: 307
+      length: 1
+    - location: 309
+      length: 1
+  _effectiveHeight: 1.26e+2
+- ID: 309
+  text: Gadorn
+  formattingOptions: []
+  position:
+  - 1.8013288661413e+3
+  - 1.1125485491072e+3
+  width: 2.2e+2
+  connections:
+    indexes:
+    - location: 308
+      length: 1
+    - location: 310
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 310
+  text: 'Widget - frustrated at ray sickness, fires crossbow. 12 (just hits) - how
+    you want to do this?
+
+    More mad at myself that my attempt at magic failed so grossly. Fired off the bold,
+    didn''t notice it died. "grumburmgm concentrate concentrate"
+
+    The rest of us - glow from the Kash tendril, but not enough, and that glow stops,
+    and hear a sudden rush as the body slams.
+
+    Roh DEX saving. Still a 19'
+  formattingOptions: []
+  position:
+  - 1.81487797328415e+3
+  - 1.16084819684715e+3
+  width: 2.6e+2
+  connections:
+    indexes:
+    - location: 309
+      length: 1
+    - location: 312
+      length: 1
+  _effectiveHeight: 1.4e+2
+- ID: 311
+  text: 'Chandra goes to body to poke at it, examine it. What can I learn?
+
+    Medicine check (15) - checking it out, it''s clear that it has ability to both
+    cast vision /dreams on people through contact, and to siphon off their own energy
+    to sustain itself. This DREAM SHAPER not well understood, but is one of the feared
+    thing in the fungal wild - Gadorn fills us in. See mushrooms attached groing off
+    of it. See two mushrooms can snap off and remove. Some starting to decay, untouched
+    and healty for their function
+
+    TOXIC MUSHROOM - small blue cap with a purple stem.
+
+    EDIBLE MUSHROOM - yellow with white rings around it.  Not a good idea to eat it.
+    Looks like a legit edible mushroom. (MIRCHOLY)'
+  formattingOptions: []
+  position:
+  - 2.12842485700346e+3
+  - 1.38864304024838e+3
+  width: 2.8e+2
+  connections:
+    indexes:
+    - location: 312
+      length: 1
+    - location: 315
+      length: 1
+  _effectiveHeight: 2.24e+2
+- ID: 312
+  text: 'Kash - about to fall asleep - something weird. See this giant fungus next
+    to you melting towards the ground. They start melting into the ground and twisting.
+    Nightmarish, everything going black and red and frantic. Then seeing friends standing.  (Kash
+    screams). Goes on for a good 20-30 seconds. Kash eventually sense the vividness
+    of the scene of the melting is kind of fading away - still there, but now black,
+    like black thrashing.
+
+    Kicks the tendril off and scoots away. Then zonks out.
+
+    another CHA save - 6 - get knocked out. Take 14 points of psychic damage, dying
+    scream that tails off'
+  formattingOptions: []
+  position:
+  - 1.79617614746105e+3
+  - 1.31990476771768e+3
+  width: 3e+2
+  connections:
+    indexes:
+    - location: 310
+      length: 2
+    - location: 313
+      length: 1
+  _effectiveHeight: 1.68e+2
+- ID: 313
+  text: Chandra mutters platitudes
+  formattingOptions: []
+  position:
+  - 2.12208600725458e+3
+  - 1.32974372209826e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 312
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 314
+  text: Dream Shaper
+  formattingOptions: []
+  position:
+  - 2.49540858677465e+3
+  - 6.1815628487735e+2
+  width: 6e+1
+  connections:
+    indexes:
+    - location: 297
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 315
+  text: Give the mushrooms to Widget, immediately eats the yellow one.  Burger sized,
+    has that earthy flavor to it. Gives it back. Takes a nom
+  formattingOptions: []
+  position:
+  - 1.80811497279588e+3
+  - 1.5557421657757e+3
+  width: 2.4e+2
+  connections:
+    indexes:
+    - location: 311
+      length: 1
+  _effectiveHeight: 5.6e+1
+- ID: 316
+  text: ''
+  formattingOptions: []
+  position:
+  - 2.83104958670492e+3
+  - 1.90852585274837e+3
+  width: 1e+2
+  connections:
+    indexes: []
+  _effectiveHeight: 1.4e+1
+- ID: 317
+  text: Continue Watch
+  fillColorRGB:
+    red: 8.96043e-1
+    green: 9.97437e-1
+    blue: 9.42763e-1
+  formattingOptions: []
+  position:
+  - 2.4755007498606e+3
+  - 1.22256755719869e+3
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 318
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 318
+  text: Alarm is still up. We do all get full rest. Kash has a cool thing, does Portent.  One
+    good, one bad. cooool
+  formattingOptions:
+  - options: 2
+    rangeStart: 101
+    rangeLength: 6
+  position:
+  - 2.39775364467087e+3
+  - 1.27058578927181e+3
+  width: 2.6e+2
+  connections:
+    indexes:
+    - location: 317
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 319
+  text: Sleep hard, recover, light filtering through fog, and a couple of days of
+    travel ahead of you.
+  formattingOptions: []
+  position:
+  - 2.45257498604923e+3
+  - 1.38450516183042e+3
+  width: 2.3e+2
+  connections:
+    indexes:
+    - location: 320
+      length: 2
+  _effectiveHeight: 4.2e+1
+- ID: 320
+  text: Morning
+  fillColorRGB:
+    red: 8.96043e-1
+    green: 9.97437e-1
+    blue: 9.42763e-1
+  formattingOptions: []
+  position:
+  - 2.46100219726575e+3
+  - 1.33814080810553e+3
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 319
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 321
+  text: Roll a d10 - Roh rolled the same thing, so hey Widget rolls (10)
+  formattingOptions: []
+  position:
+  - 2.43571960449231e+3
+  - 1.46314111328131e+3
+  width: 2.1e+2
+  connections:
+    indexes:
+    - location: 319
+      length: 1
+    - location: 322
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 322
+  text: '(to Roh) - this place is kind of creepy.  An unsettling sense, looking around
+    for giant floating thing. Heaer some air movement, but not seeing it.
+
+    For the rest of you, this place is creepy, move through the fog, tracking towards
+    village, and the day passes without anything else of note.'
+  formattingOptions: []
+  position:
+  - 2.44115740094879e+3
+  - 1.52523060825896e+3
+  width: 2.1e+2
+  connections:
+    indexes:
+    - location: 321
+      length: 1
+    - location: 323
+      length: 1
+  _effectiveHeight: 1.12e+2
+- ID: 323
+  text: 'Rest or push on through?
+
+    D10.  Kash (6)'
+  formattingOptions: []
+  position:
+  - 2.43352155412961e+3
+  - 1.66829426792713e+3
+  width: 2.2e+2
+  connections:
+    indexes:
+    - location: 322
+      length: 1
+    - location: 324
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 324
+  text: 'Roh does watch, still unsettling through the evening, just gives the creeps.
+    See a slight glow, and then another, and then another.  Low and floating and very
+    far off. Small shapes bobbing around in the distance. Doing anything with them?  No.
+
+    The smallest bit of comfort - feels just kind of OK.  Watch passes, they sometimes
+    disappear off in the distance. Sometimes they''re around  ("I know better than
+    to trust you!")'
+  formattingOptions: []
+  position:
+  - 2.13892255510617e+3
+  - 1.65582818603539e+3
+  width: 2.8e+2
+  connections:
+    indexes:
+    - location: 323
+      length: 1
+    - location: 325
+      length: 2
+  _effectiveHeight: 1.4e+2
+- ID: 325
+  text: 'One more day! d10/chandra/8. Survival - 20+4.
+
+    Figured we were off direction. Added a slight bit of time, but as you are moving
+    through the solid mist, up ahead, pause. See someone moving. Seen shapes moving
+    off in the distance, attacked by a few things. Looks like a mushroom of human
+    height, then like a human. An elf (F) wearing a mushroom hat.
+
+    Looks through long veil all around them. See a sleepy looking elf looking through
+    the veil - dark meloncholy eyes.  Small garden of fungus on the hat. Arms wrapped
+    in bandages, and peeking out are fuzzy bits of lichen.
+
+    "Strange to run into people here. A bit dangerous to be wandering here alone.  Looking
+    for the town?"
+
+    "What town?  Lost aleady".  Kash rollplaying someone who takes notes.
+
+    "Barbos sagal, it''s not too far from here. Think you''re tracking a little bit
+    off. Tell you off, about to head into town, and take you with me." Chandra - "that''d
+    be nice, thank you"
+
+    To your left, bloomin'' brooms - little bristles. Don''t eat stuff, useful for
+    medicines.  "ooh medicines" "I see bites taken out of that" - fortunate with that
+    one. That''s just good eatin''. A good base, and add some spice or seasoning.  MIRCHOLY".
+    I''ve named a lot of them. Watch out for dots. Will ahve some unpleasant experiences
+    down here (lower body).
+
+    Widget "ooh like poopin" "more involved with that."  "It''s like a spa, but opposite"
+
+    Drawing in information.  The Broom one, good for skin care, keeping skin healthy.
+    Or a wound and want to heal better.  Have a number of treatments.  Healer''s kit
+    sell. And medicinal mushrooms.  From a cough. This one for the aforementioned
+    body issues. 15 gold for the medicinal mushrooms each.  Interested. have rations
+    of course, have some good edible mushrooms, and do have the edible mushrooms -
+    float away and have a relaxing day.
+
+    "HYPHA"'
+  formattingOptions: []
+  position:
+  - 1.80667820521778e+3
+  - 1.65265110996807e+3
+  width: 3.1e+2
+  connections:
+    indexes:
+    - location: 324
+      length: 1
+  _effectiveHeight: 5.32e+2
+- ID: 326
+  text: 'Don''t see a lot of folks out here. Love the mushrooms.
+
+    C: "Have they always been here?" Always had them, but so much more. Feel I can
+    lose myself in them.  This is my lot.
+
+    You want something fun, mentionen the medicinal are 15 gold. Co  me up with some
+    mushroom wine.  5 silver - fruity, armoatic, a bit on the sweet side.  Pulls out
+    a flask  -reverse mushroom shaped, between a flask and bottle, mushroom.
+
+    FRUITY MUSHROOM WINE'
+  formattingOptions: []
+  position:
+  - 2.13365382603258e+3
+  - 1.82246968296613e+3
+  width: 2.8e+2
+  connections:
+    indexes:
+    - location: 324
+      length: 1
+    - location: 327
+      length: 1
+  _effectiveHeight: 1.54e+2
+- ID: 327
+  text: Insight check "is she the one speaking?", almost seem despite what she might
+    want, this is her.  The mushroom hat is truly a hat, kind of alive, doesn't seem
+    to be connected to her.
+  formattingOptions: []
+  position:
+  - 2.43914816720166e+3
+  - 1.72510910470161e+3
+  width: 2.4e+2
+  connections:
+    indexes:
+    - location: 326
+      length: 1
+    - location: 328
+      length: 1
+  _effectiveHeight: 7e+1
+- ID: 328
+  text: 'Kash - any healing. The medicinal mushrooms, have a healer''s kit you can
+    apply. Poisons have some antitoxin, but that''s pricing.  healer kit 8gp, and
+    mushroom is 15
+
+    Buy a medicinal mushroom. "health vs poison?" "medicinal are 15, antitoxin is
+    quite a bit more - 40gp".
+
+    Healer''s kit have to roll a medicine check to apply. The medicinal mushroom eat
+    and get its effect. '
+  formattingOptions: []
+  position:
+  - 2.43677900041873e+3
+  - 1.84098530796612e+3
+  width: 2.5e+2
+  connections:
+    indexes:
+    - location: 327
+      length: 1
+    - location: 330
+      length: 1
+  _effectiveHeight: 1.4e+2
+- ID: 329
+  text: 'Chandra to Gadorm - she seems legit. Dunno why she''s different. Don''t know
+    her relationship with the village, she seem comfortable.  Maybe figure out a little
+    more about what we''re walking in to. '
+  formattingOptions: []
+  position:
+  - 2.14137433733278e+3
+  - 2.12548569161568e+3
+  width: 2.5e+2
+  connections:
+    indexes:
+    - location: 331
+      length: 4
+  _effectiveHeight: 7e+1
+- ID: 330
+  text: 'Don''t seem to be big spenders. carrying a few things more.
+
+    Roh - "you saying we''re stingy?"
+
+    It''s fun - I have a varying number of things on me. Not trying to be pushy, just
+    trying to be helpful, if you want to hear unload things. See I''m just rambling'
+  formattingOptions: []
+  position:
+  - 2.40575910295778e+3
+  - 2.0011840645928e+3
+  width: 2.5e+2
+  connections:
+    indexes:
+    - location: 328
+      length: 1
+    - location: 331
+      length: 1
+  _effectiveHeight: 9.8e+1
+- ID: 331
+  text: Widget - chambra - result of too many drugs. Hypha bristles
+  formattingOptions: []
+  position:
+  - 2.16797882080097e+3
+  - 2.02557972935284e+3
+  width: 2.2e+2
+  connections:
+    indexes:
+    - location: 329
+      length: 2
+  _effectiveHeight: 2.8e+1
+- ID: 332
+  text: 'Multitentacled mouth thing - are those common?  That''s amazing you''re here.
+    Found groups, laying down peacefully, not there any more. Not alive.  Wouldn''t
+    say common - "Dream Takers" - make you experience a different reality. They eat
+    us, is what I''m sayin''. Not the bodies.  Stay away from those things. One comes
+    around, going to leave real quick.  Not a lot of them, but nobody knows where
+    they come and they go, be careful at night, one of the lesser known things. If
+    you learn your mushrooms can learn safer - talking about mushroom caps and colors.
+
+    ADVANTAGE ON FUNGI KNOWLEDGE'
+  formattingOptions: []
+  position:
+  - 2.41435241699238e+3
+  - 2.12329762486065e+3
+  width: 2.6e+2
+  connections:
+    indexes:
+    - location: 329
+      length: 1
+  _effectiveHeight: 1.96e+2
+- ID: 333
+  text: 'Kash is taking extensive notes on everything, drawing little sketches.
+
+    ADVANTAGE ON FUNGI KNOWLEDGE
+
+    "in the professor''s room" - see her reach to the necklace and run a finger over
+    it.'
+  formattingOptions: []
+  position:
+  - 2.14929260253925e+3
+  - 2.22983052280998e+3
+  width: 2.3e+2
+  connections:
+    indexes:
+    - location: 329
+      length: 1
+    - location: 335
+      length: 1
+  _effectiveHeight: 7e+1
+- ID: 334
+  text: 'Rest of party - uneasy sense of the wilds around you. No looming shapes,
+    unsettled
+
+    Roh has been on edge. And about the fungus lady, totally on-edge, about to go
+    off, almost like ... a rage :-)  Didn''t ask for a tour of the area.  I don''t
+    like anything about this.
+
+    "Cabbie, no I didn''t want the scenic route"'
+  formattingOptions: []
+  position:
+  - 1.82179975237186e+3
+  - 2.22715138462639e+3
+  width: 2.5e+2
+  connections:
+    indexes:
+    - location: 329
+      length: 1
+  _effectiveHeight: 9.8e+1
+- ID: 335
+  text: "Four main category\n* four veriaty of edible \n* medicinal\n* toxic\n* special
+    more unique purposes (magic, glowing)"
+  formattingOptions: []
+  position:
+  - 2.11222024100188e+3
+  - 2.34209198434041e+3
+  width: 2.7e+2
+  connections:
+    indexes:
+    - location: 333
+      length: 1
+    - location: 336
+      length: 2
+  _effectiveHeight: 7e+1
+- ID: 336
+  text: saved a night in the wilds. Did have some things available for sale, and bulked
+    up on fungal knowledge
+  formattingOptions: []
+  position:
+  - 2.41276899065311e+3
+  - 2.34549637276814e+3
+  width: 2.2e+2
+  connections:
+    indexes:
+    - location: 335
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 337
+  text: 'Kash - see wild mushrooms, say small ones she''s telling us about?
+
+    She''s pointing them out.  Some very large (tree sized) all the way to small.
+    mushrooms everywhere.
+
+    Kash wants to find one of the toxic ones?  Normally would take a little while,
+    but with Hypha get an advantage.  Survival check (4). Taking extensive notes,
+    and go to pick one. "oh dear no, stop, don''t touch that one. What are you lookin''
+    for?" "toxic ones for research" "that one would give you a shock". Look over here
+    for me. Survival check (8) "it doesn''t taste great I guess. I think you need
+    a little more time studying before you''re ready''
+
+    Widget: "Can I strap one to an arrow?"
+
+    (more Kash rolls, but epic fail all the time)'
+  formattingOptions: []
+  position:
+  - 1.82410831996395e+3
+  - 2.36482808140374e+3
+  width: 2.6e+2
+  connections:
+    indexes:
+    - location: 335
+      length: 1
+    - location: 338
+      length: 2
+  _effectiveHeight: 2.38e+2
+- ID: 338
+  text: '"Sweet summer child..."'
+  formattingOptions: []
+  position:
+  - 2.12146388462633e+3
+  - 2.43619609723803e+3
+  width: 2e+2
+  connections:
+    indexes:
+    - location: 337
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 339
+  text: Ya'll were looking for the town, look up head - muddy streets in run-down
+    farming town. The roads squirm under our feet. Hear a voice calling out. Nobdy
+    there. Sometimes you take a few steps to realize you haven't moved. All feel softer
+    and lighter. Somethign strange in this place and going on with you.
+  formattingOptions: []
+  position:
+  - 2.11515197753928e+3
+  - 2.4752575945176e+3
+  width: 2.4e+2
+  connections:
+    indexes:
+    - location: 337
+      length: 1
+    - location: 340
+      length: 2
+  _effectiveHeight: 1.12e+2
+- ID: 340
+  text: Widget offers toxic mushroom to Kash. "oh keep it, just trying to scrounge
+    while wandering)
+  formattingOptions: []
+  position:
+  - 2.39536551339307e+3
+  - 2.43369328526117e+3
+  width: 2.7e+2
+  connections:
+    indexes:
+    - location: 339
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 341
+  text: 'Not :alot: of people in town. Do feel lighter, softer, and when go to move,
+    and raelize you haven''t gone any where. Shake your head and try again.
+
+    Just feels dreamy, software, lighter. Imagine why previous parties have '
+  formattingOptions: []
+  position:
+  - 2.39550005231606e+3
+  - 2.50062929861915e+3
+  width: 2.7e+2
+  connections:
+    indexes:
+    - location: 339
+      length: 1
+    - location: 342
+      length: 1
+  _effectiveHeight: 7e+1
+- ID: 342
+  text: "Shape of town - exist tavern?  Square? Cemetary?\nOSHENGA - another NPC\nHypha
+    - brewery, the important thing, you like the wine. The brewery is even better.
+    I make the wine. But everyone loves the brewery and our local mix.  The town hall,
+    the church, some of the key locations, folks pointing out for them. \n\"I did
+    find my chainsaw, though\""
+  formattingOptions: []
+  position:
+  - 2.3916278076174e+3
+  - 2.60832692173577e+3
+  width: 2.7e+2
+  connections:
+    indexes:
+    - location: 341
+      length: 1
+    - location: 343
+      length: 1
+  _effectiveHeight: 1.26e+2
+- ID: 343
+  text: 'Hypha just wandered off, taking a seat, just talking. People stopping by
+    and talking to her.
+
+    Oshenga - large dragonborn jet black scales, and she has rows of wide shelf mushrooms
+    elbow and go up her face neck. In constant motion, but lackidazical. Large slashes
+    on chest and bacl, very old, purple mushrooms pushing through the scales. Looks
+    tough and continuously moving, but not intense about it. Notice that has a barrel
+    under her said "ROOT WATER".  Going towards A1 - sign with two mugs with froth
+    on top.'
+  formattingOptions: []
+  position:
+  - 2.09658211844329e+3
+  - 2.62060113525419e+3
+  width: 2.6e+2
+  connections:
+    indexes:
+    - location: 342
+      length: 1
+    - location: 344
+      length: 1
+  _effectiveHeight: 1.68e+2
+- ID: 344
+  text: Other folks around?  A mix of people. Fair number of elf half elf human, dorf
+    roaming thorugh the street.
+  formattingOptions: []
+  position:
+  - 1.83017495291597e+3
+  - 2.63076741245844e+3
+  width: 2e+2
+  connections:
+    indexes:
+    - location: 343
+      length: 1
+    - location: 345
+      length: 1
+  _effectiveHeight: 5.6e+1
+- ID: 345
+  text: 'Mikey - is there a shop with alchemy supplies?
+
+    Look around, if not see obvious, ask someone. See what might be a shop. But doesn''t
+    seem live / active, don''t see people coming in our out, or signs or wares or
+    anything like that.  The most you see is they tending to buildings, and going
+    towards that central hole in the ground.'
+  formattingOptions: []
+  position:
+  - 1.81378064836798e+3
+  - 2.72086380440878e+3
+  width: 2.4e+2
+  connections:
+    indexes:
+    - location: 344
+      length: 1
+    - location: 346
+      length: 1
+  _effectiveHeight: 1.26e+2
+- ID: 346
+  text: 'Roh - are people responding to us normally?  No other pandas, used to people
+    furtive glances or open staring.
+
+    Not really getting that - not ignoring you. Not reacting like outsiders.  Going
+    around their business.
+
+    "We feel nice and floaty", and my suspicious is everyone is nice and floaty? Are
+    they automatons in a hall of presidents kind of thing.
+
+    Widget - is the light and floaty due to poison? (resistant, any change?) You do
+    feel lighter and floaty. Nothing you''re not in control of.  Like a mild buzz.
+
+    Roh''s 16 investigation. See when two people someone stops out of sight of the
+    corner and waits.  Or one will say Hi and the other will wave. Get a sense of
+    communication that''s just not out in the open, and awareness out in the open.
+    Don''t get hivemind or automaton. Just seem like everyone is sort of pleasant
+    and connected.'
+  formattingOptions: []
+  position:
+  - 1.79848837716262e+3
+  - 2.8754799368725e+3
+  width: 3.1e+2
+  connections:
+    indexes:
+    - location: 345
+      length: 1
+    - location: 347
+      length: 1
+  _effectiveHeight: 2.38e+2
+- ID: 347
+  text: Can see why people are OK with this, and why folks outside are upset
+  formattingOptions: []
+  position:
+  - 2.17650525774298e+3
+  - 2.82705067661863e+3
+  width: 2.5e+2
+  connections:
+    indexes:
+    - location: 346
+      length: 1
+    - location: 348
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 348
+  text: 'Couple of minutes watching - lot of people have mushrooms on them, or isgnia
+    on their buildings, leaned heavily into the mushroom thing.
+
+    See an old Duragar - thin lithe, streaks of mud. A lot of hazy expressions.  Just
+    pleasantly going about their day.  Spot far off in the distance, someone in a
+    long dark cloak move in to the northern (A4 ish area). More sharply dresed folks
+    moving with purpose - black with red sash around them. They move past other people,
+    no reaction'
+  formattingOptions: []
+  position:
+  - 2.16716291155158e+3
+  - 2.89134663609129e+3
+  width: 2.7e+2
+  connections:
+    indexes:
+    - location: 347
+      length: 1
+    - location: 349
+      length: 2
+  _effectiveHeight: 1.4e+2
+- ID: 349
+  text: Chandra History - the black outfit with sash look familiar - 3+5 8.  need
+    to get closer
+  formattingOptions: []
+  position:
+  - 2.16254577636743e+3
+  - 3.06473548235245e+3
+  width: 2.6e+2
+  connections:
+    indexes:
+    - location: 348
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 350
+  text: 'The cloaked figure push nervous Widget, and throws up a see invisibility
+
+    Don''t see illusions or anything invisible.'
+  formattingOptions: []
+  position:
+  - 2.47962219238304e+3
+  - 2.81539071655306e+3
+  width: 1.8e+2
+  connections:
+    indexes:
+    - location: 348
+      length: 1
+    - location: 351
+      length: 1
+  _effectiveHeight: 7e+1
+- ID: 351
+  text: Group across the street, sipping from a mug
+  formattingOptions: []
+  position:
+  - 2.4765932791576e+3
+  - 2.92155197579553e+3
+  width: 1.8e+2
+  connections:
+    indexes:
+    - location: 350
+      length: 1
+    - location: 352
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 352
+  text: 'Hey, welcome man.
+
+    Hypha brought us.
+
+    She''s the greatest, she has the good stuff. She''s nice.'
+  formattingOptions: []
+  position:
+  - 2.47197213309175e+3
+  - 2.96943693324531e+3
+  width: 1.7e+2
+  connections:
+    indexes:
+    - location: 351
+      length: 1
+    - location: 353
+      length: 1
+  _effectiveHeight: 5.6e+1
+- ID: 353
+  text: 'Chandra Insight (24) - what''s behind the eyes?  Have a good read of them.
+    There is some kind of influence that seems to have a grasp / infiltrating in the
+    area, see it in the person. Can feel it yourself, might lose some sense of self.
+    Feels like a magical influence, something in this area, do still seem to be themselves,
+    in control of themselves, more that they seem willing answer questions / talk
+    / help. Not hostile. Not hivemindey.  Kind of forgot about all their problems,
+    and have sort of have a focus that is shared.
+
+    Only thing they seem to care about is mining, that''s going on. Not overly aggressive
+    about it-  that feels about the outside influence. The glazed look is a bit of
+    disconnection.
+
+    Have to talk people'
+  formattingOptions: []
+  position:
+  - 2.44835832868327e+3
+  - 3.04768892996685e+3
+  width: 2.3e+2
+  connections:
+    indexes:
+    - location: 352
+      length: 1
+    - location: 354
+      length: 1
+  _effectiveHeight: 2.66e+2
+- ID: 354
+  text: Mining - were we briefed about what they were mininig?
+  formattingOptions: []
+  position:
+  - 2.25427612304711e+3
+  - 3.12065111868753e+3
+  width: 1.7e+2
+  connections:
+    indexes:
+    - location: 353
+      length: 1
+    - location: 355
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 355
+  text: left crops to rot and digging, some rumors about the ZENDRETH and the experience
+    with the survivor in the Inn
+  formattingOptions: []
+  position:
+  - 2.0324197823663e+3
+  - 3.13602916608569e+3
+  width: 1.7e+2
+  connections:
+    indexes:
+    - location: 354
+      length: 1
+    - location: 356
+      length: 1
+  _effectiveHeight: 7e+1
+- ID: 356
+  text: Get something to eat and drink.
+  formattingOptions: []
+  position:
+  - 1.84056156703429e+3
+  - 3.15018291364428e+3
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 355
+      length: 1
+    - location: 357
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 357
+  text: Roh - something is wrong about everyone - extreme feeling of unease in letting
+    guard down in any way - just as start swinging my axe
+  formattingOptions: []
+  position:
+  - 1.82199667794389e+3
+  - 3.21227698625868e+3
+  width: 1.9e+2
+  connections:
+    indexes:
+    - location: 356
+      length: 1
+    - location: 358
+      length: 2
+  _effectiveHeight: 7e+1
+- ID: 358
+  text: Kash - before eating, go catch a glmpse of the mine? Ask around
+  formattingOptions: []
+  position:
+  - 2.04130684988864e+3
+  - 3.22920290701761e+3
+  width: 2.3e+2
+  connections:
+    indexes:
+    - location: 357
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 359
+  text: Roh's Passive perception - moving towards hole in town center, don't get a
+    sense of people reaction or watching more closely seem largely unaffected by you.
+  formattingOptions: []
+  position:
+  - 2.04623073032949e+3
+  - 3.29020379638703e+3
+  width: 2.1e+2
+  connections:
+    indexes:
+    - location: 357
+      length: 1
+    - location: 360
+      length: 1
+  _effectiveHeight: 7e+1
+- ID: 360
+  text: 'Entrance to the mines -a large pit in the middle of the street and dug haphazardly
+
+    "more enthusiasm. than technique" - plethora of mushrooms. Rough stairs to a ramp,
+    to a cavern floor that goes out of sight.
+
+    Nobody gone back to finish or improve things. Wood slats on eroded dirt.
+
+    "Our Hole, in the Middle of the Street"'
+  formattingOptions: []
+  position:
+  - 1.82492954799132e+3
+  - 3.33291820417163e+3
+  width: 2e+2
+  connections:
+    indexes:
+    - location: 359
+      length: 1
+    - location: 361
+      length: 1
+  _effectiveHeight: 1.68e+2
+- ID: 361
+  text: 'Widget tosses a stone into the hole, small rock infused to glow, see it as
+    it falls into darkness.
+
+    Perception - (15) See the glow go down a ways, don''t really hear it, see the
+    glow stop moving - several stories worth - a (w)hole tall house, landed on some
+    kind of floor - the central hole only goes down so far'
+  formattingOptions: []
+  position:
+  - 2.04999468122235e+3
+  - 3.40309638323139e+3
+  width: 2.5e+2
+  connections:
+    indexes:
+    - location: 360
+      length: 1
+    - location: 362
+      length: 1
+  _effectiveHeight: 1.12e+2
+- ID: 362
+  text: Roh - we've been traveling, need some snackies before going down the hole.
+  formattingOptions: []
+  position:
+  - 2.02737574986074e+3
+  - 3.53917334856342e+3
+  width: 2.3e+2
+  connections:
+    indexes:
+    - location: 361
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 363
+  text: Night settling in
+  fillColorRGB:
+    red: 8.96043e-1
+    green: 9.97437e-1
+    blue: 9.42763e-1
+  formattingOptions: []
+  position:
+  - 1.85016257149858e+3
+  - 3.60507671247246e+3
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 364
+      length: 2
+  _effectiveHeight: 1.4e+1
+- ID: 364
+  text: 'Someone walks by whislting.
+
+    Check out the ROOT WATER, pointing where what you think is the brewery.'
+  formattingOptions: []
+  position:
+  - 2.00053719656834e+3
+  - 3.58838756452329e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 363
+      length: 1
+  _effectiveHeight: 7e+1
+- ID: 365
+  text: Santaroga Barrier vibes
+  formattingOptions: []
+  position:
+  - 1.91781197684178e+3
+  - 3.70022193254785e+3
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 363
+      length: 1
+    - location: 370
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 366
+  text: 'ground floor serves as a tavern. Roof has collapsed - beams and rubble. Rotting
+    wooden bar is overgrown with mushrooms
+
+    Kash and Chandra (23) - furry.  Categorized, remember that frequently the furry
+    indications is one of two things. Looks like just stay away from, it will upset
+    your stomach.  "old man beards / mini beards"
+
+    See Oshanga climbing the stairs up from cellar. Has kegs under both arms'
+  formattingOptions: []
+  position:
+  - 2.25551901681108e+3
+  - 3.61771201433496e+3
+  width: 2.2e+2
+  connections:
+    indexes:
+    - location: 370
+      length: 1
+  _effectiveHeight: 1.68e+2
+- ID: 367
+  text: Oshanga - root water, town is known for it.  Row of canteens. Try it out.  Don't
+    have to like it.
+  formattingOptions: []
+  position:
+  - 1.82443276541601e+3
+  - 3.77805283028788e+3
+  width: 1.5e+2
+  connections:
+    indexes:
+    - location: 370
+      length: 1
+  _effectiveHeight: 5.6e+1
+- ID: 368
+  text: 'Chandra gets a cup - detect poison and disease.
+
+    Widget - ritual cast identify
+
+    Pour it out, it''s a liquid, it flows, medium brown color, a bit of froth. It
+    is a pleasant aroma, loamy / earthy, but not overly strong, jsut consistently
+    there'
+  formattingOptions: []
+  position:
+  - 1.84006417410742e+3
+  - 3.85487019566177e+3
+  width: 1.8e+2
+  connections:
+    indexes:
+    - location: 370
+      length: 1
+    - location: 372
+      length: 2
+  _effectiveHeight: 1.12e+2
+- ID: 369
+  text: 'Ro Takes a Big Swig - almost filling for a drink, not completey, the pungent
+    level just barely there.
+
+    Calming openness.  Feel like a connecting energy, there for the party and theyre''
+    there for you.
+
+    Suddenly have this strong sense / smell of cotton candy, almost like a breeze,
+    and gone. Thinking about it, see cotton candy spiral up and then it''s gone.'
+  formattingOptions: []
+  position:
+  - 2.04980189732171e+3
+  - 3.81255081612776e+3
+  width: 2.3e+2
+  connections:
+    indexes:
+    - location: 370
+      length: 2
+  _effectiveHeight: 1.4e+2
+- ID: 370
+  text: Tavern
+  fillColorRGB:
+    red: 8.96043e-1
+    green: 9.97437e-1
+    blue: 9.42763e-1
+  formattingOptions: []
+  position:
+  - 2.10269906180274e+3
+  - 3.71153447178485e+3
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 365
+      length: 5
+  _effectiveHeight: 1.4e+1
+- ID: 371
+  text: 'Do I still feel like in the forest as well - on edge, or has that mellowoed.
+    (Survival 12).
+
+    Since entered on town, don''t feel as on edge. It''s there , but not Right There.
+    This has mellowed you out, feel released of whatever was burdening them.
+
+    (finishes rest of the tankard)'
+  formattingOptions: []
+  position:
+  - 2.30975289481055e+3
+  - 3.8461730346685e+3
+  width: 1.9e+2
+  connections:
+    indexes:
+    - location: 369
+      length: 1
+  _effectiveHeight: 1.26e+2
+- ID: 372
+  text: 'C: No poison no disease in my cup at least.  Uneven mixture, natural and
+    not diseased.
+
+    W: telling me about relative to magic - made by magic / spell effect / is it magical.   Pick
+    up only the slightest bit of magic, and recognize it because you''ve been traveling
+    as Magic Mushroom kind of magic - can''t make too much out of it, a mundane drink,
+    all natural, seems might be mushroom based and might have (actual) magic mushrooms
+    involved.'
+  formattingOptions: []
+  position:
+  - 1.99231105259515e+3
+  - 3.99776470075388e+3
+  width: 2.3e+2
+  connections:
+    indexes:
+    - location: 368
+      length: 1
+  _effectiveHeight: 1.68e+2
+- ID: 373
+  text: 'Not really chunky - foamy.
+
+    "A chewy mouthfeel"'
+  formattingOptions: []
+  position:
+  - 1.83987143380329e+3
+  - 4.00618114362497e+3
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 368
+      length: 1
+  _effectiveHeight: 5.6e+1
+- ID: 374
+  text: 'Oshanga - did you enjoy?  Gets a canteen and pours a big '
+  formattingOptions: []
+  position:
+  - 1.89256243024582e+3
+  - 4.19644965471598e+3
+  width: 1.7e+2
+  connections:
+    indexes:
+    - location: 375
+      length: 4
+  _effectiveHeight: 4.2e+1
+- ID: 375
+  text: You the owner?  Sure!  This is my place yeah!  (not convinced)
+  formattingOptions: []
+  position:
+  - 2.0831155831476e+3
+  - 4.17814331490711e+3
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 374
+      length: 1
+  _effectiveHeight: 5.6e+1
+- ID: 376
+  text: 'Kash - have detect thoughts up as we''re being served, if any oddity happening.  LIke
+    what she said.  Very surface levels, "at least keep the root water coming, I have
+    something to remember, I''ll just have another drink", not thinking about much.
+
+    K: is it similar in pattern interviewing the scout?
+
+    Kind of is -'
+  formattingOptions: []
+  position:
+  - 1.8547748674668e+3
+  - 4.26241030447884e+3
+  width: 2e+2
+  connections:
+    indexes:
+    - location: 374
+      length: 1
+  _effectiveHeight: 1.54e+2
+- ID: 377
+  text: '"All of you really brightly colored. You''re pinks and blues, and oranges.
+    I should warn you, gives off some sensory.. it''s good stuff, I''ve heared trumpets.
+    whoo! that was good"
+
+    Unfased at Widget ritual casting outside of a raised eyebrow'
+  formattingOptions: []
+  position:
+  - 2.14545375279046e+3
+  - 4.2559225725453e+3
+  width: 2e+2
+  connections:
+    indexes:
+    - location: 374
+      length: 1
+  _effectiveHeight: 1.12e+2
+- ID: 378
+  text: ' she is heading back down stairs - Chandra is helping carry. Kash stand at
+    the top of the stairs to s tay within the 30'' range. Trying to absorb.
+
+    Thinking "that was more interesting than most days, strangers by.  kind of  boring,
+    I''ve been near death this is easy. I don''t worry about the small stuff, get
+    more root water."
+
+    Pick up one other thing at botton - "am I missing, did I... oh there it is the
+    keg of root water", seems confused about something for a second.'
+  formattingOptions: []
+  position:
+  - 2.06709769112751e+3
+  - 4.3924317975732e+3
+  width: 2.7e+2
+  connections:
+    indexes:
+    - location: 374
+      length: 1
+    - location: 380
+      length: 1
+  _effectiveHeight: 1.4e+2
+- ID: 379
+  text: ''
+  formattingOptions: []
+  position:
+  - 2.8485107276556e+3
+  - 4.05141983831566e+3
+  width: 1e+2
+  connections:
+    indexes: []
+  _effectiveHeight: 1.4e+1
+- ID: 380
+  text: 'Chandra sees - a large pit, down steps, down in kind of irregular shaped
+    pit, seems pretty deep, tendrils of fungs, pit filled with murky liquid, gently
+    frothing, and floating toadstools floating. See barrels of root water, labeled
+    hapazardly 1, 2.  1 - smells like muddy water. Smell fermentation going on, and
+    goes on to the end of the row, gives a sniff, and puts the top on.  Nice and fermented.
+
+    Takes two barrels.'
+  formattingOptions: []
+  position:
+  - 2.38140502929715e+3
+  - 4.28418202427526e+3
+  width: 2.1e+2
+  connections:
+    indexes:
+    - location: 378
+      length: 1
+    - location: 381
+      length: 2
+  _effectiveHeight: 1.68e+2
+- ID: 381
+  text: Colors are my favorite
+  formattingOptions: []
+  position:
+  - 2.40106105259515e+3
+  - 4.24132150268629e+3
+  width: 1.7e+2
+  connections:
+    indexes:
+    - location: 380
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 382
+  text: '"where''d you get the scars?"'
+  formattingOptions: []
+  position:
+  - 2.36525129045787e+3
+  - 4.49448000662742e+3
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 380
+      length: 1
+    - location: 383
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 383
+  text: Not here.  Before.. coming here. In some battles. Fought. I don't really remember
+    put behind me, we got a good drink. It's been a little itneresting. Our mayor
+    got sick, hopeing get well
+  formattingOptions: []
+  position:
+  - 1.88020202636747e+3
+  - 4.56161532883491e+3
+  width: 2.9e+2
+  connections:
+    indexes:
+    - location: 382
+      length: 1
+    - location: 384
+      length: 1
+  _effectiveHeight: 5.6e+1
+- ID: 384
+  text: '"practitioner of the healing arts"'
+  formattingOptions: []
+  position:
+  - 1.96983131045416e+3
+  - 4.68407098686796e+3
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 383
+      length: 1
+    - location: 385
+      length: 3
+  _effectiveHeight: 2.8e+1
+- ID: 385
+  text: Dunno why mushrooms not working. Maybe at the town hall. They're pretty sick.  The
+    Mayor's proxy
+  formattingOptions: []
+  position:
+  - 1.83957100277886e+3
+  - 4.65713015609235e+3
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 384
+      length: 1
+  _effectiveHeight: 9.8e+1
+- ID: 386
+  text: Kash - I don't remember who our mayor. How long has she been sick? This is
+    fine. We appointed proxy
+  formattingOptions: []
+  position:
+  - 2.00179756527891e+3
+  - 4.77191192634446e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 384
+      length: 1
+    - location: 388
+      length: 1
+  _effectiveHeight: 5.6e+1
+- ID: 387
+  text: Talks about root water. Up the ladder we go
+  formattingOptions: []
+  position:
+  - 1.87759882609039e+3
+  - 4.78232136027046e+3
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 384
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 388
+  text: Root water making us connected, memories of sensory imagary - drink and got
+    a great massage, or hear what swears is beaufitul music but can't remember,   Plus
+    "am I missing, have I lost.  Oh something in front of me like a table
+  formattingOptions: []
+  position:
+  - 1.83003835042302e+3
+  - 4.88886651611354e+3
+  width: 2.5e+2
+  connections:
+    indexes:
+    - location: 386
+      length: 1
+  _effectiveHeight: 8.4e+1
+- ID: 389
+  text: food! sounds great!
+  formattingOptions: []
+  position:
+  - 2.41212412516263e+3
+  - 4.55993534342474e+3
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 390
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 390
+  text: A little table, a large bowl of various mushrooms. Recognize as the edible
+    ones that are safe to eat
+  formattingOptions: []
+  position:
+  - 2.5403098551431e+3
+  - 4.5505589701337e+3
+  width: 1.3e+2
+  connections:
+    indexes:
+    - location: 389
+      length: 1
+    - location: 391
+      length: 2
+  _effectiveHeight: 8.4e+1
+- ID: 391
+  text: This is all we need, don't need the fields
+  formattingOptions: []
+  position:
+  - 2.55890858968086e+3
+  - 4.46948536173527e+3
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 390
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 392
+  text: 'Kash blows another mushroom knowledge roll.
+
+    You think they''re all the same type, all edible, this comes in different sizes
+    and colors.
+
+    "I''m kind of tired of mushrooms, is there a full menu"
+
+    Uh no... I get it, this is the full menu. There''s a whole variety of different
+    flavors and types you can enjoy.
+
+    "wow, rude. I just offered all the mushroom"'
+  formattingOptions: []
+  position:
+  - 2.20189249674466e+3
+  - 4.56230355834985e+3
+  width: 1.7e+2
+  connections:
+    indexes:
+    - location: 390
+      length: 1
+    - location: 393
+      length: 1
+    - location: 395
+      length: 1
+  _effectiveHeight: 1.96e+2
+- ID: 393
+  text: Chandra Purify food and drink.  Get a yellow+white and nobs
+  formattingOptions: []
+  position:
+  - 2.26852864583317e+3
+  - 4.79831999715194e+3
+  width: 1.7e+2
+  connections:
+    indexes:
+    - location: 392
+      length: 1
+    - location: 394
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 394
+  text: taste of freshness now been purified
+  formattingOptions: []
+  position:
+  - 2.20089050292951e+3
+  - 4.85391275024437e+3
+  width: 2.4e+2
+  connections:
+    indexes:
+    - location: 393
+      length: 1
+    - location: 396
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 395
+  text: Roh more root water and not being smart. Others have yellow+white mushrooms
+  formattingOptions: []
+  position:
+  - 2.18190256754539e+3
+  - 4.8923585408531e+3
+  width: 2.2e+2
+  connections:
+    indexes:
+    - location: 392
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 396
+  text: Gadorn drinking root water
+  formattingOptions: []
+  position:
+  - 2.43626818847638e+3
+  - 4.89987339274113e+3
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 394
+      length: 1
+    - location: 397
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 397
+  text: '"that''s fun, I just saw..."'
+  formattingOptions: []
+  position:
+  - 2.39032240804018e+3
+  - 4.96960888671896e+3
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 396
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 398
+  text: 'Ejoying dinner in Ostahnga''s kitchen.
+
+    "nice to meet everyone, see you later!"
+
+    Roh slams more.  Hears bells'
+  formattingOptions: []
+  position:
+  - 2.48481328328436e+3
+  - 4.6717292683921e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 399
+      length: 1
+  _effectiveHeight: 8.4e+1
+- ID: 399
+  text: There's space out there if you want to clear it to sleep
+  formattingOptions: []
+  position:
+  - 2.68757853190103e+3
+  - 4.67970294873371e+3
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 398
+      length: 1
+    - location: 400
+      length: 1
+  _effectiveHeight: 5.6e+1
+- ID: 400
+  text: Thoughts "yeah, they were so accepting of me when I came in to town. It's
+    nice to be accepted.", the thoughts don't stay around long, just a white noise
+    buzzing.
+  formattingOptions: []
+  position:
+  - 2.56967895507812e+3
+  - 4.78192605590819e+3
+  width: 1.8e+2
+  connections:
+    indexes:
+    - location: 399
+      length: 1
+  _effectiveHeight: 8.4e+1
+- ID: 401
+  text: ''
+  formattingOptions: []
+  position:
+  - 2.42208697509762e+3
+  - 5.17519469197588e+3
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 402
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 402
+  text: ''
+  formattingOptions: []
+  position:
+  - 2.29359226481116e+3
+  - 5.12671088663733e+3
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 401
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 403
+  text: Set up camp and not find an inn.
+  fillColorRGB:
+    red: 8.96043e-1
+    green: 9.97437e-1
+    blue: 9.42763e-1
+  formattingOptions: []
+  position:
+  - 2.59986791992187e+3
+  - 4.91010378011068e+3
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 404
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 404
+  text: 'Roh: watch would be wise'
+  formattingOptions: []
+  position:
+  - 2.50998840332031e+3
+  - 4.95450797526042e+3
+  width: 1.2e+2
+  connections:
+    indexes:
+    - location: 403
+      length: 1
+    - location: 405
+      length: 2
+  _effectiveHeight: 2.8e+1
+- ID: 405
+  text: Then bright eyed and bushy tail to go into the pit
+  formattingOptions: []
+  position:
+  - 2.4147795104981e+3
+  - 5.03682717895507e+3
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 404
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 406
+  text: "Setting alarm. Roh is watching.\nPerception roll. (21).  Sense of unease
+    returns, fuller and fuller force. Keep thinking you hear things, and looking off
+    into the wilds.\nSure hear something advancing close to the camp.  Get to your
+    feet and stare looking and looking. Then after several minutes of waiting and
+    listening, nothing.  \nMy axe, breathing hard, like a Rhino, just ready to go,
+    on that hair trigger.\nYou think at one point on the edge of your vision, see
+    someting around the edge of another mushroom  Blink and not there.\nLot of mushroomy
+    things out in the wild. Rest of watch on high-alert. Nothing else."
+  formattingOptions: []
+  position:
+  - 2.54902180989585e+3
+  - 5.01689660644531e+3
+  width: 2.4e+2
+  connections:
+    indexes:
+    - location: 404
+      length: 1
+  _effectiveHeight: 2.24e+2
+- ID: 407
+  text: C would like to look arond A3/A4
+  formattingOptions: []
+  position:
+  - 2.13234461466469e+3
+  - 5.0404287618001e+3
+  width: 1.6e+2
+  connections:
+    indexes: []
+  _effectiveHeight: 2.8e+1
+- ID: 408
+  text: 'No 16/23 for Mikey and Step
+
+    No 30 for Drew and Zach
+
+    Good for August 13? ask before that.'
+  formattingOptions: []
+  position:
+  - 2.16282353719073e+3
+  - 5.1931070861816e+3
+  width: 1.7e+2
+  connections:
+    indexes: []
+  _effectiveHeight: 5.6e+1
+- ID: 409
+  text: So July 2 - maybe no Z, and 9th
+  formattingOptions: []
+  position:
+  - 2.39463470458982e+3
+  - 5.24547194417316e+3
+  width: 1.5e+2
+  connections:
+    indexes: []
+  _effectiveHeight: 2.8e+1
