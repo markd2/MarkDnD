@@ -2381,8 +2381,8 @@
   text: ''
   formattingOptions: []
   position:
-  - 3.55066021692184e+3
-  - 3.33198192414784e+2
+  - 3.67829443323043e+3
+  - 3.30391002473378e+2
   width: 1e+2
   connections:
     indexes:
@@ -2393,8 +2393,8 @@
   text: ''
   formattingOptions: []
   position:
-  - 3.95804477618989e+3
-  - 4.7183217729841e+2
+  - 4.3196781380063e+3
+  - 4.8258071245466e+2
   width: 1e+2
   connections:
     indexes:
@@ -8756,3 +8756,17 @@
   connections:
     indexes: []
   _effectiveHeight: 2.8e+1
+- ID: 558
+  text: Episode 4
+  fillColorRGB:
+    red: 1e+0
+    green: 9.0283e-1
+    blue: 9.76506e-1
+  formattingOptions: []
+  position:
+  - 3.54783876546217e+3
+  - 3.48488896687852e+1
+  width: 1e+2
+  connections:
+    indexes: []
+  _effectiveHeight: 1.4e+1
