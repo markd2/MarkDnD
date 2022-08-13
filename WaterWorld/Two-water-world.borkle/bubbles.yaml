@@ -2381,8 +2381,8 @@
   text: ''
   formattingOptions: []
   position:
-  - 3.67829443323043e+3
-  - 3.30391002473378e+2
+  - 3.55360174524215e+3
+  - 5.89681861514236e+0
   width: 1e+2
   connections:
     indexes:
@@ -2393,8 +2393,8 @@
   text: ''
   formattingOptions: []
   position:
-  - 4.3196781380063e+3
-  - 4.8258071245466e+2
+  - 4.32133117348807e+3
+  - 8.64142717633968e+0
   width: 1e+2
   connections:
     indexes:
@@ -8750,8 +8750,8 @@
   text: Mikey doing a chain of events
   formattingOptions: []
   position:
-  - 3.01582291007135e+3
-  - 6.41863712565155e+3
+  - 3.03672511140599e+3
+  - 6.446573628744e+3
   width: 1e+2
   connections:
     indexes: []
@@ -8767,6 +8767,1245 @@
   - 3.54783876546217e+3
   - 3.48488896687852e+1
   width: 1e+2
+  connections:
+    indexes: []
+  _effectiveHeight: 1.4e+1
+- ID: 559
+  text: Waking up is hard to do
+  formattingOptions: []
+  position:
+  - 3.54166592407226e+3
+  - 8.87571105952918e+1
+  width: 1.4e+2
+  connections:
+    indexes: []
+  _effectiveHeight: 1.4e+1
+- ID: 560
+  text: '... Roll Initiative!'
+  formattingOptions: []
+  position:
+  - 3.85545768229167e+3
+  - 1.82934102376305e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 561
+      length: 1
+    - location: 565
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 561
+  text: "Chandra / Roh / Kash: 4 / 6 / 8 \nWidget: 17"
+  formattingOptions: []
+  position:
+  - 3.63740656868165e+3
+  - 1.73702010318194e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 560
+      length: 1
+    - location: 567
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 562
+  text: Black, darkness, tiny specs of color. See a flash of red. Before it zooms
+    impossibly large towards you, then past. Flash of blue. Disorienting experience.
+    Purple and green rush by.  A figure 8, swirling,moving, a river hanging in space.  Move
+    closer, gigantic ocean consuming your view, islands floating, carried along in
+    the rushing water. One particular small island, shrouded in fogge, come out into
+    a strange environment just covered in mushrooms in all shapes and sizes,  nestled
+    in the fog, moss, fungus, is a small town with a hole in the center. Not a well-dug
+    hole. Enthusiastically fer sher
+  formattingOptions: []
+  position:
+  - 3.75014567415006e+3
+  - 2.80431391395627e+1
+  width: 3.8e+2
+  connections:
+    indexes:
+    - location: 563
+      length: 1
+  _effectiveHeight: 1.26e+2
+- ID: 563
+  text: There were a set of caverns with pieces and occurances, some of which you've
+    explored. Above the hole is a town hall, small building. One of us had a vision
+    of the mayor herself, the villiagers knew the mayor was sick, didn't remember
+    any details. Name / what looked like / how long sick.  Now know she's not sick,
+    she's daid.  B/c one of you stared in a crystal and could scry. Covered in dust.
+  formattingOptions: []
+  position:
+  - 4.17417241772102e+3
+  - 5.93140945432085e+1
+  width: 3.1e+2
+  connections:
+    indexes:
+    - location: 562
+      length: 1
+    - location: 564
+      length: 1
+  _effectiveHeight: 9.8e+1
+- ID: 564
+  text: Rushed back to the town hall to confront the mayor's proxy, who have tasked
+    us with destroying the oracle. Rushing into the main room, Dont see them there.  Piece
+    of paper in the air falling back into the desk.  Then Kash that could detect thoughts,
+    picked up three beings at the end of the room. So they're definitely there, but
+    can't see them.
+  formattingOptions: []
+  position:
+  - 4.18517313972657e+3
+  - 1.99473761721751e+2
+  width: 2.8e+2
+  connections:
+    indexes:
+    - location: 563
+      length: 1
+    - location: 565
+      length: 2
+  _effectiveHeight: 1.12e+2
+- ID: 565
+  text: Either end of a rectangular room, before rushed in, Chandra cast Bess
+  formattingOptions: []
+  position:
+  - 3.99893560131479e+3
+  - 2.8801372782364e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 560
+      length: 1
+    - location: 564
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 566
+  text: Widget are currently invisible. So mayor's proxy see the three of us rush
+    into the room
+  formattingOptions: []
+  position:
+  - 3.99036514639942e+3
+  - 1.76820236205802e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 564
+      length: 1
+  _effectiveHeight: 5.6e+1
+- ID: 567
+  text: (Roll 20)
+  formattingOptions: []
+  position:
+  - 3.57423481750502e+3
+  - 2.67992289225255e+2
+  width: 6e+1
+  connections:
+    indexes:
+    - location: 561
+      length: 1
+    - location: 568
+      length: 3
+  _effectiveHeight: 1.4e+1
+- ID: 568
+  text: 'WIS Save: 31  - Feel a presense in your mind, pulling at dark things, and
+    completely shrug it off.  Doesn''t get the slightest grasp.
+
+    "Get out of my head!"'
+  formattingOptions: []
+  position:
+  - 3.71103739778298e+3
+  - 2.55366912841786e+2
+  width: 2.2e+2
+  connections:
+    indexes:
+    - location: 567
+      length: 1
+  _effectiveHeight: 7e+1
+- ID: 569
+  text: Vanna brushes off a similar attack
+  formattingOptions: []
+  position:
+  - 3.65353470206358e+3
+  - 3.4658125813801e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 567
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 570
+  text: Kashi - detect thoughts, "see how you deal with your nightmares, boy?  Frog?  Frog!
+  formattingOptions: []
+  position:
+  - 3.55022735953429e+3
+  - 3.96532175699859e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 567
+      length: 1
+    - location: 571
+      length: 1
+  _effectiveHeight: 5.6e+1
+- ID: 571
+  text: "\"They are standing close to each other\", see a crackle of light\nMake a
+    DEX save\n13/12 - 12 saves \n\"wait, I need a number of dice\"\nBeam of lightning
+    shoots towards the door. Vanna takes a heavy hit, but Chandra and Kash take 20
+    points damage"
+  formattingOptions: []
+  position:
+  - 3.76207881013649e+3
+  - 3.98007802327463e+2
+  width: 1.9e+2
+  connections:
+    indexes:
+    - location: 570
+      length: 1
+    - location: 572
+      length: 1
+  _effectiveHeight: 1.26e+2
+- ID: 572
+  text: Kash down. Widget gets him up
+  formattingOptions: []
+  position:
+  - 3.98258194327451e+3
+  - 3.90565734863271e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 571
+      length: 1
+    - location: 573
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 573
+  text: widget's first battle, and he's honked off. Misty steps into the three bad
+    guys. Still invisble
+  formattingOptions: []
+  position:
+  - 3.98803512930966e+3
+  - 4.61213673909495e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 572
+      length: 1
+    - location: 574
+      length: 1
+  _effectiveHeight: 5.6e+1
+- ID: 574
+  text: 'Kash got knocked TF out, but up with 6 health.  Prone (so half the speed
+    to get up)
+
+    Ray of frost - misses.  Proceeds to hide (stealth check of 13)'
+  formattingOptions: []
+  position:
+  - 4.17273320873676e+3
+  - 4.79171997070302e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 573
+      length: 1
+    - location: 575
+      length: 1
+  _effectiveHeight: 8.4e+1
+- ID: 575
+  text: "Roh - run forward with great axe, attacks the closest one.  (40' movement)
+    - any one. \nWidget \"can I be flanking? Shoulder check)"
+  formattingOptions: []
+  position:
+  - 4.16589594880837e+3
+  - 3.49926289876291e+2
+  width: 1.8e+2
+  connections:
+    indexes:
+    - location: 574
+      length: 1
+    - location: 576
+      length: 1
+  _effectiveHeight: 7e+1
+- ID: 576
+  text: '"Magnolia", staggers backwards, bloodied from the Roh onslaught.
+
+    Opportunity attack - claws, do not feel clean. GROSS CLAWS. Gnarly claws'
+  formattingOptions: []
+  position:
+  - 4.38891932527323e+3
+  - 3.50391072591135e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 575
+      length: 1
+    - location: 577
+      length: 1
+  _effectiveHeight: 8.4e+1
+- ID: 577
+  text: Chandra  -spiritual weapon, hits the same gnarly one with 6 points
+  formattingOptions: []
+  position:
+  - 4.38199534431652e+3
+  - 4.69778530602197e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 576
+      length: 1
+    - location: 578
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 578
+  text: "Van\xF1a - says \"do not mess around, we don't have much time\", and moves
+    so quickly , lose track of them, appear behind the one to the side, first attack
+    and advantage (flanking with Roh).  (flurry of blows) Done 12 + 10 damage. "
+  formattingOptions: []
+  position:
+  - 4.37985855460266e+3
+  - 5.66385080973291e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 577
+      length: 1
+    - location: 579
+      length: 1
+  _effectiveHeight: 1.26e+2
+- ID: 579
+  text: 'Trying to get a read of this.
+
+    - Vanna Yelling out some things.  "Well, cool", not much to yell out "these are
+    boring".  Think it''s a bunch of hags.
+
+    Can''t get a read, they won''t stop moving!'
+  formattingOptions: []
+  position:
+  - 4.14137832999328e+3
+  - 5.93865295410149e+2
+  width: 2e+2
+  connections:
+    indexes:
+    - location: 578
+      length: 1
+    - location: 580
+      length: 1
+  _effectiveHeight: 9.8e+1
+- ID: 580
+  text: Chandra 17 on "do I know hags" - hey do share poweC
+  formattingOptions: []
+  position:
+  - 3.95974238435526e+3
+  - 5.50885025024407e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 579
+      length: 1
+    - location: 581
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 581
+  text: Hags turn.  "That's mine, no that's mine."  Pointing at different ones of
+    you, mainly Vana and Ro
+  formattingOptions: []
+  position:
+  - 3.95566014965474e+3
+  - 6.24622029622389e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 580
+      length: 1
+    - location: 582
+      length: 4
+  _effectiveHeight: 5.6e+1
+- ID: 582
+  text: First - "fine I'll make this one a frog", WIS save for Ro (21).  "Feel strange
+    for a sceond and shake it off", and you're not a frog.
+  formattingOptions: []
+  position:
+  - 4.1866704849412e+3
+  - 7.16351486206048e+2
+  width: 2.5e+2
+  connections:
+    indexes:
+    - location: 581
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 583
+  text: "Second. Maybe.. uh - start to take off.  Attack of opportunity for Widget.\nWidget
+    wasn't planning on ... tell me if this qualifies.  One DM trying to F with another
+    one.\nNext action was going to be upend alchemy jug over their head that has 8oz
+    of acid.\nQ1: is that a valid attack here. Not casting a spell since it's a melee
+    (YES since already planning).  So a vial (4oz) has 2d6, since jug is double, get
+    to double that (4d6)  \"Cocoa let's get in and roll some dice!\"\nAdvantage -
+    they don't know you'r there and had all the time to preapre it.  (It'd a dexterity
+    attack, or a case for strength, plus proficinency for the alchemy jug)  21 to
+    hit, 4d6 - 16 of acid dam\xE1ge\nHear a sizzling \"I'M MELTING\", don't quite
+    take them down, they are almost on hand and knees\n\"acid appears above their
+    head and lands on their head\" - dunno if thye realize Widget is standing there?
+    \ oh - it would drop invisiblitly"
+  formattingOptions: []
+  position:
+  - 3.55209254304667e+3
+  - 5.6297662353515e+2
+  width: 3.6e+2
+  connections:
+    indexes:
+    - location: 581
+      length: 1
+  _effectiveHeight: 2.52e+2
+- ID: 584
+  text: "Third - the one in the middle \"you need to stop\" \nAnd parlyzes Roh (hold
+    person).  Then runs to exit, stopping by Kash"
+  formattingOptions: []
+  position:
+  - 4.11615758617816e+3
+  - 7.80286295572914e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 581
+      length: 1
+  _effectiveHeight: 7e+1
+- ID: 585
+  text: And another (Not sure which one. Point at Vanna - that's quite enough, and
+    Vanna needs to make a WIS save (made it)
+  formattingOptions: []
+  position:
+  - 3.93245651602842e+3
+  - 7.14603820800778e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 581
+      length: 1
+    - location: 586
+      length: 1
+  _effectiveHeight: 7e+1
+- ID: 586
+  text: '"ok, you can have the town!  Don''t know why you attacked us". Runs away
+    2x opportunity attack.'
+  formattingOptions: []
+  position:
+  - 3.91875961661436e+3
+  - 8.20008839925127e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 585
+      length: 1
+    - location: 587
+      length: 1
+  _effectiveHeight: 5.6e+1
+- ID: 587
+  text: "Widget does a ray of sickness on the one he upended the acid on - nat 20.
+    \ 4d8 - \"roll whatever\" - 22 poison damage.  See the black and red robes just
+    vanish and in their place, see three green beings crowded around the door. The
+    one hit crumpled to the floor, destroyed, half melted by acid, and broken out
+    by sickness.  \n\"Widget is going to need therapy\". - the long red hair, gone.
+    Just scraggly patch of black strands."
+  formattingOptions: []
+  position:
+  - 3.57435247143207e+3
+  - 8.62713256835935e+2
+  width: 2.4e+2
+  connections:
+    indexes:
+    - location: 586
+      length: 1
+    - location: 588
+      length: 1
+  _effectiveHeight: 1.54e+2
+- ID: 588
+  text: Kash holds action, ray of frost (surrounded by two hags)
+  formattingOptions: []
+  position:
+  - 3.85719518383441e+3
+  - 9.2346383666992e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 587
+      length: 1
+    - location: 589
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 589
+  text: Roh - WIS save (saves!) YAY BLESS
+  formattingOptions: []
+  position:
+  - 4.06305435538389e+3
+  - 8.95254811604815e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 588
+      length: 1
+    - location: 590
+      length: 2
+  _effectiveHeight: 2.8e+1
+- ID: 590
+  text: Chandra - move SW, move to engage, club, hit -barely hanging on to life
+  formattingOptions: []
+  position:
+  - 4.3283113133917e+3
+  - 7.90711201985674e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 589
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 591
+  text: Vanna has an insane amount of movement. "Leaving so soon" and starts punching.
+    "This should be fun".  The hag just crumples. Vanna blocking the door. "We're
+    jsut getting to know each other".  Didn't land anything on Blanche. Is blocking
+    the door
+  formattingOptions: []
+  position:
+  - 4.30937312165993e+3
+  - 8.64745422363278e+2
+  width: 2e+2
+  connections:
+    indexes:
+    - location: 589
+      length: 1
+    - location: 592
+      length: 1
+  _effectiveHeight: 1.12e+2
+- ID: 592
+  text: Blanche's turn - disappears from view, and hear cursing.
+  formattingOptions: []
+  position:
+  - 4.39830500642559e+3
+  - 1.00590442911781e+3
+  width: 2.2e+2
+  connections:
+    indexes:
+    - location: 591
+      length: 1
+    - location: 593
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 593
+  text: "Kash needs to see target, suspect might be moving away, so the held action
+    - do lose the spell slot.  Let it fly into the wall.  \n\"Roll with disadvantage\"
+    - 16 + d4.  Roll damage!  Max damage."
+  formattingOptions: []
+  position:
+  - 4.33992111563783e+3
+  - 1.067274617513e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 592
+      length: 1
+    - location: 594
+      length: 1
+  _effectiveHeight: 1.12e+2
+- ID: 594
+  text: Now like an ice patch running through the room. ooh! Dropped concentraton!
+  formattingOptions: []
+  position:
+  - 4.10652878165346e+3
+  - 9.57256535847947e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 593
+      length: 1
+    - location: 595
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 595
+  text: 'Kash - "Charm person?"  "humanoid you can see in range" - Blanche didn''t
+    save.  '
+  formattingOptions: []
+  position:
+  - 4.0486811864386e+3
+  - 1.02756818487712e+3
+  width: 2.1e+2
+  connections:
+    indexes:
+    - location: 594
+      length: 1
+    - location: 596
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 596
+  text: 'Hag: "Can you let me out?"
+
+    Kash: "we''re all friends!" - Probe for information.
+
+    "All a big misunderstanding - sorry about that.  Could you get them to put down
+    the spinny orb and just chill, Just helping the town. The town was in trouble.
+    THe mayor was sick, and the three of us were going to take care of everybody.
+    Trying to keep everybody fed, I could use some sunlight and don''t feel some sunlight.
+    That''d be cool.'
+  formattingOptions: []
+  position:
+  - 3.96585077496762e+3
+  - 1.1088471491887e+3
+  width: 3.1e+2
+  connections:
+    indexes:
+    - location: 595
+      length: 1
+    - location: 597
+      length: 2
+  _effectiveHeight: 1.26e+2
+- ID: 597
+  text: 'Widget - insight? (13) (rolled for them, nat 1). Distraught and distracted
+    and very well polished stories they have told repeatedly is what''s coming out,
+    not any. Belivble lie is just not there, comes through as flat
+
+
+    Kashi - detect thoughts. "This one can help me. they''re killing us all, gotta
+    get out" in escape mode. Not really trying to lie. Regards Kash as legit friendly
+    - but concept of friend does not involve not-lying.
+
+
+    Probing - doing some investigation, but be real for me. persuasion or deception
+    - since killed, will do deception. (11 total)  (does the charm help?) (oh yes,
+    advantage!) 12 total.
+
+
+    Her normal ability to see through is distracted.  I''ll do that.  Everyone Calm
+    Down. Tell you all of it.
+
+
+    (can take action when you want - but otherwise Kash is going to interrogate)'
+  formattingOptions: []
+  position:
+  - 3.5672261787387e+3
+  - 1.04850131460329e+3
+  width: 3.4e+2
+  connections:
+    indexes:
+    - location: 596
+      length: 1
+    - location: 599
+      length: 2
+  _effectiveHeight: 2.66e+2
+- ID: 598
+  text: Missed Widget turn, so stepping forward and totally discociating - lizard
+    brain has detected the thread seems to be neutral, but that's not a concious thought.
+    He's in a squat looking at his hands and starting to low moan others may or may
+    not hear
+  formattingOptions: []
+  position:
+  - 4.34195015898209e+3
+  - 1.20135653921267e+3
+  width: 2.9e+2
+  connections:
+    indexes:
+    - location: 596
+      length: 1
+  _effectiveHeight: 7e+1
+- ID: 599
+  text: Roh starts crreeping up behind them
+  formattingOptions: []
+  position:
+  - 3.94338941491659e+3
+  - 1.26102680851857e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 597
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 600
+  text: 'They look at their hands, and spell casters recognize the thought, what would
+    be the motions for the spells, and put hands down.
+
+    OK All RIght - we decided this town would be a great place for us to build a team
+    to honestly use all the town people - great place to get people to do what we
+    said, and we and kind of taken over. One of my idiot sisters accidentally killed
+    the mayor, she''s upstairs in the room. She''s very gone.  Mistake was made. Thought
+    what was going to go differently. I respect your power.
+
+
+    (what''s with the goopy thing?)
+
+    Reven leading a cult - he''s too ambitious and kill that thing, it''s kind of
+    gross.
+
+
+    Everyone in here is obsessed with something far below ground, and not going to
+    end well. And we hoped to kind of used the town to help us out - get more power,
+    making potions. Everyone is living their best lives, fuzzy brained.  Other than
+    the oracle, gives them visions.  Do a drink ritual thing.
+
+
+    (what are they digging down there for?)
+
+    They believe there is a Xandrath the Enlightened they all talk about. The body
+    fell into the cavern and the mind ascended. Honestly I think all the mushrooms
+    is newer, and we think the source is down there, sort of a tainting of the land
+    spilling out from below. Thinking there''s something down there guarding. HAven''t
+    had anyone come back alive that''s ventured too far in the caverns'
+  formattingOptions: []
+  position:
+  - 3.58124036706503e+3
+  - 1.35232657564597e+3
+  width: 4.2e+2
+  connections:
+    indexes:
+    - location: 597
+      length: 1
+    - location: 601
+      length: 1
+  _effectiveHeight: 3.36e+2
+- ID: 601
+  text: 'make perception checks - seen her dart towards the stairs - not the ones
+    going up, so the ones going down. Get the sense, weighing there''s something else
+    to share.
+
+    "Probably something bad down there. Mess with it if you want. This is your town.
+    I told you the things.  We killed the mayor took over the town.  We don''t interfere
+    too much, just get us the resources and do what we tell them, and now the cultists
+    are your problem now.'
+  formattingOptions: []
+  position:
+  - 4.06827147621468e+3
+  - 1.32620150991581e+3
+  width: 2.7e+2
+  connections:
+    indexes:
+    - location: 600
+      length: 1
+    - location: 602
+      length: 1
+  _effectiveHeight: 1.4e+2
+- ID: 602
+  text: Kash - where did they go down nobody came up out of.
+  formattingOptions: []
+  position:
+  - 4.37559326094957e+3
+  - 1.32234711863119e+3
+  width: 2.5e+2
+  connections:
+    indexes:
+    - location: 601
+      length: 1
+    - location: 603
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 603
+  text: 'We blocked it off - there''s the caverns, and that one spooky lady, and the
+    blocked off part. It goes further down. Wouldn''t recommend it for you. But you
+    might be fine actually
+
+    (we did not see a spooky lady)'
+  formattingOptions:
+  - options: 1
+    rangeStart: 185
+    rangeLength: 3
+  position:
+  - 4.38242520029821e+3
+  - 1.39392569673966e+3
+  width: 2.2e+2
+  connections:
+    indexes:
+    - location: 602
+      length: 1
+    - location: 604
+      length: 1
+  _effectiveHeight: 8.4e+1
+- ID: 604
+  text: Remember seeing stone shapes, then the crystals, scried on the mayor and came
+    rushing up
+  formattingOptions: []
+  position:
+  - 4.38674292115158e+3
+  - 1.51551566255997e+3
+  width: 2.9e+2
+  connections:
+    indexes:
+    - location: 603
+      length: 1
+    - location: 605
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 605
+  text: Roh moves up, Blanche trying to get out.  Roh goes to town on her and she
+    turns invisible.  And becomes visible again.  Tries to crawl through Vanna's legs.
+  formattingOptions: []
+  position:
+  - 4.41532286781633e+3
+  - 1.57998831881004e+3
+  width: 2e+2
+  connections:
+    indexes:
+    - location: 604
+      length: 1
+    - location: 606
+      length: 1
+  _effectiveHeight: 7e+1
+- ID: 606
+  text: Her head turns around on her body, and the eyes start swirling with inky void
+    of blackness. she cast a spell.  Just chandra Vanna and Roh that see, she looks
+    at Roh and make a WIS save. (9)  Roh falls asleep
+  formattingOptions: []
+  position:
+  - 4.12065837337527e+3
+  - 1.50024898587736e+3
+  width: 2e+2
+  connections:
+    indexes:
+    - location: 605
+      length: 1
+    - location: 607
+      length: 1
+  _effectiveHeight: 8.4e+1
+- ID: 607
+  text: Chandra - SW and mace. When bring the mace down. eyes crumple in, and body
+    slumps to the ground.  All three are daid.  Chadra goes to a wall to slide down.
+  formattingOptions: []
+  position:
+  - 4.04504792791253e+3
+  - 1.61761311222952e+3
+  width: 3.1e+2
+  connections:
+    indexes:
+    - location: 606
+      length: 1
+    - location: 608
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 608
+  text: Widget, sprints to Roh and casts healing word, wakes them up.  Chandra cures
+    wounds on Kash and self
+  formattingOptions: []
+  position:
+  - 4.07377473455316e+3
+  - 1.69180589881306e+3
+  width: 2.1e+2
+  connections:
+    indexes:
+    - location: 607
+      length: 1
+    - location: 609
+      length: 1
+  _effectiveHeight: 5.6e+1
+- ID: 609
+  text: "Down stairs - basement? just down? \nThere is a door in front of the stairs
+    going down, and check is locked at the bottom.  RIght behind the desk there's
+    a box, that's the mayor's office, and going up, there's a door at the top also "
+  formattingOptions: []
+  position:
+  - 4.3415726800159e+3
+  - 1.69235925292964e+3
+  width: 2.3e+2
+  connections:
+    indexes:
+    - location: 608
+      length: 1
+    - location: 610
+      length: 2
+  _effectiveHeight: 8.4e+1
+- ID: 610
+  text: Chandra checks pockets of the hags - find a key
+  formattingOptions: []
+  position:
+  - 4.48054757109162e+3
+  - 1.82113916015621e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 609
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 611
+  text: Short rest?
+  formattingOptions: []
+  position:
+  - 4.28934508461326e+3
+  - 1.79301246995188e+3
+  width: 8e+1
+  connections:
+    indexes:
+    - location: 609
+      length: 1
+    - location: 612
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 612
+  text: 'Perception - brain fog.
+
+    Vanna - pulls door closed. Wouldn''t mind catching my breath, sits in chairs'
+  formattingOptions: []
+  position:
+  - 4.2921390862659e+3
+  - 1.82877418870188e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 611
+      length: 1
+    - location: 614
+      length: 1
+  _effectiveHeight: 5.6e+1
+- ID: 613
+  text: (Mycellia Weave Bracers)
+  formattingOptions: []
+  position:
+  - 4.09293479690295e+3
+  - 1.79374573692907e+3
+  width: 1.6e+2
+  connections:
+    indexes: []
+  _effectiveHeight: 1.4e+1
+- ID: 614
+  text: Go upstairs to put mayor to rest.  The key does not open upstairs door.  Roh
+    does a strength check.  Takes a little bit
+  formattingOptions: []
+  position:
+  - 4.07040357507302e+3
+  - 1.82839689753605e+3
+  width: 2e+2
+  connections:
+    indexes:
+    - location: 612
+      length: 1
+    - location: 615
+      length: 1
+  _effectiveHeight: 5.6e+1
+- ID: 615
+  text: 'find an explosion of fungal growth, coming from the body that is in the bedroom.
+    There''s a chamber (just dust), and '
+  formattingOptions: []
+  position:
+  - 3.82648849845043e+3
+  - 1.74331886643629e+3
+  width: 2.1e+2
+  connections:
+    indexes:
+    - location: 614
+      length: 1
+    - location: 616
+      length: 2
+    - location: 619
+      length: 1
+    - location: 621
+      length: 1
+  _effectiveHeight: 5.6e+1
+- ID: 616
+  text: 'Chandra does medicine check (18). Also affected the wispy mycelium coating
+    on the skin, now much more overgrown now tha thte body has been gone a while,
+    but mayor was affected by it.  Get a sense of would expect this body to show more
+    signs of poison damage.  Signs of violence - not hard to tell that this was.
+
+    See burn marks of lightning recognize from Kash, reconigzable scarring, some sickness
+    that has spread over parts of the body.
+
+    "Good they got what they deserved'
+  formattingOptions: []
+  position:
+  - 3.56353777729663e+3
+  - 1.82504217059794e+3
+  width: 2.6e+2
+  connections:
+    indexes:
+    - location: 615
+      length: 1
+  _effectiveHeight: 1.54e+2
+- ID: 617
+  text: Roh will investigate. Not just fungus, but a cloak she is wearing.  And as
+    look at it, this cloak is made up of fungi with musty earthy scent to it. Interes
+  formattingOptions: []
+  position:
+  - 3.56627126024434e+3
+  - 1.72617470139722e+3
+  width: 2.3e+2
+  connections:
+    indexes:
+    - location: 615
+      length: 1
+  _effectiveHeight: 5.6e+1
+- ID: 618
+  text: Also the office area battling on the main floor. Getting in is easy enough.  FInd
+    various documents and papers, but poking around, find a key, whcih would unlock
+    upstairs (whoops). Nothing terribly interesting. Seems taking a turn from standard
+    town things (finances and rolls) to how do we get shovels and keep the beer going
+    on most recent notes,  More towards with lining up with stuff we've seen - more
+    rambly and dreamy.
+  formattingOptions: []
+  position:
+  - 3.58235820247693e+3
+  - 2.09165295879656e+3
+  width: 2.3e+2
+  connections:
+    indexes:
+    - location: 624
+      length: 2
+  _effectiveHeight: 1.54e+2
+- ID: 619
+  text: Chandra Arcana - 14.  Not looking for it, do pick up the cloak is a faint
+    magical essense.
+  formattingOptions: []
+  position:
+  - 3.86842063674676e+3
+  - 1.85086332820011e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 615
+      length: 1
+    - location: 620
+      length: 1
+  _effectiveHeight: 5.6e+1
+- ID: 620
+  text: Motions widget over, "getting some magic off of this". Start arcana (1), then
+    cast identify ritually (10 minutes) (and last pearl for a while)
+  formattingOptions: []
+  position:
+  - 3.84142699379304e+3
+  - 1.94555547626201e+3
+  width: 2.6e+2
+  connections:
+    indexes:
+    - location: 619
+      length: 1
+    - location: 623
+      length: 1
+    - location: 626
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 621
+  text: 'Chandra - poke around desk (investigation of 10).  Turn to leave again, catching
+    eye, corner under the bed. Pull out and leafing through the mayor''s journal.  '
+  formattingOptions: []
+  position:
+  - 4.11853777729665e+3
+  - 1.94703905310996e+3
+  width: 1.8e+2
+  connections:
+    indexes:
+    - location: 615
+      length: 1
+    - location: 622
+      length: 1
+  _effectiveHeight: 8.4e+1
+- ID: 622
+  text: Leafing though - strange visions, drawing down to therworldy presense. Set
+    up a mining operation to explore further.  Come to a final entry - abrupt, arrival
+    of three strangers.  Match the Mayor's proxy.
+  formattingOptions: []
+  position:
+  - 4.3285022360557e+3
+  - 1.91760855806804e+3
+  width: 2.2e+2
+  connections:
+    indexes:
+    - location: 621
+      length: 1
+  _effectiveHeight: 8.4e+1
+- ID: 623
+  text: '"you are correct it does not, and you do not think you get that knowledge"'
+  formattingOptions: []
+  position:
+  - 3.87832490545173e+3
+  - 2.02589952674292e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 620
+      length: 1
+    - location: 624
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 624
+  text: 'Roh: accounted for mayor and terrible planning, an dproxy and terrible evil.'
+  formattingOptions: []
+  position:
+  - 3.68690884287668e+3
+  - 2.01230765474777e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 618
+      length: 1
+    - location: 623
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 625
+  text: Stairs down the basement - the key we have does unlock the basement
+  formattingOptions: []
+  position:
+  - 3.85677757034063e+3
+  - 2.11093201622615e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 618
+      length: 1
+    - location: 628
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 626
+  text: 'To Chandra: explainig it in a hushed whisper, I''m visibly a little concerned.
+    You can tell just looking at it, the cloak is made of fungus, mycelial growth,
+    layers of white sheaths under rotting mulch. Earthy smelling.   "It''s weird,
+    let you cast some spells so that has a certain amount of magic to it, you can
+    cast False Life, Protection from Posion, or Death Ward, each uses a different
+    amount of magic that it has. But the magic doesn''t automatically come back overnight,
+    you have to lie buried underground to restore the magic.  Roh: "your self?" W:
+    "yeah, while wearing it", buried in moist dirt and rotting plants.   Those are
+    good spells, man
+
+    take a dirt nap %-)'
+  formattingOptions: []
+  position:
+  - 4.09820438449327e+3
+  - 2.06287495305007e+3
+  width: 3.2e+2
+  connections:
+    indexes:
+    - location: 620
+      length: 1
+    - location: 627
+      length: 1
+  _effectiveHeight: 1.82e+2
+- ID: 627
+  text: chandra doesn't put it on now, sound revolting
+  formattingOptions: []
+  position:
+  - 4.43079020931294e+3
+  - 2.03475154935415e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 626
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 628
+  text: Enter the basement
+  formattingOptions: []
+  position:
+  - 3.84593223342656e+3
+  - 2.18175120192325e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 625
+      length: 1
+    - location: 629
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 629
+  text: All going down - WIS save
+  formattingOptions: []
+  position:
+  - 3.84364543392235e+3
+  - 2.22998310734693e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 628
+      length: 1
+    - location: 630
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 630
+  text: "Roh and Chandra - 11 and 12. glyph of warning, tuned to mayors proxy, as
+    the door opens, C and R turn into frogs.\nKash - prestidigate so they look like
+    themselves but frog style.  \U0001F438"
+  formattingOptions: []
+  position:
+  - 3.59565255156057e+3
+  - 2.27688505671592e+3
+  width: 2.8e+2
+  connections:
+    indexes:
+    - location: 629
+      length: 1
+    - location: 631
+      length: 2
+  _effectiveHeight: 7.6e+1
+- ID: 631
+  text: 'See black coldroun, and cages on the wall. And see some members of the town.  One
+    looks like oshenga (inn keeper carrying the cask of beer).  "Are they ... can
+    you let us out?  Can you get us out?"
+
+    Couple crawl over and rattle on cages.  "hurry before they come back"'
+  formattingOptions: []
+  position:
+  - 3.92058686834245e+3
+  - 2.28312228628322e+3
+  width: 2.5e+2
+  connections:
+    indexes:
+    - location: 630
+      length: 1
+    - location: 633
+      length: 1
+    - location: 635
+      length: 1
+  _effectiveHeight: 9.8e+1
+- ID: 632
+  text: Runes around cauldron, the some rune circle?
+  formattingOptions: []
+  position:
+  - 3.6012724339975e+3
+  - 2.3789009540266e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 630
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 633
+  text: 'Widget: "They''re dead". Also picks up two frogs.  Try to scuff the runes
+    off my floor.
+
+    Kash wants to investigate runes.  Ritually identify spells on the frogs'
+  formattingOptions: []
+  position:
+  - 4.21090542490793e+3
+  - 2.27084656700738e+3
+  width: 1.9e+2
+  connections:
+    indexes:
+    - location: 631
+      length: 1
+    - location: 634
+      length: 1
+  _effectiveHeight: 7e+1
+- ID: 634
+  text: PAUSE AT FROGS
+  fillColorRGB:
+    red: 8.96043e-1
+    green: 9.97437e-1
+    blue: 9.42763e-1
+  formattingOptions: []
+  position:
+  - 4.25498820735986e+3
+  - 2.39146123798094e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 633
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 635
+  text: Dragon born with fungus
+  formattingOptions: []
+  position:
+  - 3.98541038284062e+3
+  - 2.41989859713058e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 631
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 636
+  text: ''
+  formattingOptions: []
+  position:
+  - 4.40443560444519e+3
+  - 2.33822078763539e+3
+  width: 1.6e+2
   connections:
     indexes: []
   _effectiveHeight: 1.4e+1
