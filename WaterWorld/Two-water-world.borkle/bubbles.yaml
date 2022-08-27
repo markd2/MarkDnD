@@ -11758,7 +11758,7 @@
 - ID: 751
   text: 'THREE  SUCCESS
 
-    FOUR FAILIRE'
+    FOUR FAILURE'
   fillColorRGB:
     red: 1e+0
     green: 9.0283e-1
@@ -11826,8 +11826,8 @@
     trees in the large claw
   formattingOptions: []
   position:
-  - 4.25689278593611e+3
-  - 4.56421725698667e+3
+  - 4.24915728413322e+3
+  - 4.58234854830277e+3
   width: 1.6e+2
   connections:
     indexes:
@@ -11840,11 +11840,534 @@
   text: Initiaitve!   C(21)
   formattingOptions: []
   position:
-  - 4.43809283100822e+3
-  - 4.58141231595602e+3
+  - 4.43399755982433e+3
+  - 4.56446745417717e+3
   width: 1.6e+2
   connections:
     indexes:
     - location: 755
       length: 1
+    - location: 758
+      length: 1
   _effectiveHeight: 1.4e+1
+- ID: 757
+  text: 'ADVANCED SHARE: SHARE COMPUTER SOUND'
+  fillColorRGB:
+    red: 8.96043e-1
+    green: 9.97437e-1
+    blue: 9.42763e-1
+  formattingOptions: []
+  position:
+  - 4.68764896457196e+3
+  - 4.52085715425981e+3
+  width: 1.6e+2
+  connections:
+    indexes: []
+  _effectiveHeight: 4.2e+1
+- ID: 758
+  text: Chandra casts bless
+  formattingOptions: []
+  position:
+  - 4.46188461661524e+3
+  - 4.61303134390077e+3
+  width: 1.2e+2
+  connections:
+    indexes:
+    - location: 756
+      length: 1
+    - location: 759
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 759
+  text: Does bless stack if by different casters?
+  formattingOptions: []
+  position:
+  - 4.42870149236644e+3
+  - 4.64815994027998e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 758
+      length: 1
+    - location: 760
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 760
+  text: Yes!  (envisioning a party of clerics circlejerk of blesses - whose bless
+    is better, rolling in with 6d4.
+  formattingOptions: []
+  position:
+  - 4.43334786406116e+3
+  - 4.70389161095305e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 759
+      length: 1
+    - location: 761
+      length: 1
+  _effectiveHeight: 5.6e+1
+- ID: 761
+  text: 'How far away are the crabs?
+
+    25-30 feet ahead, i na circle, RPG game style'
+  formattingOptions: []
+  position:
+  - 4.431669678965e+3
+  - 4.80287011718803e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 760
+      length: 1
+    - location: 762
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 762
+  text: C stands their ground
+  formattingOptions: []
+  position:
+  - 4.26909822088207e+3
+  - 4.79703262094404e+3
+  width: 1.3e+2
+  connections:
+    indexes:
+    - location: 761
+      length: 1
+    - location: 763
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 763
+  text: 'Three Crabs - looking at the two of us, and C looks the tastier one AC 15
+
+    one misses (6)  two (8)  third just scuttle right towards chargning, (1)
+
+    The crab rolls an ankle
+
+    "They''re used to the sand and the dirt is hard" - it just shellplants'
+  formattingOptions: []
+  position:
+  - 4.02319029945779e+3
+  - 4.79798284442661e+3
+  width: 2e+2
+  connections:
+    indexes:
+    - location: 762
+      length: 1
+    - location: 764
+      length: 1
+  _effectiveHeight: 1.12e+2
+- ID: 764
+  text: 'W: not casting bless, but cast flaming sphere as an action.
+
+    (look down at my crossbow and is inadequate with carapace)
+
+    summon sphere and shove into the face of whatever''s closest (action and bonus)'
+  formattingOptions: []
+  position:
+  - 3.7617170046862e+3
+  - 4.79620437387373e+3
+  width: 1.9e+2
+  connections:
+    indexes:
+    - location: 763
+      length: 1
+    - location: 765
+      length: 1
+  _effectiveHeight: 9.8e+1
+- ID: 765
+  text: '(When shoving, it makes the save?  Anything that ends its turn within 5 feet
+    goes through rigormole, can move the sphere into a creature, then the same thing
+    happens right them - resolves like an attack)
+
+    DEX save for crab #3 - nat20
+
+    "CHANDRA MOOOOVE"'
+  formattingOptions: []
+  position:
+  - 3.5460026116574e+3
+  - 4.75046871244044e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 764
+      length: 1
+    - location: 766
+      length: 1
+  _effectiveHeight: 1.54e+2
+- ID: 766
+  text: 'Chandra move
+
+    -ordineary attack  17 does not hit.  see it flex slighlty. Faintest of lines,
+    does not break through
+
+    Spiritual weapon - 16. The crab seems perplexed and is dancing with the glowing
+    rings'
+  formattingOptions: []
+  position:
+  - 3.54507900889298e+3
+  - 4.94385574106122e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 765
+      length: 1
+    - location: 767
+      length: 1
+  _effectiveHeight: 1.26e+2
+- ID: 767
+  text: 'As focusing on the sphere, tree on the back of the head, nat20. 4 points
+    - culm 11 damage.
+
+    And it hits the crab, 6 points of damage, - crunch and see lines on the shell
+
+    They turn sideways with claws at each other'
+  formattingOptions: []
+  position:
+  - 3.76770333281125e+3
+  - 4.93906570199873e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 766
+      length: 1
+    - location: 768
+      length: 1
+  _effectiveHeight: 1.26e+2
+- ID: 768
+  text: 'The face-crab does not like the fire, will swing and miss craw b/c on the
+    ground.
+
+    Going to run away from the fire
+
+    6 for the opporutnity
+
+    Mace it in the crab ankles
+
+    (or crab-beenerrs)
+
+    and moves towarsd widget.'
+  formattingOptions: []
+  position:
+  - 3.97295038434368e+3
+  - 4.93446543532204e+3
+  width: 2e+2
+  connections:
+    indexes:
+    - location: 767
+      length: 1
+    - location: 769
+      length: 2
+  _effectiveHeight: 1.12e+2
+- ID: 769
+  text: 'W: in attack range?  (ohhh yes)'
+  formattingOptions: []
+  position:
+  - 4.18733730967421e+3
+  - 4.97638414588396e+3
+  width: 1.8e+2
+  connections:
+    indexes:
+    - location: 768
+      length: 1
+    - location: 771
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 770
+  text: You have a crab in your face
+  formattingOptions: []
+  position:
+  - 4.19026211436171e+3
+  - 4.9332790057848e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 768
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 771
+  text: 'Summon a malf''s acid arrow, a magical attack for action, and bonnus, slam
+    the sphere in the back of the crab
+
+    A PINCER ATTACK
+
+    a to-hit is 13, a no on the acid arrow.
+
+    15 to hit with the acid arrow.  Noticing the shell doesn''t appear as red there.  AND
+    it is distracted b/c of that, it gets a 12 on its dexterity.  (save DC is 15)
+    going to take from that fire sphere
+
+    (retconning some damage) 11 fire damage.'
+  formattingOptions: []
+  position:
+  - 4.39441795120064e+3
+  - 4.88995244891882e+3
+  width: 2.2e+2
+  connections:
+    indexes:
+    - location: 769
+      length: 1
+    - location: 772
+      length: 1
+  _effectiveHeight: 1.68e+2
+- ID: 772
+  text: '"if only there was butter", you smell the sizzle - ghee whiz'
+  formattingOptions: []
+  position:
+  - 4.40841462713213e+3
+  - 5.08618202561653e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 771
+      length: 1
+    - location: 773
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 773
+  text: 'C: mace hit, dirty20 yay1 3pts
+
+    Spiritual weaoon - dirty20 8pts
+
+    Crab looking very injured.
+
+    '
+  formattingOptions: []
+  position:
+  - 4.19945973680761e+3
+  - 5.05078226881815e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 772
+      length: 1
+    - location: 774
+      length: 1
+  _effectiveHeight: 8.4e+1
+- ID: 774
+  text: Both see cracks spiraling out over the shell
+  formattingOptions: []
+  position:
+  - 4.00659380757087e+3
+  - 5.09897987717904e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 773
+      length: 1
+    - location: 775
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 775
+  text: 'CrabZ Gets furious (crabby?)- it''s surrounded and getting furious. Multi
+    attack hits widget  7pts damage
+
+    Crab1 yelling at crab2.  crab2 charge forward and flank into chandra.  Dropped
+    the tree b/c crab one grabbed it.
+
+    two hits - 2 + 9 = 11, 22 culm
+
+    crab 1 waves tree over every head'
+  formattingOptions: []
+  position:
+  - 3.75193795195188e+3
+  - 5.10510137470007e+3
+  width: 2.1e+2
+  connections:
+    indexes:
+    - location: 774
+      length: 1
+    - location: 776
+      length: 2
+  _effectiveHeight: 1.26e+2
+- ID: 776
+  text: 'Widget: hits with something - 10 poison damage.
+
+    Bonus, slam fireball again.
+
+    See the shell breaking off on pieces, easy time hitting with an arrow. Also looking
+    terrible. Now going green.
+
+    failed DEX'
+  formattingOptions: []
+  position:
+  - 3.5599774557831e+3
+  - 5.19107784329985e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 775
+      length: 1
+    - location: 778
+      length: 1
+  _effectiveHeight: 1.12e+2
+- ID: 777
+  text: Bless lost concentration
+  formattingOptions: []
+  position:
+  - 3.56471232845438e+3
+  - 5.13334755296031e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 775
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 778
+  text: 'C: Spiriti guardians. two crabs, SW over to the hurt one
+
+    13 damage on one, and 7 on the other.'
+  formattingOptions: []
+  position:
+  - 3.74546653518515e+3
+  - 5.26321336951679e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 776
+      length: 1
+    - location: 779
+      length: 1
+  _effectiveHeight: 7e+1
+- ID: 779
+  text: "That crab will attack you with flankage.  nat 20\ndamage, 30 culm.\ncrab
+    swing the tree at everything.\nDEX save - C(10)  W(5)\n4 to C, 3 to W.  Spirit
+    \nWood splinters from the tree and hear a CRUNCH on the shell"
+  formattingOptions: []
+  position:
+  - 3.97840082379693e+3
+  - 5.34821336951679e+3
+  width: 2.3e+2
+  connections:
+    indexes:
+    - location: 778
+      length: 1
+    - location: 780
+      length: 1
+    - location: 783
+      length: 1
+  _effectiveHeight: 1.12e+2
+- ID: 780
+  text: 'W: another ray of sickness on the closer ones.  3+7 = 10 (bounces off)
+
+    DEX save for fun (3) - just had to not roll a 1.  Spell bounces off (surprising),
+    not a normal crab thing, and reflects back to you, and have to dodge out of the
+    way.
+
+    Then the flaming of sphere - moar damage'
+  formattingOptions: []
+  position:
+  - 4.01671165237263e+3
+  - 5.16868824650748e+3
+  width: 2.1e+2
+  connections:
+    indexes:
+    - location: 779
+      length: 1
+    - location: 781
+      length: 1
+  _effectiveHeight: 1.26e+2
+- ID: 781
+  text: 'C: hit iwth the mace, missed with spiritual weapon, on third
+
+    14 points'
+  formattingOptions: []
+  position:
+  - 4.27970829074401e+3
+  - 5.1821671330385e+3
+  width: 2.1e+2
+  connections:
+    indexes:
+    - location: 780
+      length: 1
+    - location: 782
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 782
+  text: 'Crabs -7 points on widget. Slams into widget. Dispite that due notice - crab
+    1 skitter a bit, then skitter to the lake behind it. it skitters into the water,
+    lay its legs out. The top still sticking out.
+
+    Spiritual guardians cause cracks, and seeing the water vibrate - shaking.  The
+    closer one shell is gone.  These metal rings, crab meat flying everywhere.
+
+    It''s trying to move away, moves so confused, then comes apart. That crab stops
+    moving'
+  formattingOptions: []
+  position:
+  - 4.29728256583414e+3
+  - 5.26113714130174e+3
+  width: 3.3e+2
+  connections:
+    indexes:
+    - location: 781
+      length: 1
+  _effectiveHeight: 1.26e+2
+- ID: 783
+  text: 'W: action - bonus action, saturate action to use it, Healing Word. for 1d4+4.  5
+    total.
+
+    Firesphere over to crab - chases the crab around.'
+  formattingOptions: []
+  position:
+  - 4.29175540988462e+3
+  - 5.40966483248263e+3
+  width: 2.3e+2
+  connections:
+    indexes:
+    - location: 779
+      length: 1
+    - location: 785
+      length: 1
+  _effectiveHeight: 7e+1
+- ID: 785
+  text: pond turning into crab soup. Another turn or two, put that one out of its
+    misery.
+  formattingOptions: []
+  position:
+  - 4.25075171021516e+3
+  - 5.51832374924944e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 783
+      length: 1
+    - location: 786
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 786
+  text: A wizard was coming out of the hut, but seeing the state of things. Shakily
+    holds up a unicorn horn, and lays it on the ground, and takes off running
+  formattingOptions: []
+  position:
+  - 3.98718087187383e+3
+  - 5.51900687349824e+3
+  width: 2.1e+2
+  connections:
+    indexes:
+    - location: 785
+      length: 1
+    - location: 787
+      length: 1
+  _effectiveHeight: 5.6e+1
+- ID: 787
+  text: 'Turn to the future on an airship, on a big advanture for, a crazy first adventure.
+    Lots of patching up of widget, got the unicorn horn back, able to help charlie
+    reattach. the dryads backed off and left us alone. Clearing the way back to charlie.
+    Ulitmate the forest was restored
+
+
+    fin'
+  formattingOptions:
+  - options: 2
+    rangeStart: 281
+    rangeLength: 3
+  position:
+  - 3.74479805937387e+3
+  - 5.47414246544537e+3
+  width: 2.1e+2
+  connections:
+    indexes:
+    - location: 786
+      length: 1
+  _effectiveHeight: 1.4e+2
