@@ -10023,3 +10023,1828 @@
     - location: 636
       length: 1
   _effectiveHeight: 1.4e+1
+- ID: 638
+  text: Episode V
+  fillColorRGB:
+    red: 1e+0
+    green: 9.0283e-1
+    blue: 9.76506e-1
+  formattingOptions: []
+  position:
+  - 4.66451293945312e+3
+  - 2.86492767333984e+1
+  width: 1.6e+2
+  connections:
+    indexes: []
+  _effectiveHeight: 1.4e+1
+- ID: 639
+  text: RIBBIT
+  fillColorRGB:
+    red: 8.96043e-1
+    green: 9.97437e-1
+    blue: 9.42763e-1
+  formattingOptions: []
+  position:
+  - 4.89743368887989e+3
+  - 2.34967041015625e+1
+  width: 7e+1
+  connections:
+    indexes: []
+  _effectiveHeight: 1.4e+1
+- ID: 640
+  text: Episode v.5 - The Last Unicorn
+  fillColorRGB:
+    red: 1e+0
+    green: 9.0283e-1
+    blue: 9.76506e-1
+  formattingOptions: []
+  position:
+  - 3.53333429547561e+3
+  - 2.50003841458838e+3
+  width: 1.7e+2
+  connections:
+    indexes:
+    - location: 641
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 641
+  text: A unicorn has had its horn stolen by a creature.  If not gotten and reattached
+    the forest will weather and die.
+  formattingOptions: []
+  position:
+  - 3.75632318707718e+3
+  - 2.54583675443213e+3
+  width: 2.2e+2
+  connections:
+    indexes:
+    - location: 640
+      length: 1
+    - location: 642
+      length: 2
+  _effectiveHeight: 4.2e+1
+- ID: 642
+  text: The cloister, being nature-leading, is interesting
+  formattingOptions: []
+  position:
+  - 4.02903305411441e+3
+  - 2.50297444035461e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 641
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 643
+  text: 'Fey -   Displaced dryads whose grove has been infected by a malevalent disembodied
+    force.
+
+    Or a Beast, crabs the size of horses, created by a failed magical experiment
+
+    Or start playing and deciding as we go'
+  formattingOptions: []
+  position:
+  - 4.02535235249181e+3
+  - 2.55848206505413e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 641
+      length: 1
+    - location: 645
+      length: 1
+  _effectiveHeight: 1.26e+2
+- ID: 644
+  text: ''
+  fillColorRGB:
+    red: 8.93993e-1
+    green: 9.92872e-1
+    blue: 1e+0
+  formattingOptions: []
+  position:
+  - 3.77120045946298e+3
+  - 2.45823290076628e+3
+  width: 5.3e+2
+  connections:
+    indexes: []
+  _effectiveHeight: 1.4e+1
+- ID: 645
+  text: Chandra already at the cloister clinic.  Approach one of the leadesr.  Small
+    situation, send someone new.  Great mentor encourage the new folks.
+  formattingOptions: []
+  position:
+  - 4.20180752451705e+3
+  - 2.50669288987385e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 643
+      length: 1
+    - location: 646
+      length: 2
+  _effectiveHeight: 8.4e+1
+- ID: 646
+  text: Been a number of months since I left this place.
+  formattingOptions: []
+  position:
+  - 4.37569921997976e+3
+  - 2.47211821101268e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 645
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 647
+  text: In the lowlands, trees leaves falling off, but it's spring.  The local unicorn
+    in the Frydiar forest - horn stolen
+  formattingOptions: []
+  position:
+  - 4.40409361976939e+3
+  - 2.52777692119897e+3
+  width: 1.9e+2
+  connections:
+    indexes:
+    - location: 645
+      length: 1
+    - location: 648
+      length: 1
+  _effectiveHeight: 5.6e+1
+- ID: 648
+  text: Head on down there, you won't be able to miss the eager young fellow.  Get
+    a nice fellow, acrid smell.
+  formattingOptions: []
+  position:
+  - 4.41430780621771e+3
+  - 2.6222949782152e+3
+  width: 2e+2
+  connections:
+    indexes:
+    - location: 647
+      length: 1
+    - location: 649
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 649
+  text: 'Widget''s real name he doesn''t like.  WILLIS. Brand new. He talks a lot.
+    said a lot of things, we didn''t hear a lot of about them. Calming presence
+
+    Nice to not lose the whole southern forest.'
+  formattingOptions: []
+  position:
+  - 4.23531883010595e+3
+  - 2.6474526367188e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 648
+      length: 1
+    - location: 650
+      length: 1
+  _effectiveHeight: 1.12e+2
+- ID: 650
+  text: No need to rush back.
+  formattingOptions: []
+  position:
+  - 4.0303520707911e+3
+  - 2.7128681452825e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 649
+      length: 1
+    - location: 651
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 651
+  text: ' Bowing and leaves'
+  formattingOptions: []
+  position:
+  - 3.80043780171057e+3
+  - 2.62655692232577e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 650
+      length: 1
+    - location: 652
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 652
+  text: Chandra - Packs pack, blows dust off
+  formattingOptions: []
+  position:
+  - 3.57710443707721e+3
+  - 2.61230572979272e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 651
+      length: 1
+    - location: 654
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 653
+  text: 'Widget - asking some folks, directs Chandra to his quarters.  Sound of knocking
+    on door, hear the sound of a shocked gasp followed by breaking glass. "oh boy,
+    oh boy. I think that''ll clear out soon.  '
+  formattingOptions: []
+  position:
+  - 3.5579756435075e+3
+  - 2.75204877178491e+3
+  width: 2.2e+2
+  connections:
+    indexes:
+    - location: 654
+      length: 2
+  _effectiveHeight: 8.4e+1
+- ID: 654
+  text: Where's WILLIS?  Are you Willis?
+  formattingOptions: []
+  position:
+  - 3.55995299476952e+3
+  - 2.67690627817012e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 652
+      length: 2
+  _effectiveHeight: 2.8e+1
+- ID: 655
+  text: He's a panda, but no black on him, teased about looking like a polar bear.  He's
+    young, and opens the door.  have to step back to make space, rather than just
+    openign the door, keeps it as shut as he can behind him, and a cloud of black
+    smoke exits the ceiling
+  formattingOptions: []
+  position:
+  - 3.81210847478755e+3
+  - 2.75309547776447e+3
+  width: 2.3e+2
+  connections:
+    indexes:
+    - location: 653
+      length: 1
+    - location: 656
+      length: 2
+  _effectiveHeight: 9.8e+1
+- ID: 656
+  text: Chandra - larger size, tubby, "comfortable"
+  formattingOptions: []
+  position:
+  - 3.80606852962529e+3
+  - 2.67204309082036e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 655
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 657
+  text: 'call me "Widgit" - willis we won''t get in.
+
+    Chandra - heard you (maybe the medical place) but maybe a pyromania girl.'
+  formattingOptions: []
+  position:
+  - 3.55092608296065e+3
+  - 2.86679829289368e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 655
+      length: 1
+    - location: 658
+      length: 1
+  _effectiveHeight: 7e+1
+- ID: 658
+  text: '$NAME suggestsed a mission.
+
+    The place is partially flammable'
+  formattingOptions: []
+  position:
+  - 3.77256877376594e+3
+  - 2.89174561485882e+3
+  width: 1.9e+2
+  connections:
+    indexes:
+    - location: 657
+      length: 1
+    - location: 659
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 659
+  text: What do I need?  Oh boy! an adventure so soon!
+  formattingOptions: []
+  position:
+  - 3.97960490657842e+3
+  - 2.89808599384019e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 658
+      length: 1
+    - location: 660
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 660
+  text: Opens door wide this time, and more black smoke but less of it,  There are
+    two broken vials - blue and red liquid, where pool, is smouldering rock. Like
+    an expoy ,and is sizzling through the floor.
+  formattingOptions: []
+  position:
+  - 4.09150516574308e+3
+  - 2.77621075908962e+3
+  width: 1.9e+2
+  connections:
+    indexes:
+    - location: 659
+      length: 1
+    - location: 661
+      length: 2
+  _effectiveHeight: 9.8e+1
+- ID: 661
+  text: I'll get that fixed up once the reaction stops
+  formattingOptions: []
+  position:
+  - 4.32716706853751e+3
+  - 2.77548772723865e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 660
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 662
+  text: 'Turns something on wall, rube goldberg machine of little wooden pistons and
+    cams moving gears begins to cause a fan embedded in the wall.
+
+    Grabs vials and stuffs in pockets.  Has a small crossbow and a dagger.
+
+    Checks small pendant around his neck'
+  formattingOptions: []
+  position:
+  - 4.33281263269016e+3
+  - 2.83028471491894e+3
+  width: 2.7e+2
+  connections:
+    indexes:
+    - location: 660
+      length: 1
+    - location: 663
+      length: 1
+  _effectiveHeight: 8.4e+1
+- ID: 663
+  text: Heads toward front gate
+  formattingOptions: []
+  position:
+  - 4.42932846427069e+3
+  - 2.96643452336246e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 662
+      length: 1
+    - location: 664
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 664
+  text: "That vent is pretty impressive. \nI've had to move so often. Modular.  To
+    help with fume control.\nCome check out the infimary - added airflow would be
+    good\nI like tinkering with thing and making gadgets"
+  formattingOptions: []
+  position:
+  - 4.18252811496179e+3
+  - 2.94406931715753e+3
+  width: 2.1e+2
+  connections:
+    indexes:
+    - location: 663
+      length: 1
+    - location: 665
+      length: 2
+  _effectiveHeight: 9.8e+1
+- ID: 665
+  text: Down to the forest
+  formattingOptions: []
+  position:
+  - 3.97596692956516e+3
+  - 2.96814388333842e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 664
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 666
+  text: "Van\xF1a Delorsa sees us from top of the wall as walking, and points.  A
+    young simbple garb squire sign, some of the youth of the villiage, be guides,
+    connecting between different parties\nTalking off of the mountain path in front
+    of them.\nWalking too fast, picking up sticks and whacking trees.  Able to talk."
+  formattingOptions: []
+  position:
+  - 3.8823474508993e+3
+  - 3.00670706881018e+3
+  width: 2.7e+2
+  connections:
+    indexes:
+    - location: 664
+      length: 1
+    - location: 667
+      length: 1
+  _effectiveHeight: 9.8e+1
+- ID: 667
+  text: Quickly down off the mountain, and full of energy
+  formattingOptions: []
+  position:
+  - 3.56783826745583e+3
+  - 2.97424209359984e+3
+  width: 2.5e+2
+  connections:
+    indexes:
+    - location: 666
+      length: 1
+    - location: 669
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 668
+  text: Front porch, lady in  this long green dress, a rough hemp material. Her own
+    features, long ears, long chin, just long.  Resting a hand on the silky white
+    coat of a unicorn.
+  formattingOptions: []
+  position:
+  - 3.55382365657843e+3
+  - 3.10925448843158e+3
+  width: 2.5e+2
+  connections:
+    indexes:
+    - location: 669
+      length: 2
+  _effectiveHeight: 5.6e+1
+- ID: 669
+  text: (missed where we are - some house?)
+  formattingOptions: []
+  position:
+  - 3.56909061496184e+3
+  - 3.04066402493999e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 667
+      length: 2
+  _effectiveHeight: 2.8e+1
+- ID: 670
+  text: Looking between the ears. Horse's head is drooped down. Looks at both with
+    a baleful glare.
+  formattingOptions: []
+  position:
+  - 3.85024953172867e+3
+  - 3.13888841834444e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 668
+      length: 1
+    - location: 671
+      length: 1
+  _effectiveHeight: 5.6e+1
+- ID: 671
+  text: We're is. told we could be of some help. Talked to Vanna Dalsorrra
+  formattingOptions: []
+  position:
+  - 4.05537751775629e+3
+  - 3.13757301682701e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 670
+      length: 1
+    - location: 672
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 672
+  text: Machinery - glad the ysent their top people
+  formattingOptions: []
+  position:
+  - 4.21134675603751e+3
+  - 3.07820487154456e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 671
+      length: 1
+    - location: 673
+      length: 3
+  _effectiveHeight: 2.8e+1
+- ID: 673
+  text: WOWWW
+  formattingOptions: []
+  position:
+  - 4.36599876174665e+3
+  - 3.05140433443519e+3
+  width: 7e+1
+  connections:
+    indexes:
+    - location: 672
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 674
+  text: Charlie, ya up to tellin what you know.
+  formattingOptions: []
+  position:
+  - 4.25237590267212e+3
+  - 3.13192994103073e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 672
+      length: 1
+    - location: 676
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 675
+  text: Unicorn looks at us. Leaves fluttering around
+  formattingOptions: []
+  position:
+  - 4.45567659002187e+3
+  - 3.07008705491294e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 672
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 676
+  text: I was sleeping, and felt a searing pain, and through the haze of pain, tried
+    to gore what was in front of me, and headbutted and it hurt even more. and I blacked
+    out. And then I believe some of the forst bird sent for help, and my friend came
+    to help.  Wish I had more information - can easily follow where I was resting,
+    follow the trail of blood.
+  formattingOptions: []
+  position:
+  - 4.43649136240768e+3
+  - 3.12980821814912e+3
+  width: 1.8e+2
+  connections:
+    indexes:
+    - location: 674
+      length: 1
+    - location: 677
+      length: 1
+  _effectiveHeight: 1.68e+2
+- ID: 677
+  text: 'Widet: "I''m so sorry.  I don;t knwo what to say of course we''ll try to
+    help"'
+  formattingOptions: []
+  position:
+  - 4.24180517701105e+3
+  - 3.19652457369297e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 676
+      length: 1
+    - location: 678
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 678
+  text: feel their gazes boring into your backs
+  formattingOptions: []
+  position:
+  - 4.21583884963725e+3
+  - 3.27120648662867e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 677
+      length: 1
+    - location: 679
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 679
+  text: Nature/Survival - 13 Widget 10 Chandra.   Not hard to see the path.  Thigns
+    are just trampled. Just a clear path through the brush
+  formattingOptions: []
+  position:
+  - 4.05506267025023e+3
+  - 3.21420706881016e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 678
+      length: 1
+    - location: 680
+      length: 1
+  _effectiveHeight: 7e+1
+- ID: 680
+  text: Can see - making pretty slow progress along this path
+  formattingOptions: []
+  position:
+  - 3.85085265297262e+3
+  - 3.25986390099165e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 679
+      length: 1
+    - location: 681
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 681
+  text: 'Chandra looking at blood and whatnot (21 medicine) - the wound cared for,
+    not a huge amount of blood, not enough that by itself would be putting in any
+    immediate danger.
+
+    It''s the loss of the horn and not the wound'
+  formattingOptions: []
+  position:
+  - 3.56633027654535e+3
+  - 3.20818811035163e+3
+  width: 2.4e+2
+  connections:
+    indexes:
+    - location: 680
+      length: 1
+    - location: 682
+      length: 2
+  _effectiveHeight: 7e+1
+- ID: 682
+  text: 'Widget - would I know as an artificer to intuit of uses for unicorn horns.  Build
+    a profile of what they might be needing for.
+
+    Arcana (12) - know magic comes from the horns, the rumors amongst the unstudided.
+    There''s often a kernel of truth in mythology and a lot of wrongness. "Someone
+    who wants magic and is not educated to go about it a better way"'
+  formattingOptions: []
+  position:
+  - 3.60297254479959e+3
+  - 3.35218394118096e+3
+  width: 2.7e+2
+  connections:
+    indexes:
+    - location: 681
+      length: 1
+    - location: 684
+      length: 2
+  _effectiveHeight: 1.12e+2
+- ID: 683
+  text: ONE SUCCESS
+  fillColorRGB:
+    red: 8.93993e-1
+    green: 9.92872e-1
+    blue: 1e+0
+  formattingOptions: []
+  position:
+  - 3.55114975333322e+3
+  - 3.31707872596162e+3
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 681
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 684
+  text: ONE FAILURE
+  fillColorRGB:
+    red: 1e+0
+    green: 9.0283e-1
+    blue: 9.76506e-1
+  formattingOptions: []
+  position:
+  - 3.58033127188792e+3
+  - 3.50586018254212e+3
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 682
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 685
+  text: 'As you get close, perception. W12 C19
+
+    Getting an unsettling sense of the forest being less accomodiating than normal.  We
+    are dodging whipping branches, and the path is closing in'
+  formattingOptions: []
+  position:
+  - 3.91173728713729e+3
+  - 3.3295706035908e+3
+  width: 2.2e+2
+  connections:
+    indexes:
+    - location: 682
+      length: 1
+    - location: 686
+      length: 1
+  _effectiveHeight: 7e+1
+- ID: 686
+  text: '"Widget, there''s somethign weird about the forest" - W DEX save (6)'
+  formattingOptions: []
+  position:
+  - 3.92304606868777e+3
+  - 3.42918993201631e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 685
+      length: 1
+    - location: 687
+      length: 2
+  _effectiveHeight: 4.2e+1
+- ID: 687
+  text: TWO FAILURE
+  fillColorRGB:
+    red: 1e+0
+    green: 9.0283e-1
+    blue: 9.76506e-1
+  formattingOptions: []
+  position:
+  - 3.80869811195703e+3
+  - 3.50963248384926e+3
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 686
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 688
+  text: Roots grab Widget's ankles, and just face plant, with a large amount of force.
+    3HP damage
+  formattingOptions: []
+  position:
+  - 4.14319856267813e+3
+  - 3.42923448768039e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 686
+      length: 1
+    - location: 689
+      length: 1
+  _effectiveHeight: 5.6e+1
+- ID: 689
+  text: Both pick up pace into the clearing. Widget having a tough time stumbling
+    through the trees, getting slapped around
+  formattingOptions: []
+  position:
+  - 4.15368130381395e+3
+  - 3.3236864858775e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 688
+      length: 1
+    - location: 690
+      length: 1
+  _effectiveHeight: 7e+1
+- ID: 690
+  text: The glade - a lot of commotion, signs of injury and pool of blood.  Avoid
+    further entanglement with the trees
+  formattingOptions: []
+  position:
+  - 4.35234416439087e+3
+  - 3.35493071101272e+3
+  width: 2.1e+2
+  connections:
+    indexes:
+    - location: 689
+      length: 1
+    - location: 691
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 691
+  text: Chandra searches. Investigate - C10
+  formattingOptions: []
+  position:
+  - 4.38459082154229e+3
+  - 3.42022555776753e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 690
+      length: 1
+    - location: 692
+      length: 2
+  _effectiveHeight: 2.8e+1
+- ID: 692
+  text: 'ONE SUCCESS
+
+    ONE FAILURE'
+  fillColorRGB:
+    red: 8.93993e-1
+    green: 9.92872e-1
+    blue: 1e+0
+  formattingOptions: []
+  position:
+  - 4.47368984873579e+3
+  - 3.48821012995804e+3
+  width: 1.2e+2
+  connections:
+    indexes:
+    - location: 691
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 693
+  text: See relatively large multiple places out of the glade where large creatures
+    have passed.  Broken branches, but can't make sense of. Does track with injury.
+  formattingOptions: []
+  position:
+  - 4.2095018041144e+3
+  - 3.51637114070023e+3
+  width: 2e+2
+  connections:
+    indexes:
+    - location: 691
+      length: 1
+    - location: 694
+      length: 1
+  _effectiveHeight: 7e+1
+- ID: 694
+  text: Done suddenly and roughly
+  formattingOptions: []
+  position:
+  - 4.4882576259293e+3
+  - 3.5312996826173e+3
+  width: 9e+1
+  connections:
+    indexes:
+    - location: 693
+      length: 1
+    - location: 695
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 695
+  text: Distracted by further processing, not getting too much else
+  formattingOptions: []
+  position:
+  - 4.45835640898221e+3
+  - 3.59885527155959e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 694
+      length: 1
+    - location: 696
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 696
+  text: 'W: Study footsteps? Want to see who did it came from, and figure out something
+    about who/what they are.
+
+    Survival(4)'
+  formattingOptions: []
+  position:
+  - 4.41002088464327e+3
+  - 3.67838046499409e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 695
+      length: 1
+    - location: 697
+      length: 2
+  _effectiveHeight: 7e+1
+- ID: 697
+  text: THREE FAILURE
+  fillColorRGB:
+    red: 1e+0
+    green: 9.0283e-1
+    blue: 9.76506e-1
+  formattingOptions: []
+  position:
+  - 4.31358843647623e+3
+  - 3.62517790339555e+3
+  width: 1.1e+2
+  connections:
+    indexes:
+    - location: 696
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 698
+  text: Looks like a horse staggering around.  Make out the path you came in, and
+    several paths heading out
+  formattingOptions: []
+  position:
+  - 4.21372149311693e+3
+  - 3.67460431377726e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 696
+      length: 1
+    - location: 699
+      length: 1
+  _effectiveHeight: 7e+1
+- ID: 699
+  text: 'Both hear this whispering from the opposite side of the glade that Charlie
+    exited - one on the N side of the glade. Just breathy "hieazzzh" moving towards
+    it.
+
+    The sense in corner of eye, swear there''s someone on the path, then goes away.'
+  formattingOptions: []
+  position:
+  - 4.00726181388017e+3
+  - 3.54469164100082e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 698
+      length: 1
+    - location: 700
+      length: 1
+  _effectiveHeight: 1.4e+2
+- ID: 700
+  text: 'C: do you hear that?
+
+    W: yes
+
+    C: odd not usual for forests
+
+    anyone there?  can we be of assistance?'
+  formattingOptions: []
+  position:
+  - 3.79806574078824e+3
+  - 3.54896898475083e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 699
+      length: 1
+    - location: 701
+      length: 1
+  _effectiveHeight: 7e+1
+- ID: 701
+  text: 'WIS save
+
+    C: dirty 20
+
+    W: 14'
+  formattingOptions: []
+  position:
+  - 3.58139079525043e+3
+  - 3.62288091571538e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 700
+      length: 1
+    - location: 702
+      length: 3
+  _effectiveHeight: 4.2e+1
+- ID: 702
+  text: 'TWO SUCCESS
+
+    ONE FAILURE'
+  fillColorRGB:
+    red: 8.93993e-1
+    green: 9.92872e-1
+    blue: 1e+0
+  formattingOptions: []
+  position:
+  - 3.55012004329735e+3
+  - 3.55172547325746e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 701
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 703
+  text: 'ONE SUCCESS
+
+    THREE FAILURE'
+  fillColorRGB:
+    red: 1e+0
+    green: 9.0283e-1
+    blue: 9.76506e-1
+  formattingOptions: []
+  position:
+  - 3.55012351760625e+3
+  - 3.70915410907477e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 701
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 704
+  text: '"come this way", feel an uncomfortable presence. Not your norm. A will pressing
+    in on you that you resist, but hear the call.
+
+
+    Path 2 - the center path.  Look down, almost see a person.  But just shadows'
+  formattingOptions: []
+  position:
+  - 3.78155493287067e+3
+  - 3.64287706580554e+3
+  width: 2e+2
+  connections:
+    indexes:
+    - location: 701
+      length: 1
+    - location: 705
+      length: 1
+  _effectiveHeight: 1.12e+2
+- ID: 705
+  text: '"get over here you wusses"
+
+    (might not be Canon)'
+  formattingOptions: []
+  position:
+  - 4.00957964741392e+3
+  - 3.71434951547502e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 704
+      length: 1
+    - location: 706
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 706
+  text: 'C: Might be a challenge?  How are you for challenged.
+
+    W: I''m tottaly up for adventue
+
+    C: (insight 9) - totally belive'
+  formattingOptions: []
+  position:
+  - 3.99957654870599e+3
+  - 3.77375230994617e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 705
+      length: 1
+    - location: 707
+      length: 1
+  _effectiveHeight: 7e+1
+- ID: 707
+  text: 'Down center '
+  formattingOptions: []
+  position:
+  - 4.19174996366993e+3
+  - 3.78645269305915e+3
+  width: 8e+1
+  connections:
+    indexes:
+    - location: 706
+      length: 1
+    - location: 708
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 708
+  text: 'Perception check
+
+    C: dirty 20
+
+    W: 14'
+  formattingOptions: []
+  position:
+  - 4.18996435669878e+3
+  - 3.83679866849486e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 707
+      length: 1
+    - location: 709
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 709
+  text: No doubt that this is getting spooky. The shadows and the sun on this path,
+    shifting around, doesn't feel natural, to top it off, feel a moment of coldness,
+    whole body goes cold. Like walking through a sudden pool of cold water. And is
+    gone.  Warm again, but unsettled, and a little wary.
+  formattingOptions: []
+  position:
+  - 4.38435747944522e+3
+  - 3.7623839017431e+3
+  width: 2.3e+2
+  connections:
+    indexes:
+    - location: 708
+      length: 1
+    - location: 710
+      length: 1
+  _effectiveHeight: 9.8e+1
+- ID: 710
+  text: Hearing whispers - indistinct, hear say, but understand "ths way", the directions
+    kind of diverge before resolves into one.
+  formattingOptions: []
+  position:
+  - 4.41575330651854e+3
+  - 3.88741465407182e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 709
+      length: 1
+    - location: 711
+      length: 1
+  _effectiveHeight: 7e+1
+- ID: 711
+  text: Sometimes a calling off the path.
+  formattingOptions: []
+  position:
+  - 4.14271807514835e+3
+  - 3.91154513784586e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 710
+      length: 1
+    - location: 712
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 712
+  text: Chandra casts light on a 10-foot pole
+  formattingOptions: []
+  position:
+  - 4.19782117761229e+3
+  - 3.98464661583564e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 711
+      length: 1
+    - location: 713
+      length: 1
+    - location: 716
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 713
+  text: "Inspired by, widget does same not with light, but making an object glow and
+    radiate light like a torch.  Does the dagger, like Sting from LoTR.\nOne of four
+    Arcane Infusions\u2122"
+  formattingOptions: []
+  position:
+  - 4.4044857471736e+3
+  - 3.98286185396665e+3
+  width: 1.8e+2
+  connections:
+    indexes:
+    - location: 712
+      length: 1
+    - location: 714
+      length: 1
+    - location: 717
+      length: 1
+  _effectiveHeight: 8.4e+1
+- ID: 714
+  text: '"impressive!"'
+  formattingOptions: []
+  position:
+  - 4.44464002526857e+3
+  - 4.0826868239186e+3
+  width: 9e+1
+  connections:
+    indexes:
+    - location: 713
+      length: 1
+    - location: 715
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 715
+  text: Frustrated performance anxiety to doing the thing
+  formattingOptions: []
+  position:
+  - 4.41381398485393e+3
+  - 4.13105868765056e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 714
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 716
+  text: 'WIS (Adv b/c of light: C(17)  W(14): hear the call, see that the trail turns
+    slightly.  One voice is leading straight head, but pick up the trail and follow
+    it around
+
+    Confusing discontinunity'
+  formattingOptions: []
+  position:
+  - 3.95306005982389e+3
+  - 3.90128231107304e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 712
+      length: 1
+    - location: 718
+      length: 1
+  _effectiveHeight: 9.8e+1
+- ID: 717
+  text: 'Widget DEX (14)
+
+    Picking up on trees trying to trip you. Two grabbed ankle again, and feet under
+    roots, And Stop and catch your balance, leaning over, and backing up Going carefully
+    and quickly and watch your feet.'
+  formattingOptions: []
+  position:
+  - 4.16781967520854e+3
+  - 4.06239911358208e+3
+  width: 2.2e+2
+  connections:
+    indexes:
+    - location: 713
+      length: 1
+  _effectiveHeight: 9.8e+1
+- ID: 718
+  text: Along this trail, definilyte prints, marks and drags, where the ground is
+    softer
+  formattingOptions: []
+  position:
+  - 3.81387614681315e+3
+  - 3.81328398249738e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 716
+      length: 1
+    - location: 719
+      length: 2
+  _effectiveHeight: 4.2e+1
+- ID: 719
+  text: 'Survival : C(18) W(9)'
+  formattingOptions: []
+  position:
+  - 3.5873437418402e+3
+  - 3.78807730806829e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 718
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 720
+  text: 'Widget focusing on not tripping,  C in the lead, see these odd giant poker
+    sized holes pointing out at different angles. Hard to read these tracks. Definitely
+    at least two or three large beasts of '
+  formattingOptions: []
+  position:
+  - 3.55816898410284e+3
+  - 3.83942153695952e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 718
+      length: 1
+    - location: 721
+      length: 1
+  _effectiveHeight: 9.8e+1
+- ID: 721
+  text: 'Widget take a look - do you know what does this? (no)
+
+    W Nature(nat20+7).'
+  formattingOptions: []
+  position:
+  - 3.75830589065332e+3
+  - 3.90005822753944e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 720
+      length: 1
+    - location: 722
+      length: 2
+  _effectiveHeight: 4.2e+1
+- ID: 722
+  text: IT'S GIANT FEY CRABS
+  formattingOptions: []
+  position:
+  - 3.5584349095836e+3
+  - 3.96733028470591e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 721
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 723
+  text: 'See the first print, and second, and brain lights up. Forget about the forest.
+    These prints do not make sense. The size and impact ,and poitniness. This is NOT
+    a natural beast ever heard about, and you study :alot: reminds you, think about
+    for a minute.  It''s just dirt. If sand, what crab pincers look like if the crabs
+    were enormous.
+
+    Which doesn''t make sense, explains the weird cadence of prints to each other.
+    Impossible for how they were laid out for a beast walking forward.  '
+  formattingOptions: []
+  position:
+  - 3.55250163509442e+3
+  - 4.02207323279786e+3
+  width: 3.5e+2
+  connections:
+    indexes:
+    - location: 721
+      length: 1
+    - location: 724
+      length: 1
+  _effectiveHeight: 1.26e+2
+- ID: 724
+  text: Widget struggles, not envisioning giant crabs. He can picture that very well,
+    but the awkwardness , I think this is giant crabs
+  formattingOptions: []
+  position:
+  - 3.93817565101988e+3
+  - 4.04333990009053e+3
+  width: 2.2e+2
+  connections:
+    indexes:
+    - location: 723
+      length: 1
+    - location: 725
+      length: 1
+  _effectiveHeight: 5.6e+1
+- ID: 725
+  text: How nuts am I?  I'm a genius, or am I insane?
+  formattingOptions: []
+  position:
+  - 3.9670075320295e+3
+  - 4.13805012394869e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 724
+      length: 1
+    - location: 726
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 726
+  text: '"I saw your face light up with discovery"'
+  formattingOptions: []
+  position:
+  - 3.92000022659081e+3
+  - 4.19297796161395e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 725
+      length: 1
+    - location: 727
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 727
+  text: 'Hypothetically, you''ve been out in the world. Know about different kinds
+    of creatures
+
+    What woulld you say if this looks like enormous crabs. collosal crabs'
+  formattingOptions: []
+  position:
+  - 3.61575283701752e+3
+  - 4.18515902944749e+3
+  width: 2.3e+2
+  connections:
+    indexes:
+    - location: 726
+      length: 1
+    - location: 728
+      length: 1
+  _effectiveHeight: 7e+1
+- ID: 728
+  text: 'Show me the evidence
+
+
+    Widget goes in the Sherlock Holmes where just drops into trance like state and
+    pointing to things. Normal awkwardness drops.  "size of this hole,... knots of
+    string to measure distances, and ratios, carapacice about this deep".'
+  formattingOptions: []
+  position:
+  - 3.54281892400672e+3
+  - 4.29604004845272e+3
+  width: 3.3e+2
+  connections:
+    indexes:
+    - location: 727
+      length: 1
+    - location: 729
+      length: 1
+  _effectiveHeight: 8.4e+1
+- ID: 729
+  text: '... Seems like an airtight case'
+  formattingOptions: []
+  position:
+  - 3.88760379855601e+3
+  - 4.25439205228386e+3
+  width: 2.4e+2
+  connections:
+    indexes:
+    - location: 728
+      length: 1
+    - location: 730
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 730
+  text: Look up on trees seeing serrated lines that match perfectly with shell scraping
+    through at height.
+  formattingOptions: []
+  position:
+  - 3.89182611676513e+3
+  - 4.31530527907172e+3
+  width: 2.3e+2
+  connections:
+    indexes:
+    - location: 729
+      length: 1
+    - location: 731
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 731
+  text: Magic, construct.. why would someone do that outside of an endless food supply
+  formattingOptions: []
+  position:
+  - 4.15231533701751e+3
+  - 4.34593854229287e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 730
+      length: 1
+    - location: 732
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 732
+  text: '"how much drawn butter do you have on you"'
+  formattingOptions: []
+  position:
+  - 4.15950687472785e+3
+  - 4.28522898512641e+3
+  width: 1.9e+2
+  connections:
+    indexes:
+    - location: 731
+      length: 1
+    - location: 733
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 733
+  text: Widget is confused
+  formattingOptions: []
+  position:
+  - 4.17178912007039e+3
+  - 4.23218088942328e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 732
+      length: 1
+    - location: 734
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 734
+  text: A tree collapses, not far from both of you.  You see faces around you, the
+    whispers have intensified.
+  formattingOptions: []
+  position:
+  - 4.36367153818938e+3
+  - 4.20250104229287e+3
+  width: 2e+2
+  connections:
+    indexes:
+    - location: 733
+      length: 1
+    - location: 735
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 735
+  text: Young women, older woment, morphing in and out of creases and wrinkles, vertical
+    wringkles, shifting in the shadows
+  formattingOptions: []
+  position:
+  - 4.40228932665092e+3
+  - 4.27081576772857e+3
+  width: 1.9e+2
+  connections:
+    indexes:
+    - location: 734
+      length: 1
+    - location: 736
+      length: 1
+  _effectiveHeight: 5.6e+1
+- ID: 736
+  text: Except for the light carrying, the sun is gone. As the tree falls, hear a
+    shrieking sound, whispers themsleves stop, before resuming, and shapes
+  formattingOptions: []
+  position:
+  - 4.41750858371221e+3
+  - 4.35451989746114e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 735
+      length: 1
+    - location: 737
+      length: 1
+  _effectiveHeight: 8.4e+1
+- ID: 737
+  text: We've seen giant crabs?
+  formattingOptions: []
+  position:
+  - 4.43067189501029e+3
+  - 4.46435298978386e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 736
+      length: 1
+    - location: 738
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 738
+  text: Not ours, hurry, circle opens on one side.
+  formattingOptions: []
+  position:
+  - 4.38489956553313e+3
+  - 4.50885738431511e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 737
+      length: 1
+    - location: 739
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 739
+  text: Feel spirits pushing in on you.
+  formattingOptions: []
+  position:
+  - 4.19920817806318e+3
+  - 4.43698599947436e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 738
+      length: 1
+    - location: 740
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 740
+  text: 'C: 5 points of cold damage
+
+    W: 6 points of cold damage.'
+  formattingOptions: []
+  position:
+  - 4.08480768414793e+3
+  - 4.49087905649059e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 739
+      length: 1
+    - location: 743
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 741
+  text: 'THREE SUCCES
+
+    ONE FAILURE'
+  fillColorRGB:
+    red: 8.93993e-1
+    green: 9.92872e-1
+    blue: 1e+0
+  formattingOptions: []
+  position:
+  - 3.9591860176066e+3
+  - 4.41424669471183e+3
+  width: 1.6e+2
+  connections:
+    indexes: []
+  _effectiveHeight: 2.8e+1
+- ID: 742
+  text: 'TWO SUCCESS
+
+    THREE FAILURE'
+  fillColorRGB:
+    red: 1e+0
+    green: 9.0283e-1
+    blue: 9.76506e-1
+  formattingOptions: []
+  position:
+  - 3.73155887668126e+3
+  - 4.417049053486e+3
+  width: 1.6e+2
+  connections:
+    indexes: []
+  _effectiveHeight: 2.8e+1
+- ID: 743
+  text: Maybe denizens asking for help
+  formattingOptions: []
+  position:
+  - 3.90393220525697e+3
+  - 4.46219816706774e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 740
+      length: 1
+    - location: 744
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 744
+  text: 'Insight on the voice
+
+    C(16)  W(3)
+
+    They are freaking widget out.
+
+    Chandra matches yes.'
+  formattingOptions: []
+  position:
+  - 3.82860026790723e+3
+  - 4.52267367788506e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 743
+      length: 1
+    - location: 745
+      length: 4
+  _effectiveHeight: 7e+1
+- ID: 745
+  text: 'TWO SUCCESS
+
+    FOUR FAILURE'
+  fillColorRGB:
+    red: 1e+0
+    green: 9.0283e-1
+    blue: 9.76506e-1
+  formattingOptions: []
+  position:
+  - 4.05012511391084e+3
+  - 4.5964244760371e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 744
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 746
+  text: 'FOUR SUCCESS
+
+    ONE FAILURE'
+  fillColorRGB:
+    red: 8.93993e-1
+    green: 9.92872e-1
+    blue: 1e+0
+  formattingOptions: []
+  position:
+  - 4.06851444308752e+3
+  - 4.54998432805033e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 744
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 747
+  text: 'C pulls mace and starts humpin it down the trail
+
+    W gets crossbow and loads a shot.'
+  formattingOptions: []
+  position:
+  - 3.64722960609837e+3
+  - 4.48250165264468e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 744
+      length: 1
+  _effectiveHeight: 5.6e+1
+- ID: 748
+  text: The trail if not for the darkness, not hard to follow, seeing the scrape marks
+    and snapped off trees, become easy to both follow this. Moving again, feel the
+    presence back off some.  They were getting aggressive, but moving along.
+  formattingOptions: []
+  position:
+  - 3.57727984272696e+3
+  - 4.57333745868433e+3
+  width: 2.2e+2
+  connections:
+    indexes:
+    - location: 744
+      length: 1
+    - location: 749
+      length: 1
+  _effectiveHeight: 8.4e+1
+- ID: 749
+  text: They have backed off, feel all around you, still very unsettling
+  formattingOptions: []
+  position:
+  - 3.56005112052145e+3
+  - 4.69253005746739e+3
+  width: 2.1e+2
+  connections:
+    indexes:
+    - location: 748
+      length: 1
+    - location: 750
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 750
+  text: 'Hear the crack up head. Not caught by surprise, when a large tree trunk comes
+    across the path  DEX save with advantage
+
+    C (18)  C(9)'
+  formattingOptions: []
+  position:
+  - 3.79127830276302e+3
+  - 4.69519241098302e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 749
+      length: 1
+    - location: 751
+      length: 3
+  _effectiveHeight: 8.4e+1
+- ID: 751
+  text: 'THREE  SUCCESS
+
+    FOUR FAILIRE'
+  fillColorRGB:
+    red: 1e+0
+    green: 9.0283e-1
+    blue: 9.76506e-1
+  formattingOptions: []
+  position:
+  - 3.81686283175944e+3
+  - 4.63219516226007e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 750
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 752
+  text: 'FOUR SUCCESS
+
+    TWO FAILURE'
+  fillColorRGB:
+    red: 8.93993e-1
+    green: 9.92872e-1
+    blue: 1e+0
+  formattingOptions: []
+  position:
+  - 3.97392441153709e+3
+  - 4.67675030987125e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 750
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 753
+  text: 'C: four points of bludgeing (culm of 7)'
+  formattingOptions: []
+  position:
+  - 3.98800202947579e+3
+  - 4.72801373760565e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 750
+      length: 1
+    - location: 754
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 754
+  text: With that, have busted out into a clearing where you see three giant crustaceans,
+    about the size of horses.
+  formattingOptions: []
+  position:
+  - 4.17862242836401e+3
+  - 4.70724197152993e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 753
+      length: 1
+    - location: 755
+      length: 1
+  _effectiveHeight: 5.6e+1
+- ID: 755
+  text: Beyond them a small lake with what looks like a little house, in front of
+    it, the crabs all of them weilding one giant and one smaller clawe.  Two have
+    trees in the large claw
+  formattingOptions: []
+  position:
+  - 4.25689278593611e+3
+  - 4.56421725698667e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 754
+      length: 1
+    - location: 756
+      length: 1
+  _effectiveHeight: 9.8e+1
+- ID: 756
+  text: Initiaitve!   C(21)
+  formattingOptions: []
+  position:
+  - 4.43809283100822e+3
+  - 4.58141231595602e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 755
+      length: 1
+  _effectiveHeight: 1.4e+1
