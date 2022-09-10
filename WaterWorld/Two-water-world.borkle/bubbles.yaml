@@ -9516,8 +9516,8 @@
     rushing up
   formattingOptions: []
   position:
-  - 4.38674292115158e+3
-  - 1.51551566255997e+3
+  - 4.31380825693884e+3
+  - 1.51437639441844e+3
   width: 2.9e+2
   connections:
     indexes:
@@ -9607,8 +9607,8 @@
   text: Chandra checks pockets of the hags - find a key
   formattingOptions: []
   position:
-  - 4.48054757109162e+3
-  - 1.82113916015621e+3
+  - 4.44416719060784e+3
+  - 1.8227393141526e+3
   width: 1.6e+2
   connections:
     indexes:
@@ -9986,6 +9986,8 @@
     indexes:
     - location: 633
       length: 1
+    - location: 788
+      length: 1
   _effectiveHeight: 1.4e+1
 - ID: 635
   text: Dragon born with fungus
@@ -10003,8 +10005,8 @@
   text: ''
   formattingOptions: []
   position:
-  - 4.66445730244323e+3
-  - 2.11449562894398e+3
+  - 5.31432917556523e+3
+  - 3.05139311805148e+3
   width: 1.6e+2
   connections:
     indexes:
@@ -10015,8 +10017,8 @@
   text: ''
   formattingOptions: []
   position:
-  - 5.26215484619141e+3
-  - 2.10641546630859e+3
+  - 5.31920041597808e+3
+  - 3.097821904109e+3
   width: 1.6e+2
   connections:
     indexes:
@@ -10035,7 +10037,9 @@
   - 2.86492767333984e+1
   width: 1.6e+2
   connections:
-    indexes: []
+    indexes:
+    - location: 789
+      length: 1
   _effectiveHeight: 1.4e+1
 - ID: 639
   text: RIBBIT
@@ -10045,11 +10049,13 @@
     blue: 9.42763e-1
   formattingOptions: []
   position:
-  - 4.89743368887989e+3
-  - 2.34967041015625e+1
+  - 4.99889867348025e+3
+  - 2.52721581092248e+1
   width: 7e+1
   connections:
-    indexes: []
+    indexes:
+    - location: 790
+      length: 1
   _effectiveHeight: 1.4e+1
 - ID: 640
   text: Episode v.5 - The Last Unicorn
@@ -12371,3 +12377,2367 @@
     - location: 786
       length: 1
   _effectiveHeight: 1.4e+2
+- ID: 788
+  text: RIBBIT
+  fillColorRGB:
+    red: 8.96043e-1
+    green: 9.97437e-1
+    blue: 9.42763e-1
+  formattingOptions: []
+  position:
+  - 4.43935522460938e+3
+  - 2.35183825683594e+3
+  width: 6e+1
+  connections:
+    indexes:
+    - location: 634
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 789
+  text: Blue sky.  Nice park. Faint rustling sound. Hum and bustle and noise, talking,
+    walking by.  Looking down. You see, everything i white. Then in a moment everything
+    is black.  Absolute void in space. Several moments pass. no sound ,no feeling,
+    no sight. >blink< open them? see?  Specs of color appear in center of vision.  Long
+    moments pass, then something (actually there)
+  formattingOptions: []
+  position:
+  - 4.67533348323836e+3
+  - 8.12852524977464e+1
+  width: 3e+2
+  connections:
+    indexes:
+    - location: 638
+      length: 1
+    - location: 790
+      length: 1
+  _effectiveHeight: 1.12e+2
+- ID: 790
+  text: Getting bigger. Moving at a great speed towards enormous objects that still
+    look  tiny. The way are growing ... rush past. Blue. Purple. red. Green. Swirling
+    figure 8 of water, standing by itself. As rush in towards it, see small dots of
+    islands within that. Rushing in amonst huge waves to a small low island shrouded
+    in fog.  Rush over waves through the fog, standing in a small town, in a small
+    builsing, the mayor's office. The Mayor's Proxy has been ... dispatched.
+  formattingOptions: []
+  position:
+  - 5.01795057214314e+3
+  - 6.69669142506186e+1
+  width: 3.1e+2
+  connections:
+    indexes:
+    - location: 639
+      length: 1
+    - location: 789
+      length: 1
+    - location: 791
+      length: 1
+    - location: 794
+      length: 1
+  _effectiveHeight: 1.26e+2
+- ID: 791
+  text: 'Vanna Gadorn with us.
+
+    Survived strange fungal creatures. Seen weird things. Explored part of the cave
+    system. Discovered the Mayor''s Proxies were green hags, bending the poor town
+    to their will. But we killed them all.'
+  formattingOptions: []
+  position:
+  - 5.3496518566984e+3
+  - 6.74840463494753e+1
+  width: 1.4e+2
+  connections:
+    indexes:
+    - location: 790
+      length: 1
+    - location: 792
+      length: 1
+  _effectiveHeight: 1.4e+2
+- ID: 792
+  text: Found remains the of the Mayor and another magical item.  Unlocked the basement
+  formattingOptions: []
+  position:
+  - 5.32991999622596e+3
+  - 2.46353395862686e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 791
+      length: 1
+    - location: 793
+      length: 1
+    - location: 795
+      length: 1
+    - location: 797
+      length: 1
+  _effectiveHeight: 5.6e+1
+- ID: 793
+  text: RIBBIT
+  fillColorRGB:
+    red: 8.96043e-1
+    green: 9.97437e-1
+    blue: 9.42763e-1
+  formattingOptions: []
+  position:
+  - 5.25599590518029e+3
+  - 2.15381575324825e+2
+  width: 6e+1
+  connections:
+    indexes:
+    - location: 792
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 794
+  text: RIBBIT
+  fillColorRGB:
+    red: 8.96043e-1
+    green: 9.97437e-1
+    blue: 9.42763e-1
+  formattingOptions: []
+  position:
+  - 5.01119369864551e+3
+  - 2.16220336914374e+2
+  width: 5e+1
+  connections:
+    indexes:
+    - location: 790
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 795
+  text: RIBBIT
+  fillColorRGB:
+    red: 8.96043e-1
+    green: 9.97437e-1
+    blue: 9.42763e-1
+  formattingOptions: []
+  position:
+  - 5.50681832304455e+3
+  - 2.81210899940216e+2
+  width: 5e+1
+  connections:
+    indexes:
+    - location: 792
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 796
+  text: RIBBIT
+  fillColorRGB:
+    red: 8.96043e-1
+    green: 9.97437e-1
+    blue: 9.42763e-1
+  formattingOptions: []
+  position:
+  - 5.14498520255176e+3
+  - 2.28379314716358e+2
+  width: 5e+1
+  connections:
+    indexes:
+    - location: 797
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 797
+  text: Prisoners in cage begging to let us out.
+  formattingOptions: []
+  position:
+  - 5.08101425528613e+3
+  - 2.67423621544783e+2
+  width: 2.1e+2
+  connections:
+    indexes:
+    - location: 792
+      length: 1
+    - location: 796
+      length: 1
+    - location: 799
+      length: 1
+    - location: 801
+      length: 2
+  _effectiveHeight: 2.8e+1
+- ID: 798
+  text: RIBBIT
+  fillColorRGB:
+    red: 8.96043e-1
+    green: 9.97437e-1
+    blue: 9.42763e-1
+  formattingOptions: []
+  position:
+  - 4.87787874585035e+3
+  - 2.35002781755109e+2
+  width: 6e+1
+  connections:
+    indexes:
+    - location: 800
+      length: 2
+  _effectiveHeight: 1.4e+1
+- ID: 799
+  text: RIBBIT
+  fillColorRGB:
+    red: 8.96043e-1
+    green: 9.97437e-1
+    blue: 9.42763e-1
+  formattingOptions: []
+  position:
+  - 5.08322523034622e+3
+  - 3.28735924354268e+2
+  width: 6e+1
+  connections:
+    indexes:
+    - location: 797
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 800
+  text: RIBBIT
+  fillColorRGB:
+    red: 8.96043e-1
+    green: 9.97437e-1
+    blue: 9.42763e-1
+  formattingOptions: []
+  position:
+  - 4.7650990096431e+3
+  - 2.25261216384016e+2
+  width: 6e+1
+  connections:
+    indexes:
+    - location: 798
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 801
+  text: Widget ritually figures out it is a polymorph spell
+  formattingOptions: []
+  position:
+  - 4.83897145555656e+3
+  - 2.89372779259616e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 797
+      length: 2
+    - location: 806
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 802
+  text: RIBBIT
+  fillColorRGB:
+    red: 8.96043e-1
+    green: 9.97437e-1
+    blue: 9.42763e-1
+  formattingOptions: []
+  position:
+  - 5.17113989380776e+3
+  - 3.42951246995493e+2
+  width: 6e+1
+  connections:
+    indexes:
+    - location: 797
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 803
+  text: RIBBIT
+  fillColorRGB:
+    red: 8.96043e-1
+    green: 9.97437e-1
+    blue: 9.42763e-1
+  formattingOptions: []
+  position:
+  - 4.65882342182759e+3
+  - 3.66957782452224e+2
+  width: 6e+1
+  connections:
+    indexes:
+    - location: 807
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 804
+  text: RIBBIT
+  fillColorRGB:
+    red: 8.96043e-1
+    green: 9.97437e-1
+    blue: 9.42763e-1
+  formattingOptions: []
+  position:
+  - 4.87577194571582e+3
+  - 3.53469435472056e+2
+  width: 6e+1
+  connections:
+    indexes:
+    - location: 806
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 805
+  text: RIBBIT
+  fillColorRGB:
+    red: 8.96043e-1
+    green: 9.97437e-1
+    blue: 9.42763e-1
+  formattingOptions: []
+  position:
+  - 4.69924808566473e+3
+  - 2.65075646033955e+2
+  width: 6e+1
+  connections:
+    indexes:
+    - location: 806
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 806
+  text: Ro tries to escape Widget's grasp - STR vs DEX
+  formattingOptions: []
+  position:
+  - 4.65431367498266e+3
+  - 3.1390776179417e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 801
+      length: 1
+    - location: 804
+      length: 2
+    - location: 807
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 807
+  text: Widget takes a crystal goblet - container / bucket, upends over the frogs
+  formattingOptions: []
+  position:
+  - 4.67435161067978e+3
+  - 4.15920466496694e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 803
+      length: 1
+    - location: 806
+      length: 1
+    - location: 808
+      length: 1
+    - location: 810
+      length: 1
+    - location: 815
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 808
+  text: RIBBIT
+  fillColorRGB:
+    red: 8.96043e-1
+    green: 9.97437e-1
+    blue: 9.42763e-1
+  formattingOptions: []
+  position:
+  - 4.78593575468517e+3
+  - 3.67341552734675e+2
+  width: 6e+1
+  connections:
+    indexes:
+    - location: 807
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 809
+  text: RIBBIT
+  fillColorRGB:
+    red: 8.96043e-1
+    green: 9.97437e-1
+    blue: 9.42763e-1
+  formattingOptions: []
+  position:
+  - 4.99508576970921e+3
+  - 3.57566068209435e+2
+  width: 6e+1
+  connections:
+    indexes:
+    - location: 815
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 810
+  text: RIBBIT
+  fillColorRGB:
+    red: 8.96043e-1
+    green: 9.97437e-1
+    blue: 9.42763e-1
+  formattingOptions: []
+  position:
+  - 4.68148342783722e+3
+  - 4.93741464468449e+2
+  width: 6e+1
+  connections:
+    indexes:
+    - location: 807
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 811
+  text: RIBBIT!
+  fillColorRGB:
+    red: 8.96043e-1
+    green: 9.97437e-1
+    blue: 9.42763e-1
+  formattingOptions: []
+  position:
+  - 4.78164611000368e+3
+  - 5.07306574895132e+2
+  width: 6e+1
+  connections:
+    indexes:
+    - location: 815
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 812
+  text: RIBBIT
+  fillColorRGB:
+    red: 8.96043e-1
+    green: 9.97437e-1
+    blue: 9.42763e-1
+  formattingOptions: []
+  position:
+  - 5.20723251700489e+3
+  - 3.77972984901141e+2
+  width: 6e+1
+  connections:
+    indexes:
+    - location: 816
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 813
+  text: RIBBIT
+  fillColorRGB:
+    red: 8.96043e-1
+    green: 9.97437e-1
+    blue: 9.42763e-1
+  formattingOptions: []
+  position:
+  - 5.10514056049948e+3
+  - 3.80973426232271e+2
+  width: 6e+1
+  connections:
+    indexes:
+    - location: 816
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 814
+  text: RIBBIT
+  fillColorRGB:
+    red: 8.96043e-1
+    green: 9.97437e-1
+    blue: 9.42763e-1
+  formattingOptions: []
+  position:
+  - 5.41966448628073e+3
+  - 3.83323491023437e+2
+  width: 6e+1
+  connections:
+    indexes:
+    - location: 818
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 815
+  text: 'Widget trying to figure out what to do - doens''t have polymorph to know
+    what''s going no.
+
+    Arcana check(22) - would figure they used a high level, and polymorph is a powerful
+    spell
+
+    *do* know that reducing to zero points.'
+  formattingOptions: []
+  position:
+  - 4.87580382484743e+3
+  - 4.1604896897566e+2
+  width: 2.1e+2
+  connections:
+    indexes:
+    - location: 807
+      length: 1
+    - location: 809
+      length: 1
+    - location: 811
+      length: 1
+    - location: 816
+      length: 1
+  _effectiveHeight: 1.12e+2
+- ID: 816
+  text: '"Turn to my mentor... and they''re a frog"
+
+    "I think we have to kill them'
+  formattingOptions: []
+  position:
+  - 5.14934668091714e+3
+  - 4.22735558143329e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 812
+      length: 2
+    - location: 815
+      length: 1
+    - location: 817
+      length: 2
+  _effectiveHeight: 4.2e+1
+- ID: 817
+  text: Kash is aghast, and nods
+  formattingOptions: []
+  position:
+  - 5.31685531973926e+3
+  - 3.46367948092247e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 816
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 818
+  text: '"No pain-free murder spells"'
+  formattingOptions: []
+  position:
+  - 5.34543582980537e+3
+  - 4.2754292180018e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 814
+      length: 1
+    - location: 816
+      length: 1
+    - location: 819
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 819
+  text: Kash magic missiles them
+  formattingOptions: []
+  position:
+  - 5.34175062097123e+3
+  - 4.70802856445612e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 818
+      length: 1
+    - location: 820
+      length: 1
+    - location: 849
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 820
+  text: Chandra first (2 damage) Ro (3 damage)
+  formattingOptions: []
+  position:
+  - 5.30702753278013e+3
+  - 5.34897282527343e+2
+  width: 2e+2
+  connections:
+    indexes:
+    - location: 819
+      length: 1
+    - location: 821
+      length: 2
+  _effectiveHeight: 2.8e+1
+- ID: 821
+  text: Being Frog Malkovich
+  formattingOptions: []
+  position:
+  - 5.15384478413229e+3
+  - 4.90781024639723e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 820
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 822
+  text: '"Thank you. But that hurt. But thank you"
+
+    Who are these people.'
+  formattingOptions: []
+  position:
+  - 5.32470171772604e+3
+  - 5.9990357384345e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 820
+      length: 1
+    - location: 823
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 823
+  text: 'Ostanga (Ankish0 How long have you been down here?
+
+    (wipes off the frlog slime)
+
+
+    It''s been days.  Weeks?
+
+
+    "Do you remember us. Did you meet us"'
+  formattingOptions: []
+  position:
+  - 5.12697908025617e+3
+  - 5.27576631986468e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 822
+      length: 1
+    - location: 824
+      length: 2
+  _effectiveHeight: 1.12e+2
+- ID: 824
+  text: take Water skin and poke at your hand, just testing. All look a little gaunt
+  formattingOptions: []
+  position:
+  - 4.94688757447192e+3
+  - 5.48702965369882e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 823
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 825
+  text: 'Equivalent to people up above?  Perception (Ro: 22.  Chandra:19) They all
+    look familiar. Do see strong resemblence, they all look very familiar.
+
+    Everyone in the cages, look like they have not eaten much.
+
+    (Not body doubles.)'
+  formattingOptions: []
+  position:
+  - 4.89992679660233e+3
+  - 6.13898747371084e+2
+  width: 2e+2
+  connections:
+    indexes:
+    - location: 823
+      length: 1
+    - location: 826
+      length: 2
+  _effectiveHeight: 1.12e+2
+- ID: 826
+  text: '"Oshenga - they didn''t bring her down here.  Brew master
+
+
+    "I am Ankish"'
+  formattingOptions: []
+  position:
+  - 4.67153972103141e+3
+  - 5.7124892953755e+2
+  width: 2e+2
+  connections:
+    indexes:
+    - location: 825
+      length: 1
+    - location: 828
+      length: 1
+  _effectiveHeight: 5.6e+1
+- ID: 827
+  text: Reasonable fear and confusion
+  formattingOptions: []
+  position:
+  - 5.12562776189688e+3
+  - 6.64730421800225e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 825
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 828
+  text: '"saw her ferrying happy water"
+
+    Must get back to her.
+
+    "going to let us free?"'
+  formattingOptions: []
+  position:
+  - 4.66021737089628e+3
+  - 6.51141977163807e+2
+  width: 2.1e+2
+  connections:
+    indexes:
+    - location: 826
+      length: 1
+    - location: 829
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 829
+  text: 'Widget starts unlocking / Ro smashes doors.  Takes two tries - fails.
+
+    Kashi magic missile at the locks'
+  formattingOptions: []
+  position:
+  - 4.65855759024724e+3
+  - 7.22674757737726e+2
+  width: 2.1e+2
+  connections:
+    indexes:
+    - location: 828
+      length: 1
+    - location: 830
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 830
+  text: Rushing out like trying to move quickly - start going off in pairs.  See some
+    fear. They creep up the stairs - spot the remnants of the green hags "They're
+    really dead"
+  formattingOptions: []
+  position:
+  - 4.66175902504291e+3
+  - 7.98973445012365e+2
+  width: 2.1e+2
+  connections:
+    indexes:
+    - location: 829
+      length: 1
+    - location: 831
+      length: 1
+  _effectiveHeight: 7e+1
+- ID: 831
+  text: 'See ashtanga with barrels, hummng nonsense turn.
+
+    Turns. "Who is that?  Is that" and see her expression clear up. Shakes her head,
+    and drops barrels.  And Hugs Ensue
+
+    People are finding their families'
+  formattingOptions: []
+  position:
+  - 4.90886403368173e+3
+  - 7.47194692758759e+2
+  width: 2.2e+2
+  connections:
+    indexes:
+    - location: 830
+      length: 1
+    - location: 832
+      length: 1
+  _effectiveHeight: 9.8e+1
+- ID: 832
+  text: 'Ro: we were close to the tavern wench - still dazed and confused and happy,
+    or legit normal and excited
+
+    Ro rolled a 2 (+6) for perception.
+
+    Not hard to tell still very much seems to be much clearer. Hear her saying "my
+    sister my sister", and take an amulet, and holds it up. I forgot this was here,
+    I''m sorry. I forget everything. And exchanging stories.
+
+    "Coming down and casting spells," and talking over each other.'
+  formattingOptions: []
+  position:
+  - 5.15166432665048e+3
+  - 7.29134061373543e+2
+  width: 2e+2
+  connections:
+    indexes:
+    - location: 831
+      length: 1
+    - location: 833
+      length: 1
+  _effectiveHeight: 1.96e+2
+- ID: 833
+  text: Pick up - the Mayor's Proxy - pulled the stronger citizens from the families
+    and made prisoners. Keep town i nline, and removed their strength to avoid going
+    into the haze. And had them keep drinking the beer and let them all get lost
+  formattingOptions: []
+  position:
+  - 5.36908009813482e+3
+  - 6.68767944336283e+2
+  width: 2.1e+2
+  connections:
+    indexes:
+    - location: 832
+      length: 1
+    - location: 834
+      length: 1
+  _effectiveHeight: 9.8e+1
+- ID: 834
+  text: 'Better able to fight off this haze is around, and being in a group helps
+    with that - someone your''e connceted to.
+
+    Maybe that''s what''s keeping us out of trouble'
+  formattingOptions: []
+  position:
+  - 5.38072716269244e+3
+  - 7.94505486082088e+2
+  width: 2.5e+2
+  connections:
+    indexes:
+    - location: 833
+      length: 1
+    - location: 835
+      length: 1
+  _effectiveHeight: 5.6e+1
+- ID: 835
+  text: "My resucers - points to Ro and Kash.\nI'm so glad to help, COme with me,
+    I have something for you, runs into the inn. Hear crates being tossed aside. \nA
+    moment later (DM to Ro and Kash)\nComes out with a sword.  Nice long sword. But
+    it is weird - covered in mushrooms on the hilt. Dozens of them, all shapes and
+    colors.\nSPWORD - if there's any more trouble, please take this. Can use to help
+    the town further, as a thanks."
+  formattingOptions: []
+  position:
+  - 5.39645789436312e+3
+  - 8.78206751857345e+2
+  width: 2.3e+2
+  connections:
+    indexes:
+    - location: 834
+      length: 1
+    - location: 836
+      length: 1
+  _effectiveHeight: 1.68e+2
+- ID: 836
+  text: 'Chandra: Going on in that big pit in the middle of town?
+
+    There is someone powerful - Xandrath?  The prophet calls them Xandrath the enlightened
+    say his mind ascended when his body fell to the cavern below.
+
+    There''s a presence down there, very powerful. We felt compelled to dig, then
+    felt it was getting to dangerous.  Back and forth whether to keep digging or not.
+    I''d rather leave it alone. Might be something to take care of.  It doesn''t feel
+    right'
+  formattingOptions: []
+  position:
+  - 5.11481327121176e+3
+  - 9.54018657978135e+2
+  width: 2.4e+2
+  connections:
+    indexes:
+    - location: 835
+      length: 1
+    - location: 837
+      length: 1
+  _effectiveHeight: 1.68e+2
+- ID: 837
+  text: Been a few years. Before that didn't have the fog and forest - it grew over
+    time. First noticed it 4 or 5 years back. hard to pinpoint.  Figuring out the
+    mushrooms to our advantage. And over time, couple of years ago that the giant
+    mushrooms starting to pop up, and all this fog. It was really calmng
+  formattingOptions: []
+  position:
+  - 4.79401577647017e+3
+  - 9.04690795898808e+2
+  width: 2.5e+2
+  connections:
+    indexes:
+    - location: 836
+      length: 1
+    - location: 838
+      length: 1
+  _effectiveHeight: 9.8e+1
+- ID: 838
+  text: 'K-originate from?  Came from inside the town. Then took them out and planting.
+    Then a few folks started digging, The Phrophet was one of the first come to think
+    of it.
+
+    Reven was one of the shopkeeps and leads in town. Built the church with a few
+    people. Then hearing Zandrath the enlightened / Zandrath below - then  digging.
+    Breaking shovels.  Eraning money for more shoves. Kept shoves for a joke, then
+    stopped being a joke.
+
+    From underneath the town into the surrounding area'
+  formattingOptions: []
+  position:
+  - 4.66682743136805e+3
+  - 1.02839384577862e+3
+  width: 2.8e+2
+  connections:
+    indexes:
+    - location: 837
+      length: 1
+    - location: 839
+      length: 3
+  _effectiveHeight: 1.68e+2
+- ID: 839
+  text: '"Ro - that''s not good"'
+  formattingOptions: []
+  position:
+  - 4.96617970750988e+3
+  - 1.06657485727201e+3
+  width: 1.2e+2
+  connections:
+    indexes:
+    - location: 838
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 840
+  text: '"Ro - defeat the evil in the pit"
+
+    That sounds dope'
+  formattingOptions: []
+  position:
+  - 4.97124769128392e+3
+  - 1.15222652494028e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 838
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 841
+  text: LONG REST! Mini celebration, introduced to a lot of names as rescuers.  Got
+    a good selection of mushrooms and drinks and the root water.  BUT FIRST
+  fillColorRGB:
+    red: 1e+0
+    green: 9.0283e-1
+    blue: 9.76506e-1
+  formattingOptions: []
+  position:
+  - 4.67448166251288e+3
+  - 1.26466417518066e+3
+  width: 2.3e+2
+  connections:
+    indexes:
+    - location: 838
+      length: 1
+    - location: 842
+      length: 3
+  _effectiveHeight: 5.6e+1
+- ID: 842
+  text: 'Ro: the spword is gross.
+
+    Vana Gadorn: you''ll do some fun damage to people. We can take it up to the sanctuary
+    , and find someone it''s better suited for'
+  formattingOptions: []
+  position:
+  - 4.92931813524426e+3
+  - 1.21590239070051e+3
+  width: 2.4e+2
+  connections:
+    indexes:
+    - location: 841
+      length: 1
+  _effectiveHeight: 5.6e+1
+- ID: 843
+  text: '(DM makes check) - "what are passive perceptions)
+
+    Widget - 13, chandra - 14, kashi - 16 (oho!) '
+  formattingOptions: []
+  position:
+  - 4.65552390823104e+3
+  - 1.3754317626957e+3
+  width: 2.4e+2
+  connections:
+    indexes:
+    - location: 841
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 844
+  text: 'Ro sleeing soundly during the night. Startled awake. Towards the window of
+    the Inn, see a small face, like one of the villagers, and as stare at it, eyes
+    opened. Pulls back and vanishes from the window
+
+    "did it make any noises?" - nothing that you heard  "reason not to follow. Could
+    be a dream" - feel that shot of adrenaline and feel pretty awake.  Could have
+    been a dream'
+  formattingOptions: []
+  position:
+  - 4.93883511240772e+3
+  - 1.30175810359113e+3
+  width: 1.9e+2
+  connections:
+    indexes:
+    - location: 841
+      length: 1
+    - location: 845
+      length: 1
+  _effectiveHeight: 1.82e+2
+- ID: 845
+  text: Ro Groans audibly and goes to look outside his window
+  formattingOptions: []
+  position:
+  - 5.16444302256397e+3
+  - 1.43938932917707e+3
+  width: 2e+2
+  connections:
+    indexes:
+    - location: 844
+      length: 1
+    - location: 846
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 846
+  text: (haven't long rested yet, Ro Spends hit dice)
+  formattingOptions: []
+  position:
+  - 5.18139408175868e+3
+  - 1.3709056302588e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 845
+      length: 1
+    - location: 847
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 847
+  text: '17 perception - see a small villager on the street vanishing around the corner.
+    They are ambling, walking casually"
+
+    "if they''re ambling, I''m sauntering, just swaggering"'
+  formattingOptions: []
+  position:
+  - 5.19593744488968e+3
+  - 1.25971276855508e+3
+  width: 2e+2
+  connections:
+    indexes:
+    - location: 846
+      length: 1
+    - location: 848
+      length: 1
+  _effectiveHeight: 8.4e+1
+- ID: 848
+  text: 40ft sauntering speed. Catching up
+  formattingOptions: []
+  position:
+  - 5.20875360699906e+3
+  - 1.2119726186903e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 847
+      length: 1
+    - location: 850
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 849
+  text: SPLAT
+  fillColorRGB:
+    red: 1e+0
+    green: 9.0283e-1
+    blue: 9.76506e-1
+  formattingOptions: []
+  position:
+  - 5.51993750122982e+3
+  - 4.79309138371737e+2
+  width: 5e+1
+  connections:
+    indexes:
+    - location: 819
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 850
+  text: Headed towards edge of town whoever it is. They start running
+  formattingOptions: []
+  position:
+  - 5.21202674201943e+3
+  - 1.14886769217439e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 848
+      length: 1
+    - location: 851
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 851
+  text: 'If they leave town, stopping at the edge of town.
+
+    "gimme a d20 roll or an ath-a-letics" (18)
+
+    You will be able to catch them b/c faster.
+
+    However they had gotten just far enough with walk-off right on the edge of town
+    when you will overtake them.
+
+    They are pretty small (up to Ro''s waist)'
+  formattingOptions: []
+  position:
+  - 5.39261027767215e+3
+  - 1.0879520216726e+3
+  width: 2.3e+2
+  connections:
+    indexes:
+    - location: 850
+      length: 1
+    - location: 852
+      length: 1
+  _effectiveHeight: 1.12e+2
+- ID: 852
+  text: Get within 5 feet of them.
+  formattingOptions: []
+  position:
+  - 5.43208988253994e+3
+  - 1.22058852914706e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 851
+      length: 1
+    - location: 853
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 853
+  text: "Attempts grapple - strength check of 22.  \nThey resist with surprising strength
+    for their small figure. But Ro grabs on and holds them"
+  formattingOptions: []
+  position:
+  - 5.47732425753994e+3
+  - 1.26936740347098e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 852
+      length: 1
+    - location: 854
+      length: 1
+  _effectiveHeight: 8.4e+1
+- ID: 854
+  text: '"22 hit your AC" - give me a CON save.(9)'
+  formattingOptions: []
+  position:
+  - 5.37894127402064e+3
+  - 1.38527567932885e+3
+  width: 2.3e+2
+  connections:
+    indexes:
+    - location: 853
+      length: 1
+    - location: 855
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 855
+  text: 'Claws higher than they should be.  5 points of damage.  26 points of acid
+    damage.  (ouch)
+
+    The creature turned into a strange fungal creature.
+
+    "It looks like it is made out of fungus. About as tall as Ro, it triggers a memory
+    walking in to town in the first place - somethign following us and glimpses out
+    of corner of eye - that sense of recognition'
+  formattingOptions: []
+  position:
+  - 5.4252666215724e+3
+  - 1.4335710824824e+3
+  width: 2.1e+2
+  connections:
+    indexes:
+    - location: 854
+      length: 1
+    - location: 856
+      length: 4
+  _effectiveHeight: 1.54e+2
+- ID: 856
+  text: 'it was a villager until you grappled it
+
+    "that was rude of them"'
+  formattingOptions: []
+  position:
+  - 5.65816237152666e+3
+  - 1.3962303395978e+3
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 855
+      length: 1
+  _effectiveHeight: 7e+1
+- ID: 857
+  text: Ready myself with that nasty spore sword.
+  formattingOptions: []
+  position:
+  - 5.2311499411337e+3
+  - 1.48786617337785e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 855
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 858
+  text: The creature is looking smug and not intimidated
+  formattingOptions: []
+  position:
+  - 5.65252961736567e+3
+  - 1.49968370643073e+3
+  width: 1.3e+2
+  connections:
+    indexes:
+    - location: 855
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 859
+  text: 'Is there a nearby tree?
+
+    A very tall stem / tree-like. Probably a giant mushroom
+
+    Does it look steady.  Run the creature through to impale it on the tree with my
+    spword.'
+  formattingOptions: []
+  position:
+  - 5.62891751725982e+3
+  - 1.61666336055633e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 855
+      length: 1
+    - location: 860
+      length: 1
+  _effectiveHeight: 8.4e+1
+- ID: 860
+  text: 'Hits with a 14.  6 damages, and releases debilitating spores.
+
+    "pinned to the tree?" Second attack roll. Failed.
+
+    But they are affected by the spores'
+  formattingOptions: []
+  position:
+  - 5.43014436345942e+3
+  - 1.61431183800375e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 859
+      length: 1
+    - location: 861
+      length: 1
+  _effectiveHeight: 9.8e+1
+- ID: 861
+  text: Ro Rages, and screams at the creature that it is rude to wake people up in
+    the middle of the night
+  formattingOptions: []
+  position:
+  - 5.24054944909645e+3
+  - 1.54909272179282e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 860
+      length: 1
+    - location: 862
+      length: 1
+  _effectiveHeight: 5.6e+1
+- ID: 862
+  text: Perception checks from party - everyone is sleeping the sleep of the dead
+    (frogs)
+  formattingOptions: []
+  position:
+  - 5.24677559843539e+3
+  - 1.62929153207677e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 861
+      length: 1
+    - location: 863
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 863
+  text: 'Its turn.  Long nasty claws as it strikes again.  (8)
+
+    In that boxer squared off circle around.'
+  formattingOptions: []
+  position:
+  - 5.24356712112169e+3
+  - 1.69856718562244e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 862
+      length: 1
+    - location: 864
+      length: 1
+  _effectiveHeight: 5.6e+1
+- ID: 864
+  text: 'Slash with the sword. Hits! 14 damage.
+
+    (reminder of second attack - a miss)
+
+    and move out of range  (5-10 feeet) - opportunity attack misses
+
+    Just bellow incoherently'
+  formattingOptions: []
+  position:
+  - 5.0273578268759e+3
+  - 1.7067883394686e+3
+  width: 1.8e+2
+  connections:
+    indexes:
+    - location: 863
+      length: 1
+    - location: 865
+      length: 1
+    - location: 867
+      length: 1
+  _effectiveHeight: 1.12e+2
+- ID: 865
+  text: NARRATOR NARRATOR NARRATOR OFF
+  formattingOptions:
+  - options: 3
+    rangeStart: 0
+    rangeLength: 30
+  position:
+  - 5.05509074642231e+3
+  - 1.64503205284742e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 864
+      length: 1
+    - location: 866
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 866
+  text: Chandra coming to (15 perception) - think hear noises outside. Putting pieces
+    of together
+  formattingOptions: []
+  position:
+  - 5.03831246366991e+3
+  - 1.54227748929573e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 865
+      length: 1
+  _effectiveHeight: 5.6e+1
+- ID: 867
+  text: 'It comes straight at you, and make another attack.  Out of disadvantage.
+
+    But rolled terribly.  Very impassive creature.  You have the rage and shaking
+    and pumped up and bellowing. And it is casually comng at you and going to strike
+    you. Not to cause pain, just to kill you. Just hunting you
+
+    faint fungal odor'
+  formattingOptions: []
+  position:
+  - 4.6805899201002e+3
+  - 1.52237847900427e+3
+  width: 3.3e+2
+  connections:
+    indexes:
+    - location: 864
+      length: 1
+    - location: 868
+      length: 1
+  _effectiveHeight: 9.8e+1
+- ID: 868
+  text: "\"Poke my javelin\" (9) - missed. Second attack just hits. (AC 13 apparently).
+    \ 9 damage.\nTake off back towards the Inn\nRuns off 40 feet.  opportunity. 14
+    hits.  CON save. 5 points piercing (reduced to 3 by rage).  13 CON does not make
+    it. 26 acid. \nDOWN"
+  formattingOptions: []
+  position:
+  - 4.70260473755816e+3
+  - 1.66007118577259e+3
+  width: 2.1e+2
+  connections:
+    indexes:
+    - location: 867
+      length: 1
+    - location: 869
+      length: 1
+  _effectiveHeight: 1.26e+2
+- ID: 869
+  text: 'Chadra.  Recognize the bellow, and see the covers and recognizes the.  Wakes
+    up Widget and runs 60 feet (dash)
+
+    "I need your help" (widget 30, kash 120 - expeditous retreat to barnstorm into
+    combat).
+
+    Kash magic missiles at third level (so 5)
+
+    Hear a bellow, sounds vageuly familiar. Sounds like Ro.'
+  formattingOptions: []
+  position:
+  - 4.66752797411165e+3
+  - 1.82429735389158e+3
+  width: 1.9e+2
+  connections:
+    indexes:
+    - location: 868
+      length: 1
+    - location: 870
+      length: 2
+  _effectiveHeight: 1.54e+2
+- ID: 870
+  text: 'Ro death save - one failure
+
+    - one success
+
+    - one success'
+  formattingOptions: []
+  position:
+  - 4.91288695473064e+3
+  - 1.78256893216682e+3
+  width: 9e+1
+  connections:
+    indexes:
+    - location: 869
+      length: 1
+  _effectiveHeight: 5.6e+1
+- ID: 871
+  text: 'The taller shape starts walking to Kashi - recognize the gait. Looks like
+    Ro.  Bless is up.
+
+    Seeing Ro walking towards you.'
+  formattingOptions: []
+  position:
+  - 4.88856585346862e+3
+  - 1.86853178523174e+3
+  width: 1.8e+2
+  connections:
+    indexes:
+    - location: 869
+      length: 1
+    - location: 872
+      length: 1
+  _effectiveHeight: 5.6e+1
+- ID: 872
+  text: '"uh why you hit me" - not very convincng.
+
+    (do I not see Ro''s body)
+
+    Perception check.  See clearly another Ro, dead or dying'
+  formattingOptions: []
+  position:
+  - 4.87945832830336e+3
+  - 1.9580331749553e+3
+  width: 2e+2
+  connections:
+    indexes:
+    - location: 871
+      length: 1
+    - location: 873
+      length: 1
+  _effectiveHeight: 7e+1
+- ID: 873
+  text: '"Ro" starts running to the forest
+
+    Another third level magic missile.
+
+    It looks hurt. And part of "Ro"''s leg turn into fungus, phasing in mammal and
+    mycelial'
+  formattingOptions: []
+  position:
+  - 5.11923907124206e+3
+  - 1.85415077561636e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 872
+      length: 1
+    - location: 874
+      length: 1
+  _effectiveHeight: 1.12e+2
+- ID: 874
+  text: '30 points from Chandra.  Some points from Healing Word from Widget
+
+    Ro wakes up from down, in a rage.'
+  formattingOptions: []
+  position:
+  - 5.30434893452336e+3
+  - 1.78595699369028e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 873
+      length: 1
+    - location: 875
+      length: 1
+  _effectiveHeight: 7e+1
+- ID: 875
+  text: 'Ro on his butt.  About 40 foot from him.
+
+    Throw dagger -  DEX attack. 12 - just misses.
+
+    Rest of us see it losing its Ro form.'
+  formattingOptions: []
+  position:
+  - 5.5102732884897e+3
+  - 1.74415826416054e+3
+  width: 2.5e+2
+  connections:
+    indexes:
+    - location: 874
+      length: 1
+    - location: 876
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 876
+  text: (missed some back and forth)
+  formattingOptions: []
+  position:
+  - 5.55862871967961e+3
+  - 1.80759841684233e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 875
+      length: 1
+    - location: 877
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 877
+  text: See small half-size villager "don't hurt me I'm sorry don't hurt me"
+  formattingOptions: []
+  position:
+  - 5.62245900438513e+3
+  - 1.86807552396373e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 876
+      length: 1
+    - location: 878
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 878
+  text: 'Spiritual weapon.  Chandra not quite a rage, but it pummel the thing until
+    its a pulp.
+
+    Vilager form drops, stem creature, then pieces, then nothing - is destroyed.'
+  formattingOptions: []
+  position:
+  - 5.58783066153658e+3
+  - 1.94448064716084e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 877
+      length: 1
+    - location: 879
+      length: 1
+  _effectiveHeight: 9.8e+1
+- ID: 879
+  text: 'Kash shoots ray of frost into the ground to salt the earth.
+
+    Widget out of breath from running and healing word verbal at the same time
+
+    Ro finds his dagger'
+  formattingOptions: []
+  position:
+  - 5.33778549552095e+3
+  - 1.89021931340183e+3
+  width: 2.1e+2
+  connections:
+    indexes:
+    - location: 878
+      length: 1
+    - location: 880
+      length: 1
+  _effectiveHeight: 7e+1
+- ID: 880
+  text: out of combat.  Not great, but you've been worse
+  formattingOptions: []
+  position:
+  - 5.36991740657864e+3
+  - 2.00435547814041e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 879
+      length: 1
+    - location: 881
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 881
+  text: "What happened? \nRo in laconic fashion \"the creature interrupted your sleep\"
+    - explained it, it looked like people"
+  formattingOptions: []
+  position:
+  - 5.30880497043081e+3
+  - 2.06330172964282e+3
+  width: 2e+2
+  connections:
+    indexes:
+    - location: 880
+      length: 1
+    - location: 882
+      length: 1
+  _effectiveHeight: 5.6e+1
+- ID: 882
+  text: Chandra to Widget - tell who's real and who's not?
+  formattingOptions: []
+  position:
+  - 5.53732810745004e+3
+  - 2.06672636530988e+3
+  width: 2e+2
+  connections:
+    indexes:
+    - location: 881
+      length: 1
+    - location: 883
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 883
+  text: '"hit all of them once with the Spwrord"'
+  formattingOptions: []
+  position:
+  - 5.61309330050893e+3
+  - 2.11575482647274e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 882
+      length: 1
+    - location: 884
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 884
+  text: 'Kashi character moment before stomping into dirt.  Sees that he has tears
+    running down his face. So freaked out by it. Gives Ro a big hug, and buries his
+    face in his stomach (it''s been a rough time - since died(?) to shrooms earlier
+    and his first gig)
+
+    Ro picks him up and moves him off'
+  formattingOptions: []
+  position:
+  - 5.54055010639836e+3
+  - 2.16982296048717e+3
+  width: 2.4e+2
+  connections:
+    indexes:
+    - location: 883
+      length: 1
+    - location: 885
+      length: 1
+  _effectiveHeight: 9.8e+1
+- ID: 885
+  text: Vana Gadorm, "just running off in the middle of the night. Did none of you.
+    Let's set a watch" and goes upstairs
+  formattingOptions: []
+  position:
+  - 5.2993016088022e+3
+  - 2.15015377103404e+3
+  width: 2e+2
+  connections:
+    indexes:
+    - location: 884
+      length: 1
+    - location: 886
+      length: 2
+  _effectiveHeight: 5.6e+1
+- ID: 886
+  text: '"the cultural fit just isn''t there"'
+  formattingOptions: []
+  position:
+  - 5.30692987653057e+3
+  - 2.24388499098595e+3
+  width: 1.8e+2
+  connections:
+    indexes:
+    - location: 885
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 887
+  text: YAY FULL REST FINALLY
+  fillColorRGB:
+    red: 1e+0
+    green: 9.0283e-1
+    blue: 9.76506e-1
+  formattingOptions: []
+  position:
+  - 5.12096599056302e+3
+  - 2.16961952561636e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 885
+      length: 1
+    - location: 888
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 888
+  text: What next?  Defeating imposters would be good, but evil in the pit
+  formattingOptions: []
+  position:
+  - 5.12009454938213e+3
+  - 2.08872432767466e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 887
+      length: 1
+    - location: 889
+      length: 2
+  _effectiveHeight: 4.2e+1
+- ID: 889
+  text: LEVEL TO SIX AFTER TODAY
+  fillColorRGB:
+    red: 8.93993e-1
+    green: 9.92872e-1
+    blue: 1e+0
+  formattingOptions: []
+  position:
+  - 5.11947978450834e+3
+  - 2.00474248798114e+3
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 888
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 890
+  text: Explored up through B5 (crystals and turnaround) and B6
+  formattingOptions: []
+  position:
+  - 4.91892032687614e+3
+  - 2.05696487192045e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 888
+      length: 1
+    - location: 891
+      length: 2
+  _effectiveHeight: 4.2e+1
+- ID: 891
+  text: (real world break)
+  formattingOptions: []
+  position:
+  - 4.87876792678602e+3
+  - 2.13562172288199e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 890
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 892
+  text: Know lightning is dead end, and crystal cavern.
+  formattingOptions: []
+  position:
+  - 4.68803897921992e+3
+  - 2.00776504281889e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 890
+      length: 1
+    - location: 893
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 893
+  text: 'Explosives?
+
+    Widget - not really no'
+  formattingOptions: []
+  position:
+  - 4.67591659903664e+3
+  - 2.060748676007e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 892
+      length: 1
+    - location: 894
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 894
+  text: '"Let''s keep going"'
+  formattingOptions: []
+  position:
+  - 4.65439527429204e+3
+  - 2.11608831317647e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 893
+      length: 1
+    - location: 895
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 895
+  text: B7 - Sone fingers coming out of the ground.
+  formattingOptions: []
+  position:
+  - 4.65373003803904e+3
+  - 2.15810388183633e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 894
+      length: 1
+    - location: 896
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 896
+  text: 'Ro (passive perception) - seeing the columns are scanning for danger when
+    you see something on the ceiling.
+
+    See a stalagtite, but make out some tendrils coming off it. Not moving.  It just
+    looks like a rock if you''re not careful. but catches Ro''s attention, and it''s
+    a attention and waiting over the path.'
+  formattingOptions: []
+  position:
+  - 4.82150864005226e+3
+  - 2.20866202486517e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 895
+      length: 1
+    - location: 897
+      length: 2
+  _effectiveHeight: 1.68e+2
+- ID: 897
+  text: 'Light?
+
+    Kash has light cantrip on his orb, 20'' - blue light, ebbs and flows with a bit
+    like it''s misty). Widget has 5'' radius of light (glowsstick)'
+  formattingOptions: []
+  position:
+  - 4.65591777278965e+3
+  - 2.2302025522089e+3
+  width: 1.4e+2
+  connections:
+    indexes:
+    - location: 896
+      length: 1
+  _effectiveHeight: 9.8e+1
+- ID: 898
+  text: 'Widget nature check: (20).
+
+    You read about these. Ropers. Very hungry and they like to catch and eat thngs.
+    "Like whips to grab things. There''s a mouth on that thing. It might have cool
+    stuff it''s already eaten. lIke belly of a shark with treasure"'
+  formattingOptions: []
+  position:
+  - 5.00424517475782e+3
+  - 2.21342365910493e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 896
+      length: 1
+    - location: 899
+      length: 1
+  _effectiveHeight: 1.4e+2
+- ID: 899
+  text: 'Ro readies javelin. Throws javelins.
+
+    13 bounces off.'
+  formattingOptions: []
+  position:
+  - 5.17824879930709e+3
+  - 2.21672030874436e+3
+  width: 1.1e+2
+  connections:
+    indexes:
+    - location: 898
+      length: 1
+    - location: 900
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 900
+  text: 'Ro: "I hate ookie creatures" predjudiced against them. Tenatcles, tendlres,
+    or any "-uls"'
+  formattingOptions: []
+  position:
+  - 5.2017223569994e+3
+  - 2.31100661996731e+3
+  width: 2.2e+2
+  connections:
+    indexes:
+    - location: 899
+      length: 1
+    - location: 901
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 901
+  text: Kashi ray of frosting (17)
+  formattingOptions: []
+  position:
+  - 5.44673137142245e+3
+  - 2.28708323317345e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 900
+      length: 1
+    - location: 902
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 902
+  text: 'Widget le cross bow (19).
+
+    Bounces off, just barely.
+
+    "need to lure this sucker out, turtle in its shell.
+
+    Widget moves underneath it.'
+  formattingOptions: []
+  position:
+  - 5.44130844473975e+3
+  - 2.32437576059232e+3
+  width: 2.5e+2
+  connections:
+    indexes:
+    - location: 901
+      length: 1
+    - location: 903
+      length: 2
+  _effectiveHeight: 5.6e+1
+- ID: 903
+  text: 'Initiaitve!
+
+    widget 19, chanra 16, roh 9, kashi 18
+
+    widget
+
+    kashi
+
+    chandra
+
+    roh'
+  formattingOptions: []
+  position:
+  - 5.62291704975778e+3
+  - 2.42080079064046e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 902
+      length: 1
+  _effectiveHeight: 9.8e+1
+- ID: 904
+  text: Tendrils come for us all
+  formattingOptions: []
+  position:
+  - 5.42419972704144e+3
+  - 2.41259142127447e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 902
+      length: 1
+    - location: 905
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 905
+  text: flying towards you now
+  formattingOptions: []
+  position:
+  - 5.42109153518446e+3
+  - 2.44927430138265e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 904
+      length: 1
+    - location: 906
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 906
+  text: 'Widget misty steps up, grabs stalactite and starts slashing at tentacles.
+
+    Athletics or Acroletics'
+  formattingOptions: []
+  position:
+  - 5.42069790537681e+3
+  - 2.49360976938145e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 905
+      length: 1
+    - location: 907
+      length: 1
+  _effectiveHeight: 5.6e+1
+- ID: 907
+  text: 'Kashi ray of frosts, and tries to get out of range of tentacles and have
+    line of sight.
+
+    Critfail
+
+    A small rock column next to widget explodes in shards'
+  formattingOptions: []
+  position:
+  - 5.22965054209556e+3
+  - 2.37927014629701e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 906
+      length: 1
+    - location: 908
+      length: 1
+  _effectiveHeight: 9.8e+1
+- ID: 908
+  text: Chandra casts shield of faith (looks like https://youtu.be/NWoyRlPOb3Q?t=65
+    from superman 2), and moves back to Kashi
+  formattingOptions: []
+  position:
+  - 5.20757281147658e+3
+  - 2.5142586200425e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 907
+      length: 1
+    - location: 909
+      length: 1
+  _effectiveHeight: 7e+1
+- ID: 909
+  text: 'Roh: Sicled - nat 1, and a 21 - first time hurts the creature.  Cracks a
+    tenatacle'
+  formattingOptions: []
+  position:
+  - 4.9980032032284e+3
+  - 2.40835774113626e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 908
+      length: 1
+    - location: 910
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 910
+  text: 'Vanna gadorn has backed up behind us.  "Uh recommend backing up more", and
+    magic missile.
+
+    First time jumped in really since the hags. (character statement, not just forgot
+    about him)
+
+    '
+  formattingOptions: []
+  position:
+  - 4.94695771795196e+3
+  - 2.49477122145477e+3
+  width: 2.2e+2
+  connections:
+    indexes:
+    - location: 909
+      length: 1
+    - location: 911
+      length: 1
+  _effectiveHeight: 9.8e+1
+- ID: 911
+  text: 'Tentacles whip around - try to wrap around 30ft away with no slowdown.  Chandra
+    misses it.
+
+    Others are grappled and restrained.'
+  formattingOptions: []
+  position:
+  - 4.72260882221884e+3
+  - 2.39774569936944e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 910
+      length: 1
+    - location: 912
+      length: 1
+  _effectiveHeight: 8.4e+1
+- ID: 912
+  text: 'Vana runs up a tendril and starts striking this thing. (assuming stunning
+    strike) Nat 1s, then takes his fingers and jams in to the eye, and feel it lock
+    up. ''Get out of it"
+
+    End of his turn.  Locked up like a rock and not moving
+
+    (it''s locked up mid-chomp on widget'
+  formattingOptions: []
+  position:
+  - 4.67812292603494e+3
+  - 2.52010743126547e+3
+  width: 2.2e+2
+  connections:
+    indexes:
+    - location: 911
+      length: 1
+    - location: 913
+      length: 1
+  _effectiveHeight: 1.12e+2
+- ID: 913
+  text: 'Widget: "Inside of the mouth fleshy?"  yes
+
+    Since this is a large creature - how would you describe the cavity of its gullet.
+    (pretty big)
+
+    If it can eat me, the inside of its mouth is a five foot cube. (yes, yes it is)
+
+    Where my fire sphere appears.  Smell burning'
+  formattingOptions: []
+  position:
+  - 4.67925850859203e+3
+  - 2.66590778996439e+3
+  width: 2.9e+2
+  connections:
+    indexes:
+    - location: 912
+      length: 1
+    - location: 914
+      length: 1
+  _effectiveHeight: 8.4e+1
+- ID: 914
+  text: Kashi - can see flames licking out. Magic missile this thing. 8 total
+  formattingOptions: []
+  position:
+  - 5.00229834107401e+3
+  - 2.64198130446256e+3
+  width: 2e+2
+  connections:
+    indexes:
+    - location: 913
+      length: 1
+    - location: 915
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 915
+  text: Chandra - aid at 3rd level, so +10 hp and increase max by 10 for 8 hours
+  formattingOptions: []
+  position:
+  - 5.00258501850791e+3
+  - 2.70602500093942e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 914
+      length: 1
+    - location: 916
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 916
+  text: 'Roh will sickle again.
+
+    b/c of restrained on grappled - disadvantage on all the things'
+  formattingOptions: []
+  position:
+  - 5.22898854540092e+3
+  - 2.6119505756089e+3
+  width: 1.9e+2
+  connections:
+    indexes:
+    - location: 915
+      length: 1
+    - location: 917
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 917
+  text: Its turn, can't do anything - Spicy firey meatball
+  formattingOptions: []
+  position:
+  - 5.21176442430717e+3
+  - 2.70717774376545e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 916
+      length: 1
+    - location: 918
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 918
+  text: Vanna spends a ki, one hit, con save
+  formattingOptions: []
+  position:
+  - 5.44017112502832e+3
+  - 2.59645191838233e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 917
+      length: 1
+    - location: 919
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 919
+  text: 'Widget - wants to keep access to fleshy part, but doesn''t want fire damage.
+
+    Specifically a strength grapple (Different from a normal grapple)
+
+    Ray of sickness into the back of its mouth (advantage). Still a tough creature'
+  formattingOptions: []
+  position:
+  - 5.44929559918696e+3
+  - 2.66577440467291e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 918
+      length: 1
+    - location: 920
+      length: 1
+  _effectiveHeight: 1.4e+2
+- ID: 920
+  text: Kashi - attacks the tendril
+  formattingOptions: []
+  position:
+  - 5.6489740847639e+3
+  - 2.60060092397881e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 919
+      length: 1
+    - location: 921
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 921
+  text: Chandra - bless at third for all of them. moves 20' away
+  formattingOptions: []
+  position:
+  - 5.69925202947544e+3
+  - 2.6560139676612e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 920
+      length: 1
+    - location: 922
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 922
+  text: 'Roh - daggers. Hits one. Frenzy does unarmed attack, breaks tendril, drops
+    to floor and is free.  '
+  formattingOptions: []
+  position:
+  - 5.73320303033113e+3
+  - 2.70449961731704e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 921
+      length: 1
+    - location: 923
+      length: 1
+  _effectiveHeight: 5.6e+1
+- ID: 923
+  text: Roper attacks Vana. WdoOuld hit, but takes a movement to block it. Takes a
+    long 50 tendril chandra, but out of range.  tries to move, smashes widget aginst
+    a wall. Thrashes around. Kashi flung around as well - 4 points of bludgeoning
+    damage
+  formattingOptions: []
+  position:
+  - 5.64245440327352e+3
+  - 2.79090429218034e+3
+  width: 2.9e+2
+  connections:
+    indexes:
+    - location: 922
+      length: 1
+    - location: 924
+      length: 1
+  _effectiveHeight: 7e+1
+- ID: 924
+  text: '"Can another creature move widget''s flaming sphere" - tried to move, and
+    found discomfort.  another 11 damage'
+  formattingOptions: []
+  position:
+  - 5.75218171697544e+3
+  - 2.90053927847098e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 923
+      length: 1
+    - location: 925
+      length: 1
+  _effectiveHeight: 7e+1
+- ID: 925
+  text: Vanna again starts battering it around at its eyes. 2 hits, two CON save .
+    Locks up in place again
+  formattingOptions: []
+  position:
+  - 5.54165136841776e+3
+  - 2.90448595252444e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 924
+      length: 1
+    - location: 926
+      length: 1
+  _effectiveHeight: 5.6e+1
+- ID: 926
+  text: it can't move - disadvantages on grapple turned off now b/c it can't move
+  formattingOptions: []
+  position:
+  - 5.42288427857401e+3
+  - 2.82937463378946e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 925
+      length: 1
+    - location: 927
+      length: 1
+  _effectiveHeight: 5.6e+1
+- ID: 927
+  text: "Wiget hits ground prone. Stands up. Another ray of sickness to its mouth.
+    (18 + 2) - just enough to hit. \nDouble the damage - sickness in its mouth."
+  formattingOptions: []
+  position:
+  - 5.14517596089071e+3
+  - 2.81490416072005e+3
+  width: 2e+2
+  connections:
+    indexes:
+    - location: 926
+      length: 1
+    - location: 928
+      length: 2
+  _effectiveHeight: 7e+1
+- ID: 928
+  text: '"ropers - tough as hell to kill"'
+  formattingOptions: []
+  position:
+  - 5.20524253616118e+3
+  - 2.76735655329819e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 927
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 929
+  text: have a pretty good hold - park this encounter and finish. Or essentually fast
+    forward to the end of the roper (heh), and jump to the next part of this
+  formattingOptions: []
+  position:
+  - 4.93897370916303e+3
+  - 2.80016194035498e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 927
+      length: 1
+    - location: 930
+      length: 1
+  _effectiveHeight: 8.4e+1
+- ID: 930
+  text: 'The roper has a high level trained monk on its face stunning it, and a sphere
+    of fire in its mouth it can''t move away from. and widget you can carve it out
+    from the inside.
+
+    Ro wanted to pull off with Kash - hacking and slashing and release, and wreck
+    the reamining tendrils.  New ones shoot out immediately.  Removing the tendrils
+    isn''t super effective, but widget been burning it to pieces. Eventually it does
+    drop off the ceiling. Rubble mess.  Vana Gadorn points to Chandra - this is 50
+    feet. Are you now familiar with 50 feet. Good.'
+  formattingOptions: []
+  position:
+  - 4.67765488028682e+3
+  - 2.80034603177625e+3
+  width: 2.3e+2
+  connections:
+    indexes:
+    - location: 929
+      length: 1
+    - location: 931
+      length: 1
+  _effectiveHeight: 1.96e+2
+- ID: 931
+  text: Widget sifts through the mess for treasure for eaten adventurers - will resolve
+    next time
+  formattingOptions: []
+  position:
+  - 4.94639295495637e+3
+  - 2.93648457219107e+3
+  width: 2.3e+2
+  connections:
+    indexes:
+    - location: 930
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 932
+  text: 'Next time: THE RIFT'
+  fillColorRGB:
+    red: 8.93993e-1
+    green: 9.92872e-1
+    blue: 1e+0
+  formattingOptions: []
+  position:
+  - 4.8670575339077e+3
+  - 3.04381414325478e+3
+  width: 2.3e+2
+  connections:
+    indexes: []
+  _effectiveHeight: 1.4e+1
