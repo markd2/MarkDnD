@@ -10005,8 +10005,8 @@
   text: ''
   formattingOptions: []
   position:
-  - 5.31432917556523e+3
-  - 3.05139311805148e+3
+  - 4.99594309768437e+3
+  - 2.99783095374484e+3
   width: 1.6e+2
   connections:
     indexes:
@@ -10017,8 +10017,8 @@
   text: ''
   formattingOptions: []
   position:
-  - 5.31920041597808e+3
-  - 3.097821904109e+3
+  - 5.34027107434396e+3
+  - 2.99645059673595e+3
   width: 1.6e+2
   connections:
     indexes:
@@ -11864,8 +11864,8 @@
     blue: 9.42763e-1
   formattingOptions: []
   position:
-  - 4.68764896457196e+3
-  - 4.52085715425981e+3
+  - 4.66548079237144e+3
+  - 4.94517829073442e+3
   width: 1.6e+2
   connections:
     indexes: []
@@ -14735,9 +14735,1516 @@
     blue: 1e+0
   formattingOptions: []
   position:
-  - 4.8670575339077e+3
-  - 3.04381414325478e+3
+  - 5.2299491761603e+3
+  - 2.966128291204e+3
   width: 2.3e+2
   connections:
     indexes: []
   _effectiveHeight: 1.4e+1
+- ID: 933
+  text: ''
+  fillColorRGB:
+    red: 8.93993e-1
+    green: 9.92872e-1
+    blue: 1e+0
+  formattingOptions: []
+  position:
+  - 4.7954610137939e+3
+  - 3.03902523295083e+3
+  width: 7.7e+2
+  connections:
+    indexes: []
+  _effectiveHeight: 1.4e+1
+- ID: 934
+  text: Episode VI - THE RIFT
+  fillColorRGB:
+    red: 1e+0
+    green: 9.0283e-1
+    blue: 9.76506e-1
+  formattingOptions: []
+  position:
+  - 4.66395965909497e+3
+  - 3.12920271476565e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 935
+      length: 2
+  _effectiveHeight: 1.4e+1
+- ID: 935
+  text: a.k.a. Episode 1 part 7
+  formattingOptions: []
+  position:
+  - 4.75632029573202e+3
+  - 3.08972955322262e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 934
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 936
+  text: 'The wind blows through the trees, a jogger runs by. Sun shining down. Sitting
+    on a bench hear the rustle of a page, see darkness. Infinite darkness. Eventually
+    after a long time, see small colored dots, grow in size, rushing towards us /
+    past us / enormouse entire planets until we see up ahead.  Against the backdrop
+    against the blackness of space, no stars, single light, and a single swirl of
+    blue. Rushing in, also planet sized, moving vortex, rushing river in the void
+    of space. Covered in island bobbing and down, carried in the i of Orub. One particular
+    island covered in mist.  Dotted and striped and varieaged fungus all shapes and
+    sizes, a small village. A small hole that grows larger, haphazardly dug. Wihtin
+    that hole, find a cave. We find our find our smol party of adventurers
+
+    Panting / recovering / perhaps badly hurt, and a dead rock-like creature lying
+    on the ground.'
+  formattingOptions: []
+  position:
+  - 4.66253169099568e+3
+  - 3.18082996622717e+3
+  width: 2.5e+2
+  connections:
+    indexes:
+    - location: 934
+      length: 1
+    - location: 937
+      length: 1
+  _effectiveHeight: 2.8e+2
+- ID: 937
+  text: "Widget goes through the roper body. See remenants of bone. See a shiny -
+    find a \n* pair of golden boots. \n* fragments of mostly digested leather\n\u2022
+    find a little bit of chainmail - like a chestplate / chainmail covering.  Kind
+    of in a lump with a little bit of bone inside\n\u2022 finding a few rocks. some
+    appear to be pretty shiny as well.\n(handful of rubies 50gp, large emerald 300gp,
+    some gold boots worth 200gp (not enchanted), and remnants of an over-equipped
+    and under-prepared adventuring party.\n* remnants of chainmail"
+  formattingOptions: []
+  position:
+  - 4.93941777904906e+3
+  - 3.08602288818356e+3
+  width: 2e+2
+  connections:
+    indexes:
+    - location: 936
+      length: 1
+    - location: 938
+      length: 1
+  _effectiveHeight: 2.52e+2
+- ID: 938
+  text: 'Widget: is there water I can rinse these off?
+
+    (at the beginning of the cave)
+
+    won''t bother backtracking'
+  formattingOptions: []
+  position:
+  - 5.1684555598108e+3
+  - 3.09166301981603e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 937
+      length: 1
+    - location: 939
+      length: 2
+  _effectiveHeight: 7e+1
+- ID: 939
+  text: 'Roh: DRINK DRINK DRINK!'
+  formattingOptions: []
+  position:
+  - 5.35354151765586e+3
+  - 3.07774079895015e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 938
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 940
+  text: "Is this a carved hand, or Medusa'd\nChandra rolled a 1+2 = 3.  AT LEAST IT'S
+    TRIPLE THE RESULT\nOld stone. Looks like a hand.\n\"oh well, nothing to see here\"\n(DC
+    goes up with each check - cool mechanic)\nKashi does a history check - 19+5. \n\"as
+    you look at this hand, it's ancient and crumbling, and a strong sense whatever
+    is happening with this hand happened long long before whatever's going on with
+    this mushroom mushroom situation in the last few years. The stone hand has been
+    here forever. Signs, that works dug around it - dirt in the creases. They dug
+    out part of this cavern.  Others they further dug out.  It is hard to tell about
+    the absolute age of the thing - it is very detailded Could be an amazing sculpt,
+    or just very well something turned to stone kind of situation. Hard to tell. It
+    doesn't tie in to any histroy you know. Unless you have origin of Orub.  Think
+    it goes back t early in the history. (like an origin myth)  a time before your
+    general history\nWidget: \"So it's a set piece'"
+  formattingOptions: []
+  position:
+  - 5.15971491853474e+3
+  - 3.19334527587882e+3
+  width: 3.8e+2
+  connections:
+    indexes:
+    - location: 938
+      length: 1
+    - location: 941
+      length: 1
+  _effectiveHeight: 2.52e+2
+- ID: 941
+  text: 'Kashi suggests breaking it.
+
+    "We can vandalize it on the way out"'
+  formattingOptions: []
+  position:
+  - 5.37529912670538e+3
+  - 3.12676334635413e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 940
+      length: 1
+    - location: 942
+      length: 1
+    - location: 944
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 942
+  text: Probably a good idea to cave this place in on the way out
+  formattingOptions: []
+  position:
+  - 5.55108831127569e+3
+  - 3.07692152913408e+3
+  width: 1.9e+2
+  connections:
+    indexes:
+    - location: 941
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 943
+  text: 'AID: 8 hours left'
+  formattingOptions: []
+  position:
+  - 5.59617854158168e+3
+  - 2.99869432067867e+3
+  width: 1.6e+2
+  connections:
+    indexes: []
+  _effectiveHeight: 1.4e+1
+- ID: 944
+  text: "Widget wants a rest and casts identify\n* chain mail is regular armor - medium
+    sized +1\n* boots standard +1 \nBoots are actually made out of gold. Even to the
+    uninqueitive mind, not great adventuring gear. A little on the hefty side. Some
+    enchantment to offset the weight.\n(quick insight check for Widget : (4) - yeah,
+    they're gold boots, things an adventurer could wear. they seem strange in some
+    way.  \"huh, this doesn't quite make sense, and here they are, but it works\"\nW:
+    \"+1 boots. Don't trust as far as I can throw them.\nRoh wants the chainmail.
+    (gets it)"
+  formattingOptions: []
+  position:
+  - 5.55558466951137e+3
+  - 3.14912133789059e+3
+  width: 2e+2
+  connections:
+    indexes:
+    - location: 941
+      length: 1
+    - location: 945
+      length: 3
+  _effectiveHeight: 2.66e+2
+- ID: 945
+  text: '"chain mail of soul dissolving"
+
+    "only if you have a soul"
+
+    "well we know about pandas"
+
+    There are pandas in minecraft'
+  formattingOptions: []
+  position:
+  - 5.78837428132778e+3
+  - 3.02008753712968e+3
+  width: 2.2e+2
+  connections:
+    indexes:
+    - location: 944
+      length: 1
+  _effectiveHeight: 5.6e+1
+- ID: 946
+  text: 'Is chainmail medium or heavy? (Step found found a chainmai lbikini). All
+    the chainmal in DnDBeyond are heavy and have  :alot: of disadvanages'
+  formattingOptions: []
+  position:
+  - 5.88484599128905e+3
+  - 3.09169897636229e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 944
+      length: 1
+  _effectiveHeight: 8.4e+1
+- ID: 947
+  text: 'Short rest - Chandra does watch. Sees some slime with a peculiar set of armor
+    - off ot the right.
+
+    (13 perception)
+
+    Off to the left tunnel falling off fairly quickly, see billowing spores, and obscuring
+    spores.'
+  formattingOptions: []
+  position:
+  - 5.80038706794921e+3
+  - 3.1922654080436e+3
+  width: 2.8e+2
+  connections:
+    indexes:
+    - location: 944
+      length: 1
+    - location: 948
+      length: 1
+  _effectiveHeight: 7e+1
+- ID: 948
+  text: "Know the slime proclivities? \nMedicine check of 24 - so yes!  Warns everyone"
+  formattingOptions: []
+  position:
+  - 5.76940567374316e+3
+  - 3.28665185546864e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 947
+      length: 1
+    - location: 949
+      length: 2
+  _effectiveHeight: 4.2e+1
+- ID: 949
+  text: Widget - if we fight slimes I want to harvest them
+  formattingOptions: []
+  position:
+  - 5.94615417813801e+3
+  - 3.28956953605458e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 948
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 950
+  text: Chandra puts scarf over nose and mouth, and into the spores
+  formattingOptions: []
+  position:
+  - 5.76737442374317e+3
+  - 3.35511554972319e+3
+  width: 3.6e+2
+  connections:
+    indexes:
+    - location: 948
+      length: 1
+    - location: 951
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 951
+  text: 'Tunnel twists and turns straight down, drop off, as descend, descend rapidly.
+    And then, find yourself in the mouth of a large cavern.
+
+    The walls of the chamber throb and pulse in rhythm in your heartbeat. Spores in
+    the air billowing like smoke.  Coming out of a hole.  Ominous glow coming from
+    the rift. Each pulse, vision swims, and then clarifies. Creaking groaning sounds
+    like a building settling / flower makes when it blooms. and hear muffled laughter,
+    and realize it''s yours.
+
+    See strands of glowing light come out of your pores, and coaslesce in a web of
+    energy. Leaping beween you.  Strand goes into the rift, and feel a presence reaching
+    out to you from the other side.  It stops/
+
+    They turn black and dissolve into ash.  Ringing in ears. Roar like an avalanch.
+    Then see, Xandrath.'
+  formattingOptions: []
+  position:
+  - 5.77246663744791e+3
+  - 3.40844949007481e+3
+  width: 4e+2
+  connections:
+    indexes:
+    - location: 950
+      length: 1
+    - location: 952
+      length: 1
+  _effectiveHeight: 1.68e+2
+- ID: 952
+  text: 'Xantrath - A large, huge dragon, reeking of contempt.  See sitting on the
+    back. A roar. Then a voice towards us
+
+    "Who dares go here."'
+  formattingOptions: []
+  position:
+  - 5.34378987963542e+3
+  - 3.47083789746413e+3
+  width: 3.3e+2
+  connections:
+    indexes:
+    - location: 951
+      length: 1
+    - location: 953
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 953
+  text: 'What kind of dragon and what it means?
+
+    Widget nature checks with Chandra helping (19).
+
+    You imagine that once this was a creature that would have radiated power and confidence.
+    Feel the contempt from it. Even pain. Eyes are now hidden behind a mass of of
+    oozing fungus. MUshrooms bursting foth.  His wings dragging, weighed down by uselessness.
+
+    Once likely a proud possible black(?) dragon, but now overtaken by some fashion
+    by the spores that is existing next to. Does not look like one you have studied,
+    and is likey - 19, hard to predict what capabilities it has. But is far from what
+    a recognizable draging might be.
+
+    Kind of a purple and green.'
+  formattingOptions: []
+  position:
+  - 4.91507645011034e+3
+  - 3.46901526387369e+3
+  width: 4e+2
+  connections:
+    indexes:
+    - location: 952
+      length: 1
+    - location: 954
+      length: 1
+  _effectiveHeight: 1.54e+2
+- ID: 954
+  text: "you look sick, can we help you.\nHelp you.\nHungry.  Could feed you. Could
+    go into the rift, and \nAre you hear to hurt? it must grow.\nIt is the only thing
+    that matters here.  The rift.\n(pronoun refers to the rift)"
+  formattingOptions: []
+  position:
+  - 4.6551953669397e+3
+  - 3.48593115742838e+3
+  width: 2.3e+2
+  connections:
+    indexes:
+    - location: 953
+      length: 1
+    - location: 955
+      length: 1
+  _effectiveHeight: 1.12e+2
+- ID: 955
+  text: 'Next to the dragon, spores issuing forth
+
+    "Do you threaten my master?'
+  formattingOptions: []
+  position:
+  - 4.679243930579e+3
+  - 3.62762752787108e+3
+  width: 2.1e+2
+  connections:
+    indexes:
+    - location: 954
+      length: 1
+    - location: 956
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 956
+  text: 'Roh: getting mixed signals. Are you here to destroy the rift? Are you here
+    to destroy my master?'
+  formattingOptions: []
+  position:
+  - 4.92385330557901e+3
+  - 3.64834659830564e+3
+  width: 2.2e+2
+  connections:
+    indexes:
+    - location: 955
+      length: 1
+    - location: 957
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 957
+  text: 'chandra casts Crate food and water in front of the dragon - 45 lbs - bland,
+    like oatmeal
+
+    Dragon snarls, seems wary. Sniffs it. And turns attention back to Roh
+
+    Does drink some of the water. Doesn''t eat the food.'
+  formattingOptions: []
+  position:
+  - 5.18602519075153e+3
+  - 3.64531004841957e+3
+  width: 2.2e+2
+  connections:
+    indexes:
+    - location: 956
+      length: 1
+    - location: 958
+      length: 1
+  _effectiveHeight: 9.8e+1
+- ID: 958
+  text: Roh in a protective flank of Chandra, head on the swivel
+  formattingOptions: []
+  position:
+  - 5.33376968741497e+3
+  - 3.5733189290348e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 957
+      length: 1
+    - location: 959
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 959
+  text: Black in the center - a dull orange glow, emanating from the center. almost
+    like a oval sort of rift. Spores coming out. The entire chamber has that dull
+    orange glow, lit by what's coming out of the rift. It's lightly obscured. The
+    ceiling is 50 foot high. Dozens of stalactites.  There's some shevles and rock
+    outcropping
+  formattingOptions: []
+  position:
+  - 5.51127497712852e+3
+  - 3.55243173217607e+3
+  width: 2.1e+2
+  connections:
+    indexes:
+    - location: 958
+      length: 1
+    - location: 960
+      length: 1
+  _effectiveHeight: 1.26e+2
+- ID: 960
+  text: Do you threaten the rift, do you threaten my master
+  formattingOptions:
+  - options: 2
+    rangeStart: 0
+    rangeLength: 51
+  position:
+  - 5.74899348298796e+3
+  - 3.59007796223796e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 959
+      length: 1
+    - location: 961
+      length: 3
+  _effectiveHeight: 2.8e+1
+- ID: 961
+  text: 'Roh: it appears clearly evil.
+
+    (deception check) 5'
+  formattingOptions: []
+  position:
+  - 5.98304082592417e+3
+  - 3.65782840982911e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 960
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 962
+  text: 'Widget: no why would we do that?
+
+    Seperate deception check'
+  formattingOptions: []
+  position:
+  - 5.94961695710906e+3
+  - 3.59688724771973e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 960
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 963
+  text: 'Kashi - can I detect thoughts?
+
+    (30 feet getting closer, sketching things)  WIS Save (11) fails!
+
+    Surface thoughts are free - you have a sensation you have had before, where you
+    normally detect thoguhts and surface thoguhts - reading that is an art you have
+    picked up on. Chaotic epxerience depending on what they''re focused on. When arrived
+    near this fog covered town on the outskirts of this island, looked at an adventurer,
+    her mind was very confused, and tried to read her thoughts ,found it hard to find
+    or follow the thoughts. Same, but significantly worse. As you try to make sense
+    of this, you hear "I / we the air, the temperature, I am free and floating, no
+    what is wrong, what is this food, and anger" as if staring into a shattered mirror.
+
+    There is a theme, flash bacl to "he must come. must protecc, master here, almost
+    here. Swirling sense of energy. The one anchor.  The one anchor that stays place.
+    Do I eat them?  Do I go to sleep. Very disjointed'
+  formattingOptions: []
+  position:
+  - 5.75291560212859e+3
+  - 3.70956109618979e+3
+  width: 4.8e+2
+  connections:
+    indexes:
+    - location: 960
+      length: 1
+    - location: 964
+      length: 1
+  _effectiveHeight: 1.82e+2
+- ID: 964
+  text: 'Probing deeper -going after the Master thoughts.
+
+    As you probe in to it - one thought on the periphery. "I once . there was a sanity."
+    Then gone. The swirl, probing towards taht central thought. Catch no sense of
+    self at all. No sense of others at all.  But the sense of a will, a will of a
+    master, the only thing that exists, is the will of my master. As you probe on
+    that. Nothing.  No visual image. No as far as you can tell an attempt to understand.
+    Their Will Is Inevitable. That is the only thing that exists. The other thoughts
+    bounce off that and fly away from that.
+
+    Surrounding that is PROTECC, must grow larger, must grow more powerful. my master
+    will come'
+  formattingOptions: []
+  position:
+  - 5.7503058405726e+3
+  - 3.92951409911944e+3
+  width: 4.9e+2
+  connections:
+    indexes:
+    - location: 963
+      length: 1
+    - location: 965
+      length: 2
+  _effectiveHeight: 1.26e+2
+- ID: 965
+  text: 'Roh: It''s all enthralled'
+  formattingOptions: []
+  position:
+  - 6.11138580655599e+3
+  - 4.08430316845866e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 964
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 966
+  text: 'Kashi "Its sense of self is shattered"
+
+    Widget: does that mean we have to kill it?
+
+    K: killing it, or put out of its misry.  maybe aslim chance taking out the master
+    would free the thrall. odn''t know if it''ll fix the mind'
+  formattingOptions: []
+  position:
+  - 6.07324595466797e+3
+  - 4.12003152132324e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 964
+      length: 1
+    - location: 967
+      length: 1
+  _effectiveHeight: 1.26e+2
+- ID: 967
+  text: 'Is it a rift or a portal?
+
+    Widget: the master seems uncool. If we take care of them. Will it help.
+
+    Ask it about your master.  "tell us about him"
+
+    Franchise opportunities!
+
+    Roh: Persuasion check(13) -
+
+    Dragon: master -don''t confuse me. They are powerful and everything and stay back!
+
+    Get the sense didn''t pursuade it well enough.
+
+    It seems unable to answer your question.'
+  formattingOptions: []
+  position:
+  - 5.76001129508107e+3
+  - 4.07740706380045e+3
+  width: 2.6e+2
+  connections:
+    indexes:
+    - location: 966
+      length: 1
+    - location: 968
+      length: 1
+  _effectiveHeight: 1.4e+2
+- ID: 968
+  text: '"are you stalling?"
+
+    How do we convince the dragon without battling it are not necessarily against
+    its master
+
+    "I pee on your master"
+
+    Your master summoned us here to bring this mushroom to help them grow strong.
+
+    _Definitely a deception check_
+
+    Chandra does some medical gobbletygook to help.
+
+    10 and an unnatural 1
+
+    "should I also initiaitve?"
+
+    YES'
+  formattingOptions: []
+  position:
+  - 5.5006515538701e+3
+  - 3.98706335957681e+3
+  width: 2.3e+2
+  connections:
+    indexes:
+    - location: 967
+      length: 1
+    - location: 969
+      length: 1
+  _effectiveHeight: 1.82e+2
+- ID: 969
+  text: 'As you approach, Xandtath looks interested - then gets confused. Then this
+    barrier of golden shimmer leaps up blocking the view. Etheral chord to the back
+    of the skull, then it roars and leaps toward you.
+
+    Etheral or etherial looking?
+
+    Do you knwo the difference?'
+  formattingOptions: []
+  position:
+  - 5.48921855012661e+3
+  - 3.85179643249348e+3
+  width: 2.4e+2
+  connections:
+    indexes:
+    - location: 968
+      length: 1
+    - location: 970
+      length: 2
+  _effectiveHeight: 9.8e+1
+- ID: 970
+  text: 'Widget has some undertanding of real and etheral planes
+
+    Aracana check - 23
+
+    Hard to tell if it is ettherial, something at leats extra-planar in some fashion
+    about it'
+  formattingOptions: []
+  position:
+  - 5.57036916454718e+3
+  - 3.70227207437987e+3
+  width: 1.4e+2
+  connections:
+    indexes:
+    - location: 969
+      length: 1
+  _effectiveHeight: 1.12e+2
+- ID: 971
+  text: 'Initiative!
+
+    C: 9 (14)
+
+    K: 20
+
+    W: 14
+
+    R: 9 (10)
+
+    K D W V C R'
+  formattingOptions:
+  - options: 1
+    rangeStart: 44
+    rangeLength: 11
+  position:
+  - 5.44918976187791e+3
+  - 3.7326454315169e+3
+  width: 8e+1
+  connections:
+    indexes:
+    - location: 969
+      length: 1
+    - location: 972
+      length: 1
+  _effectiveHeight: 8.4e+1
+- ID: 972
+  text: 'Kash. still has mage armor up (8 hours)
+
+    Does the cord to it seem like something I can target, like with magic missile.
+
+    First one at the cord. Visually - see one of the fungus on the head pops.  It
+    hit ''em it hurt them. (3)
+
+    Directing the rest at that (7 more)
+
+    See flurry of spores and explosions'
+  formattingOptions: []
+  position:
+  - 5.18153864900346e+3
+  - 3.76991988118358e+3
+  width: 2.2e+2
+  connections:
+    indexes:
+    - location: 971
+      length: 1
+    - location: 974
+      length: 2
+  _effectiveHeight: 1.12e+2
+- ID: 973
+  text: Chandra - bless - W.C.R.V. Backs up behind pillar
+  formattingOptions: []
+  position:
+  - 4.96750417431271e+3
+  - 4.00269924418e+3
+  width: 1.8e+2
+  connections:
+    indexes:
+    - location: 977
+      length: 1
+    - location: 979
+      length: 2
+  _effectiveHeight: 2.8e+1
+- ID: 974
+  text: '"I''m not saying you need all the help you can get..."'
+  formattingOptions: []
+  position:
+  - 4.93992635448849e+3
+  - 3.71243241882193e+3
+  width: 2.3e+2
+  connections:
+    indexes:
+    - location: 972
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 975
+  text: 'Dragon:
+
+    Does circle around and breathes out spores in a 60'' cone. CHA save
+
+    W: fail - roll a d100 - 69.  (wild fungus surge)  Begin experiencing vivid hallucinatons,
+    and disadvantage on ability checks. Repeat save on each turn. Will last for you-don''t-know-yet
+    rounds. (== 1 level of exhaustion)
+
+    C: save
+
+    R: save
+
+    K: fail -d100 (25) - you are incapacitated and being screaming / laughing / weeping
+    - screaming, traumatic time with mushrooms up to this point.'
+  formattingOptions: []
+  position:
+  - 4.9062442560998e+3
+  - 3.78146295165885e+3
+  width: 2.5e+2
+  connections:
+    indexes:
+    - location: 972
+      length: 1
+    - location: 976
+      length: 1
+  _effectiveHeight: 1.96e+2
+- ID: 976
+  text: 'Widget: What hallucination are you vividly experiencing.  The dragon turned
+    into a giant space scorpion flying throug the air - widget is terrified of scorpions.
+    One in a sleeping bag once. without even thinking, tries to chuck off a ray of
+    sickness at the scorpion.
+
+    18 with disadvtange, 12 poison damage
+
+    Dragon Tail lashes out to Roh, but doesn''t connect (or in the attack of opportunity
+    range.'
+  formattingOptions: []
+  position:
+  - 4.65731750845977e+3
+  - 3.71369376118859e+3
+  width: 2.3e+2
+  connections:
+    indexes:
+    - location: 975
+      length: 1
+    - location: 977
+      length: 2
+  _effectiveHeight: 1.54e+2
+- ID: 977
+  text: 'Vanna''s turn.
+
+    looking around from the corner, and then darts behind a pillar. haven''t paid
+    him too much mind, but he''s stayed back. He runs by, good job I guess we don''t
+    have long. Do what you''re going to do quick. Darts to the rift.  Going to hunker
+    down there.  See him attempt to hide behind a rock that is far too small'
+  formattingOptions: []
+  position:
+  - 4.7364250727501e+3
+  - 3.99993880208214e+3
+  width: 2e+2
+  connections:
+    indexes:
+    - location: 973
+      length: 1
+    - location: 976
+      length: 1
+  _effectiveHeight: 1.4e+2
+- ID: 978
+  text: 'Ro: has anyone landed an attack?  Is it too late to back off no-harm-no-foul
+
+    Widget: it did attack after I lied to it'
+  formattingOptions: []
+  position:
+  - 4.65310776114529e+3
+  - 3.89074207560102e+3
+  width: 1.4e+2
+  connections:
+    indexes:
+    - location: 976
+      length: 1
+  _effectiveHeight: 8.4e+1
+- ID: 979
+  text: 'Roh - seems like it''s too late to back off. Start off with a javelin throw.
+
+    Mikey: didn''t maeke a note, there was a conversation I wanted to have wtih roh
+    about his javelins. Wanted to offer make one return to you after you throw it.
+
+    (yeah, we didn''t do it)'
+  formattingOptions: []
+  position:
+  - 5.20635666251249e+3
+  - 3.903822926838e+3
+  width: 2.3e+2
+  connections:
+    indexes:
+    - location: 973
+      length: 1
+  _effectiveHeight: 9.8e+1
+- ID: 980
+  text: 'Roh. javelin, hitting it from a distance.  moving further away
+
+    (19) - hits (8 hp)
+
+    (13) - misses'
+  formattingOptions: []
+  position:
+  - 5.18819321036406e+3
+  - 4.02667962646365e+3
+  width: 2.7e+2
+  connections:
+    indexes:
+    - location: 973
+      length: 1
+    - location: 981
+      length: 1
+  _effectiveHeight: 5.6e+1
+- ID: 981
+  text: Kash CHA save - 17, saves. Spends turn screaming. Then regain control of senses.
+  formattingOptions: []
+  position:
+  - 5.30221095124948e+3
+  - 4.10864617919803e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 980
+      length: 1
+    - location: 982
+      length: 1
+  _effectiveHeight: 5.6e+1
+- ID: 982
+  text: 'Dragazon - "hah" - did folks back away?
+
+    It moves down and right to Roh and goes to town.
+
+    It does move kind of slowly especaily for a dragon. Doesn''t do much solace at
+    the moment. Bite (13 - misses).  It lifts up front claws and does two swipes.  24
+    (12hp) - only one hit. 10 slashing'
+  formattingOptions: []
+  position:
+  - 4.95577321728138e+3
+  - 4.10114658609909e+3
+  width: 3e+2
+  connections:
+    indexes:
+    - location: 981
+      length: 1
+    - location: 983
+      length: 1
+  _effectiveHeight: 8.4e+1
+- ID: 983
+  text: 'Widget - on my trip, remember the conversation with Roh, wihtout saying anything,
+    take off running toward you, while fishing tinker tool and like a sonic screwdiver,
+    "use that one!"
+
+    nat 20 (-1) on CHA save to get rid of the hallucination. "what you see before
+    you isn''t that much of an improvement'
+  formattingOptions: []
+  position:
+  - 4.66556630810165e+3
+  - 4.17699080403528e+3
+  width: 2.6e+2
+  connections:
+    indexes:
+    - location: 982
+      length: 1
+    - location: 984
+      length: 1
+  _effectiveHeight: 9.8e+1
+- ID: 984
+  text: Vanya - attacking the rift. But not clsoe enough
+  formattingOptions: []
+  position:
+  - 4.65374425609968e+3
+  - 4.31180820719284e+3
+  width: 1.4e+2
+  connections:
+    indexes:
+    - location: 983
+      length: 1
+    - location: 985
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 985
+  text: Chandra - heaing word (9 + 3 - disciple of life). hunkers
+  formattingOptions: []
+  position:
+  - 4.80415893912377e+3
+  - 4.30961485799037e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 984
+      length: 1
+    - location: 986
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 986
+  text: 'Roh - rages, goes up on its back, with sick flips (19).  Will contest DEX
+    (not good enough). Grab hold it, slam it down, use that to lever up on it. Off
+    the head, off one leg, moves underneath and lands on its back. (called it movement)
+
+    Then axe on its head, pound down. Attacking)
+
+    first attack: 24 (14 hp)
+
+    second attack: 9 (_with bless_) does not hit.'
+  formattingOptions: []
+  position:
+  - 5.00467361807885e+3
+  - 4.2125705362944e+3
+  width: 2.5e+2
+  connections:
+    indexes:
+    - location: 985
+      length: 1
+    - location: 987
+      length: 2
+  _effectiveHeight: 1.26e+2
+- ID: 987
+  text: 'Kashi - Have we hit the cord any more?  Will try that again more aggressively.  third
+    level magic missile (5 darts - 4 2 5 3 4)
+
+    "give me a ... that''s good enough".  As these go off, Xandrath shakes his head,
+    you see barely see the eyes under the mushrooms - see the cloudy haze it starts
+    to clear up before the haze comes back over his vision. ALmost knocked some sense
+    to him.
+
+    "I think it''s controlling him I think we can cut the cord"'
+  formattingOptions: []
+  position:
+  - 5.28931351065704e+3
+  - 4.30316272989789e+3
+  width: 2.3e+2
+  connections:
+    indexes:
+    - location: 986
+      length: 1
+    - location: 990
+      length: 1
+  _effectiveHeight: 1.82e+2
+- ID: 988
+  text: 'Couple of things - it gets real mad, attempts to attempt to charge - tries
+    to fly, and it hits the ground with a thud.  Thrashing gives it to need a DEX
+    save (V and W)
+
+    W: "I could add a d4 to my natural 1" - knocked prone and 13 points of bludgeoning.
+
+    V: ?'
+  formattingOptions: []
+  position:
+  - 5.28053360343048e+3
+  - 4.2004128926583e+3
+  width: 3.9e+2
+  connections:
+    indexes:
+    - location: 986
+      length: 1
+  _effectiveHeight: 8.4e+1
+- ID: 989
+  text: 'Chandra - spiritual weapon to the cord.
+
+    Hits (17)( 4 HP..
+
+    Roll a 1 - you hit ''em you got that cable
+
+    And that''s it. (!?)'
+  formattingOptions: []
+  position:
+  - 5.87023488720325e+3
+  - 4.44117023722211e+3
+  width: 2.2e+2
+  connections:
+    indexes:
+    - location: 995
+      length: 2
+  _effectiveHeight: 5.6e+1
+- ID: 990
+  text: 'Dragon lets out a bellowing roar through the lair.  3 satalctites break from
+    the ceiling. one above K, W, V.
+
+    Tries to sweep you off with the tail. (14 - does not hit)'
+  formattingOptions: []
+  position:
+  - 5.54243393302031e+3
+  - 4.30156579589725e+3
+  width: 2.5e+2
+  connections:
+    indexes:
+    - location: 987
+      length: 1
+    - location: 991
+      length: 1
+  _effectiveHeight: 7e+1
+- ID: 991
+  text: 'Widget: Hearing what Kash said, try to scrable off to the cable and start
+    cutting at it.
+
+    Hop up to the face.
+
+    Athletics check (epic fail). feel a burst of spores in your face. and gain HP
+    as you smack yourself with a medicinal fungus'
+  formattingOptions: []
+  position:
+  - 5.80790166576771e+3
+  - 4.23859193420295e+3
+  width: 2.5e+2
+  connections:
+    indexes:
+    - location: 990
+      length: 1
+    - location: 992
+      length: 2
+  _effectiveHeight: 8.4e+1
+- ID: 992
+  text: 'Vanna - doing that monk stuff right against Xandrath.  Say flaking is good.  Advantage
+    for roh in the future.
+
+    Unarmed strike stuffs.
+
+    Furry of blows fails.
+
+    Stunning strike works - 11 does not save.
+
+    See the dragon lock up - stunned xandrath. "alright, quickly everybody"'
+  formattingOptions: []
+  position:
+  - 6.09196274161413e+3
+  - 4.26540531412642e+3
+  width: 2.3e+2
+  connections:
+    indexes:
+    - location: 991
+      length: 1
+    - location: 996
+      length: 1
+  _effectiveHeight: 1.12e+2
+- ID: 993
+  text: 'Tail attack - 5 points bludgeoning on Roh (yay rage)
+
+    STR or DEX save (advantage due to rage) 17'
+  formattingOptions: []
+  position:
+  - 5.84340825756465e+3
+  - 4.3494551493315e+3
+  width: 2e+2
+  connections:
+    indexes:
+    - location: 991
+      length: 1
+  _effectiveHeight: 5.6e+1
+- ID: 994
+  text: ''
+  formattingOptions: []
+  position:
+  - 6.15108805696244e+3
+  - 4.93888564046106e+3
+  width: 1.6e+2
+  connections:
+    indexes: []
+  _effectiveHeight: 1.4e+1
+- ID: 995
+  text: Stunned - incapacitated (https://twitter.com/jeremyecrawford/status/732804925055504384?lang=en)
+  formattingOptions: []
+  position:
+  - 5.5717342158166e+3
+  - 4.40216277058801e+3
+  width: 2.3e+2
+  connections:
+    indexes:
+    - location: 989
+      length: 1
+    - location: 997
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 996
+  text: Kash - make a quick perception check.  (dirty 20). See as it hit - Xandrath,
+    but motion clarifies. Becaomes more wary and more in control. Looking around with
+    some intelligence betore the cloud returns to his vision.
+  formattingOptions: []
+  position:
+  - 6.13255641023392e+3
+  - 4.41013523356001e+3
+  width: 2.1e+2
+  connections:
+    indexes:
+    - location: 989
+      length: 1
+    - location: 992
+      length: 1
+  _effectiveHeight: 9.8e+1
+- ID: 997
+  text: 'DEX from K W V
+
+    K: 10 (failed)
+
+    W: 11 (failed)
+
+    forgot about the stalactics and come crashign to the ground.  10pts of piercing
+    and are knocked prone.
+
+    '
+  formattingOptions: []
+  position:
+  - 5.61417333324822e+3
+  - 4.50272002156456e+3
+  width: 2.2e+2
+  connections:
+    indexes:
+    - location: 995
+      length: 1
+    - location: 998
+      length: 1
+  _effectiveHeight: 9.8e+1
+- ID: 998
+  text: 'Roh - what is this Cable?  Mycelium strands running from the ceiling to the
+    back of his head
+
+    WIll hack at it with the axe, double strike.
+
+    if it misses the cables than hitting its neck, so a win.  Advantage on all the
+    attacks.
+
+    25 to hit - 6 damage
+
+    25 (Same roll) - 4 damage
+
+    frenzy for this turn. - going at the cable with the sickle
+
+    19 - 5 damage - actually enough!'
+  formattingOptions: []
+  position:
+  - 5.29277898510368e+3
+  - 4.51258859252811e+3
+  width: 2.3e+2
+  connections:
+    indexes:
+    - location: 997
+      length: 1
+    - location: 999
+      length: 2
+  _effectiveHeight: 1.54e+2
+- ID: 999
+  text: 'Xandrath looking rough - the cable connection is looking rough. More than
+    that, you all now see it as xandraths eyes clear, and can''t move (stunned) hear
+    a "free ... me ... from this hell"
+
+    See his eyes center on the rift rather than on each of you.'
+  formattingOptions: []
+  position:
+  - 5.01744588573838e+3
+  - 4.61757536824426e+3
+  width: 2.2e+2
+  connections:
+    indexes:
+    - location: 998
+      length: 1
+  _effectiveHeight: 9.8e+1
+- ID: 1000
+  text: 'Kash (prone): the dragon is no longer looking at you, trying to stare at
+    the rift. Expiditous retreat still up.'
+  formattingOptions: []
+  position:
+  - 5.00920547843042e+3
+  - 4.36667863464238e+3
+  width: 2.3e+2
+  connections:
+    indexes:
+    - location: 998
+      length: 1
+    - location: 1001
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 1001
+  text: Ray of frost down at the barrier.  15+bless= 16 - see immediately as not quite
+    enough to do damage to this protective cover. Get the sense you can hit it. In
+    fact, looked at it, seems a little weaker than it was before. Still strong. See
+    that same strand connected to the rift. Looks like connected and drawing from
+    xandrath.
+  formattingOptions: []
+  position:
+  - 4.9527198827273e+3
+  - 4.44763986205936e+3
+  width: 2.4e+2
+  connections:
+    indexes:
+    - location: 1000
+      length: 1
+    - location: 1002
+      length: 1
+  _effectiveHeight: 1.12e+2
+- ID: 1002
+  text: 'Dragon - gets to make a roll. d20 (need a 20).
+
+    This thing it controls me.  destroy it somehow. Hear it in your heads. Iimited
+    telepathy. Get a clear idea from Xandrath.  With that. (rolls -ooh), the dragon
+    is going to move up to the cover and lashing out at it.. (Is that enough? it is?)
+
+    Two more  - nope, and nope.  Makes a pretty solid attack against the barrier.
+
+    As attacking, eyes go cloudy, gets confused and turns back around.  maybe taken
+    control again.'
+  formattingOptions: []
+  position:
+  - 4.65757187247331e+3
+  - 4.39471790567911e+3
+  width: 2.5e+2
+  connections:
+    indexes:
+    - location: 1001
+      length: 1
+    - location: 1003
+      length: 1
+  _effectiveHeight: 1.68e+2
+- ID: 1003
+  text: 'Widget: attempts to launch back up on the back.  Acrobatically.  It''s enough.
+    It''s slow, and reallly dealing with some Stuff.
+
+    Widget attacks, 2 damage.  roll a d20 (13)'
+  formattingOptions: []
+  position:
+  - 4.67447494864518e+3
+  - 4.59133838907754e+3
+  width: 2.3e+2
+  connections:
+    indexes:
+    - location: 1002
+      length: 1
+    - location: 1004
+      length: 1
+  _effectiveHeight: 5.6e+1
+- ID: 1004
+  text: 'Vanna moving to flank, to strike the dragon a few times. Not going well.  "first
+    time you hear him swear"
+
+    mikey: "hear him say G-Dorn it!".
+
+    (oops he has advantage)
+
+    Some more hit.  Heard the natural 20 sound (a beating heart) ("why")
+
+    Another momement of clarity.
+
+    stunning strike again. (nat 1). Xandrath locks up again.'
+  formattingOptions: []
+  position:
+  - 4.6774294062461e+3
+  - 4.68746179199097e+3
+  width: 3e+2
+  connections:
+    indexes:
+    - location: 1003
+      length: 1
+    - location: 1005
+      length: 1
+  _effectiveHeight: 1.12e+2
+- ID: 1005
+  text: 'Chandra: spiritual weapon the rift. Healing word anyone that needs it.
+
+    crit, 10 damage, rolled a d20 - "rolled a widget" - a 1'
+  formattingOptions: []
+  position:
+  - 4.72836538036719e+3
+  - 4.82664259846884e+3
+  width: 2.3e+2
+  connections:
+    indexes:
+    - location: 1004
+      length: 1
+    - location: 1006
+      length: 1
+  _effectiveHeight: 5.6e+1
+- ID: 1006
+  text: 'Roh - attack hit sicle 4 damage. Great axe!  nat20  14 damage.
+
+    See another moment of recognition. Importantly, see the hit, the barrier around
+    the rift, kind of shrunk. Almost collapses in on its self. Now a much smaller
+    weaker barrier.
+
+    Also Xandrath looks super jacked up.  _just barely hanging on_'
+  formattingOptions: []
+  position:
+  - 5.00911585847591e+3
+  - 4.73584909057497e+3
+  width: 2.5e+2
+  connections:
+    indexes:
+    - location: 1005
+      length: 1
+    - location: 1007
+      length: 1
+  _effectiveHeight: 1.12e+2
+- ID: 1007
+  text: 'Kashi - ray of frost the cord.  16 (AC) - 7 damage
+
+    roll a d20 - 2'
+  formattingOptions: []
+  position:
+  - 5.30566391348896e+3
+  - 4.6924949798572e+3
+  width: 2.1e+2
+  connections:
+    indexes:
+    - location: 1006
+      length: 1
+    - location: 1008
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 1008
+  text: 'Widget - anyting more useful than a dagger? (almost anything...) - put a
+    ray of sickness into the thing.
+
+    '
+  formattingOptions: []
+  position:
+  - 5.30816167553324e+3
+  - 4.77387770589072e+3
+  width: 2e+2
+  connections:
+    indexes:
+    - location: 1007
+      length: 1
+    - location: 1009
+      length: 2
+  _effectiveHeight: 5.6e+1
+- ID: 1009
+  text: "Vanna going against the barrier.\nHit / hit \nXandrath can move again at
+    the end of V's turn."
+  formattingOptions: []
+  position:
+  - 5.3945508356895e+3
+  - 4.87500482177608e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 1008
+      length: 1
+    - location: 1011
+      length: 1
+  _effectiveHeight: 7e+1
+- ID: 1010
+  text: 'Xantrhah flouders and tries to hit roh - charge at Kash.  All 3 of you make
+    DEX save.
+
+    K - 1 (fail) - 15 bludgeoning
+
+    W - save
+
+    V - save'
+  formattingOptions: []
+  position:
+  - 5.15084254304628e+3
+  - 4.87121479288613e+3
+  width: 2e+2
+  connections:
+    indexes:
+    - location: 1008
+      length: 1
+  _effectiveHeight: 8.4e+1
+- ID: 1011
+  text: 'Chandra - spiritual weapon against the barrier (can''t move it to the dragon,
+    too far away.  16 to hit, 6 damage
+
+    The barrier starting to look pretty damaged'
+  formattingOptions: []
+  position:
+  - 5.5882205235964e+3
+  - 4.80560138956583e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 1009
+      length: 1
+    - location: 1013
+      length: 1
+  _effectiveHeight: 8.4e+1
+- ID: 1012
+  text: ''
+  formattingOptions: []
+  position:
+  - 5.06019750316995e+3
+  - 4.99979201253129e+3
+  width: 1.6e+2
+  connections:
+    indexes: []
+  _effectiveHeight: 1.4e+1
+- ID: 1013
+  text: 'Roh - cord looking?  very bad. Start there with sicle.  Go for a frenzy.
+    (24) 4 slashing.
+
+    Greataxe - (28) 7 damage
+
+    d20 check - 3 - that''s good enough. See another moment of clarity. With that
+    end of your turn.
+
+    Bonus action - axe throw. nat 20. 20 damage. The dragon drops to the ground. Think
+    he''s dead. But you see the cable snap off and lose connection. Feel the muscles
+    shrug and pushes up on his feetsies'
+  formattingOptions: []
+  position:
+  - 5.5917551712201e+3
+  - 4.62928592936066e+3
+  width: 2.7e+2
+  connections:
+    indexes:
+    - location: 1011
+      length: 1
+    - location: 1014
+      length: 1
+  _effectiveHeight: 1.4e+2
+- ID: 1014
+  text: Xandrath barely holding together, and in control of himself once more.  Turns
+    and you feel like a laborious lift - takes in a large breath, and releases this
+    whole blast of spores against the barrier itself.
+  formattingOptions: []
+  position:
+  - 5.8968941787885e+3
+  - 4.53381656900909e+3
+  width: 2.5e+2
+  connections:
+    indexes:
+    - location: 1013
+      length: 1
+    - location: 1015
+      length: 1
+  _effectiveHeight: 7e+1
+- ID: 1015
+  text: The barrier dissapates.  Vana jumps into the rift.
+  formattingOptions: []
+  position:
+  - 5.96839045564396e+3
+  - 4.67590437825388e+3
+  width: 2.1e+2
+  connections:
+    indexes:
+    - location: 1014
+      length: 1
+  _effectiveHeight: 2.8e+1
