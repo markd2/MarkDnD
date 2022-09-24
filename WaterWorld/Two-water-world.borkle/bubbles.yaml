@@ -13170,8 +13170,8 @@
     the town further, as a thanks."
   formattingOptions: []
   position:
-  - 6.01460501960726e+3
-  - 5.17553446803634e+2
+  - 5.9828865311865e+3
+  - 5.21408252886223e+2
   width: 2.8e+2
   connections:
     indexes:
@@ -13542,8 +13542,8 @@
   text: The creature is looking smug and not intimidated
   formattingOptions: []
   position:
-  - 6.07213624578364e+3
-  - 9.21032812265691e+2
+  - 6.0994386139477e+3
+  - 9.19575445322332e+2
   width: 1.3e+2
   connections:
     indexes:
@@ -13559,8 +13559,8 @@
     spword.'
   formattingOptions: []
   position:
-  - 6.05894315202544e+3
-  - 1.0132759856784e+3
+  - 6.01586846243281e+3
+  - 1.01218947270407e+3
   width: 2.6e+2
   connections:
     indexes:
@@ -13577,8 +13577,8 @@
     But they are affected by the spores'
   formattingOptions: []
   position:
-  - 6.06131890874751e+3
-  - 1.12206742272055e+3
+  - 6.01824421915488e+3
+  - 1.12098090974622e+3
   width: 2.6e+2
   connections:
     indexes:
@@ -13592,8 +13592,8 @@
     the middle of the night
   formattingOptions: []
   position:
-  - 6.16569448388649e+3
-  - 1.2273161028353e+3
+  - 6.12261979429386e+3
+  - 1.22622958986097e+3
   width: 1.6e+2
   connections:
     indexes:
@@ -13607,8 +13607,8 @@
     (frogs)
   formattingOptions: []
   position:
-  - 5.96371582975863e+3
-  - 1.21159293893712e+3
+  - 5.94141724577426e+3
+  - 1.21234750785453e+3
   width: 1.6e+2
   connections:
     indexes:
@@ -14338,8 +14338,8 @@
     A small rock column next to widget explodes in shards'
   formattingOptions: []
   position:
-  - 6.1632689350399e+3
-  - 1.79490865032533e+3
+  - 6.12270226721066e+3
+  - 1.81748947831082e+3
   width: 1.6e+2
   connections:
     indexes:
@@ -14353,8 +14353,8 @@
     from superman 2), and moves back to Kashi
   formattingOptions: []
   position:
-  - 6.1378003200215e+3
-  - 1.94254994084328e+3
+  - 6.09723365219226e+3
+  - 1.96513076882877e+3
   width: 1.6e+2
   connections:
     indexes:
@@ -14577,8 +14577,8 @@
     to floor and is free.  '
   formattingOptions: []
   position:
-  - 6.1206238372159e+3
-  - 2.06438105652602e+3
+  - 6.08005716938666e+3
+  - 2.08696188451151e+3
   width: 1.6e+2
   connections:
     indexes:
@@ -14594,16 +14594,16 @@
     damage
   formattingOptions: []
   position:
-  - 6.04417803608602e+3
-  - 2.17578298480729e+3
-  width: 2.9e+2
+  - 6.00361136825678e+3
+  - 2.18869061245796e+3
+  width: 2.6e+2
   connections:
     indexes:
     - location: 922
       length: 1
     - location: 924
       length: 1
-  _effectiveHeight: 7e+1
+  _effectiveHeight: 8.4e+1
 - ID: 924
   text: '"Can another creature move widget''s flaming sphere" - tried to move, and
     found discomfort.  another 11 damage'
@@ -15777,8 +15777,8 @@
     And that''s it. (!?)'
   formattingOptions: []
   position:
-  - 5.88388875683216e+3
-  - 3.85397167460004e+3
+  - 5.90072425836676e+3
+  - 4.06239775230651e+3
   width: 2.2e+2
   connections:
     indexes:
@@ -15812,16 +15812,16 @@
     as you smack yourself with a medicinal fungus'
   formattingOptions: []
   position:
-  - 5.82155553539662e+3
-  - 3.65139337158088e+3
-  width: 2.5e+2
+  - 5.8272205570205e+3
+  - 3.6506371023984e+3
+  width: 2.2e+2
   connections:
     indexes:
     - location: 990
       length: 1
     - location: 992
       length: 2
-  _effectiveHeight: 8.4e+1
+  _effectiveHeight: 9.8e+1
 - ID: 992
   text: 'Vanna - doing that monk stuff right against Xandrath.  Say flaking is good.  Advantage
     for roh in the future.
@@ -15835,35 +15835,35 @@
     See the dragon lock up - stunned xandrath. "alright, quickly everybody"'
   formattingOptions: []
   position:
-  - 6.10561661124304e+3
-  - 3.67820675150435e+3
-  width: 2.3e+2
+  - 6.05820894871514e+3
+  - 3.74057413082913e+3
+  width: 2e+2
   connections:
     indexes:
     - location: 991
       length: 1
     - location: 996
       length: 1
-  _effectiveHeight: 1.12e+2
+  _effectiveHeight: 1.54e+2
 - ID: 993
   text: 'Tail attack - 5 points bludgeoning on Roh (yay rage)
 
     STR or DEX save (advantage due to rage) 17'
   formattingOptions: []
   position:
-  - 5.85706212719356e+3
-  - 3.76225658670943e+3
-  width: 2e+2
+  - 5.85668763291343e+3
+  - 3.79115036809894e+3
+  width: 1.7e+2
   connections:
     indexes:
     - location: 991
       length: 1
-  _effectiveHeight: 5.6e+1
+  _effectiveHeight: 7e+1
 - ID: 994
   text: ''
   formattingOptions: []
   position:
-  - 6.9141096023726e+3
+  - 6.8423127273726e+3
   - 5.79505208321498e+1
   width: 1.6e+2
   connections:
@@ -15891,8 +15891,8 @@
     some intelligence betore the cloud returns to his vision.
   formattingOptions: []
   position:
-  - 6.14621027986283e+3
-  - 3.82293667093794e+3
+  - 5.89025760826685e+3
+  - 3.89563843572589e+3
   width: 2.1e+2
   connections:
     indexes:
@@ -16188,11 +16188,15 @@
   _effectiveHeight: 8.4e+1
 - ID: 1012
   text: ''
+  fillColorRGB:
+    red: 8.93993e-1
+    green: 9.92872e-1
+    blue: 1e+0
   formattingOptions: []
   position:
-  - 4.97399121960061e+3
-  - 4.47970900471879e+3
-  width: 1.6e+2
+  - 4.80039986741032e+3
+  - 4.44119582112504e+3
+  width: 4.7e+2
   connections:
     indexes: []
   _effectiveHeight: 1.4e+1
@@ -16226,8 +16230,8 @@
     whole blast of spores against the barrier itself.
   formattingOptions: []
   position:
-  - 5.9105480484174e+3
-  - 3.94661800638702e+3
+  - 5.90342289146986e+3
+  - 4.21315260460131e+3
   width: 2.5e+2
   connections:
     indexes:
@@ -16240,8 +16244,8 @@
   text: The barrier dissapates.  Vana jumps into the rift.
   formattingOptions: []
   position:
-  - 5.98204432527287e+3
-  - 4.08870581563181e+3
+  - 5.77187743771707e+3
+  - 4.32027529107824e+3
   width: 2.1e+2
   connections:
     indexes:
@@ -16252,7 +16256,7 @@
   text: ''
   formattingOptions: []
   position:
-  - 6.4162953491211e+3
+  - 6.3444984741211e+3
   - 2.37045593261682e+1
   width: 1.6e+2
   connections:
@@ -16260,16 +16264,16 @@
     - location: 994
       length: 1
   _effectiveHeight: 1.4e+1
-- ID: 1017
-  text: Episode VI
+- ID: 1018
+  text: EPISODE VII
   fillColorRGB:
     red: 1e+0
     green: 9.0283e-1
     blue: 9.76506e-1
   formattingOptions: []
   position:
-  - 6.39318518066406e+3
-  - 6.69948577880859e+1
+  - 4.66499499511715e+3
+  - 4.51743633161277e+3
   width: 1.6e+2
   connections:
     indexes: []
