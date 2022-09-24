@@ -16194,9 +16194,9 @@
     blue: 1e+0
   formattingOptions: []
   position:
-  - 4.78402480637516e+3
-  - 4.44119582112504e+3
-  width: 4.7e+2
+  - 4.78481475388493e+3
+  - 4.41939965820186e+3
+  width: 1.01e+3
   connections:
     indexes: []
   _effectiveHeight: 1.4e+1
@@ -16272,9 +16272,1449 @@
     blue: 9.76506e-1
   formattingOptions: []
   position:
-  - 4.64861993408199e+3
-  - 4.51743633161277e+3
+  - 4.64675803629553e+3
+  - 4.45656504967104e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 1019
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 1019
+  text: '"This will be unusul today"'
+  formattingOptions: []
+  position:
+  - 4.68524388631185e+3
+  - 4.58439215087891e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 1018
+      length: 1
+    - location: 1020
+      length: 1
+    - location: 1022
+      length: 2
+  _effectiveHeight: 1.4e+1
+- ID: 1020
+  text: '"So moving through the story without faffing about?"'
+  formattingOptions: []
+  position:
+  - 4.78183723958333e+3
+  - 4.51783133951823e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 1019
+      length: 1
+    - location: 1021
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 1021
+  text: I can't promise *that*
+  formattingOptions: []
+  position:
+  - 4.83376088818002e+3
+  - 4.47961933390299e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 1020
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 1022
+  text: FESTIVAL (IRL)
+  formattingOptions: []
+  position:
+  - 4.64118439078412e+3
+  - 4.53615612284343e+3
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 1019
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 1023
+  text: Scraping of plates, a crunching sound. Delightful omelette breakfast on toast.
+    Push away from the table, go to a neiighboring park.  Pull out a book. Flip it
+    open, ruffling of pages. Then nothing. Darkness
+  formattingOptions: []
+  position:
+  - 5.02775569001915e+3
+  - 4.46111795043946e+3
+  width: 2.7e+2
+  connections:
+    indexes:
+    - location: 1019
+      length: 1
+    - location: 1024
+      length: 1
+  _effectiveHeight: 7e+1
+- ID: 1024
+  text: "Space... long minutes.  Colors appear. \nRed\nPurple\nGreen\nEnormouse planets
+    as zoom by. Ahead, dark blue. Figure 8 giant ocean or river looping in on itself"
+  formattingOptions:
+  - options: 1
+    rangeStart: 40
+    rangeLength: 16
+  position:
+  - 4.9954498326787e+3
+  - 4.56839095052083e+3
+  width: 3e+2
+  connections:
+    indexes:
+    - location: 1023
+      length: 1
+    - location: 1025
+      length: 1
+  _effectiveHeight: 8.4e+1
+- ID: 1025
+  text: Floating many small specs that grow in size, islands in different shapes.
+    covered in mountains or trees, as move by, see one shrouded in Fog, now on land,
+    surrounded by mushrooms down a hole into a cave (HEY DAD) and into dark underground
+    pit
+  formattingOptions: []
+  position:
+  - 5.32257639924776e+3
+  - 4.58870899454752e+3
+  width: 3.5e+2
+  connections:
+    indexes:
+    - location: 1024
+      length: 1
+    - location: 1026
+      length: 2
+  _effectiveHeight: 5.6e+1
+- ID: 1026
+  text: There you see a spore covered dragon. Swollen and surrounded by mushrooms,
+    wings laden down to the ground. Panting. In center of the room, an open rift.  Rift
+    that Vana gadorn lept in to
+  formattingOptions: []
+  position:
+  - 5.30762044628552e+3
+  - 4.48061395263672e+3
+  width: 3e+2
+  connections:
+    indexes:
+    - location: 1025
+      length: 1
+  _effectiveHeight: 5.6e+1
+- ID: 1027
+  text: 'Chandra heals for 16, and medicine 24.  Xandranth seems to have regained
+    some sensens.  Crouched down and leaning to the side against rough stone wall
+    altar thing. IN extremely bad shape physically, metnally,also over all life, in
+    poor condition overall.
+
+    Does seem to have his wits about him.'
+  formattingOptions: []
+  position:
+  - 5.69028101960908e+3
+  - 4.55467581685384e+3
+  width: 2.6e+2
+  connections:
+    indexes:
+    - location: 1025
+      length: 1
+    - location: 1028
+      length: 3
+    - location: 1033
+      length: 1
+  _effectiveHeight: 9.8e+1
+- ID: 1028
+  text: '"Thank you", and resting, closing his eyes.
+
+    Closes up some of his wounds. A little better able to rest now.'
+  formattingOptions: []
+  position:
+  - 5.68450831453096e+3
+  - 4.45719372049967e+3
+  width: 2.4e+2
+  connections:
+    indexes:
+    - location: 1027
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 1029
+  text: 'Chandra: One of our party lept down there, what can we expect/'
+  formattingOptions: []
+  position:
+  - 5.96775640209607e+3
+  - 4.50647429402669e+3
+  width: 2.1e+2
+  connections:
+    indexes:
+    - location: 1027
+      length: 1
+    - location: 1031
+      length: 2
+  _effectiveHeight: 2.8e+1
+- ID: 1030
+  text: 'Roh going to rift and peering in, and Widget is there, very curious - less
+    interested in safety, but more curious
+
+    Perception
+
+    R:19
+
+    W: 14
+
+    K: 16
+
+    Nothing, but so much to look at.  Just curiosity and scholar''s eyes. the amount
+    of mushrooms on the walls on this rift is overwhelming from what have seen so
+    far, over and each other, mushrooms on mushrooms and mushrooms (only Roh saw that)
+
+    Kash - between Vana''s movements and Roh''s face, there may be more than you expect"
+
+    Roh: "I''m just glowering at him. I implicitly trust people from the monestary"'
+  formattingOptions: []
+  position:
+  - 5.56173146923474e+3
+  - 4.68453866577148e+3
+  width: 3e+2
+  connections:
+    indexes:
+    - location: 1027
+      length: 1
+    - location: 1034
+      length: 3
+  _effectiveHeight: 2.24e+2
+- ID: 1031
+  text: 'Watching for signs of confusion, seems after watching several beats, seems
+    to have retained control of himself.
+
+    Shattered the barrier / connection. Don/t see the cable reforming. Seems saner
+    than you have seen. Get a sense have freed him from something.'
+  formattingOptions: []
+  position:
+  - 5.9534232111781e+3
+  - 4.38728852844238e+3
+  width: 2.5e+2
+  connections:
+    indexes:
+    - location: 1029
+      length: 1
+  _effectiveHeight: 9.8e+1
+- ID: 1032
+  text: 'Pit - Danger / darkness / Don''t look too closely. Think long ago found something
+    there and opened it. Or it was open, then saw so much power and opportunity. Dunno
+    how I got here, don''t remember, feels like it so long.  I need to rest.
+
+    Closes eyes and conks out.'
+  formattingOptions: []
+  position:
+  - 5.98770859122368e+3
+  - 4.56161630249023e+3
+  width: 2.3e+2
+  connections:
+    indexes:
+    - location: 1029
+      length: 1
+  _effectiveHeight: 9.8e+1
+- ID: 1033
+  text: Kash peering over the edge - not first to go into the rift, but will follow
+  formattingOptions: []
+  position:
+  - 6.00982478181612e+3
+  - 4.68063027954101e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 1027
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 1034
+  text: 'K: Spores fainter and thinner, Vanna sitting on floor, and standing back
+    up
+
+    (not a portal)'
+  formattingOptions: []
+  position:
+  - 5.93241073966118e+3
+  - 4.74068561808268e+3
+  width: 2.3e+2
+  connections:
+    indexes:
+    - location: 1030
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 1035
+  text: 'R: your eye goes straight to Vanna, see him move rapidly. bent over something,
+    and having a motion with his arms gathering or folding motion. Don''t make out
+    the object. Not too big - could fit and lift.  Smaller than a sword, larger than
+    a pebble. He seemed to know what he was here for, and already put away.'
+  formattingOptions: []
+  position:
+  - 5.91792374014946e+3
+  - 4.81285862223307e+3
+  width: 2.5e+2
+  connections:
+    indexes:
+    - location: 1030
+      length: 1
+  _effectiveHeight: 1.12e+2
+- ID: 1036
+  text: 'Looks up at the 3 of you - good work. We have done.  Someone give me a hand
+    up out of there. (goes to the edge to pull him up.
+
+    Rooh lifts him up.
+
+    '
+  formattingOptions: []
+  position:
+  - 5.26039897004848e+3
+  - 4.69773985799152e+3
+  width: 2.7e+2
+  connections:
+    indexes:
+    - location: 1030
+      length: 1
+    - location: 1037
+      length: 1
+    - location: 1039
+      length: 1
+  _effectiveHeight: 7e+1
+- ID: 1037
+  text: '"Out of initiative.  had to take down that barrier.  Should get out of here
+    before it comes out at us'
+  formattingOptions: []
+  position:
+  - 5.0119175755986e+3
+  - 4.68140949503579e+3
+  width: 2e+2
+  connections:
+    indexes:
+    - location: 1036
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 1038
+  text: 'I''m fine. It''s going well, and need you clear a path. I''ll be right behind
+    you.  Commanding and issuing orders that you haven''t seen him do on this adventure.
+
+    Just doesn''t add up'
+  formattingOptions: []
+  position:
+  - 5.58219726920205e+3
+  - 4.9439374694824e+3
+  width: 2.6e+2
+  connections:
+    indexes:
+    - location: 1050
+      length: 2
+  _effectiveHeight: 7e+1
+- ID: 1039
+  text: 'Kashi - curious type. "Hey! What''s down there?"
+
+    Wis save - roll the 10.  DC 7'
+  formattingOptions: []
+  position:
+  - 5.2681078120081e+3
+  - 4.80951104736324e+3
+  width: 2.3e+2
+  connections:
+    indexes:
+    - location: 1036
+      length: 1
+    - location: 1040
+      length: 2
+  _effectiveHeight: 4.2e+1
+- ID: 1040
+  text: Hear a WHOAHAUHAHAN sound
+  formattingOptions: []
+  position:
+  - 5.29192566275678e+3
+  - 4.88393874104813e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 1039
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 1041
+  text: '"The barrier is guarding a source of corruption, best if we don''t think
+    about it too much. Need to get it safely back. Mostly taking down the barrier,
+    and I have a protective cloth to wrap it in.  Turns his head.  Hand goes into
+    bag. Absent look on his face. Muttering to himself.    "So much power" (it''s
+    juts ridiculous) - pulls out the bag whatever looking in to. Eyes glazed over,
+    like the dragon''s look'
+  formattingOptions: []
+  position:
+  - 4.98062088370404e+3
+  - 4.74808292643225e+3
+  width: 2.4e+2
+  connections:
+    indexes:
+    - location: 1039
+      length: 1
+    - location: 1042
+      length: 1
+  _effectiveHeight: 1.4e+2
+- ID: 1042
+  text: You know, I think we should get to the surface. Clear us a path. (He's up
+    here with you)
+  formattingOptions: []
+  position:
+  - 4.65354955395138e+3
+  - 4.72246301269526e+3
+  width: 2.6e+2
+  connections:
+    indexes:
+    - location: 1041
+      length: 1
+    - location: 1043
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 1043
+  text: 'Chandra knows the monestary (Z: better than the average bear!) . Recognize
+    someting is wrong'
+  formattingOptions: []
+  position:
+  - 4.66017074942664e+3
+  - 4.77232680257156e+3
+  width: 2.3e+2
+  connections:
+    indexes:
+    - location: 1042
+      length: 1
+    - location: 1044
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 1044
+  text: '"you look weird. Are you ok?" You have completed a mission. Has in two hands.'
+  formattingOptions: []
+  position:
+  - 4.65127614696896e+3
+  - 4.8513262329101e+3
+  width: 2.4e+2
+  connections:
+    indexes:
+    - location: 1043
+      length: 1
+    - location: 1045
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 1045
+  text: Chandra "Peace be with you" to Vanna to see if he misses the response.  You
+    know immediately this is a takes him no effort to participate in that.
+  formattingOptions: []
+  position:
+  - 4.65060882926063e+3
+  - 4.91184396362299e+3
+  width: 2.3e+2
+  connections:
+    indexes:
+    - location: 1044
+      length: 1
+    - location: 1046
+      length: 2
+  _effectiveHeight: 5.6e+1
+- ID: 1046
+  text: 'K: can I cast sleep on him:
+
+    DM: worry about chances of success.  Learned that sleep has a certain reach, but
+    works better on those that are already down.
+
+    K: 3rd level - 9d8'
+  formattingOptions: []
+  position:
+  - 4.66429255525347e+3
+  - 5.00077264404292e+3
+  width: 2.3e+2
+  connections:
+    indexes:
+    - location: 1045
+      length: 1
+    - location: 1048
+      length: 1
+  _effectiveHeight: 8.4e+1
+- ID: 1047
+  text: 'Chandra - catch Roh''s eye, glance to the dragon
+
+    Roh - shrugs'
+  formattingOptions: []
+  position:
+  - 4.97672053376909e+3
+  - 4.91179010009761e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 1045
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 1048
+  text: 'About to release it - he noticies. Surprise in eyes as you release it. A
+    moment blink, and he is behind you, Ran around behind you.  He is going to. Attempt
+    to hit you.  Misses twice
+
+    Tries to wrap an arm around your neck, hes have to duck down  (b/c short)
+
+    Yay Mage Armor'
+  formattingOptions: []
+  position:
+  - 4.93406692862586e+3
+  - 4.9824489237467e+3
+  width: 2.2e+2
+  connections:
+    indexes:
+    - location: 1046
+      length: 1
+    - location: 1049
+      length: 1
+  _effectiveHeight: 1.12e+2
+- ID: 1049
+  text: Don't know what your playing at - what are you doing
+  formattingOptions: []
+  position:
+  - 5.19137705842731e+3
+  - 4.94635873413082e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 1048
+      length: 1
+    - location: 1050
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 1050
+  text: '"Preventing what''s enthralling you"'
+  formattingOptions: []
+  position:
+  - 5.39615351716755e+3
+  - 4.94046502685543e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 1038
+      length: 1
+    - location: 1049
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 1051
+  text: 'Chandra starts crying: "this is not like you."
+
+    He sees this air of confusion, see eyes clear up. "Oh.  my sorry about that. Let''s
+    go, and booking out of the cavern"'
+  formattingOptions: []
+  position:
+  - 5.8907546524215e+3
+  - 4.9729656880696e+3
+  width: 2.5e+2
+  connections:
+    indexes:
+    - location: 1038
+      length: 1
+    - location: 1052
+      length: 1
+  _effectiveHeight: 5.6e+1
+- ID: 1052
+  text: 'W: how baggy is his outfit.  Like a robe pocket or a jeans pocket?"
+
+    DM: more like a messanager bag.  Robes, more baggy, everything intertwined, but
+    carefully controled. He relies on quick movement
+
+    W: had been waiting for a moment of distraction, and trying to latch on to it
+    while shaking his head. Mistystep to his side and grab the object from his  bag
+    in a mischevious kind of way
+
+    Sleight of Hand check - will contest that with acrobactifcs at disadvantage
+
+    15 vs 27.  sad panda(s)
+
+    Done well, two hands go down, glances at you, looks back at Chandra.  "Nice try"
+    puts a hand over the pouch'
+  formattingOptions: []
+  position:
+  - 5.88351191560509e+3
+  - 5.07637750244134e+3
+  width: 3e+2
+  connections:
+    indexes:
+    - location: 1051
+      length: 1
+    - location: 1053
+      length: 1
+  _effectiveHeight: 2.1e+2
+- ID: 1053
+  text: 'W: if my hand is in the bag. Now a crane game.  Paw is grasping on the palm
+    as the hand gets pulled out.
+
+    STR vs STR - 15 vs 23 (fail)
+
+    Just feel them slipping as he pulls your hands
+
+    Widget is shorter than VG (not short or small)  Like losing arm wrestling, I''m
+    just going to hurt myself.'
+  formattingOptions: []
+  position:
+  - 5.62154159903608e+3
+  - 5.04085712687169e+3
+  width: 2.3e+2
+  connections:
+    indexes:
+    - location: 1052
+      length: 1
+    - location: 1054
+      length: 1
+  _effectiveHeight: 1.26e+2
+- ID: 1054
+  text: 'K: show us what it is. We''ve been here. I''ve died almost... twice. I want
+    toknow WTF we''re doing here
+
+    "not right here"
+
+    "we''re doing it now"
+
+    Intimidation check (Roh going to participate - creep up behind him.
+
+    K: 10 on intimidation
+
+    "I get what you''re saying. This is the wrong place"
+
+    W: right by his side - if run, kick his foot out from under him.'
+  formattingOptions: []
+  position:
+  - 5.38250188549439e+3
+  - 5.04253798421218e+3
+  width: 2.2e+2
+  connections:
+    indexes:
+    - location: 1053
+      length: 1
+    - location: 1055
+      length: 1
+  _effectiveHeight: 1.68e+2
+- ID: 1055
+  text: He is watching, he clocks you, and almost rolls his eyes.  Back to full speed
+    and paying attention to everything.  Roh catches him right in the back.
+  formattingOptions: []
+  position:
+  - 5.16264557242471e+3
+  - 5.05157017008458e+3
+  width: 1.9e+2
+  connections:
+    indexes:
+    - location: 1054
+      length: 1
+    - location: 1056
+      length: 1
+  _effectiveHeight: 7e+1
+- ID: 1056
+  text: Chandra - immovable rod try to hold him down by his neck
+  formattingOptions: []
+  position:
+  - 5.15682139436481e+3
+  - 5.15202264404291e+3
+  width: 1.9e+2
+  connections:
+    indexes:
+    - location: 1055
+      length: 1
+    - location: 1057
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 1057
+  text: He goes to roll, clink in place, held.
+  formattingOptions: []
+  position:
+  - 5.18770274202104e+3
+  - 5.23425505574538e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 1056
+      length: 1
+    - location: 1058
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 1058
+  text: He's fast, strong, good at movement. No guarantee to keep him in one place
+    very long. Options of getting out very limited
+  formattingOptions: []
+  position:
+  - 4.94419703523392e+3
+  - 5.25370329793288e+3
+  width: 2.1e+2
+  connections:
+    indexes:
+    - location: 1057
+      length: 1
+    - location: 1059
+      length: 1
+  _effectiveHeight: 5.6e+1
+- ID: 1059
+  text: Roh- he's splatted out.  But secure him, Sit on him.   That is enough to do
+    it.  HE immediately recongized the situation to slide out sideways under it. then
+    ROh sits on him
+  formattingOptions: []
+  position:
+  - 4.95408249259067e+3
+  - 5.12528731282546e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 1058
+      length: 1
+    - location: 1060
+      length: 1
+  _effectiveHeight: 9.8e+1
+- ID: 1060
+  text: 'Have him contained.
+
+    Roh STR check.  7  you are holding him down, but under the rod, can''t contain
+    arms and hands. Trying to get purchase.'
+  formattingOptions: []
+  position:
+  - 4.66133748730092e+3
+  - 5.13222899373366e+3
+  width: 2.2e+2
+  connections:
+    indexes:
+    - location: 1059
+      length: 1
+    - location: 1061
+      length: 1
+  _effectiveHeight: 7e+1
+- ID: 1061
+  text: Kashi - mage hand object out of his bag.  Not touching it so can inspect it.
+  formattingOptions: []
+  position:
+  - 4.6639208002892e+3
+  - 5.23170490519199e+3
+  width: 2.1e+2
+  connections:
+    indexes:
+    - location: 1060
+      length: 1
+    - location: 1062
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 1062
+  text: 'He stop struggling as athe object comes lose. Doesn''t have a great deal
+    of strength, as it does the cloth is unfolding  and see coming out of it, a book
+
+    Orange Leather Bound Tome with brown grey brown pages, hanging from the binding
+    hangling open, see a puff of spore and spore cloud.'
+  formattingOptions:
+  - options: 1
+    rangeStart: 153
+    rangeLength: 26
+  position:
+  - 4.64900950471628e+3
+  - 5.31229542032871e+3
+  width: 2.1e+2
+  connections:
+    indexes:
+    - location: 1061
+      length: 1
+    - location: 1063
+      length: 1
+  _effectiveHeight: 1.26e+2
+- ID: 1063
+  text: 'Stops struggling - allright, ok. We''ll talk about it here/ Understand not
+    my decision. Do all of us a favor, keep the book closed please, and preferably
+    out of my and everyone''s sight.
+
+    That book is the cause of all of this, the mushrooms the fungus, coming out of
+    that book, need to keep it closed'
+  formattingOptions: []
+  position:
+  - 4.90665217439401e+3
+  - 5.36372171020498e+3
+  width: 2.5e+2
+  connections:
+    indexes:
+    - location: 1062
+      length: 1
+    - location: 1064
+      length: 2
+  _effectiveHeight: 9.8e+1
+- ID: 1064
+  text: 'Chandra - insight (15)- is it mushroom man? '
+  formattingOptions: []
+  position:
+  - 5.19055689851511e+3
+  - 5.47703500366202e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 1063
+      length: 1
+    - location: 1069
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 1065
+  text: 'Kashi binds the book.
+
+    WIS save - (15), when getting close, getting a mental pull, and feels like curiosity
+    - so curious that you''re feeling that pull.
+
+    He wants to look at it so bad. Through that curiosity about everything.  Also
+    feeling the pull of the book, and just able to resist and shrug that off. Almost
+    lost yourself.  Touching this is dangerous, has a will of its own that you get
+    as ene was imposed on Xandrath and then on Vana.
+
+    Finished tying up and backing away.
+
+    Feeling a slight unease that the book has its own draw.
+
+    L: based on distance, or looking at it line of sight
+
+    The influence is significantly lessened, you wouldn''t know it was there if not
+    already been exposed to it before'
+  formattingOptions: []
+  position:
+  - 5.19879969636667e+3
+  - 5.2755221455891e+3
+  width: 3.8e+2
+  connections:
+    indexes:
+    - location: 1063
+      length: 1
+    - location: 1066
+      length: 1
+  _effectiveHeight: 1.68e+2
+- ID: 1066
+  text: 'Arcana or religion check (10)
+
+
+    Not sure what did it, but your combination of instincts seems to work in not touching
+    and wrapping up and standing back seems to be a good combination somehow.'
+  formattingOptions: []
+  position:
+  - 5.61480453848912e+3
+  - 5.226525817871e+3
+  width: 2.3e+2
+  connections:
+    indexes:
+    - location: 1065
+      length: 1
+    - location: 1067
+      length: 1
+  _effectiveHeight: 9.8e+1
+- ID: 1067
+  text: Feel good enough to giving it back, know what we're dealing with without trying
+    to hide from us
+  formattingOptions: []
+  position:
+  - 5.61468857169224e+3
+  - 5.36127094523103e+3
+  width: 2e+2
+  connections:
+    indexes:
+    - location: 1066
+      length: 1
+    - location: 1068
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 1068
+  text: '"Thank you all very much and for resucing me (sounds sarcastic) be very embarssing
+    to report that". These objects are powerful.  We must talk will take you. Why
+    we had to recover it.'
+  formattingOptions: []
+  position:
+  - 5.59616735180291e+3
+  - 5.45882740275057e+3
+  width: 2e+2
+  connections:
+    indexes:
+    - location: 1067
+      length: 1
+    - location: 1070
+      length: 1
+  _effectiveHeight: 8.4e+1
+- ID: 1069
+  text: Good
+  formattingOptions: []
+  position:
+  - 5.38702174226514e+3
+  - 5.48157785034171e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 1064
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 1070
+  text: Releases imovable rod, "don't sweat it - look what it did to that Dragon"
+  formattingOptions: []
+  position:
+  - 5.85922521313103e+3
+  - 5.35452986653638e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 1068
+      length: 1
+    - location: 1071
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 1071
+  text: Didn't think you could have taken me down. I'll shut up now
+  formattingOptions: []
+  position:
+  - 6.05721766511678e+3
+  - 5.32430922444652e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 1070
+      length: 1
+    - location: 1072
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 1072
+  text: 'Let''s not mention it. We have a safe space in the monestary.  There I think
+    need to bring you to OMAN CORI
+
+    Religion check
+
+    C: 23
+
+    R: 4
+
+    K: 9
+
+    W: 11'
+  formattingOptions:
+  - options: 1
+    rangeStart: 97
+    rangeLength: 10
+  position:
+  - 6.08036718090454e+3
+  - 5.4144716796874e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 1071
+      length: 1
+    - location: 1073
+      length: 1
+  _effectiveHeight: 1.4e+2
+- ID: 1073
+  text: 'Recognize the name (not you Roh - stomach growls)
+
+    Immediately know at least by and only by that.
+
+    This is the Leader or Long Time Leader of the Monestary.
+
+    Chandra - make sense, recognize there is a very long time leader of gredar, known
+    as OMAN, only the Vannas meet. And stays within this one sanctuary with a garden
+    and a small apartmnt on the main legistlative / leader building.  Everyone interacts
+    wit hteh Vanas on the day to day.'
+  formattingOptions: []
+  position:
+  - 5.81772903800089e+3
+  - 5.45673834737132e+3
+  width: 2.2e+2
+  connections:
+    indexes:
+    - location: 1072
+      length: 1
+    - location: 1074
+      length: 1
+  _effectiveHeight: 1.96e+2
+- ID: 1074
+  text: Know Oman was an adventurer and had lost a party, horrible accident, his form
+    is altered, and he never goes out. Every now and then the in-the-know will be
+    rumors of missing limbs or changes to manner of being. and Seem to be made up
+    / imaginitive. Do know as a healer you have had one point have enquired on your
+    limits of healig, and left disappointened (sad panda). Had an unreasaonble expectation,
+    The qeustions were "changing significant phsyicality from one thing to another".
+    Have own theiries drawing the dots. Regardless, know that he is still an extremely
+    powerful and effective leader that the Vanna go to get direction for the monestary.
+  formattingOptions: []
+  position:
+  - 5.47531596223592e+3
+  - 5.56401961263014e+3
+  width: 3.1e+2
+  connections:
+    indexes:
+    - location: 1073
+      length: 1
+    - location: 1075
+      length: 1
+  _effectiveHeight: 1.82e+2
+- ID: 1075
+  text: 'Going to be brought to the head of everything in this. '
+  formattingOptions: []
+  position:
+  - 5.20957870841097e+3
+  - 5.52979582722974e+3
+  width: 2.9e+2
+  connections:
+    indexes:
+    - location: 1074
+      length: 1
+    - location: 1076
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 1076
+  text: Vana Gadorn - keep it wrapped up. Not mention it and get out of here.
+  formattingOptions: []
+  position:
+  - 5.17568196972282e+3
+  - 5.56946638997388e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 1075
+      length: 1
+    - location: 1077
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 1077
+  text: 'Kash is following and sketching.
+
+    Chandra will do Create Food and Water.
+
+    Also notice there are mushrooms everywhere. The air - breathing in this spores,
+    and having own confusion had to fight off, just general losign a sense of self
+    to a sense of "I am us and we are everything" pyshcedelic. The pressure of that
+    is lessening.'
+  formattingOptions: []
+  position:
+  - 5.18668976187777e+3
+  - 5.65261066691073e+3
+  width: 2.4e+2
+  connections:
+    indexes:
+    - location: 1076
+      length: 1
+    - location: 1078
+      length: 1
+  _effectiveHeight: 1.26e+2
+- ID: 1078
+  text: Vanna is almost antsy towards the exit. He quickly lead back and through.
+    Ceased doing staying behind and following lead.  He's "alright, this way, guding"
+    - he had some opinions about how you progressed things, but now the mission is
+    accomplished, I'm taking us on the short path out
+  formattingOptions: []
+  position:
+  - 4.8978565506147e+3
+  - 5.60622638956698e+3
+  width: 2.6e+2
+  connections:
+    indexes:
+    - location: 1077
+      length: 1
+    - location: 1079
+      length: 1
+  _effectiveHeight: 9.8e+1
+- ID: 1079
+  text: Do go back through the fungal forest, still dangerous journey, takes all of
+    you with wits and care to avoid the dangers of creatures and what you're traveling
+    with
+  formattingOptions: []
+  position:
+  - 4.89811208446886e+3
+  - 5.50749195353182e+3
+  width: 2.7e+2
+  connections:
+    indexes:
+    - location: 1078
+      length: 1
+    - location: 1080
+      length: 1
+  _effectiveHeight: 5.6e+1
+- ID: 1080
+  text: 'Tense trip. But back to the air ship. See some (not all) of the tension leave
+    Vanna. He keeps to himself, not interacting with captain and ships hands.
+
+    Does not seem offended by us watching. Keeps hands up and about.  A little shooken
+    by what happened.
+
+    Does actully  - whoever is watching at the time, I have a notebook. Will get some
+    paper, and move it to another pouch. I''ll do some writing.'
+  formattingOptions: []
+  position:
+  - 4.64275563915634e+3
+  - 5.48937763468416e+3
+  width: 2.2e+2
+  connections:
+    indexes:
+    - location: 1079
+      length: 1
+    - location: 1081
+      length: 1
+  _effectiveHeight: 1.68e+2
+- ID: 1081
+  text: "Roh - no access to anything of his own. I will go get paper and books.\n\"Would
+    you like any different colors\"\n\"Roll for purple ink\" - \"natural 20\"\nno
+    color paper (officially), no color inks.\n\"purple ink - it smells purple to you
+    - dump it in water.\" \"how did you even do that?\"\nVanna has this amused look
+    - been gone awhile, and put the purple ink down. And stares at you in stunned
+    silence\nRoh: nods\nV: I did ask for it.  \nK: Kash was there, \"oh you needed
+    purple\", and has an entire kit from all his scribblings."
+  formattingOptions: []
+  position:
+  - 4.64490814566675e+3
+  - 5.68358748372388e+3
+  width: 2.3e+2
+  connections:
+    indexes:
+    - location: 1080
+      length: 1
+    - location: 1082
+      length: 2
+  _effectiveHeight: 2.1e+2
+- ID: 1082
+  text: 'V: I was jo... thank you, and starts writing. Completley at a lostt'
+  formattingOptions: []
+  position:
+  - 4.90271672924422e+3
+  - 5.74509372965488e+3
+  width: 2.2e+2
+  connections:
+    indexes:
+    - location: 1081
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 1083
+  text: 'W: just watching the whole trip
+
+    Perception (11).  Reasonably far up, enjoy the movement of the waves. The seas
+    will get significantly rougher.  8-10-12'' waves, just moving continuously.  See
+    active sea life, swear you saw the splashing tail of an extremely large sea creature,
+    but were looking at the other direction, looked for another one, no such luck,
+
+    So big you can''t quite'
+  formattingOptions: []
+  position:
+  - 4.92668330232365e+3
+  - 5.81054569498691e+3
+  width: 2.5e+2
+  connections:
+    indexes:
+    - location: 1081
+      length: 1
+    - location: 1084
+      length: 1
+  _effectiveHeight: 1.4e+2
+- ID: 1084
+  text: LONG REST
+  fillColorRGB:
+    red: 1e+0
+    green: 9.0283e-1
+    blue: 9.76506e-1
+  formattingOptions: []
+  position:
+  - 5.24121424714789e+3
+  - 5.81005680338534e+3
+  width: 8e+1
+  connections:
+    indexes:
+    - location: 1083
+      length: 1
+    - location: 1085
+      length: 2
+  _effectiveHeight: 1.4e+1
+- ID: 1085
+  text: (Hit Dice Discussion)
+  formattingOptions: []
+  position:
+  - 5.21754399975208e+3
+  - 5.87253589884433e+3
+  width: 1.2e+2
+  connections:
+    indexes:
+    - location: 1084
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 1086
+  text: "Vanna: we'll be back to the cloister today, traveling up there. Lemme brief
+    how this is going to go.  \nRescuing me will go to the credit. Don't get big heads,
+    still a lot you don't know, and a lot to seek your help in and explain to you.
+    Understanding for your process.\nI'll need to brief folks. I'll set you up to
+    the Vanna library, reaserach things, new capbilityes, that is privilieged information,
+    and not share it.\nYou will have a while there. Then the next day should be able
+    to introduce you to Oman Corie, and who will have questions, and a request to
+    help with something rather serious."
+  formattingOptions: []
+  position:
+  - 5.43568141023385e+3
+  - 5.7730473734537e+3
+  width: 3.6e+2
+  connections:
+    indexes:
+    - location: 1084
+      length: 1
+    - location: 1087
+      length: 1
+  _effectiveHeight: 1.54e+2
+- ID: 1087
+  text: 'C:"it''s worse than that?"
+
+    V: a little bit. Reason to make sure you''re equipped with what comes next'
+  formattingOptions: []
+  position:
+  - 5.83926458080674e+3
+  - 5.68771020507804e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 1086
+      length: 1
+    - location: 1088
+      length: 2
+  _effectiveHeight: 5.6e+1
+- ID: 1088
+  text: Fast forward - access for learning new skills.  Level to ~SEVEN~ EIGHT for
+    "next" time
+  fillColorRGB:
+    red: 1e+0
+    green: 9.0283e-1
+    blue: 9.76506e-1
+  formattingOptions: []
+  position:
+  - 5.83440628409456e+3
+  - 5.79087279256175e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 1087
+      length: 1
+  _effectiveHeight: 5.6e+1
+- ID: 1089
+  text: Was going to be session 1 of multi session of Orub chapter 2. It got away
+    from us in the 8 sessions or so. Hopefully it was a lot of fun. There is a little
+    more to uncover in chapter 2.  Don't know all the secrets or what's going on.
+    We've reached a nice wrap up point, and completed a significant adventure
+  formattingOptions: []
+  position:
+  - 6.04293655753208e+3
+  - 5.65973891194651e+3
+  width: 2e+2
+  connections:
+    indexes:
+    - location: 1087
+      length: 1
+    - location: 1090
+      length: 1
+  _effectiveHeight: 1.26e+2
+- ID: 1090
+  text: Come back - maybe a bit of a break - schedule kciking butt.
+  formattingOptions: []
+  position:
+  - 6.09442723949822e+3
+  - 5.82540526326486e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 1089
+      length: 1
+    - location: 1091
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 1091
+  text: Maybe alternate - 2 sessons a month instead of 4 1/2
+  formattingOptions: []
+  position:
+  - 6.10020035147739e+3
+  - 5.90251326497385e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 1090
+      length: 1
+    - location: 1106
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 1092
+  text: Figure out where, like if just want to take a break. Will be a little more
+    self-contain
+  formattingOptions: []
+  position:
+  - 5.8883733658003e+3
+  - 5.88813404337554e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 1093
+      length: 2
+  _effectiveHeight: 4.2e+1
+- ID: 1093
+  text: More 1-shotty., can't promise, it's all of us
+  formattingOptions: []
+  position:
+  - 5.8571868423628e+3
+  - 5.96417988077789e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 1092
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 1094
+  text: Fine to not attend - having 2-3 players should be good
+  formattingOptions: []
+  position:
+  - 6.03681056062452e+3
+  - 5.98275430297841e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 1092
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 1095
+  text: Try 1-a-month for OctoberNovemberDecember and end of chapter 2.
+  formattingOptions: []
+  position:
+  - 5.86794413606398e+3
+  - 6.07513045247385e+3
+  width: 1.6e+2
+  connections:
+    indexes: []
+  _effectiveHeight: 4.2e+1
+- ID: 1096
+  text: OOC Next couple of sections. what do you think?
+  formattingOptions: []
+  position:
+  - 5.69452413280877e+3
+  - 6.02287993367504e+3
+  width: 2.4e+2
+  connections:
+    indexes:
+    - location: 1097
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 1097
+  text: Ideas - books of evil library
+  formattingOptions: []
+  position:
+  - 5.67943695426059e+3
+  - 6.07045398966462e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 1096
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 1098
+  text: 'Will get library tables. Can each pick one of those tables - roll (dX) but
+    they are meant for you to pick from.
+
+    Like one would be "geography - grassy / ocean jungle / tundra" - pick one from
+    that table. "I find this interesting.'
+  formattingOptions: []
+  position:
+  - 5.82813268383416e+3
+  - 6.14583133951814e+3
+  width: 2.3e+2
+  connections:
+    indexes: []
+  _effectiveHeight: 8.4e+1
+- ID: 1099
+  text: 'Pick one table and one thing
+
+    - generally fun to add to the game (what characters experience), or something
+    player would like. either way'
+  fillColorRGB:
+    red: 1e+0
+    green: 9.0283e-1
+    blue: 9.76506e-1
+  formattingOptions: []
+  position:
+  - 5.45756821036408e+3
+  - 5.97476538594556e+3
+  width: 1.6e+2
+  connections:
+    indexes: []
+  _effectiveHeight: 7e+1
+- ID: 1100
+  text: And can advocate for tables or questions, this is your chance, a get to inject
+    into this world a little bit
+  formattingOptions: []
+  position:
+  - 5.45862559358348e+3
+  - 6.10429060872387e+3
+  width: 2.2e+2
+  connections:
+    indexes: []
+  _effectiveHeight: 4.2e+1
+- ID: 1101
+  text: Not going to be as big as this one. Will be a get in / experience / get out
+    (SO YOU SAY)
+  formattingOptions: []
+  position:
+  - 5.62147191723257e+3
+  - 6.1830807393391e+3
+  width: 1.6e+2
+  connections:
+    indexes: []
+  _effectiveHeight: 5.6e+1
+- ID: 1102
+  text: 'October:
+
+    Bork: totally open
+
+    Step: 15th out, 8th not great
+
+    1, 22, 29 (halloween)
+
+    22 - looking good! (theme good halloween vibe)'
+  formattingOptions:
+  - options: 1
+    rangeStart: 80
+    rangeLength: 18
+  position:
+  - 5.2266030410932e+3
+  - 5.95648006693512e+3
+  width: 1.6e+2
+  connections:
+    indexes: []
+  _effectiveHeight: 8.4e+1
+- ID: 1103
+  text: 'November: 12'
+  formattingOptions:
+  - options: 1
+    rangeStart: 0
+    rangeLength: 12
+  position:
+  - 5.22328720450464e+3
+  - 6.06764957682282e+3
   width: 1.6e+2
   connections:
     indexes: []
   _effectiveHeight: 1.4e+1
+- ID: 1104
+  text: 'December: 17 tentative'
+  formattingOptions:
+  - options: 1
+    rangeStart: 0
+    rangeLength: 22
+  position:
+  - 5.25732737580998e+3
+  - 6.11083612060537e+3
+  width: 1.6e+2
+  connections:
+    indexes: []
+  _effectiveHeight: 1.4e+1
+- ID: 1105
+  text: Santa Claus isn't a white dude in a coat, he's a polar bear covered in blood
+  formattingOptions: []
+  position:
+  - 5.00684535066349e+3
+  - 6.01448821004222e+3
+  width: 1.6e+2
+  connections:
+    indexes: []
+  _effectiveHeight: 4.2e+1
+- ID: 1106
+  text: 'One minute teaser:
+
+    you''ve stumbled on a world-threatening problem that OC have tried to contain.  Now
+    we get another book at another location.'
+  formattingOptions:
+  - options: 2
+    rangeStart: 0
+    rangeLength: 142
+  position:
+  - 6.09206538240185e+3
+  - 6.06495609537748e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 1091
+      length: 1
+  _effectiveHeight: 8.4e+1
