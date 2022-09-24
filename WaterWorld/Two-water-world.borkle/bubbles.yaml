@@ -10005,8 +10005,8 @@
   text: ''
   formattingOptions: []
   position:
-  - 4.99594309768437e+3
-  - 2.99783095374484e+3
+  - 5.00959696731328e+3
+  - 2.41063239112277e+3
   width: 1.6e+2
   connections:
     indexes:
@@ -10017,8 +10017,8 @@
   text: ''
   formattingOptions: []
   position:
-  - 5.34027107434396e+3
-  - 2.99645059673595e+3
+  - 5.35392494397287e+3
+  - 2.40925203411388e+3
   width: 1.6e+2
   connections:
     indexes:
@@ -11864,8 +11864,8 @@
     blue: 9.42763e-1
   formattingOptions: []
   position:
-  - 4.66548079237144e+3
-  - 4.94517829073442e+3
+  - 4.76333235487144e+3
+  - 4.32832364214433e+3
   width: 1.6e+2
   connections:
     indexes: []
@@ -12456,8 +12456,8 @@
   text: Found remains the of the Mayor and another magical item.  Unlocked the basement
   formattingOptions: []
   position:
-  - 5.32991999622596e+3
-  - 2.46353395862686e+2
+  - 5.54038216968788e+3
+  - 1.13919466419327e+2
   width: 1.6e+2
   connections:
     indexes:
@@ -12478,8 +12478,8 @@
     blue: 9.42763e-1
   formattingOptions: []
   position:
-  - 5.25599590518029e+3
-  - 2.15381575324825e+2
+  - 5.66179561831506e+3
+  - 5.41787860181844e+1
   width: 6e+1
   connections:
     indexes:
@@ -12510,8 +12510,8 @@
     blue: 9.42763e-1
   formattingOptions: []
   position:
-  - 5.50681832304455e+3
-  - 2.81210899940216e+2
+  - 5.55880379667736e+3
+  - 6.53338857800598e+1
   width: 5e+1
   connections:
     indexes:
@@ -12526,8 +12526,8 @@
     blue: 9.42763e-1
   formattingOptions: []
   position:
-  - 5.14498520255176e+3
-  - 2.28379314716358e+2
+  - 5.76189979910938e+3
+  - 8.123959379961e+1
   width: 5e+1
   connections:
     indexes:
@@ -12538,8 +12538,8 @@
   text: Prisoners in cage begging to let us out.
   formattingOptions: []
   position:
-  - 5.08101425528613e+3
-  - 2.67423621544783e+2
+  - 5.76138237357226e+3
+  - 1.34261351952498e+2
   width: 2.1e+2
   connections:
     indexes:
@@ -12560,8 +12560,8 @@
     blue: 9.42763e-1
   formattingOptions: []
   position:
-  - 4.87787874585035e+3
-  - 2.35002781755109e+2
+  - 6.08161615734937e+3
+  - 8.53476685348942e+1
   width: 6e+1
   connections:
     indexes:
@@ -12576,8 +12576,8 @@
     blue: 9.42763e-1
   formattingOptions: []
   position:
-  - 5.08322523034622e+3
-  - 3.28735924354268e+2
+  - 5.75112310327102e+3
+  - 1.95210610023213e+2
   width: 6e+1
   connections:
     indexes:
@@ -12592,8 +12592,8 @@
     blue: 9.42763e-1
   formattingOptions: []
   position:
-  - 4.7650990096431e+3
-  - 2.25261216384016e+2
+  - 6.00951898492386e+3
+  - 5.28347256003246e+1
   width: 6e+1
   connections:
     indexes:
@@ -12604,8 +12604,8 @@
   text: Widget ritually figures out it is a polymorph spell
   formattingOptions: []
   position:
-  - 4.83897145555656e+3
-  - 2.89372779259616e+2
+  - 6.04501973436515e+3
+  - 1.42566138634616e+2
   width: 1.6e+2
   connections:
     indexes:
@@ -12622,8 +12622,8 @@
     blue: 9.42763e-1
   formattingOptions: []
   position:
-  - 5.17113989380776e+3
-  - 3.42951246995493e+2
+  - 5.8995188763517e+3
+  - 7.14271609969579e+1
   width: 6e+1
   connections:
     indexes:
@@ -12638,8 +12638,8 @@
     blue: 9.42763e-1
   formattingOptions: []
   position:
-  - 4.65882342182759e+3
-  - 3.66957782452224e+2
+  - 5.65693697773579e+3
+  - 1.98377841656326e+2
   width: 6e+1
   connections:
     indexes:
@@ -12654,8 +12654,8 @@
     blue: 9.42763e-1
   formattingOptions: []
   position:
-  - 4.87577194571582e+3
-  - 3.53469435472056e+2
+  - 6.21577408194629e+3
+  - 3.14492689866587e+2
   width: 6e+1
   connections:
     indexes:
@@ -12670,8 +12670,8 @@
     blue: 9.42763e-1
   formattingOptions: []
   position:
-  - 4.69924808566473e+3
-  - 2.65075646033955e+2
+  - 6.20207065646551e+3
+  - 2.00322685828877e+2
   width: 6e+1
   connections:
     indexes:
@@ -12682,8 +12682,8 @@
   text: Ro tries to escape Widget's grasp - STR vs DEX
   formattingOptions: []
   position:
-  - 4.65431367498266e+3
-  - 3.1390776179417e+2
+  - 6.0181053314768e+3
+  - 2.06638169509014e+2
   width: 1.6e+2
   connections:
     indexes:
@@ -12698,8 +12698,8 @@
   text: Widget takes a crystal goblet - container / bucket, upends over the frogs
   formattingOptions: []
   position:
-  - 4.67435161067978e+3
-  - 4.15920466496694e+2
+  - 5.66444709255234e+3
+  - 2.48550280644643e+2
   width: 1.6e+2
   connections:
     indexes:
@@ -12722,8 +12722,8 @@
     blue: 9.42763e-1
   formattingOptions: []
   position:
-  - 4.78593575468517e+3
-  - 3.67341552734675e+2
+  - 5.85320809355236e+3
+  - 2.08964668274226e+2
   width: 6e+1
   connections:
     indexes:
@@ -12738,8 +12738,8 @@
     blue: 9.42763e-1
   formattingOptions: []
   position:
-  - 4.99508576970921e+3
-  - 3.57566068209435e+2
+  - 5.53806214910374e+3
+  - 3.04348447359826e+2
   width: 6e+1
   connections:
     indexes:
@@ -12754,8 +12754,8 @@
     blue: 9.42763e-1
   formattingOptions: []
   position:
-  - 4.68148342783722e+3
-  - 4.93741464468449e+2
+  - 5.56773354227814e+3
+  - 2.21184701773136e+2
   width: 6e+1
   connections:
     indexes:
@@ -12770,8 +12770,8 @@
     blue: 9.42763e-1
   formattingOptions: []
   position:
-  - 4.78164611000368e+3
-  - 5.07306574895132e+2
+  - 5.20314318794558e+3
+  - 2.26950778081167e+2
   width: 6e+1
   connections:
     indexes:
@@ -12786,8 +12786,8 @@
     blue: 9.42763e-1
   formattingOptions: []
   position:
-  - 5.20723251700489e+3
-  - 3.77972984901141e+2
+  - 5.11953148245899e+3
+  - 2.49181633582782e+2
   width: 6e+1
   connections:
     indexes:
@@ -12802,8 +12802,8 @@
     blue: 9.42763e-1
   formattingOptions: []
   position:
-  - 5.10514056049948e+3
-  - 3.80973426232271e+2
+  - 5.13120158039694e+3
+  - 4.0250891817563e+2
   width: 6e+1
   connections:
     indexes:
@@ -12818,8 +12818,8 @@
     blue: 9.42763e-1
   formattingOptions: []
   position:
-  - 5.41966448628073e+3
-  - 3.83323491023437e+2
+  - 4.82531626545553e+3
+  - 2.54963124202148e+2
   width: 6e+1
   connections:
     indexes:
@@ -12836,8 +12836,8 @@
     *do* know that reducing to zero points.'
   formattingOptions: []
   position:
-  - 4.87580382484743e+3
-  - 4.1604896897566e+2
+  - 5.2869241251404e+3
+  - 2.35295413677808e+2
   width: 2.1e+2
   connections:
     indexes:
@@ -12856,8 +12856,8 @@
     "I think we have to kill them'
   formattingOptions: []
   position:
-  - 5.14934668091714e+3
-  - 4.22735558143329e+2
+  - 5.06318136719644e+3
+  - 3.03911018958759e+2
   width: 1.6e+2
   connections:
     indexes:
@@ -12872,8 +12872,8 @@
   text: Kash is aghast, and nods
   formattingOptions: []
   position:
-  - 5.31685531973926e+3
-  - 3.46367948092247e+2
+  - 4.94393097281543e+3
+  - 2.61339376009727e+2
   width: 1.6e+2
   connections:
     indexes:
@@ -12884,8 +12884,8 @@
   text: '"No pain-free murder spells"'
   formattingOptions: []
   position:
-  - 5.34543582980537e+3
-  - 4.2754292180018e+2
+  - 4.85269184176826e+3
+  - 3.13258520860239e+2
   width: 1.6e+2
   connections:
     indexes:
@@ -12900,8 +12900,8 @@
   text: Kash magic missiles them
   formattingOptions: []
   position:
-  - 5.34175062097123e+3
-  - 4.70802856445612e+2
+  - 4.72996721185258e+3
+  - 3.5779214477569e+2
   width: 1.6e+2
   connections:
     indexes:
@@ -12916,8 +12916,8 @@
   text: Chandra first (2 damage) Ro (3 damage)
   formattingOptions: []
   position:
-  - 5.30702753278013e+3
-  - 5.34897282527343e+2
+  - 4.7053483030438e+3
+  - 4.1229657451953e+2
   width: 2e+2
   connections:
     indexes:
@@ -12930,8 +12930,8 @@
   text: Being Frog Malkovich
   formattingOptions: []
   position:
-  - 5.15384478413229e+3
-  - 4.90781024639723e+2
+  - 4.97357004963522e+3
+  - 3.9120521897566e+2
   width: 1.6e+2
   connections:
     indexes:
@@ -12944,8 +12944,8 @@
     Who are these people.'
   formattingOptions: []
   position:
-  - 5.32470171772604e+3
-  - 5.9990357384345e+2
+  - 4.95738993488913e+3
+  - 4.41317224356145e+2
   width: 1.6e+2
   connections:
     indexes:
@@ -12966,8 +12966,8 @@
     "Do you remember us. Did you meet us"'
   formattingOptions: []
   position:
-  - 5.12697908025617e+3
-  - 5.27576631986468e+2
+  - 4.70811837774152e+3
+  - 4.65509523832171e+2
   width: 1.6e+2
   connections:
     indexes:
@@ -12980,8 +12980,8 @@
   text: take Water skin and poke at your hand, just testing. All look a little gaunt
   formattingOptions: []
   position:
-  - 4.94688757447192e+3
-  - 5.48702965369882e+2
+  - 4.71504667786547e+3
+  - 6.01010017982187e+2
   width: 1.6e+2
   connections:
     indexes:
@@ -12997,8 +12997,8 @@
     (Not body doubles.)'
   formattingOptions: []
   position:
-  - 4.89992679660233e+3
-  - 6.13898747371084e+2
+  - 4.94466175143631e+3
+  - 5.23826497004873e+2
   width: 2e+2
   connections:
     indexes:
@@ -13014,8 +13014,8 @@
     "I am Ankish"'
   formattingOptions: []
   position:
-  - 4.67153972103141e+3
-  - 5.7124892953755e+2
+  - 5.18309794857047e+3
+  - 5.34454114474074e+2
   width: 2e+2
   connections:
     indexes:
@@ -13028,8 +13028,8 @@
   text: Reasonable fear and confusion
   formattingOptions: []
   position:
-  - 5.12562776189688e+3
-  - 6.64730421800225e+2
+  - 5.15918878179434e+3
+  - 4.63389021653741e+2
   width: 1.6e+2
   connections:
     indexes:
@@ -13044,8 +13044,8 @@
     "going to let us free?"'
   formattingOptions: []
   position:
-  - 4.66021737089628e+3
-  - 6.51141977163807e+2
+  - 5.32032105436796e+3
+  - 3.90377817007557e+2
   width: 2.1e+2
   connections:
     indexes:
@@ -13060,8 +13060,8 @@
     Kashi magic missile at the locks'
   formattingOptions: []
   position:
-  - 4.65855759024724e+3
-  - 7.22674757737726e+2
+  - 5.45153763175114e+3
+  - 5.17779585618586e+2
   width: 2.1e+2
   connections:
     indexes:
@@ -13076,8 +13076,8 @@
     really dead"
   formattingOptions: []
   position:
-  - 4.66175902504291e+3
-  - 7.98973445012365e+2
+  - 5.45438536781635e+3
+  - 5.74028834416662e+2
   width: 2.1e+2
   connections:
     indexes:
@@ -13095,8 +13095,8 @@
     People are finding their families'
   formattingOptions: []
   position:
-  - 4.90886403368173e+3
-  - 7.47194692758759e+2
+  - 5.70151326463876e+3
+  - 5.50187704233368e+2
   width: 2.2e+2
   connections:
     indexes:
@@ -13118,24 +13118,24 @@
     "Coming down and casting spells," and talking over each other.'
   formattingOptions: []
   position:
-  - 5.15166432665048e+3
-  - 7.29134061373543e+2
-  width: 2e+2
+  - 5.59177159593759e+3
+  - 3.5087646249659e+2
+  width: 3.3e+2
   connections:
     indexes:
     - location: 831
       length: 1
     - location: 833
       length: 1
-  _effectiveHeight: 1.96e+2
+  _effectiveHeight: 1.26e+2
 - ID: 833
   text: Pick up - the Mayor's Proxy - pulled the stronger citizens from the families
     and made prisoners. Keep town i nline, and removed their strength to avoid going
     into the haze. And had them keep drinking the beer and let them all get lost
   formattingOptions: []
   position:
-  - 5.36908009813482e+3
-  - 6.68767944336283e+2
+  - 5.9599072770899e+3
+  - 2.906385955814e+2
   width: 2.1e+2
   connections:
     indexes:
@@ -13151,8 +13151,8 @@
     Maybe that''s what''s keeping us out of trouble'
   formattingOptions: []
   position:
-  - 5.38072716269244e+3
-  - 7.94505486082088e+2
+  - 5.99753838095416e+3
+  - 4.29029259275448e+2
   width: 2.5e+2
   connections:
     indexes:
@@ -13170,16 +13170,16 @@
     the town further, as a thanks."
   formattingOptions: []
   position:
-  - 5.39645789436312e+3
-  - 8.78206751857345e+2
-  width: 2.3e+2
+  - 6.01460501960726e+3
+  - 5.17553446803634e+2
+  width: 2.8e+2
   connections:
     indexes:
     - location: 834
       length: 1
     - location: 836
       length: 1
-  _effectiveHeight: 1.68e+2
+  _effectiveHeight: 1.4e+2
 - ID: 836
   text: 'Chandra: Going on in that big pit in the middle of town?
 
@@ -13192,8 +13192,8 @@
     right'
   formattingOptions: []
   position:
-  - 5.11481327121176e+3
-  - 9.54018657978135e+2
+  - 6.04126758639731e+3
+  - 7.26195019062119e+2
   width: 2.4e+2
   connections:
     indexes:
@@ -13209,8 +13209,8 @@
     mushrooms starting to pop up, and all this fog. It was really calmng
   formattingOptions: []
   position:
-  - 4.79401577647017e+3
-  - 9.04690795898808e+2
+  - 5.74662380869673e+3
+  - 7.1095216369666e+2
   width: 2.5e+2
   connections:
     indexes:
@@ -13232,8 +13232,8 @@
     From underneath the town into the surrounding area'
   formattingOptions: []
   position:
-  - 4.66682743136805e+3
-  - 1.02839384577862e+3
+  - 5.4043392187826e+3
+  - 6.95900101882136e+2
   width: 2.8e+2
   connections:
     indexes:
@@ -13246,8 +13246,8 @@
   text: '"Ro - that''s not good"'
   formattingOptions: []
   position:
-  - 4.96617970750988e+3
-  - 1.06657485727201e+3
+  - 5.26154622362316e+3
+  - 6.45164258517127e+2
   width: 1.2e+2
   connections:
     indexes:
@@ -13260,8 +13260,8 @@
     That sounds dope'
   formattingOptions: []
   position:
-  - 4.97124769128392e+3
-  - 1.15222652494028e+3
+  - 5.72990255273412e+3
+  - 8.54637108436374e+2
   width: 1.6e+2
   connections:
     indexes:
@@ -13277,8 +13277,8 @@
     blue: 9.76506e-1
   formattingOptions: []
   position:
-  - 4.67448166251288e+3
-  - 1.26466417518066e+3
+  - 5.0393470036994e+3
+  - 6.8812364783691e+2
   width: 2.3e+2
   connections:
     indexes:
@@ -13294,8 +13294,8 @@
     , and find someone it''s better suited for'
   formattingOptions: []
   position:
-  - 4.92931813524426e+3
-  - 1.21590239070051e+3
+  - 4.71706776903332e+3
+  - 7.1042143366926e+2
   width: 2.4e+2
   connections:
     indexes:
@@ -13308,8 +13308,8 @@
     Widget - 13, chandra - 14, kashi - 16 (oho!) '
   formattingOptions: []
   position:
-  - 4.65552390823104e+3
-  - 1.3754317626957e+3
+  - 4.72996249923446e+3
+  - 7.95058723450095e+2
   width: 2.4e+2
   connections:
     indexes:
@@ -13326,22 +13326,22 @@
     been a dream'
   formattingOptions: []
   position:
-  - 4.93883511240772e+3
-  - 1.30175810359113e+3
-  width: 1.9e+2
+  - 5.01546177561573e+3
+  - 7.90809731703923e+2
+  width: 3.4e+2
   connections:
     indexes:
     - location: 841
       length: 1
     - location: 845
       length: 1
-  _effectiveHeight: 1.82e+2
+  _effectiveHeight: 9.8e+1
 - ID: 845
   text: Ro Groans audibly and goes to look outside his window
   formattingOptions: []
   position:
-  - 5.16444302256397e+3
-  - 1.43938932917707e+3
+  - 4.73371761973194e+3
+  - 9.03453583937812e+2
   width: 2e+2
   connections:
     indexes:
@@ -13354,8 +13354,8 @@
   text: (haven't long rested yet, Ro Spends hit dice)
   formattingOptions: []
   position:
-  - 5.18139408175868e+3
-  - 1.3709056302588e+3
+  - 4.73408466403407e+3
+  - 1.0065966245215e+3
   width: 1.6e+2
   connections:
     indexes:
@@ -13371,8 +13371,8 @@
     "if they''re ambling, I''m sauntering, just swaggering"'
   formattingOptions: []
   position:
-  - 5.19593744488968e+3
-  - 1.25971276855508e+3
+  - 4.95296510907425e+3
+  - 9.24477325439846e+2
   width: 2e+2
   connections:
     indexes:
@@ -13385,8 +13385,8 @@
   text: 40ft sauntering speed. Catching up
   formattingOptions: []
   position:
-  - 5.20875360699906e+3
-  - 1.2119726186903e+3
+  - 5.0961243650557e+3
+  - 1.05207500516491e+3
   width: 1.6e+2
   connections:
     indexes:
@@ -13403,8 +13403,8 @@
     blue: 9.76506e-1
   formattingOptions: []
   position:
-  - 5.51993750122982e+3
-  - 4.79309138371737e+2
+  - 4.71327635315853e+3
+  - 3.13661860539706e+2
   width: 5e+1
   connections:
     indexes:
@@ -13415,8 +13415,8 @@
   text: Headed towards edge of town whoever it is. They start running
   formattingOptions: []
   position:
-  - 5.21202674201943e+3
-  - 1.14886769217439e+3
+  - 5.19580893806435e+3
+  - 9.28559922398999e+2
   width: 1.6e+2
   connections:
     indexes:
@@ -13438,8 +13438,8 @@
     They are pretty small (up to Ro''s waist)'
   formattingOptions: []
   position:
-  - 5.39261027767215e+3
-  - 1.0879520216726e+3
+  - 5.30322757198367e+3
+  - 1.00829389484155e+3
   width: 2.3e+2
   connections:
     indexes:
@@ -13452,8 +13452,8 @@
   text: Get within 5 feet of them.
   formattingOptions: []
   position:
-  - 5.43208988253994e+3
-  - 1.22058852914706e+3
+  - 5.42881794040127e+3
+  - 9.36899640597255e+2
   width: 1.6e+2
   connections:
     indexes:
@@ -13467,8 +13467,8 @@
     for their small figure. But Ro grabs on and holds them"
   formattingOptions: []
   position:
-  - 5.47732425753994e+3
-  - 1.26936740347098e+3
+  - 5.56064426486416e+3
+  - 1.00657069631766e+3
   width: 1.6e+2
   connections:
     indexes:
@@ -13481,8 +13481,8 @@
   text: '"22 hit your AC" - give me a CON save.(9)'
   formattingOptions: []
   position:
-  - 5.37894127402064e+3
-  - 1.38527567932885e+3
+  - 5.63853844198939e+3
+  - 9.48172178962639e+2
   width: 2.3e+2
   connections:
     indexes:
@@ -13502,8 +13502,8 @@
     of corner of eye - that sense of recognition'
   formattingOptions: []
   position:
-  - 5.4252666215724e+3
-  - 1.4335710824824e+3
+  - 5.79080617235365e+3
+  - 9.9259680880076e+2
   width: 2.1e+2
   connections:
     indexes:
@@ -13518,8 +13518,8 @@
     "that was rude of them"'
   formattingOptions: []
   position:
-  - 5.65816237152666e+3
-  - 1.3962303395978e+3
+  - 5.92159804047197e+3
+  - 8.82225899290183e+2
   width: 1e+2
   connections:
     indexes:
@@ -13530,8 +13530,8 @@
   text: Ready myself with that nasty spore sword.
   formattingOptions: []
   position:
-  - 5.2311499411337e+3
-  - 1.48786617337785e+3
+  - 5.59067157809659e+3
+  - 1.12118915616594e+3
   width: 1.6e+2
   connections:
     indexes:
@@ -13542,8 +13542,8 @@
   text: The creature is looking smug and not intimidated
   formattingOptions: []
   position:
-  - 5.65252961736567e+3
-  - 1.49968370643073e+3
+  - 6.07213624578364e+3
+  - 9.21032812265691e+2
   width: 1.3e+2
   connections:
     indexes:
@@ -13559,16 +13559,16 @@
     spword.'
   formattingOptions: []
   position:
-  - 5.62891751725982e+3
-  - 1.61666336055633e+3
-  width: 1.6e+2
+  - 6.05894315202544e+3
+  - 1.0132759856784e+3
+  width: 2.6e+2
   connections:
     indexes:
     - location: 855
       length: 1
     - location: 860
       length: 1
-  _effectiveHeight: 8.4e+1
+  _effectiveHeight: 7e+1
 - ID: 860
   text: 'Hits with a 14.  6 damages, and releases debilitating spores.
 
@@ -13577,23 +13577,23 @@
     But they are affected by the spores'
   formattingOptions: []
   position:
-  - 5.43014436345942e+3
-  - 1.61431183800375e+3
-  width: 1.6e+2
+  - 6.06131890874751e+3
+  - 1.12206742272055e+3
+  width: 2.6e+2
   connections:
     indexes:
     - location: 859
       length: 1
     - location: 861
       length: 1
-  _effectiveHeight: 9.8e+1
+  _effectiveHeight: 5.6e+1
 - ID: 861
   text: Ro Rages, and screams at the creature that it is rude to wake people up in
     the middle of the night
   formattingOptions: []
   position:
-  - 5.24054944909645e+3
-  - 1.54909272179282e+3
+  - 6.16569448388649e+3
+  - 1.2273161028353e+3
   width: 1.6e+2
   connections:
     indexes:
@@ -13607,8 +13607,8 @@
     (frogs)
   formattingOptions: []
   position:
-  - 5.24677559843539e+3
-  - 1.62929153207677e+3
+  - 5.96371582975863e+3
+  - 1.21159293893712e+3
   width: 1.6e+2
   connections:
     indexes:
@@ -13623,8 +13623,8 @@
     In that boxer squared off circle around.'
   formattingOptions: []
   position:
-  - 5.24356712112169e+3
-  - 1.69856718562244e+3
+  - 5.76761924514513e+3
+  - 1.18777609370349e+3
   width: 1.6e+2
   connections:
     indexes:
@@ -13643,8 +13643,8 @@
     Just bellow incoherently'
   formattingOptions: []
   position:
-  - 5.0273578268759e+3
-  - 1.7067883394686e+3
+  - 5.5378087240927e+3
+  - 1.17333325371421e+3
   width: 1.8e+2
   connections:
     indexes:
@@ -13662,8 +13662,8 @@
     rangeStart: 0
     rangeLength: 30
   position:
-  - 5.05509074642231e+3
-  - 1.64503205284742e+3
+  - 5.48848285152485e+3
+  - 1.33096077904371e+3
   width: 1.6e+2
   connections:
     indexes:
@@ -13677,8 +13677,8 @@
     of together
   formattingOptions: []
   position:
-  - 5.03831246366991e+3
-  - 1.54227748929573e+3
+  - 5.71129334440722e+3
+  - 1.30949657498909e+3
   width: 1.6e+2
   connections:
     indexes:
@@ -13695,8 +13695,8 @@
     faint fungal odor'
   formattingOptions: []
   position:
-  - 4.6805899201002e+3
-  - 1.52237847900427e+3
+  - 5.17028306585215e+3
+  - 1.16148896789587e+3
   width: 3.3e+2
   connections:
     indexes:
@@ -13712,16 +13712,16 @@
     it. 26 acid. \nDOWN"
   formattingOptions: []
   position:
-  - 4.70260473755816e+3
-  - 1.66007118577259e+3
-  width: 2.1e+2
+  - 4.80507116822222e+3
+  - 1.09830459946888e+3
+  width: 2.8e+2
   connections:
     indexes:
     - location: 867
       length: 1
     - location: 869
       length: 1
-  _effectiveHeight: 1.26e+2
+  _effectiveHeight: 9.8e+1
 - ID: 869
   text: 'Chadra.  Recognize the bellow, and see the covers and recognizes the.  Wakes
     up Widget and runs 60 feet (dash)
@@ -13734,16 +13734,16 @@
     Hear a bellow, sounds vageuly familiar. Sounds like Ro.'
   formattingOptions: []
   position:
-  - 4.66752797411165e+3
-  - 1.82429735389158e+3
-  width: 1.9e+2
+  - 4.69518124864778e+3
+  - 1.23292383399412e+3
+  width: 3.3e+2
   connections:
     indexes:
     - location: 868
       length: 1
     - location: 870
       length: 2
-  _effectiveHeight: 1.54e+2
+  _effectiveHeight: 8.4e+1
 - ID: 870
   text: 'Ro death save - one failure
 
@@ -13752,8 +13752,8 @@
     - one success'
   formattingOptions: []
   position:
-  - 4.91288695473064e+3
-  - 1.78256893216682e+3
+  - 5.06456717628826e+3
+  - 1.24587238370491e+3
   width: 9e+1
   connections:
     indexes:
@@ -13767,8 +13767,8 @@
     Seeing Ro walking towards you.'
   formattingOptions: []
   position:
-  - 4.88856585346862e+3
-  - 1.86853178523174e+3
+  - 4.7655916865985e+3
+  - 1.39410917780986e+3
   width: 1.8e+2
   connections:
     indexes:
@@ -13785,8 +13785,8 @@
     Perception check.  See clearly another Ro, dead or dying'
   formattingOptions: []
   position:
-  - 4.87945832830336e+3
-  - 1.9580331749553e+3
+  - 5.00850488286879e+3
+  - 1.3443893379802e+3
   width: 2e+2
   connections:
     indexes:
@@ -13804,8 +13804,8 @@
     mycelial'
   formattingOptions: []
   position:
-  - 5.11923907124206e+3
-  - 1.85415077561636e+3
+  - 5.24916155659362e+3
+  - 1.31586666459341e+3
   width: 1.6e+2
   connections:
     indexes:
@@ -13820,8 +13820,8 @@
     Ro wakes up from down, in a rage.'
   formattingOptions: []
   position:
-  - 5.30434893452336e+3
-  - 1.78595699369028e+3
+  - 5.46293528401066e+3
+  - 1.38570095120981e+3
   width: 1.6e+2
   connections:
     indexes:
@@ -13838,8 +13838,8 @@
     Rest of us see it losing its Ro form.'
   formattingOptions: []
   position:
-  - 5.5102732884897e+3
-  - 1.74415826416054e+3
+  - 5.63679626822603e+3
+  - 1.41253182983437e+3
   width: 2.5e+2
   connections:
     indexes:
@@ -13852,8 +13852,8 @@
   text: (missed some back and forth)
   formattingOptions: []
   position:
-  - 5.55862871967961e+3
-  - 1.80759841684233e+3
+  - 5.90052523457219e+3
+  - 1.31061923746001e+3
   width: 1.6e+2
   connections:
     indexes:
@@ -13866,8 +13866,8 @@
   text: See small half-size villager "don't hurt me I'm sorry don't hurt me"
   formattingOptions: []
   position:
-  - 5.62245900438513e+3
-  - 1.86807552396373e+3
+  - 6.10137669847693e+3
+  - 1.30845077573375e+3
   width: 1.6e+2
   connections:
     indexes:
@@ -13883,16 +13883,16 @@
     Vilager form drops, stem creature, then pieces, then nothing - is destroyed.'
   formattingOptions: []
   position:
-  - 5.58783066153658e+3
-  - 1.94448064716084e+3
-  width: 1.6e+2
+  - 6.01975609183443e+3
+  - 1.38597230823262e+3
+  width: 2.5e+2
   connections:
     indexes:
     - location: 877
       length: 1
     - location: 879
       length: 1
-  _effectiveHeight: 9.8e+1
+  _effectiveHeight: 5.6e+1
 - ID: 879
   text: 'Kash shoots ray of frost into the ground to salt the earth.
 
@@ -13901,9 +13901,9 @@
     Ro finds his dagger'
   formattingOptions: []
   position:
-  - 5.33778549552095e+3
-  - 1.89021931340183e+3
-  width: 2.1e+2
+  - 6.02334907889497e+3
+  - 1.49160023381199e+3
+  width: 2.6e+2
   connections:
     indexes:
     - location: 878
@@ -13915,8 +13915,8 @@
   text: out of combat.  Not great, but you've been worse
   formattingOptions: []
   position:
-  - 5.36991740657864e+3
-  - 2.00435547814041e+3
+  - 5.82616946651516e+3
+  - 1.48705742821365e+3
   width: 1.6e+2
   connections:
     indexes:
@@ -13930,8 +13930,8 @@
     - explained it, it looked like people"
   formattingOptions: []
   position:
-  - 5.30880497043081e+3
-  - 2.06330172964282e+3
+  - 5.38204792087026e+3
+  - 1.49601737447925e+3
   width: 2e+2
   connections:
     indexes:
@@ -13944,8 +13944,8 @@
   text: Chandra to Widget - tell who's real and who's not?
   formattingOptions: []
   position:
-  - 5.53732810745004e+3
-  - 2.06672636530988e+3
+  - 5.60526695022348e+3
+  - 1.54390829585187e+3
   width: 2e+2
   connections:
     indexes:
@@ -13958,8 +13958,8 @@
   text: '"hit all of them once with the Spwrord"'
   formattingOptions: []
   position:
-  - 5.61309330050893e+3
-  - 2.11575482647274e+3
+  - 5.66707599704213e+3
+  - 1.62015698711727e+3
   width: 1.6e+2
   connections:
     indexes:
@@ -13977,8 +13977,8 @@
     Ro picks him up and moves him off'
   formattingOptions: []
   position:
-  - 5.54055010639836e+3
-  - 2.16982296048717e+3
+  - 5.59699862324406e+3
+  - 1.68824009000377e+3
   width: 2.4e+2
   connections:
     indexes:
@@ -13992,8 +13992,8 @@
     Let's set a watch" and goes upstairs
   formattingOptions: []
   position:
-  - 5.2993016088022e+3
-  - 2.15015377103404e+3
+  - 5.37955505728853e+3
+  - 1.61150157987193e+3
   width: 2e+2
   connections:
     indexes:
@@ -14006,8 +14006,8 @@
   text: '"the cultural fit just isn''t there"'
   formattingOptions: []
   position:
-  - 5.30692987653057e+3
-  - 2.24388499098595e+3
+  - 5.39515299054424e+3
+  - 1.72305537062462e+3
   width: 1.8e+2
   connections:
     indexes:
@@ -14022,8 +14022,8 @@
     blue: 9.76506e-1
   formattingOptions: []
   position:
-  - 5.12096599056302e+3
-  - 2.16961952561636e+3
+  - 5.1817313714224e+3
+  - 1.6150013005187e+3
   width: 1.6e+2
   connections:
     indexes:
@@ -14036,8 +14036,8 @@
   text: What next?  Defeating imposters would be good, but evil in the pit
   formattingOptions: []
   position:
-  - 5.12009454938213e+3
-  - 2.08872432767466e+3
+  - 5.1808599302415e+3
+  - 1.534106102577e+3
   width: 1.6e+2
   connections:
     indexes:
@@ -14054,8 +14054,8 @@
     blue: 1e+0
   formattingOptions: []
   position:
-  - 5.11947978450834e+3
-  - 2.00474248798114e+3
+  - 5.23192630245268e+3
+  - 1.45917318256122e+3
   width: 1e+2
   connections:
     indexes:
@@ -14066,8 +14066,8 @@
   text: Explored up through B5 (crystals and turnaround) and B6
   formattingOptions: []
   position:
-  - 4.91892032687614e+3
-  - 2.05696487192045e+3
+  - 4.97968570773552e+3
+  - 1.50234664682279e+3
   width: 1.6e+2
   connections:
     indexes:
@@ -14080,8 +14080,8 @@
   text: (real world break)
   formattingOptions: []
   position:
-  - 4.87876792678602e+3
-  - 2.13562172288199e+3
+  - 4.9395333076454e+3
+  - 1.58100349778433e+3
   width: 1.6e+2
   connections:
     indexes:
@@ -14092,8 +14092,8 @@
   text: Know lightning is dead end, and crystal cavern.
   formattingOptions: []
   position:
-  - 4.68803897921992e+3
-  - 2.00776504281889e+3
+  - 4.72085727755976e+3
+  - 1.48217719797026e+3
   width: 1.6e+2
   connections:
     indexes:
@@ -14108,8 +14108,8 @@
     Widget - not really no'
   formattingOptions: []
   position:
-  - 4.67591659903664e+3
-  - 2.060748676007e+3
+  - 4.75448685050148e+3
+  - 1.53199348801872e+3
   width: 1.6e+2
   connections:
     indexes:
@@ -14122,8 +14122,8 @@
   text: '"Let''s keep going"'
   formattingOptions: []
   position:
-  - 4.65439527429204e+3
-  - 2.11608831317647e+3
+  - 4.68670820153813e+3
+  - 1.58794141681417e+3
   width: 1.6e+2
   connections:
     indexes:
@@ -14136,8 +14136,8 @@
   text: B7 - Sone fingers coming out of the ground.
   formattingOptions: []
   position:
-  - 4.65373003803904e+3
-  - 2.15810388183633e+3
+  - 4.69479227863963e+3
+  - 1.6296562347416e+3
   width: 1.6e+2
   connections:
     indexes:
@@ -14155,8 +14155,8 @@
     a attention and waiting over the path.'
   formattingOptions: []
   position:
-  - 4.82150864005226e+3
-  - 2.20866202486517e+3
+  - 4.8822802007212e+3
+  - 1.63725943697455e+3
   width: 1.6e+2
   connections:
     indexes:
@@ -14172,8 +14172,8 @@
     like it''s misty). Widget has 5'' radius of light (glowsstick)'
   formattingOptions: []
   position:
-  - 4.65591777278965e+3
-  - 2.2302025522089e+3
+  - 4.66921390010899e+3
+  - 1.70649512423038e+3
   width: 1.4e+2
   connections:
     indexes:
@@ -14188,8 +14188,8 @@
     stuff it''s already eaten. lIke belly of a shark with treasure"'
   formattingOptions: []
   position:
-  - 5.00424517475782e+3
-  - 2.21342365910493e+3
+  - 5.0589541896504e+3
+  - 1.66412785222016e+3
   width: 1.6e+2
   connections:
     indexes:
@@ -14204,8 +14204,8 @@
     13 bounces off.'
   formattingOptions: []
   position:
-  - 5.17824879930709e+3
-  - 2.21672030874436e+3
+  - 5.24092580126022e+3
+  - 1.73513743826096e+3
   width: 1.1e+2
   connections:
     indexes:
@@ -14219,8 +14219,8 @@
     or any "-uls"'
   formattingOptions: []
   position:
-  - 5.2017223569994e+3
-  - 2.31100661996731e+3
+  - 5.20664041730214e+3
+  - 1.82675613168606e+3
   width: 2.2e+2
   connections:
     indexes:
@@ -14233,8 +14233,8 @@
   text: Kashi ray of frosting (17)
   formattingOptions: []
   position:
-  - 5.44673137142245e+3
-  - 2.28708323317345e+3
+  - 5.50317988826815e+3
+  - 1.80550036269005e+3
   width: 1.6e+2
   connections:
     indexes:
@@ -14253,8 +14253,8 @@
     Widget moves underneath it.'
   formattingOptions: []
   position:
-  - 5.44130844473975e+3
-  - 2.32437576059232e+3
+  - 5.69200149893897e+3
+  - 1.86083190683256e+3
   width: 2.5e+2
   connections:
     indexes:
@@ -14277,8 +14277,8 @@
     roh'
   formattingOptions: []
   position:
-  - 5.62291704975778e+3
-  - 2.42080079064046e+3
+  - 5.88654589497262e+3
+  - 1.59445328697835e+3
   width: 1.6e+2
   connections:
     indexes:
@@ -14289,8 +14289,8 @@
   text: Tendrils come for us all
   formattingOptions: []
   position:
-  - 5.42419972704144e+3
-  - 2.41259142127447e+3
+  - 5.94483403490277e+3
+  - 1.80075403418951e+3
   width: 1.6e+2
   connections:
     indexes:
@@ -14303,8 +14303,8 @@
   text: flying towards you now
   formattingOptions: []
   position:
-  - 5.42109153518446e+3
-  - 2.44927430138265e+3
+  - 6.01590705642469e+3
+  - 1.73966050133382e+3
   width: 1.6e+2
   connections:
     indexes:
@@ -14319,8 +14319,8 @@
     Athletics or Acroletics'
   formattingOptions: []
   position:
-  - 5.42069790537681e+3
-  - 2.49360976938145e+3
+  - 6.10118725474204e+3
+  - 1.63415042642491e+3
   width: 1.6e+2
   connections:
     indexes:
@@ -14338,8 +14338,8 @@
     A small rock column next to widget explodes in shards'
   formattingOptions: []
   position:
-  - 5.22965054209556e+3
-  - 2.37927014629701e+3
+  - 6.1632689350399e+3
+  - 1.79490865032533e+3
   width: 1.6e+2
   connections:
     indexes:
@@ -14353,8 +14353,8 @@
     from superman 2), and moves back to Kashi
   formattingOptions: []
   position:
-  - 5.20757281147658e+3
-  - 2.5142586200425e+3
+  - 6.1378003200215e+3
+  - 1.94254994084328e+3
   width: 1.6e+2
   connections:
     indexes:
@@ -14368,8 +14368,8 @@
     tenatacle'
   formattingOptions: []
   position:
-  - 4.9980032032284e+3
-  - 2.40835774113626e+3
+  - 5.9475223224911e+3
+  - 1.88583279301614e+3
   width: 1.6e+2
   connections:
     indexes:
@@ -14383,21 +14383,19 @@
     magic missile.
 
     First time jumped in really since the hags. (character statement, not just forgot
-    about him)
-
-    '
+    about him)'
   formattingOptions: []
   position:
-  - 4.94695771795196e+3
-  - 2.49477122145477e+3
-  width: 2.2e+2
+  - 5.73985543828887e+3
+  - 1.96152346449676e+3
+  width: 3.1e+2
   connections:
     indexes:
     - location: 909
       length: 1
     - location: 911
       length: 1
-  _effectiveHeight: 9.8e+1
+  _effectiveHeight: 5.6e+1
 - ID: 911
   text: 'Tentacles whip around - try to wrap around 30ft away with no slowdown.  Chandra
     misses it.
@@ -14405,8 +14403,8 @@
     Others are grappled and restrained.'
   formattingOptions: []
   position:
-  - 4.72260882221884e+3
-  - 2.39774569936944e+3
+  - 5.50011362873739e+3
+  - 1.87652743765069e+3
   width: 1.6e+2
   connections:
     indexes:
@@ -14425,8 +14423,8 @@
     (it''s locked up mid-chomp on widget'
   formattingOptions: []
   position:
-  - 4.67812292603494e+3
-  - 2.52010743126547e+3
+  - 5.17156088379861e+3
+  - 1.90895401940024e+3
   width: 2.2e+2
   connections:
     indexes:
@@ -14446,8 +14444,8 @@
     Where my fire sphere appears.  Smell burning'
   formattingOptions: []
   position:
-  - 4.67925850859203e+3
-  - 2.66590778996439e+3
+  - 4.83395203581371e+3
+  - 1.83260868718119e+3
   width: 2.9e+2
   connections:
     indexes:
@@ -14460,8 +14458,8 @@
   text: Kashi - can see flames licking out. Magic missile this thing. 8 total
   formattingOptions: []
   position:
-  - 5.00229834107401e+3
-  - 2.64198130446256e+3
+  - 4.66791048554422e+3
+  - 1.96851900893033e+3
   width: 2e+2
   connections:
     indexes:
@@ -14474,8 +14472,8 @@
   text: Chandra - aid at 3rd level, so +10 hp and increase max by 10 for 8 hours
   formattingOptions: []
   position:
-  - 5.00258501850791e+3
-  - 2.70602500093942e+3
+  - 4.92224345051475e+3
+  - 1.96694625032907e+3
   width: 1.6e+2
   connections:
     indexes:
@@ -14490,8 +14488,8 @@
     b/c of restrained on grappled - disadvantage on all the things'
   formattingOptions: []
   position:
-  - 5.22898854540092e+3
-  - 2.6119505756089e+3
+  - 4.68587018297416e+3
+  - 2.05766895939796e+3
   width: 1.9e+2
   connections:
     indexes:
@@ -14504,8 +14502,8 @@
   text: Its turn, can't do anything - Spicy firey meatball
   formattingOptions: []
   position:
-  - 5.21176442430717e+3
-  - 2.70717774376545e+3
+  - 4.96211179064018e+3
+  - 2.06798356041584e+3
   width: 1.6e+2
   connections:
     indexes:
@@ -14518,8 +14516,8 @@
   text: Vanna spends a ki, one hit, con save
   formattingOptions: []
   position:
-  - 5.44017112502832e+3
-  - 2.59645191838233e+3
+  - 5.17663314590234e+3
+  - 2.0792266528794e+3
   width: 1.6e+2
   connections:
     indexes:
@@ -14536,8 +14534,8 @@
     Ray of sickness into the back of its mouth (advantage). Still a tough creature'
   formattingOptions: []
   position:
-  - 5.44929559918696e+3
-  - 2.66577440467291e+3
+  - 5.4216207334643e+3
+  - 1.98740595069342e+3
   width: 1.6e+2
   connections:
     indexes:
@@ -14550,8 +14548,8 @@
   text: Kashi - attacks the tendril
   formattingOptions: []
   position:
-  - 5.6489740847639e+3
-  - 2.60060092397881e+3
+  - 5.65185647001781e+3
+  - 2.09069308706475e+3
   width: 1.6e+2
   connections:
     indexes:
@@ -14564,8 +14562,8 @@
   text: Chandra - bless at third for all of them. moves 20' away
   formattingOptions: []
   position:
-  - 5.69925202947544e+3
-  - 2.6560139676612e+3
+  - 5.88313081365513e+3
+  - 2.07153803077155e+3
   width: 1.6e+2
   connections:
     indexes:
@@ -14579,8 +14577,8 @@
     to floor and is free.  '
   formattingOptions: []
   position:
-  - 5.73320303033113e+3
-  - 2.70449961731704e+3
+  - 6.1206238372159e+3
+  - 2.06438105652602e+3
   width: 1.6e+2
   connections:
     indexes:
@@ -14596,8 +14594,8 @@
     damage
   formattingOptions: []
   position:
-  - 5.64245440327352e+3
-  - 2.79090429218034e+3
+  - 6.04417803608602e+3
+  - 2.17578298480729e+3
   width: 2.9e+2
   connections:
     indexes:
@@ -14611,8 +14609,8 @@
     found discomfort.  another 11 damage'
   formattingOptions: []
   position:
-  - 5.75218171697544e+3
-  - 2.90053927847098e+3
+  - 5.81289567571568e+3
+  - 2.16801989980887e+3
   width: 1.6e+2
   connections:
     indexes:
@@ -14626,8 +14624,8 @@
     Locks up in place again
   formattingOptions: []
   position:
-  - 5.54165136841776e+3
-  - 2.90448595252444e+3
+  - 5.58055593995096e+3
+  - 2.16176233497073e+3
   width: 1.6e+2
   connections:
     indexes:
@@ -14640,8 +14638,8 @@
   text: it can't move - disadvantages on grapple turned off now b/c it can't move
   formattingOptions: []
   position:
-  - 5.42288427857401e+3
-  - 2.82937463378946e+3
+  - 5.35835264710428e+3
+  - 2.19345880126993e+3
   width: 1.6e+2
   connections:
     indexes:
@@ -14655,8 +14653,8 @@
     (18 + 2) - just enough to hit. \nDouble the damage - sickness in its mouth."
   formattingOptions: []
   position:
-  - 5.14517596089071e+3
-  - 2.81490416072005e+3
+  - 5.11261736714071e+3
+  - 2.20064100764388e+3
   width: 2e+2
   connections:
     indexes:
@@ -14669,8 +14667,8 @@
   text: '"ropers - tough as hell to kill"'
   formattingOptions: []
   position:
-  - 5.20524253616118e+3
-  - 2.76735655329819e+3
+  - 5.14901885757231e+3
+  - 2.14867491267319e+3
   width: 1.6e+2
   connections:
     indexes:
@@ -14682,16 +14680,16 @@
     forward to the end of the roper (heh), and jump to the next part of this
   formattingOptions: []
   position:
-  - 4.93897370916303e+3
-  - 2.80016194035498e+3
-  width: 1.6e+2
+  - 4.78132638555463e+3
+  - 2.14393528630224e+3
+  width: 2.6e+2
   connections:
     indexes:
     - location: 927
       length: 1
     - location: 930
       length: 1
-  _effectiveHeight: 8.4e+1
+  _effectiveHeight: 5.6e+1
 - ID: 930
   text: 'The roper has a high level trained monk on its face stunning it, and a sphere
     of fire in its mouth it can''t move away from. and widget you can carve it out
@@ -14704,23 +14702,23 @@
     feet. Are you now familiar with 50 feet. Good.'
   formattingOptions: []
   position:
-  - 4.67765488028682e+3
-  - 2.80034603177625e+3
-  width: 2.3e+2
+  - 4.69585434317744e+3
+  - 2.25632068692762e+3
+  width: 3.8e+2
   connections:
     indexes:
     - location: 929
       length: 1
     - location: 931
       length: 1
-  _effectiveHeight: 1.96e+2
+  _effectiveHeight: 1.26e+2
 - ID: 931
   text: Widget sifts through the mess for treasure for eaten adventurers - will resolve
     next time
   formattingOptions: []
   position:
-  - 4.94639295495637e+3
-  - 2.93648457219107e+3
+  - 5.16848508752473e+3
+  - 2.31286884953482e+3
   width: 2.3e+2
   connections:
     indexes:
@@ -14735,9 +14733,9 @@
     blue: 1e+0
   formattingOptions: []
   position:
-  - 5.2299491761603e+3
-  - 2.966128291204e+3
-  width: 2.3e+2
+  - 5.49840513929507e+3
+  - 2.3189378538871e+3
+  width: 1.3e+2
   connections:
     indexes: []
   _effectiveHeight: 1.4e+1
@@ -14749,8 +14747,8 @@
     blue: 1e+0
   formattingOptions: []
   position:
-  - 4.7954610137939e+3
-  - 3.03902523295083e+3
+  - 4.80899568176264e+3
+  - 2.45182667032876e+3
   width: 7.7e+2
   connections:
     indexes: []
@@ -14763,8 +14761,8 @@
     blue: 9.76506e-1
   formattingOptions: []
   position:
-  - 4.66395965909497e+3
-  - 3.12920271476565e+3
+  - 4.67761352872388e+3
+  - 2.54200415214358e+3
   width: 1.6e+2
   connections:
     indexes:
@@ -14775,8 +14773,8 @@
   text: a.k.a. Episode 1 part 7
   formattingOptions: []
   position:
-  - 4.75632029573202e+3
-  - 3.08972955322262e+3
+  - 4.76997416536092e+3
+  - 2.50253099060055e+3
   width: 1.6e+2
   connections:
     indexes:
@@ -14799,8 +14797,8 @@
     on the ground.'
   formattingOptions: []
   position:
-  - 4.66253169099568e+3
-  - 3.18082996622717e+3
+  - 4.67618556062458e+3
+  - 2.5936314036051e+3
   width: 2.5e+2
   connections:
     indexes:
@@ -14819,8 +14817,8 @@
     and under-prepared adventuring party.\n* remnants of chainmail"
   formattingOptions: []
   position:
-  - 4.93941777904906e+3
-  - 3.08602288818356e+3
+  - 4.95307164867797e+3
+  - 2.49882432556149e+3
   width: 2e+2
   connections:
     indexes:
@@ -14837,8 +14835,8 @@
     won''t bother backtracking'
   formattingOptions: []
   position:
-  - 5.1684555598108e+3
-  - 3.09166301981603e+3
+  - 5.1821094294397e+3
+  - 2.50446445719396e+3
   width: 1.6e+2
   connections:
     indexes:
@@ -14851,8 +14849,8 @@
   text: 'Roh: DRINK DRINK DRINK!'
   formattingOptions: []
   position:
-  - 5.35354151765586e+3
-  - 3.07774079895015e+3
+  - 5.36719538728476e+3
+  - 2.49054223632808e+3
   width: 1.6e+2
   connections:
     indexes:
@@ -14875,8 +14873,8 @@
     general history\nWidget: \"So it's a set piece'"
   formattingOptions: []
   position:
-  - 5.15971491853474e+3
-  - 3.19334527587882e+3
+  - 5.17336878816364e+3
+  - 2.60614671325675e+3
   width: 3.8e+2
   connections:
     indexes:
@@ -14891,8 +14889,8 @@
     "We can vandalize it on the way out"'
   formattingOptions: []
   position:
-  - 5.37529912670538e+3
-  - 3.12676334635413e+3
+  - 5.38895299633429e+3
+  - 2.53956478373206e+3
   width: 1.6e+2
   connections:
     indexes:
@@ -14907,8 +14905,8 @@
   text: Probably a good idea to cave this place in on the way out
   formattingOptions: []
   position:
-  - 5.55108831127569e+3
-  - 3.07692152913408e+3
+  - 5.5647421809046e+3
+  - 2.48972296651201e+3
   width: 1.9e+2
   connections:
     indexes:
@@ -14919,8 +14917,8 @@
   text: 'AID: 8 hours left'
   formattingOptions: []
   position:
-  - 5.59617854158168e+3
-  - 2.99869432067867e+3
+  - 5.61017649690394e+3
+  - 2.384956413269e+3
   width: 1.6e+2
   connections:
     indexes: []
@@ -14936,8 +14934,8 @@
     (gets it)"
   formattingOptions: []
   position:
-  - 5.55558466951137e+3
-  - 3.14912133789059e+3
+  - 5.56923853914028e+3
+  - 2.56192277526852e+3
   width: 2e+2
   connections:
     indexes:
@@ -14956,8 +14954,8 @@
     There are pandas in minecraft'
   formattingOptions: []
   position:
-  - 5.78837428132778e+3
-  - 3.02008753712968e+3
+  - 5.80202815095669e+3
+  - 2.43288897450761e+3
   width: 2.2e+2
   connections:
     indexes:
@@ -14969,8 +14967,8 @@
     the chainmal in DnDBeyond are heavy and have  :alot: of disadvanages'
   formattingOptions: []
   position:
-  - 5.88484599128905e+3
-  - 3.09169897636229e+3
+  - 5.89849986091796e+3
+  - 2.50450041374022e+3
   width: 1.6e+2
   connections:
     indexes:
@@ -14987,8 +14985,8 @@
     spores.'
   formattingOptions: []
   position:
-  - 5.80038706794921e+3
-  - 3.1922654080436e+3
+  - 5.81404093757812e+3
+  - 2.60506684542153e+3
   width: 2.8e+2
   connections:
     indexes:
@@ -15001,8 +14999,8 @@
   text: "Know the slime proclivities? \nMedicine check of 24 - so yes!  Warns everyone"
   formattingOptions: []
   position:
-  - 5.76940567374316e+3
-  - 3.28665185546864e+3
+  - 5.78305954337207e+3
+  - 2.69945329284657e+3
   width: 1.6e+2
   connections:
     indexes:
@@ -15015,8 +15013,8 @@
   text: Widget - if we fight slimes I want to harvest them
   formattingOptions: []
   position:
-  - 5.94615417813801e+3
-  - 3.28956953605458e+3
+  - 5.95980804776692e+3
+  - 2.70237097343251e+3
   width: 1.6e+2
   connections:
     indexes:
@@ -15027,8 +15025,8 @@
   text: Chandra puts scarf over nose and mouth, and into the spores
   formattingOptions: []
   position:
-  - 5.76737442374317e+3
-  - 3.35511554972319e+3
+  - 5.78102829337208e+3
+  - 2.76791698710112e+3
   width: 3.6e+2
   connections:
     indexes:
@@ -15055,8 +15053,8 @@
     Then see, Xandrath.'
   formattingOptions: []
   position:
-  - 5.77246663744791e+3
-  - 3.40844949007481e+3
+  - 5.78612050707682e+3
+  - 2.82125092745274e+3
   width: 4e+2
   connections:
     indexes:
@@ -15072,8 +15070,8 @@
     "Who dares go here."'
   formattingOptions: []
   position:
-  - 5.34378987963542e+3
-  - 3.47083789746413e+3
+  - 5.35744374926433e+3
+  - 2.88363933484206e+3
   width: 3.3e+2
   connections:
     indexes:
@@ -15099,8 +15097,8 @@
     Kind of a purple and green.'
   formattingOptions: []
   position:
-  - 4.91507645011034e+3
-  - 3.46901526387369e+3
+  - 4.92873031973925e+3
+  - 2.88181670125162e+3
   width: 4e+2
   connections:
     indexes:
@@ -15115,8 +15113,8 @@
     that matters here.  The rift.\n(pronoun refers to the rift)"
   formattingOptions: []
   position:
-  - 4.6551953669397e+3
-  - 3.48593115742838e+3
+  - 4.6688492365686e+3
+  - 2.89873259480631e+3
   width: 2.3e+2
   connections:
     indexes:
@@ -15131,8 +15129,8 @@
     "Do you threaten my master?'
   formattingOptions: []
   position:
-  - 4.679243930579e+3
-  - 3.62762752787108e+3
+  - 4.69289780020791e+3
+  - 3.04042896524901e+3
   width: 2.1e+2
   connections:
     indexes:
@@ -15146,8 +15144,8 @@
     to destroy my master?'
   formattingOptions: []
   position:
-  - 4.92385330557901e+3
-  - 3.64834659830564e+3
+  - 4.93750717520792e+3
+  - 3.06114803568357e+3
   width: 2.2e+2
   connections:
     indexes:
@@ -15165,8 +15163,8 @@
     Does drink some of the water. Doesn''t eat the food.'
   formattingOptions: []
   position:
-  - 5.18602519075153e+3
-  - 3.64531004841957e+3
+  - 5.19967906038044e+3
+  - 3.0581114857975e+3
   width: 2.2e+2
   connections:
     indexes:
@@ -15179,8 +15177,8 @@
   text: Roh in a protective flank of Chandra, head on the swivel
   formattingOptions: []
   position:
-  - 5.33376968741497e+3
-  - 3.5733189290348e+3
+  - 5.34742355704388e+3
+  - 2.98612036641273e+3
   width: 1.6e+2
   connections:
     indexes:
@@ -15197,8 +15195,8 @@
     outcropping
   formattingOptions: []
   position:
-  - 5.51127497712852e+3
-  - 3.55243173217607e+3
+  - 5.52492884675742e+3
+  - 2.965233169554e+3
   width: 2.1e+2
   connections:
     indexes:
@@ -15214,8 +15212,8 @@
     rangeStart: 0
     rangeLength: 51
   position:
-  - 5.74899348298796e+3
-  - 3.59007796223796e+3
+  - 5.76264735261687e+3
+  - 3.00287939961589e+3
   width: 1.6e+2
   connections:
     indexes:
@@ -15230,8 +15228,8 @@
     (deception check) 5'
   formattingOptions: []
   position:
-  - 5.98304082592417e+3
-  - 3.65782840982911e+3
+  - 5.99669469555308e+3
+  - 3.07062984720704e+3
   width: 1.6e+2
   connections:
     indexes:
@@ -15244,8 +15242,8 @@
     Seperate deception check'
   formattingOptions: []
   position:
-  - 5.94961695710906e+3
-  - 3.59688724771973e+3
+  - 5.96327082673797e+3
+  - 3.00968868509766e+3
   width: 1.6e+2
   connections:
     indexes:
@@ -15271,8 +15269,8 @@
     Do I eat them?  Do I go to sleep. Very disjointed'
   formattingOptions: []
   position:
-  - 5.75291560212859e+3
-  - 3.70956109618979e+3
+  - 5.7665694717575e+3
+  - 3.12236253356772e+3
   width: 4.8e+2
   connections:
     indexes:
@@ -15296,8 +15294,8 @@
     will come'
   formattingOptions: []
   position:
-  - 5.7503058405726e+3
-  - 3.92951409911944e+3
+  - 5.7639597102015e+3
+  - 3.34231553649737e+3
   width: 4.9e+2
   connections:
     indexes:
@@ -15310,8 +15308,8 @@
   text: 'Roh: It''s all enthralled'
   formattingOptions: []
   position:
-  - 6.11138580655599e+3
-  - 4.08430316845866e+3
+  - 6.1250396761849e+3
+  - 3.49710460583659e+3
   width: 1.6e+2
   connections:
     indexes:
@@ -15327,8 +15325,8 @@
     would free the thrall. odn''t know if it''ll fix the mind'
   formattingOptions: []
   position:
-  - 6.07324595466797e+3
-  - 4.12003152132324e+3
+  - 6.08689982429688e+3
+  - 3.53283295870117e+3
   width: 1.6e+2
   connections:
     indexes:
@@ -15355,8 +15353,8 @@
     It seems unable to answer your question.'
   formattingOptions: []
   position:
-  - 5.76001129508107e+3
-  - 4.07740706380045e+3
+  - 5.77366516470998e+3
+  - 3.49020850117838e+3
   width: 2.6e+2
   connections:
     indexes:
@@ -15386,8 +15384,8 @@
     YES'
   formattingOptions: []
   position:
-  - 5.5006515538701e+3
-  - 3.98706335957681e+3
+  - 5.514305423499e+3
+  - 3.39986479695474e+3
   width: 2.3e+2
   connections:
     indexes:
@@ -15406,8 +15404,8 @@
     Do you knwo the difference?'
   formattingOptions: []
   position:
-  - 5.48921855012661e+3
-  - 3.85179643249348e+3
+  - 5.50287241975552e+3
+  - 3.26459786987141e+3
   width: 2.4e+2
   connections:
     indexes:
@@ -15425,8 +15423,8 @@
     about it'
   formattingOptions: []
   position:
-  - 5.57036916454718e+3
-  - 3.70227207437987e+3
+  - 5.58402303417608e+3
+  - 3.1150735117578e+3
   width: 1.4e+2
   connections:
     indexes:
@@ -15450,8 +15448,8 @@
     rangeStart: 44
     rangeLength: 11
   position:
-  - 5.44918976187791e+3
-  - 3.7326454315169e+3
+  - 5.46284363150682e+3
+  - 3.14544686889483e+3
   width: 8e+1
   connections:
     indexes:
@@ -15473,8 +15471,8 @@
     See flurry of spores and explosions'
   formattingOptions: []
   position:
-  - 5.18153864900346e+3
-  - 3.76991988118358e+3
+  - 5.19519251863236e+3
+  - 3.18272131856151e+3
   width: 2.2e+2
   connections:
     indexes:
@@ -15487,8 +15485,8 @@
   text: Chandra - bless - W.C.R.V. Backs up behind pillar
   formattingOptions: []
   position:
-  - 4.96750417431271e+3
-  - 4.00269924418e+3
+  - 4.98115804394162e+3
+  - 3.41550068155793e+3
   width: 1.8e+2
   connections:
     indexes:
@@ -15501,8 +15499,8 @@
   text: '"I''m not saying you need all the help you can get..."'
   formattingOptions: []
   position:
-  - 4.93992635448849e+3
-  - 3.71243241882193e+3
+  - 4.9535802241174e+3
+  - 3.12523385619986e+3
   width: 2.3e+2
   connections:
     indexes:
@@ -15526,8 +15524,8 @@
     - screaming, traumatic time with mushrooms up to this point.'
   formattingOptions: []
   position:
-  - 4.9062442560998e+3
-  - 3.78146295165885e+3
+  - 4.9198981257287e+3
+  - 3.19426438903678e+3
   width: 2.5e+2
   connections:
     indexes:
@@ -15548,8 +15546,8 @@
     range.'
   formattingOptions: []
   position:
-  - 4.65731750845977e+3
-  - 3.71369376118859e+3
+  - 4.67097137808868e+3
+  - 3.12649519856652e+3
   width: 2.3e+2
   connections:
     indexes:
@@ -15567,8 +15565,8 @@
     down there.  See him attempt to hide behind a rock that is far too small'
   formattingOptions: []
   position:
-  - 4.7364250727501e+3
-  - 3.99993880208214e+3
+  - 4.75007894237901e+3
+  - 3.41274023946007e+3
   width: 2e+2
   connections:
     indexes:
@@ -15583,8 +15581,8 @@
     Widget: it did attack after I lied to it'
   formattingOptions: []
   position:
-  - 4.65310776114529e+3
-  - 3.89074207560102e+3
+  - 4.6667616307742e+3
+  - 3.30354351297895e+3
   width: 1.4e+2
   connections:
     indexes:
@@ -15600,8 +15598,8 @@
     (yeah, we didn''t do it)'
   formattingOptions: []
   position:
-  - 5.20635666251249e+3
-  - 3.903822926838e+3
+  - 5.2200105321414e+3
+  - 3.31662436421593e+3
   width: 2.3e+2
   connections:
     indexes:
@@ -15616,8 +15614,8 @@
     (13) - misses'
   formattingOptions: []
   position:
-  - 5.18819321036406e+3
-  - 4.02667962646365e+3
+  - 5.20184707999297e+3
+  - 3.43948106384158e+3
   width: 2.7e+2
   connections:
     indexes:
@@ -15630,8 +15628,8 @@
   text: Kash CHA save - 17, saves. Spends turn screaming. Then regain control of senses.
   formattingOptions: []
   position:
-  - 5.30221095124948e+3
-  - 4.10864617919803e+3
+  - 5.31586482087838e+3
+  - 3.52144761657596e+3
   width: 1.6e+2
   connections:
     indexes:
@@ -15650,8 +15648,8 @@
     (12hp) - only one hit. 10 slashing'
   formattingOptions: []
   position:
-  - 4.95577321728138e+3
-  - 4.10114658609909e+3
+  - 4.96942708691029e+3
+  - 3.51394802347702e+3
   width: 3e+2
   connections:
     indexes:
@@ -15669,8 +15667,8 @@
     you isn''t that much of an improvement'
   formattingOptions: []
   position:
-  - 4.66556630810165e+3
-  - 4.17699080403528e+3
+  - 4.67922017773056e+3
+  - 3.58979224141321e+3
   width: 2.6e+2
   connections:
     indexes:
@@ -15683,8 +15681,8 @@
   text: Vanya - attacking the rift. But not clsoe enough
   formattingOptions: []
   position:
-  - 4.65374425609968e+3
-  - 4.31180820719284e+3
+  - 4.66739812572858e+3
+  - 3.72460964457077e+3
   width: 1.4e+2
   connections:
     indexes:
@@ -15697,8 +15695,8 @@
   text: Chandra - heaing word (9 + 3 - disciple of life). hunkers
   formattingOptions: []
   position:
-  - 4.80415893912377e+3
-  - 4.30961485799037e+3
+  - 4.81781280875268e+3
+  - 3.7224162953683e+3
   width: 1.6e+2
   connections:
     indexes:
@@ -15719,8 +15717,8 @@
     second attack: 9 (_with bless_) does not hit.'
   formattingOptions: []
   position:
-  - 5.00467361807885e+3
-  - 4.2125705362944e+3
+  - 5.01832748770776e+3
+  - 3.62537197367233e+3
   width: 2.5e+2
   connections:
     indexes:
@@ -15741,8 +15739,8 @@
     "I think it''s controlling him I think we can cut the cord"'
   formattingOptions: []
   position:
-  - 5.28931351065704e+3
-  - 4.30316272989789e+3
+  - 5.30296738028594e+3
+  - 3.71596416727582e+3
   width: 2.3e+2
   connections:
     indexes:
@@ -15761,8 +15759,8 @@
     V: ?'
   formattingOptions: []
   position:
-  - 5.28053360343048e+3
-  - 4.2004128926583e+3
+  - 5.29418747305938e+3
+  - 3.61321433003623e+3
   width: 3.9e+2
   connections:
     indexes:
@@ -15779,8 +15777,8 @@
     And that''s it. (!?)'
   formattingOptions: []
   position:
-  - 5.87023488720325e+3
-  - 4.44117023722211e+3
+  - 5.88388875683216e+3
+  - 3.85397167460004e+3
   width: 2.2e+2
   connections:
     indexes:
@@ -15794,8 +15792,8 @@
     Tries to sweep you off with the tail. (14 - does not hit)'
   formattingOptions: []
   position:
-  - 5.54243393302031e+3
-  - 4.30156579589725e+3
+  - 5.55608780264922e+3
+  - 3.71436723327518e+3
   width: 2.5e+2
   connections:
     indexes:
@@ -15814,8 +15812,8 @@
     as you smack yourself with a medicinal fungus'
   formattingOptions: []
   position:
-  - 5.80790166576771e+3
-  - 4.23859193420295e+3
+  - 5.82155553539662e+3
+  - 3.65139337158088e+3
   width: 2.5e+2
   connections:
     indexes:
@@ -15837,8 +15835,8 @@
     See the dragon lock up - stunned xandrath. "alright, quickly everybody"'
   formattingOptions: []
   position:
-  - 6.09196274161413e+3
-  - 4.26540531412642e+3
+  - 6.10561661124304e+3
+  - 3.67820675150435e+3
   width: 2.3e+2
   connections:
     indexes:
@@ -15853,8 +15851,8 @@
     STR or DEX save (advantage due to rage) 17'
   formattingOptions: []
   position:
-  - 5.84340825756465e+3
-  - 4.3494551493315e+3
+  - 5.85706212719356e+3
+  - 3.76225658670943e+3
   width: 2e+2
   connections:
     indexes:
@@ -15865,18 +15863,20 @@
   text: ''
   formattingOptions: []
   position:
-  - 6.15108805696244e+3
-  - 4.93888564046106e+3
+  - 6.9141096023726e+3
+  - 5.79505208321498e+1
   width: 1.6e+2
   connections:
-    indexes: []
+    indexes:
+    - location: 1016
+      length: 1
   _effectiveHeight: 1.4e+1
 - ID: 995
   text: Stunned - incapacitated (https://twitter.com/jeremyecrawford/status/732804925055504384?lang=en)
   formattingOptions: []
   position:
-  - 5.5717342158166e+3
-  - 4.40216277058801e+3
+  - 5.58538808544551e+3
+  - 3.81496420796594e+3
   width: 2.3e+2
   connections:
     indexes:
@@ -15891,8 +15891,8 @@
     some intelligence betore the cloud returns to his vision.
   formattingOptions: []
   position:
-  - 6.13255641023392e+3
-  - 4.41013523356001e+3
+  - 6.14621027986283e+3
+  - 3.82293667093794e+3
   width: 2.1e+2
   connections:
     indexes:
@@ -15914,8 +15914,8 @@
     '
   formattingOptions: []
   position:
-  - 5.61417333324822e+3
-  - 4.50272002156456e+3
+  - 5.62782720287712e+3
+  - 3.91552145894249e+3
   width: 2.2e+2
   connections:
     indexes:
@@ -15942,8 +15942,8 @@
     19 - 5 damage - actually enough!'
   formattingOptions: []
   position:
-  - 5.29277898510368e+3
-  - 4.51258859252811e+3
+  - 5.30643285473258e+3
+  - 3.92539002990604e+3
   width: 2.3e+2
   connections:
     indexes:
@@ -15960,8 +15960,8 @@
     See his eyes center on the rift rather than on each of you.'
   formattingOptions: []
   position:
-  - 5.01744588573838e+3
-  - 4.61757536824426e+3
+  - 5.03109975536728e+3
+  - 4.03037680562219e+3
   width: 2.2e+2
   connections:
     indexes:
@@ -15973,8 +15973,8 @@
     the rift. Expiditous retreat still up.'
   formattingOptions: []
   position:
-  - 5.00920547843042e+3
-  - 4.36667863464238e+3
+  - 5.02285934805932e+3
+  - 3.77948007202031e+3
   width: 2.3e+2
   connections:
     indexes:
@@ -15991,8 +15991,8 @@
     xandrath.
   formattingOptions: []
   position:
-  - 4.9527198827273e+3
-  - 4.44763986205936e+3
+  - 4.9663737523562e+3
+  - 3.86044129943729e+3
   width: 2.4e+2
   connections:
     indexes:
@@ -16014,8 +16014,8 @@
     control again.'
   formattingOptions: []
   position:
-  - 4.65757187247331e+3
-  - 4.39471790567911e+3
+  - 4.67122574210222e+3
+  - 3.80751934305704e+3
   width: 2.5e+2
   connections:
     indexes:
@@ -16031,8 +16031,8 @@
     Widget attacks, 2 damage.  roll a d20 (13)'
   formattingOptions: []
   position:
-  - 4.67447494864518e+3
-  - 4.59133838907754e+3
+  - 4.68812881827409e+3
+  - 4.00413982645547e+3
   width: 2.3e+2
   connections:
     indexes:
@@ -16056,8 +16056,8 @@
     stunning strike again. (nat 1). Xandrath locks up again.'
   formattingOptions: []
   position:
-  - 4.6774294062461e+3
-  - 4.68746179199097e+3
+  - 4.69108327587501e+3
+  - 4.1002632293689e+3
   width: 3e+2
   connections:
     indexes:
@@ -16072,8 +16072,8 @@
     crit, 10 damage, rolled a d20 - "rolled a widget" - a 1'
   formattingOptions: []
   position:
-  - 4.72836538036719e+3
-  - 4.82664259846884e+3
+  - 4.7420192499961e+3
+  - 4.23944403584677e+3
   width: 2.3e+2
   connections:
     indexes:
@@ -16092,8 +16092,8 @@
     Also Xandrath looks super jacked up.  _just barely hanging on_'
   formattingOptions: []
   position:
-  - 5.00911585847591e+3
-  - 4.73584909057497e+3
+  - 5.02276972810482e+3
+  - 4.1486505279529e+3
   width: 2.5e+2
   connections:
     indexes:
@@ -16108,8 +16108,8 @@
     roll a d20 - 2'
   formattingOptions: []
   position:
-  - 5.30566391348896e+3
-  - 4.6924949798572e+3
+  - 5.31931778311787e+3
+  - 4.10529641723513e+3
   width: 2.1e+2
   connections:
     indexes:
@@ -16125,8 +16125,8 @@
     '
   formattingOptions: []
   position:
-  - 5.30816167553324e+3
-  - 4.77387770589072e+3
+  - 5.32181554516214e+3
+  - 4.18667914326865e+3
   width: 2e+2
   connections:
     indexes:
@@ -16140,8 +16140,8 @@
     the end of V's turn."
   formattingOptions: []
   position:
-  - 5.3945508356895e+3
-  - 4.87500482177608e+3
+  - 5.4082047053184e+3
+  - 4.28780625915401e+3
   width: 1.6e+2
   connections:
     indexes:
@@ -16161,8 +16161,8 @@
     V - save'
   formattingOptions: []
   position:
-  - 5.15084254304628e+3
-  - 4.87121479288613e+3
+  - 5.16449641267519e+3
+  - 4.28401623026406e+3
   width: 2e+2
   connections:
     indexes:
@@ -16176,8 +16176,8 @@
     The barrier starting to look pretty damaged'
   formattingOptions: []
   position:
-  - 5.5882205235964e+3
-  - 4.80560138956583e+3
+  - 5.60187439322531e+3
+  - 4.21840282694376e+3
   width: 1.6e+2
   connections:
     indexes:
@@ -16190,8 +16190,8 @@
   text: ''
   formattingOptions: []
   position:
-  - 5.06019750316995e+3
-  - 4.99979201253129e+3
+  - 4.97399121960061e+3
+  - 4.47970900471879e+3
   width: 1.6e+2
   connections:
     indexes: []
@@ -16210,8 +16210,8 @@
     shrug and pushes up on his feetsies'
   formattingOptions: []
   position:
-  - 5.5917551712201e+3
-  - 4.62928592936066e+3
+  - 5.60540904084901e+3
+  - 4.04208736673859e+3
   width: 2.7e+2
   connections:
     indexes:
@@ -16226,8 +16226,8 @@
     whole blast of spores against the barrier itself.
   formattingOptions: []
   position:
-  - 5.8968941787885e+3
-  - 4.53381656900909e+3
+  - 5.9105480484174e+3
+  - 3.94661800638702e+3
   width: 2.5e+2
   connections:
     indexes:
@@ -16240,11 +16240,37 @@
   text: The barrier dissapates.  Vana jumps into the rift.
   formattingOptions: []
   position:
-  - 5.96839045564396e+3
-  - 4.67590437825388e+3
+  - 5.98204432527287e+3
+  - 4.08870581563181e+3
   width: 2.1e+2
   connections:
     indexes:
     - location: 1014
       length: 1
   _effectiveHeight: 2.8e+1
+- ID: 1016
+  text: ''
+  formattingOptions: []
+  position:
+  - 6.4162953491211e+3
+  - 2.37045593261682e+1
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 994
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 1017
+  text: Episode VI
+  fillColorRGB:
+    red: 1e+0
+    green: 9.0283e-1
+    blue: 9.76506e-1
+  formattingOptions: []
+  position:
+  - 6.39318518066406e+3
+  - 6.69948577880859e+1
+  width: 1.6e+2
+  connections:
+    indexes: []
+  _effectiveHeight: 1.4e+1
