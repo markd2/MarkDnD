@@ -15863,8 +15863,8 @@
   text: ''
   formattingOptions: []
   position:
-  - 6.82593766633744e+3
-  - 5.79505208321498e+1
+  - 6.85525456086869e+3
+  - 1.51581776925014e+1
   width: 1.6e+2
   connections:
     indexes:
@@ -16256,8 +16256,8 @@
   text: ''
   formattingOptions: []
   position:
-  - 6.32812341308594e+3
-  - 2.37045593261682e+1
+  - 6.30232507324219e+3
+  - 2.01262969970666e+1
   width: 1.6e+2
   connections:
     indexes:
@@ -17718,3 +17718,1810 @@
     - location: 1091
       length: 1
   _effectiveHeight: 8.4e+1
+- ID: 1107
+  text: Episode VIII
+  fillColorRGB:
+    red: 1e+0
+    green: 9.0283e-1
+    blue: 9.76506e-1
+  formattingOptions: []
+  position:
+  - 6.60524591064453e+3
+  - 6.41540679931641e+1
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 1111
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 1108
+  text: Asskrakadon
+  formattingOptions: []
+  position:
+  - 6.37458554434864e+3
+  - 7.32235412597656e+1
+  width: 1.6e+2
+  connections:
+    indexes: []
+  _effectiveHeight: 1.4e+1
+- ID: 1109
+  text: '1 - Ocean depths
+
+    2 - caldera, old volcano
+
+    3 - vast plain, flowers, giant rocks strewn about
+
+    4 - Mountain Caves
+
+    5 - Archipelago
+
+    6 - Mesa, nestled deep in a jungle
+
+
+    # Aura / Mood
+
+    1 - spoopy - moody, foggy, grey London morning
+
+    2 - bright and cheery
+
+    3 - purple haze
+
+    4 - sarcastic and bite-y
+
+    5 - Very Silly
+
+    6 - sksksksksksksks'
+  formattingOptions: []
+  position:
+  - 6.31397348380176e+3
+  - 1.12478561401367e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 1110
+      length: 1
+  _effectiveHeight: 2.38e+2
+- ID: 1110
+  text: 'Chandra chooses 3/2
+
+    Kash: 3-1
+
+    Roh: 1-4
+
+    Widget: 1-4'
+  formattingOptions: []
+  position:
+  - 6.50227609610645e+3
+  - 1.11141998291016e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 1109
+      length: 1
+  _effectiveHeight: 5.6e+1
+- ID: 1111
+  text: Bork Recap
+  formattingOptions: []
+  position:
+  - 6.81627319335938e+3
+  - 4.98851470947266e+1
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 1107
+      length: 1
+    - location: 1112
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 1112
+  text: "Recap: help monstary, fog shrouded island, giant mushrooms, town that was
+    just having a rough time,\nfound beast xandrath - giant dragon covered in sho,
+    cave / mushrooms to the beast. Protected cravasse in the room, knoced some sense
+    into the dragon. Our mentor and guide jumped right in there, and only just barely
+    paying enough attention that he picked up something and got it away from him (book),
+    and wrapping it up. On closing the book, all the spores/shrooms in the air/area
+    started disappating.  Left town behind returnign to normalcy.\nVanna promised
+    to explain everything, introduce you to the leader who none have met of the Gredaran
+    Monestary. Now in a giant library. \nNot exactly a big room, but packed with shelves,
+    feels like could wander for a redonk amount of time consideriing the small amount
+    of space.  Deep in the monestory - deep, escored in by guards. Left to wait while
+    stepped outside."
+  formattingOptions: []
+  position:
+  - 6.77322705078125e+3
+  - 1.02168731689453e+2
+  width: 2.9e+2
+  connections:
+    indexes:
+    - location: 1111
+      length: 1
+    - location: 1113
+      length: 3
+  _effectiveHeight: 2.66e+2
+- ID: 1113
+  text: "Books of all shapes sizes colors, some have titles on the spine, some in
+    unknown languages.\nChandra - finding a sort of colorful section of the library,
+    calming vibe to it. Books much less sense of foreboding, not as many spider webs
+    hanging off of things, well lit. no chains locking up stuff. Kids book section.
+    \ One has herbs / medicine on the spine, but most inviting fashion, and looking
+    around at it. \nCheery Herbal Book can pocket into the bag to take a look at later."
+  formattingOptions:
+  - options: 1
+    rangeStart: 92
+    rangeLength: 7
+  - options: 1
+    rangeStart: 408
+    rangeLength: 18
+  position:
+  - 6.4915988192513e+3
+  - 1.94684460167647e+2
+  width: 2.5e+2
+  connections:
+    indexes:
+    - location: 1112
+      length: 1
+    - location: 1130
+      length: 1
+  _effectiveHeight: 1.68e+2
+- ID: 1114
+  text: Widget / Roh - opposite side.  Carpet underfoot is blue. The lighting is not
+    great, a darker corner of the library. Trail of titles that are vaguely insulting,
+    design to antagonize whoever is reading them.  Looking studiously / studiously
+    ignoring each other.  (Widget leaning over Roh's book so you can't see it ---
+    oooh pretty pictures)
+  formattingOptions:
+  - options: 1
+    rangeStart: 0
+    rangeLength: 12
+  position:
+  - 6.29554418285774e+3
+  - 3.76363057454431e+2
+  width: 2.7e+2
+  connections:
+    indexes:
+    - location: 1112
+      length: 1
+  _effectiveHeight: 9.8e+1
+- ID: 1115
+  text: Kash - quickly drawn to a section.
+  formattingOptions:
+  - options: 1
+    rangeStart: 0
+    rangeLength: 4
+  position:
+  - 6.80474777579394e+3
+  - 3.85600753784184e+2
+  width: 2e+2
+  connections:
+    indexes:
+    - location: 1112
+      length: 1
+    - location: 1116
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 1116
+  text: 'Interrupted by Vanna Gadorn. "yes well as promised, once again thank you
+    for unconventional but effective actions to take care of the villiage, see you''ve
+    been looking around. Hope you''ve been a little bit careful. We really need to
+    have explained... Come with me, going to be :alot: this morning.  We are ready
+    to explain what''s going on.'
+  formattingOptions: []
+  position:
+  - 6.84284286856738e+3
+  - 4.16020395914718e+2
+  width: 2.5e+2
+  connections:
+    indexes:
+    - location: 1115
+      length: 1
+    - location: 1117
+      length: 1
+  _effectiveHeight: 1.12e+2
+- ID: 1117
+  text: Down a corridor, and come out to small clearing, opening in the monestary.
+    Thought all this back here (stone stone dark rooms parapets, and heart of the
+    castle), actually small enclosed courtyard open to the sky
+  formattingOptions: []
+  position:
+  - 6.58430852611946e+3
+  - 4.13189661661795e+2
+  width: 1.9e+2
+  connections:
+    indexes:
+    - location: 1116
+      length: 1
+    - location: 1118
+      length: 1
+  _effectiveHeight: 9.8e+1
+- ID: 1118
+  text: 'Small rock-strewn path, sand path with petals on it, and a small hand rake,
+    grooves in the sand.
+
+    Hear the sound of water running. Pond surrounded by rocks and flowers. Outdoor
+    square that has the sandpit/rocks/flowers.  Trees pruned and kept close. Almost
+    large bushes. This pond in the middle.
+
+    Vanna says "this is probably not what you expect. please attempt to contain your
+    surprise, and show a little respect, I advise it. Especailly if you''d like to
+    go far and learn much. Methods are unconventional. Out here, I don''t think being
+    rude will be productive.  let''s see how this goes. Walks straight towards the
+    pond.'
+  formattingOptions: []
+  position:
+  - 6.29473343228841e+3
+  - 5.24170366132823e+2
+  width: 2.7e+2
+  connections:
+    indexes:
+    - location: 1117
+      length: 1
+    - location: 1119
+      length: 1
+  _effectiveHeight: 1.96e+2
+- ID: 1119
+  text: 'We all go in.  It''s full of water, and immediately see a fish in it. One
+    gigantic fish. Like 3 feet across. Looks like a koi fish that got way way way
+    out of control, and swimmingish, not a lot of room. The fish turns, and tail going
+    gently in place, almost seem to be lounging in the water.
+
+    The next to you Vana gives a deep .bow.
+
+    "Greetings master, these are the heroes we spoke of. Showed capabiity and wisdom
+    beyond their years, and functioned well together. The reason we were able to close
+    the matter at hand successfullly.'
+  formattingOptions: []
+  position:
+  - 6.59833694815722e+3
+  - 5.43762858072927e+2
+  width: 2.3e+2
+  connections:
+    indexes:
+    - location: 1118
+      length: 1
+    - location: 1120
+      length: 1
+  _effectiveHeight: 1.96e+2
+- ID: 1120
+  text: "Chandra mimics the bow. \nThe fish looks up at us. Orange with black speckles.
+    \ The fish opens his mouth, and starts glubbing at us.\n\"Welcome to the monestary
+    good to have you all. Thank you for securing the situation. We are in your debt
+    as is the town.\nBurbous Agaih should return to normalcy. And I understand that
+    you were aware of the cause at the center, this book was unfortunately open.\nHere
+    I must ask you take the strongest vow of secrecy you can imagine. This is not
+    just our lives and your lives in your hands, ... will sound dramatic, the fate
+    of the world is in your hands.\nRoh: YES"
+  formattingOptions:
+  - options: 1
+    rangeStart: 587
+    rangeLength: 4
+  position:
+  - 6.85681829174447e+3
+  - 5.35937871297211e+2
+  width: 2.8e+2
+  connections:
+    indexes:
+    - location: 1119
+      length: 1
+    - location: 1121
+      length: 1
+  _effectiveHeight: 2.1e+2
+- ID: 1121
+  text: "How the world works in a seriously deep way.\n\"A little bit of a jump\"
+    :-D\nLet's take the oath.  Swear on all you hold dear, that you will sacrifice
+    if needed your own life, the secrets, and share to nobody outside the \nThe fish
+    nods"
+  formattingOptions: []
+  position:
+  - 6.85077906648405e+3
+  - 7.85517186482755e+2
+  width: 2.6e+2
+  connections:
+    indexes:
+    - location: 1120
+      length: 1
+    - location: 1122
+      length: 3
+  _effectiveHeight: 8.4e+1
+- ID: 1122
+  text: Widget to Chandra - is this real?  "omg yes"
+  formattingOptions: []
+  position:
+  - 6.99869135896452e+3
+  - 8.84368988037125e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 1121
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 1123
+  text: 'Roh preception. 26!  Discord whispers
+
+    Nods back at it'
+  formattingOptions: []
+  position:
+  - 6.84037948966114e+3
+  - 8.97891365051285e+2
+  width: 1.3e+2
+  connections:
+    indexes:
+    - location: 1121
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 1124
+  text: Vanna gives a wave.  Six guards on the upper level of this square step to
+    th side, and large windows with crossbows, pointed up. Kachunk into and out of
+    view.  "yes we are super serious oath business"
+  formattingOptions: []
+  position:
+  - 6.59001017585938e+3
+  - 7.63314475223008e+2
+  width: 2.3e+2
+  connections:
+    indexes:
+    - location: 1121
+      length: 1
+    - location: 1125
+      length: 1
+  _effectiveHeight: 7e+1
+- ID: 1125
+  text: Uphold a paw - back out now is time. Chandra paw up immediately.  Widget mimics.  Kash
+    ponders a long second.  All eyes on Kash.
+  formattingOptions: []
+  position:
+  - 6.57498560945281e+3
+  - 8.61411834716835e+2
+  width: 2.4e+2
+  connections:
+    indexes:
+    - location: 1124
+      length: 1
+    - location: 1126
+      length: 1
+  _effectiveHeight: 5.6e+1
+- ID: 1126
+  text: '"What are your passive perceptions?
+
+    Chandra - 12
+
+    Kash - ?
+
+    Widget - spinning beach ball
+
+    Roh - 16'
+  formattingOptions: []
+  position:
+  - 6.31945658723601e+3
+  - 7.58947336832721e+2
+  width: 2.4e+2
+  connections:
+    indexes:
+    - location: 1125
+      length: 1
+    - location: 1127
+      length: 1
+  _effectiveHeight: 7e+1
+- ID: 1127
+  text: Vanna notices delay and sweat drop, and imperceptible ahhhh
+  formattingOptions: []
+  position:
+  - 6.31593663891244e+3
+  - 8.74029479980507e+2
+  width: 2.4e+2
+  connections:
+    indexes:
+    - location: 1126
+      length: 1
+    - location: 1128
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 1128
+  text: '"you have uncovered it, and proved capable, and need help to secure our world.
+    We protect a powerful secret here, and pledge to you all to keep it unto your
+    death. there are forces to wreak havoc. In return you get the full weight and
+    support of the monestary, and the Vannas and yourselves and a select group is
+    the ony one to discuss. For now, only myself and the Vannas.
+
+    "Vanna Donna Gadorn:
+
+    "Vanna Vana White" - my new drag name.'
+  formattingOptions: []
+  position:
+  - 6.30525711417286e+3
+  - 9.51238698323606e+2
+  width: 2.4e+2
+  connections:
+    indexes:
+    - location: 1127
+      length: 1
+  _effectiveHeight: 1.68e+2
+- ID: 1129
+  text: 'Fishy boy - there are powerful books in this world, figured that out already.
+    Our monestary create to protect them. These books can bring worlds into existence.
+    Very powerful, very dangerous.  With the wrong stroke of the pen, wipe our own
+    world.
+
+    Your mission unfortunately has seemlingly chosen you now. Your life must be spent
+    protecting these books and unfortunately we had an unfaithful member who was able
+    to retrieve a few of the books and disappear.  Saw the consequences of one of
+    such books yourself. Had we not stopped it, that world was attempting to infiltrate
+    our own. Unfortuntely there are  few more of these situations where the books
+    have been opened and someone is bringing through terrible evils, perhaps as they
+    travel into the others.'
+  formattingOptions: []
+  position:
+  - 6.55799667716114e+3
+  - 9.56186080932655e+2
+  width: 2.3e+2
+  connections:
+    indexes:
+    - location: 1131
+      length: 1
+  _effectiveHeight: 2.8e+2
+- ID: 1130
+  text: Cheery Herbal Book
+  fillColorRGB:
+    red: 1e+0
+    green: 9.0283e-1
+    blue: 9.76506e-1
+  formattingOptions:
+  - options: 1
+    rangeStart: 0
+    rangeLength: 18
+  position:
+  - 6.58940862377573e+3
+  - 3.82335296630902e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 1113
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 1131
+  text: Need you to go into these strange worlds and secure what was taken and then
+    ensure the books are closed and returned where they will be forever locked
+  formattingOptions: []
+  position:
+  - 6.8261084528773e+3
+  - 9.71325571695966e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 1129
+      length: 1
+    - location: 1132
+      length: 3
+  _effectiveHeight: 8.4e+1
+- ID: 1132
+  text: secure facilities, not that library
+  formattingOptions: []
+  position:
+  - 7.01964203214194e+3
+  - 9.46653759484051e+2
+  width: 1.1e+2
+  connections:
+    indexes:
+    - location: 1131
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 1133
+  text: We have a situation
+  formattingOptions: []
+  position:
+  - 7.01633173982391e+3
+  - 1.01523128763835e+3
+  width: 1.2e+2
+  connections:
+    indexes:
+    - location: 1131
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 1134
+  text: Questions?
+  formattingOptions: []
+  position:
+  - 6.84168299714813e+3
+  - 1.0788158569336e+3
+  width: 7e+1
+  connections:
+    indexes:
+    - location: 1131
+      length: 1
+    - location: 1135
+      length: 2
+  _effectiveHeight: 1.4e+1
+- ID: 1135
+  text: Like radio shack - you got questions, we got blank stares
+  formattingOptions: []
+  position:
+  - 6.94301885326792e+3
+  - 1.07286887105306e+3
+  width: 1.8e+2
+  connections:
+    indexes:
+    - location: 1134
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 1136
+  text: Kashi asks -what if someone  objects?  "We would find a way to help you forget"
+  formattingOptions: []
+  position:
+  - 6.7981299372523e+3
+  - 1.134756052653e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 1134
+      length: 1
+    - location: 1137
+      length: 2
+  _effectiveHeight: 4.2e+1
+- ID: 1137
+  text: Widget has been whimpering subvocally. Chanra (perception 5) doesn't notice
+  formattingOptions: []
+  position:
+  - 6.97354670564423e+3
+  - 1.1352603302002e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 1136
+      length: 1
+  _effectiveHeight: 5.6e+1
+- ID: 1138
+  text: 'fishy: Take the next day or so to rest recover, train if appropriate. Need
+    you to be your best. Must be stopped must be protected. Must restore the proper
+    balance here on Orub. We are sworn to it.'
+  formattingOptions: []
+  position:
+  - 6.80356328686168e+3
+  - 1.21271407063802e+3
+  width: 2.1e+2
+  connections:
+    indexes:
+    - location: 1136
+      length: 1
+    - location: 1139
+      length: 4
+  _effectiveHeight: 8.4e+1
+- ID: 1139
+  text: Turns tail and does figure 8s
+  formattingOptions: []
+  position:
+  - 7.02871719718068e+3
+  - 1.21416385904948e+3
+  width: 1.1e+2
+  connections:
+    indexes:
+    - location: 1138
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 1140
+  text: 'Mikey: kind of a lame existance'
+  formattingOptions: []
+  position:
+  - 7.03372441967418e+3
+  - 1.25938628133138e+3
+  width: 1.1e+2
+  connections:
+    indexes:
+    - location: 1138
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 1141
+  text: VannaG (looking at widget), you sure you're good with it.
+  formattingOptions: []
+  position:
+  - 6.9986529068161e+3
+  - 1.33117593383789e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 1138
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 1142
+  text: '"I''ll take you to some chambers, stay in the inner sanctum.  rest?"  takes
+    us to four rooms, two across from each other. Aware of guards, pretty discrete
+    and stay back, but a heavily guarded area'
+  formattingOptions: []
+  position:
+  - 6.77723963777314e+3
+  - 1.32324899291992e+3
+  width: 2.1e+2
+  connections:
+    indexes:
+    - location: 1138
+      length: 1
+    - location: 1143
+      length: 2
+  _effectiveHeight: 8.4e+1
+- ID: 1143
+  text: Everone should be full everything, and level 8
+  fillColorRGB:
+    red: 8.93993e-1
+    green: 9.92872e-1
+    blue: 1e+0
+  formattingOptions: []
+  position:
+  - 6.35883702953746e+3
+  - 1.21037141418457e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 1142
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 1144
+  text: "Chandra - have that book.\nFlip it open - kind of hide from the world.\nIt
+    has an unusual, feels lighter, subtle difference. Not a big book. almost lighter,
+    feels a gravity as you open the book cover, ever so slightly, as the pages flip
+    open, see script, the ink is not familiar, the script is not familiar, almost
+    intoxicating  impossibly rich. what you see is not a written page, but is a world
+    open before you. Feel youtself almost drawn in to the book, see a beautiful sunny
+    wide open plain, blue skies as far as you can see, grass is greener, and a selection
+    of plants. Moving in a summer breeze gentle sway, can almost hear birdsong, looking
+    at this incredibly vivid bright colorful place. As if the book is moving around
+    \n(Augmented reality / intro to myst) - see mostly flattop boulders, enourmous
+    sitting around in this meadown.\nFeel drawn towards this book.\nWIS save (18)\nFeel
+    and recognize the pull of this book.  You know if you leaned in a little could
+    go and visit this place you see, you are in control of  yourself. \nChandra screams,
+    throws the book  \"I thought that was innocent\""
+  formattingOptions: []
+  position:
+  - 6.32796809236298e+3
+  - 1.28374772644043e+3
+  width: 3.7e+2
+  connections:
+    indexes:
+    - location: 1142
+      length: 1
+    - location: 1145
+      length: 1
+  _effectiveHeight: 2.8e+2
+- ID: 1145
+  text: 'Picked up something in the library, need to beef up our briefing procedures.
+    "no worries. Keep them in there. By the way, you may have not noticed. Two books
+    similar, if you get both, ... need too, I''ll take this
+
+    Eucalytus hit'
+  formattingOptions: []
+  position:
+  - 6.73894770662077e+3
+  - 1.42776549275715e+3
+  width: 2.8e+2
+  connections:
+    indexes:
+    - location: 1144
+      length: 1
+    - location: 1146
+      length: 2
+  _effectiveHeight: 8.4e+1
+- ID: 1146
+  text: Next morning, time to assemble. "Hope you're ready."  Shown some breakfast,
+    and brought together
+  formattingOptions: []
+  position:
+  - 6.75373143871716e+3
+  - 1.53669407145181e+3
+  width: 2.3e+2
+  connections:
+    indexes:
+    - location: 1145
+      length: 1
+    - location: 1148
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 1147
+  text: "Widget in his quarters, watching a spider crawl up the wall, spacing out
+    and think and process the day.  \nPokes at spider, see it fly off the wall and
+    hit another wall.\nSpending the night figuring out what that wasy"
+  formattingOptions: []
+  position:
+  - 7.04744552970024e+3
+  - 1.38711078898111e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 1145
+      length: 1
+  _effectiveHeight: 1.12e+2
+- ID: 1148
+  text: 'Table, rolled out parchment. Vanna Gadorn and another Vana. Hope you are
+    well rested. This one has the potential to be dangerous. Need to be very quick.
+    You will need to go into this  book, the next one will visit. Go in to it, and
+    defeat the beast on the other side, and return using a linking book.
+
+    There is a sort of challenge with this one. (uncomfortable, doing their collar
+    thing). "how do you feel about water?" "Roh:we are surrpunded by it". This is
+    going to be at the bottom of the ocean when you come out the other side. When
+    I say speed is of the essence, we''re on the same page.
+
+    Roh: we can''t live there, sounds about right.'
+  formattingOptions:
+  - options: 2
+    rangeStart: 287
+    rangeLength: 12
+  position:
+  - 7.00697530444013e+3
+  - 1.5389201728547e+3
+  width: 2.2e+2
+  connections:
+    indexes:
+    - location: 1146
+      length: 1
+    - location: 1150
+      length: 1
+  _effectiveHeight: 2.52e+2
+- ID: 1150
+  text: 'Chandra: "breathing?"'
+  formattingOptions: []
+  position:
+  - 6.77232244213512e+3
+  - 1.61215737915027e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 1148
+      length: 1
+    - location: 1151
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 1151
+  text: 'Kashi has water breathing for all of us
+
+    Roh has some ability
+
+    Widget can do something. "Were you hoping to catch us unprepared for this?"
+
+    "I knew you were good, but this is a reaffirming sign in our trust".
+
+    Roh: this is pure luck.
+
+    (Kashi - we live in all water, so water breathing eems important)'
+  formattingOptions: []
+  position:
+  - 6.75199234366507e+3
+  - 1.65583103434233e+3
+  width: 2.2e+2
+  connections:
+    indexes:
+    - location: 1150
+      length: 1
+    - location: 1152
+      length: 1
+  _effectiveHeight: 1.26e+2
+- ID: 1152
+  text: 'Roh: maybe some more specific details on where we''re going and survive under
+    water.
+
+    VG: giving you a linking book - you''re going to need this to get back home. Keep
+    it safe on you, so the four of us can come back through it. You will destroy the
+    beast, won''t have to look for it.  Bottom of the ocean. Giant beast, it''ll be
+    spilling out when we get there. A beast. pieces of a beast. Tendrils reaching
+    out from the other side of the book. It''s not good. not good at all'
+  formattingOptions: []
+  position:
+  - 6.34859085440726e+3
+  - 1.58719964599597e+3
+  width: 2.9e+2
+  connections:
+    indexes:
+    - location: 1151
+      length: 1
+    - location: 1153
+      length: 1
+  _effectiveHeight: 1.4e+2
+- ID: 1153
+  text: 'Whatever this beast is has alredy pulled in four other adventurers. and did
+    not hear from them.  Will be go time.
+
+    "is tehre enough time to invoke a blessing"'
+  formattingOptions: []
+  position:
+  - 6.36035192211559e+3
+  - 1.75271518961577e+3
+  width: 2.8e+2
+  connections:
+    indexes:
+    - location: 1152
+      length: 1
+    - location: 1155
+      length: 1
+  _effectiveHeight: 5.6e+1
+- ID: 1155
+  text: 'Let''s get right to it. - a hike out of the monestary, around a mountain
+    peak, another one, and up to a shack.  There''s fish flopping around the shack,
+    dead fish.  Occasionally see an octopus sailing by.
+
+    Alright, we brought this one up high, and only sort of worked'
+  formattingOptions: []
+  position:
+  - 6.35136322379202e+3
+  - 1.83426573689767e+3
+  width: 2.8e+2
+  connections:
+    indexes:
+    - location: 1153
+      length: 1
+    - location: 1156
+      length: 1
+  _effectiveHeight: 8.4e+1
+- ID: 1156
+  text: Chandra and widget bless - it does stack (from prior discussion - look for
+    circlejerk). Kashi water breathing for everyone.
+  formattingOptions: []
+  position:
+  - 6.35761693676403e+3
+  - 1.95569278971342e+3
+  width: 2.7e+2
+  connections:
+    indexes:
+    - location: 1155
+      length: 1
+    - location: 1157
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 1157
+  text: 'Initiative
+
+    Roh: 10
+
+    Chandra: 9
+
+    Kash: 7 (debugging USB situation)
+
+    Widget: 6'
+  formattingOptions:
+  - options: 1
+    rangeStart: 0
+    rangeLength: 10
+  position:
+  - 6.68838236848603e+3
+  - 1.82278016662586e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 1156
+      length: 1
+    - location: 1158
+      length: 1
+  _effectiveHeight: 8.4e+1
+- ID: 1158
+  text: 'Getting a surprise round!
+
+    Gadorn opens the door.  Book is on a stand, water is spraying everywhere. See
+    large ... tentackes, large loops slamming around and pulling in outside the book.
+
+    "is everyone diving in"
+
+    Roh dive in, Chandra remembering the MLP book "ack!  but we got a jorb to do".
+    Kash making sure mage armor is up and run and jump in.  Widget: kind of vibrates
+    pokecat style, and runs and jumps in'
+  formattingOptions: []
+  position:
+  - 6.89052292227834e+3
+  - 1.82572254435205e+3
+  width: 3.2e+2
+  connections:
+    indexes:
+    - location: 1157
+      length: 1
+    - location: 1159
+      length: 1
+  _effectiveHeight: 1.26e+2
+- ID: 1159
+  text: "One after another foomph into the book?\nWho has the linking book?  (CAMERA
+    PANS ONTO THE FLOOR #lolz).  \nWidget has a bag of holding (is that bad? pocket
+    universe vs teleporter)  and Kash has a book bag.\nWe would have check.. \"yeah,
+    we did some tests, it's good to go in to there\". Not a pocket universe\n\"teleporter
+    to a possibly extant universe somewhere.\" \"a reference type not a value type\""
+  formattingOptions: []
+  position:
+  - 6.92993133878258e+3
+  - 1.99413171053368e+3
+  width: 2.8e+2
+  connections:
+    indexes:
+    - location: 1158
+      length: 1
+    - location: 1160
+      length: 3
+  _effectiveHeight: 1.26e+2
+- ID: 1160
+  text: Instant Cold. Instant Pressure. Breathe in water fills your lungs, with the
+    water braething, it equalizes and able to still breathe and move, looking aroun
+    d
+  formattingOptions: []
+  position:
+  - 6.94591883699189e+3
+  - 2.16092960611962e+3
+  width: 2.6e+2
+  connections:
+    indexes:
+    - location: 1159
+      length: 1
+  _effectiveHeight: 5.6e+1
+- ID: 1161
+  text: No dark vision b/c pandarans
+  formattingOptions: []
+  position:
+  - 6.69475413362275e+3
+  - 1.96310787455224e+3
+  width: 1.9e+2
+  connections:
+    indexes:
+    - location: 1159
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 1162
+  text: dark and chaotic
+  formattingOptions: []
+  position:
+  - 6.70341293692679e+3
+  - 2.00309625244123e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 1159
+      length: 1
+    - location: 1163
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 1163
+  text: 'Widget - we being thrown around, or can I do a thing?
+
+    '
+  formattingOptions: []
+  position:
+  - 6.70023748119762e+3
+  - 2.0588574117023e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 1162
+      length: 1
+    - location: 1164
+      length: 2
+  _effectiveHeight: 4.2e+1
+- ID: 1164
+  text: 15' of light from widget's dagger.  See sand and rock. Cold current, but nothing
+    pulling us away. movement of water. See splashing of giantic  beast.  Off to everybody's
+    right as you come through
+  formattingOptions: []
+  position:
+  - 6.69532328645478e+3
+  - 2.13556853230777e+3
+  width: 2.1e+2
+  connections:
+    indexes:
+    - location: 1163
+      length: 1
+  _effectiveHeight: 8.4e+1
+- ID: 1165
+  text: 'Roh: Rage! do I see (15'')  Javelin(s) time!
+
+
+    7 does not hit
+
+    23 does
+
+
+    7 points... "does that count as a magical attack"  widget: "yes, any item I infuse
+    is a magic item"'
+  formattingOptions: []
+  position:
+  - 6.36194295605114e+3
+  - 2.12372745768212e+3
+  width: 2.7e+2
+  connections:
+    indexes:
+    - location: 1163
+      length: 1
+    - location: 1168
+      length: 2
+  _effectiveHeight: 9.8e+1
+- ID: 1166
+  text: Ridiculous amount of packages
+  formattingOptions: []
+  position:
+  - 6.5424227432419e+3
+  - 2.0219655761717e+3
+  width: 1.1e+2
+  connections:
+    indexes: []
+  _effectiveHeight: 2.8e+1
+- ID: 1167
+  text: Kash cast light on his focus orb to get some visibility. and expiditous retreat.
+    thinking up plans.
+  formattingOptions: []
+  position:
+  - 6.88434224804333e+3
+  - 2.30148350016259e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 1173
+      length: 1
+    - location: 1177
+      length: 2
+  _effectiveHeight: 5.6e+1
+- ID: 1168
+  text: 'Oh yeah - widget infusion of javelin auto-returning.
+
+    oh and if widget dies, the infusions stay for four days.  3 active infusions at
+    once'
+  formattingOptions: []
+  position:
+  - 6.35504791617484e+3
+  - 2.0247856547036e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 1165
+      length: 1
+  _effectiveHeight: 7e+1
+- ID: 1169
+  text: Strike in to the creature, a black ink cloud.  See this loop swinging through
+    the water - like a anemoies.  Looks fluffy - also fast and incredibly deadly.
+    Writely tentacle
+  formattingOptions: []
+  position:
+  - 6.36241485953421e+3
+  - 2.24452605183902e+3
+  width: 2.4e+2
+  connections:
+    indexes:
+    - location: 1165
+      length: 1
+    - location: 1172
+      length: 1
+  _effectiveHeight: 5.6e+1
+- ID: 1170
+  text: With Fronds like this, who needs anenomies
+  formattingOptions: []
+  position:
+  - 6.6312448155889e+3
+  - 2.24764138793928e+3
+  width: 1.6e+2
+  connections:
+    indexes: []
+  _effectiveHeight: 2.8e+1
+- ID: 1171
+  text: ''
+  formattingOptions: []
+  position:
+  - 7.04938339591116e+3
+  - 2.25062376912418e+3
+  width: 1.6e+2
+  connections:
+    indexes: []
+  _effectiveHeight: 1.4e+1
+- ID: 1172
+  text: 'Roh: how many tentacles?  (perception - 20). just at edge of sight. See to
+    its essence. You don''t see a body, just see many loops in roughly the same area,
+    but there are more than dozens of loops around there.  Could all be one long thing
+    wrapped back on itself? probably not.  A number (finite hopefully) like 100 different
+    tentacles or loops or something that seem to be acting together? can it be separated?  Do
+    more to find out'
+  formattingOptions: []
+  position:
+  - 6.35522527416637e+3
+  - 2.33107954915347e+3
+  width: 3e+2
+  connections:
+    indexes:
+    - location: 1169
+      length: 1
+    - location: 1173
+      length: 1
+  _effectiveHeight: 1.26e+2
+- ID: 1173
+  text: Chandra spiritual weapon - crit - 14 damage.  "The collision generates quite
+    a bit of light and energy.  Hear a howl in your heads."  Because a surprise round.
+    Does not get to go yet
+  formattingOptions: []
+  position:
+  - 6.67872838695934e+3
+  - 2.38122547403956e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 1167
+      length: 1
+    - location: 1172
+      length: 1
+    - location: 1175
+      length: 2
+  _effectiveHeight: 9.8e+1
+- ID: 1174
+  text: Politely rage against the machine
+  formattingOptions: []
+  position:
+  - 6.81004084626923e+3
+  - 2.24536050415023e+3
+  width: 1.6e+2
+  connections:
+    indexes: []
+  _effectiveHeight: 2.8e+1
+- ID: 1175
+  text: 10 rounds for spiritial weapon
+  formattingOptions: []
+  position:
+  - 6.77100611726532e+3
+  - 2.3035199381509e+3
+  width: 9e+1
+  connections:
+    indexes:
+    - location: 1173
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 1176
+  text: Round 1
+  fillColorRGB:
+    red: 8.93993e-1
+    green: 9.92872e-1
+    blue: 1e+0
+  formattingOptions: []
+  position:
+  - 6.66098455151011e+3
+  - 2.31107654825832e+3
+  width: 8e+1
+  connections:
+    indexes:
+    - location: 1173
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 1177
+  text: 'Roh: would bright light blind the creature because it''s dark.
+
+    We''re all within 15''. taking up a larger space here.
+
+    Javelin Javelin'
+  formattingOptions: []
+  position:
+  - 6.88862910310516e+3
+  - 2.41277678426092e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 1167
+      length: 1
+    - location: 1180
+      length: 2
+  _effectiveHeight: 8.4e+1
+- ID: 1178
+  text: '"does anyone have exotic languages?"
+
+    draconic, sylvan, elf.
+
+    Hear in our head "karam karam vahay"
+
+    It''s becoming aware of us.'
+  formattingOptions: []
+  position:
+  - 7.06496027986297e+3
+  - 2.29582640584295e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 1167
+      length: 1
+    - location: 1179
+      length: 1
+  _effectiveHeight: 8.4e+1
+- ID: 1179
+  text: "Widget - ray of sickness. spell attack \n29 to hit.  'yeah, that hits, yes\"\n11
+    poison damage"
+  formattingOptions: []
+  position:
+  - 7.0669644709437e+3
+  - 2.41981296793603e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 1178
+      length: 1
+  _effectiveHeight: 7e+1
+- ID: 1180
+  text: Chandra - spiritual weapon.  11 pts. tries light (15 dex save), and it got
+    a 19
+  formattingOptions: []
+  position:
+  - 7.07034856518197e+3
+  - 2.52419620768214e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 1177
+      length: 1
+    - location: 1182
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 1181
+  text: Round 2
+  fillColorRGB:
+    red: 8.93993e-1
+    green: 9.92872e-1
+    blue: 1e+0
+  formattingOptions: []
+  position:
+  - 6.89458165844369e+3
+  - 2.37747649129217e+3
+  width: 6e+1
+  connections:
+    indexes:
+    - location: 1177
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 1182
+  text: 'Critter "Larn" - we can tell it knows we''re here.  Huge loops. Some connected.
+    Some independent loops, and a tremendous amount of these, almost soft looking
+    giant long tendrils wrapping back around, now reach out towards each of you. Specifically
+    going to Roh, and Widget, try to grab both of you
+
+    Roh - 25 to hit - 17 bludgeoning damage, and grapple, and restrained.  Feels soft
+    until it squeezes, crushing (a little)
+
+    Widget - 30 to hit - 21 bludgeoning as the creature grapples you and restrained.
+
+    Counter with ability - acrobatics or athletics. Widget makes it with 15, and Roh
+    25.  Roh not only escapes the loop, but tied it in a knot as its going. and have
+    two loops disabled. Creature will need to try to untie them on its turn.'
+  formattingOptions: []
+  position:
+  - 6.76517298738249e+3
+  - 2.52986472066229e+3
+  width: 2.6e+2
+  connections:
+    indexes:
+    - location: 1180
+      length: 1
+    - location: 1183
+      length: 1
+  _effectiveHeight: 2.38e+2
+- ID: 1183
+  text: 'Kash - wonder how this will work under water.  keeping his distance, backs
+    up some.  Ray of frost. 23 to hit (yay stacking bless!).  4 damage, but it is
+    slowed by 10 feet til next turn.
+
+    Arcana check (14 + 4) - this creature seems difficult to stop from moving. Doesn''t
+    seem like it was stopped, but very capable of moving. Plus magical essence that
+    keeps it free to move.'
+  formattingOptions: []
+  position:
+  - 6.53069097216469e+3
+  - 2.5002518582388e+3
+  width: 2.1e+2
+  connections:
+    indexes:
+    - location: 1182
+      length: 1
+    - location: 1184
+      length: 1
+  _effectiveHeight: 1.4e+2
+- ID: 1184
+  text: 'Legendary action!  Another tentative tentacle attack towards Roh.
+
+    Does a 21 hit?  Just a grapple attempt.  give another athletics check. (17) -
+    wriggle free of the grapple, just barely'
+  formattingOptions: []
+  position:
+  - 6.2937406448531e+3
+  - 2.48467640177391e+3
+  width: 2e+2
+  connections:
+    indexes:
+    - location: 1183
+      length: 1
+    - location: 1185
+      length: 1
+  _effectiveHeight: 8.4e+1
+- ID: 1185
+  text: Widget (glazed out) - hits (ray of sickness), 14 damage
+  formattingOptions: []
+  position:
+  - 6.3069079625614e+3
+  - 2.60524514770486e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 1184
+      length: 1
+    - location: 1188
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 1186
+  text: Round 3
+  fillColorRGB:
+    red: 8.93993e-1
+    green: 9.92872e-1
+    blue: 1e+0
+  formattingOptions: []
+  position:
+  - 6.49792185823197e+3
+  - 2.67112802124002e+3
+  width: 6e+1
+  connections:
+    indexes:
+    - location: 1188
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 1187
+  text: 'Roh - run up to it and recklessly attack, advantage on the great axe - 26
+    - '
+  formattingOptions: []
+  position:
+  - 6.5068498774377e+3
+  - 2.72051466878234e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 1188
+      length: 2
+  _effectiveHeight: 4.2e+1
+- ID: 1188
+  text: 'Another tentacle attack on widget - 32 to hit. Make a athletic or acrobatic.
+
+    Not actually doing damage right now. 2 + 1  . Firmly wrapped in these loops thoroughly'
+  formattingOptions: []
+  position:
+  - 6.31989766796504e+3
+  - 2.6749960225421e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 1185
+      length: 3
+  _effectiveHeight: 9.8e+1
+- ID: 1189
+  text: Widget feels himself flung around the water, then flung away up above
+  formattingOptions: []
+  position:
+  - 6.54719437003209e+3
+  - 2.79818185424785e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 1187
+      length: 1
+    - location: 1190
+      length: 3
+  _effectiveHeight: 4.2e+1
+- ID: 1190
+  text: "Chandra - \n- spiritual weapon - 14 damage - LOOKS HURT\n- healing word on
+    widget (2nd level)\n   + 4 hp due to Disciple of Life - 17 points"
+  formattingOptions: []
+  position:
+  - 6.29897288362259e+3
+  - 2.88708210245748e+3
+  width: 2.2e+2
+  connections:
+    indexes:
+    - location: 1189
+      length: 1
+    - location: 1193
+      length: 1
+  _effectiveHeight: 8.4e+1
+- ID: 1191
+  text: DEX save 17-net. Catch corner of eye, purple black loop coming to you. - scuttle
+    swim out of the way, see it release widget up by you
+  formattingOptions: []
+  position:
+  - 6.30241079052362e+3
+  - 2.79715305582663e+3
+  width: 2.3e+2
+  connections:
+    indexes:
+    - location: 1189
+      length: 1
+  _effectiveHeight: 5.6e+1
+- ID: 1192
+  text: '"widget''s just had the roughest time!'
+  formattingOptions: []
+  position:
+  - 6.74955780386997e+3
+  - 2.78092711385073e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 1189
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 1193
+  text: "Larn: Roh, some of the loops in the center swirling around, open up and see
+    ridges and shards of bone.  crit.  22 points of bitey damage. Roh wriggles free,
+    \nRest of us notice that it's preoccupied with Roh in the middle\nDo notice some
+    of the loops are rubbing against each other, and getting a biolumiensce. Seeing
+    clouds of blood (or whatever) where we hit it.\nNoticing the spiratule weapon,
+    and will move over towards us all. Still distracted with Roh, doesn't quite get
+    all the way over to us."
+  formattingOptions: []
+  position:
+  - 6.55288518627557e+3
+  - 2.87337548828107e+3
+  width: 2.2e+2
+  connections:
+    indexes:
+    - location: 1190
+      length: 1
+    - location: 1194
+      length: 1
+  _effectiveHeight: 2.1e+2
+- ID: 1194
+  text: 'Kash - if anything you wanted to do with your portent. Magic missile 3rd
+    level. (5 darts) 15 total
+
+    Flaling about even more, if that was possible with this pile of loops'
+  formattingOptions: []
+  position:
+  - 6.80911748608027e+3
+  - 2.82705026245099e+3
+  width: 2.2e+2
+  connections:
+    indexes:
+    - location: 1193
+      length: 1
+    - location: 1195
+      length: 1
+  _effectiveHeight: 7e+1
+- ID: 1195
+  text: 'Larn - attempt to grab with legendary action. a 30! Replace with an 13.  See
+    the tentacle coming, no way it''s going to miss. Knowing it''s coming, see the
+    rings had you crushed and rend and tear, and you''re just below it watching it.  Would
+    have been bad.
+
+    "Feel the brush of a close call with death above your face"'
+  formattingOptions: []
+  position:
+  - 7.0636201512821e+3
+  - 2.69316532389347e+3
+  width: 2.2e+2
+  connections:
+    indexes:
+    - location: 1194
+      length: 1
+    - location: 1196
+      length: 1
+  _effectiveHeight: 1.26e+2
+- ID: 1196
+  text: 'Widget - another second ray of sickness.  5+7 = 12 + bless = 17 - just hits!  11
+    poison damage.
+
+    Floats down to Chandra'
+  formattingOptions: []
+  position:
+  - 7.07815384268833e+3
+  - 2.85091388956726e+3
+  width: 1.9e+2
+  connections:
+    indexes:
+    - location: 1195
+      length: 1
+    - location: 1198
+      length: 1
+  _effectiveHeight: 5.6e+1
+- ID: 1197
+  text: Round 4
+  fillColorRGB:
+    red: 8.93993e-1
+    green: 9.92872e-1
+    blue: 1e+0
+  formattingOptions: []
+  position:
+  - 6.96267970124953e+3
+  - 2.92816715494812e+3
+  width: 6e+1
+  connections:
+    indexes:
+    - location: 1198
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 1198
+  text: "Roh: try and grapple it!  Give it a bit of its own medicine.  18 - find it
+    quite big and slippery, and you're doing your best giving it a taste of its own
+    medicine.  Still moving around with you, but are holding on to it.\nFrnezy - 16
+    punch bonus action, just hits.  4 undefined damage. Magical? \nDon't feel like
+    the creature apprecaited your punch, or at all.  bummer"
+  formattingOptions:
+  - options: 2
+    rangeStart: 361
+    rangeLength: 6
+  position:
+  - 7.06170863191359e+3
+  - 2.93310372924825e+3
+  width: 2.2e+2
+  connections:
+    indexes:
+    - location: 1196
+      length: 2
+    - location: 1199
+      length: 1
+  _effectiveHeight: 1.4e+2
+- ID: 1199
+  text: "Chandra - \n19 to hit, 16 damage\n17 healing to Roh\n\nNotice some of the
+    loops just floating away, as if lost cohesion. just drifting off. Looking pretty
+    rough."
+  formattingOptions: []
+  position:
+  - 6.7969714899865e+3
+  - 2.96752002970399e+3
+  width: 2.5e+2
+  connections:
+    indexes:
+    - location: 1198
+      length: 1
+    - location: 1200
+      length: 1
+  _effectiveHeight: 9.8e+1
+- ID: 1200
+  text: 'Larn: going to try grab Roh again - another loop comes down.  (23 to hit)
+    Loop wraps around arms, and pulling you apart . 21 damage.
+
+    "gimme an athletic check to see if you get a workout.  advantage. and blessings)
+
+    That''ll be a 31.
+
+    In your rage "you''re not pulliing me, I''m pulling you. and you rip a loop off"
+
+    Roll 2 d6 - a 3.
+
+    STR mod? +3  You rip one of the loops loose that was wrapped around you and you
+    outflex the seamonster.'
+  formattingOptions:
+  - options: 1
+    rangeStart: 281
+    rangeLength: 3
+  position:
+  - 7.01928482413364e+3
+  - 3.10929686482771e+3
+  width: 2.3e+2
+  connections:
+    indexes:
+    - location: 1199
+      length: 1
+    - location: 1201
+      length: 1
+  _effectiveHeight: 1.82e+2
+- ID: 1201
+  text: 'Widget: does it seem intelligent? or a an angry... it does langauge. It has
+    been muttering phrases.  It is showing certainly a definite uncanny intelligence.
+    And fairly chaotic creature.  It''s just making a lot of moves, more than you''d
+    expect it. But a formidable foe. And not seeking opportunity to move away
+
+    Insight (16+'
+  formattingOptions: []
+  position:
+  - 6.76307714184197e+3
+  - 3.10044096883159e+3
+  width: 2.2e+2
+  connections:
+    indexes:
+    - location: 1200
+      length: 1
+    - location: 1202
+      length: 2
+  _effectiveHeight: 1.26e+2
+- ID: 1202
+  text: '"maybe it''s friendly and just wants to give us cookies"'
+  formattingOptions: []
+  position:
+  - 6.77171961824171e+3
+  - 3.27537606811544e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 1201
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 1203
+  text: "Regarding its next move, writing in water, glow all along them. Roh has its
+    attentoon out-grappling it. Probalby not a good idea, bt do it anyway - make a
+    DEX save (with advantage b/c barbarian) - 20.  From this ring around us, this
+    crackle, static electricity shooting through the water. Lighting you up.  It kind
+    of tickles, takes 10 points of damage, successfully resisted \n"
+  formattingOptions: []
+  position:
+  - 6.53300684968702e+3
+  - 3.11616504923524e+3
+  width: 2.1e+2
+  connections:
+    indexes:
+    - location: 1201
+      length: 1
+    - location: 1205
+      length: 1
+  _effectiveHeight: 1.68e+2
+- ID: 1204
+  text: Round 5
+  fillColorRGB:
+    red: 8.93993e-1
+    green: 9.92872e-1
+    blue: 1e+0
+  formattingOptions: []
+  position:
+  - 6.55382680614858e+3
+  - 3.30986469523132e+3
+  width: 7e+1
+  connections:
+    indexes:
+    - location: 1207
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 1205
+  text: "Kash - moves back some and magic missile.  \nFrantically flailing around,
+    just at the edge of its reach. and it's mad at Roh.\nAll of the sudden, it just
+    releases this large cloud of black cloudy substance, it has obscured itself.\nAll
+    covered in this cloud, misty black cloud.  Rest of us struggling with visilbility."
+  formattingOptions: []
+  position:
+  - 6.29801890413035e+3
+  - 3.02414122517924e+3
+  width: 2e+2
+  connections:
+    indexes:
+    - location: 1203
+      length: 1
+    - location: 1206
+      length: 1
+  _effectiveHeight: 1.54e+2
+- ID: 1206
+  text: "Widget - how's everyone's looking.  Ray of sickness (dirty 20 - 7 poison),
+    \nbonus healing word Roh - can't see? (cannot see Roh)\nMagical darkness or occluded?\nCON
+    save - 18. (take half of 3 points of damage) the ink is burning, and can resist
+    its effects. (poison dmage)  Resistance, so further halved.  1pt. like pineapple
+    / cantalope allergy"
+  formattingOptions: []
+  position:
+  - 6.2977066584435e+3
+  - 3.22368971761083e+3
+  width: 1.9e+2
+  connections:
+    indexes:
+    - location: 1205
+      length: 1
+    - location: 1207
+      length: 1
+  _effectiveHeight: 1.68e+2
+- ID: 1207
+  text: 'Roh goes into frenzy.  Not grappled. Just going to go crazy.
+
+    Great axe - 20, 13 damage
+
+    Now right up in the middle, hard to see, that part bite down
+
+    Great axe 2 - 20, 9 slashing damage
+
+    Great axe 3 - 18, 17 damage
+
+    "Take all the tentacles around me and shove it in its bony maw, and slash down
+    the middle.
+
+    '
+  formattingOptions: []
+  position:
+  - 6.51890335440703e+3
+  - 3.35405709838858e+3
+  width: 2.6e+2
+  connections:
+    indexes:
+    - location: 1204
+      length: 1
+    - location: 1206
+      length: 1
+    - location: 1208
+      length: 1
+  _effectiveHeight: 1.4e+2
+- ID: 1208
+  text: "All the loops severing - picees drifing everywhere, as the cloud dissapates.
+    \ \nCoughing and fighting off bits of ugh.\nCON save - chandra 19.  Roh +13 points
+    of poison damage as you breahe in the cloud.\nThe monster is no more."
+  formattingOptions: []
+  position:
+  - 6.84388534903593e+3
+  - 3.34558043416332e+3
+  width: 2e+2
+  connections:
+    indexes:
+    - location: 1207
+      length: 1
+    - location: 1209
+      length: 1
+  _effectiveHeight: 1.26e+2
+- ID: 1209
+  text: Check its pockets
+  formattingOptions: []
+  position:
+  - 7.07984756827424e+3
+  - 3.32795434570302e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 1208
+      length: 1
+    - location: 1210
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 1210
+  text: Pick back up here - still exhausted, soaked at the bottom of the ocean with
+    the beast defeated.
+  formattingOptions: []
+  position:
+  - 7.07386947989534e+3
+  - 3.37362435913075e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 1209
+      length: 1
+    - location: 1211
+      length: 1
+  _effectiveHeight: 5.6e+1
+- ID: 1211
+  text: 'widget: looking like ninjas - all clothes dyed black by squid ink'
+  formattingOptions: []
+  position:
+  - 7.06845962882112e+3
+  - 3.46748361206044e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 1210
+      length: 1
+    - location: 1212
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 1212
+  text: Upgrade to Level 10!!
+  fillColorRGB:
+    red: 1e+0
+    green: 9.0283e-1
+    blue: 9.76506e-1
+  formattingOptions: []
+  position:
+  - 6.93446803132762e+3
+  - 3.54165002441398e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 1211
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 1213
+  text: Episode IX
+  fillColorRGB:
+    red: 1e+0
+    green: 9.0283e-1
+    blue: 9.76506e-1
+  formattingOptions: []
+  position:
+  - 6.30706799316406e+3
+  - 3.60187701416016e+3
+  width: 1.6e+2
+  connections:
+    indexes: []
+  _effectiveHeight: 1.4e+1
+- ID: 1214
+  text: ''
+  formattingOptions: []
+  position:
+  - 6.31689346671192e+3
+  - 3.53294979858398e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 1215
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 1215
+  text: ''
+  formattingOptions: []
+  position:
+  - 7.12669382071582e+3
+  - 3.57707067871094e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 1214
+      length: 1
+  _effectiveHeight: 1.4e+1
