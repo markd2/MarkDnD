@@ -1,0 +1,174 @@
+- ID: 1
+  text: Museum of Nightmares
+  fillColorRGB:
+    red: 8.93993e-1
+    green: 9.92872e-1
+    blue: 1e+0
+  formattingOptions:
+  - options: 1
+    rangeStart: 0
+    rangeLength: 20
+  position:
+  - 3.58665161132812e+1
+  - 2.34866027832031e+1
+  width: 3e+2
+  connections:
+    indexes: []
+  _effectiveHeight: 1.4e+1
+- ID: 2
+  text: Continental research guild
+  formattingOptions:
+  - options: 1
+    rangeStart: 0
+    rangeLength: 26
+  position:
+  - 3.17002563476562e+1
+  - 1.65053375244141e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 3
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 3
+  text: Research unusual and strange instances across the land, purpose is to understand
+    magic and also help a little bit to keep things safe when things go out of control
+  formattingOptions: []
+  position:
+  - 8.13486328125e+1
+  - 2.25220428466797e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 2
+      length: 1
+  _effectiveHeight: 9.8e+1
+- ID: 4
+  text: Step thinking of a monk also
+  formattingOptions: []
+  position:
+  - 2.86195190429688e+2
+  - 1.84093566894531e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 5
+      length: 4
+    - location: 12
+      length: 2
+  _effectiveHeight: 1.4e+1
+- ID: 5
+  text: Hey Hey We're the Monk-ees
+  formattingOptions: []
+  position:
+  - 3.28484497070312e+2
+  - 1.12208038330078e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 4
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 6
+  text: Amanda says we need to sing.  Like a bad monk/bard hybrid
+  formattingOptions: []
+  position:
+  - 4.71119262695312e+2
+  - 1.65655700683594e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 4
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 7
+  text: 'Goliath Monk - large creature.  not someone you would think as light as nimble
+
+    9-footish.
+
+    340 lbs'
+  formattingOptions: []
+  position:
+  - 2.89978881835938e+2
+  - 2.51778289794922e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 4
+      length: 1
+  _effectiveHeight: 8.4e+1
+- ID: 8
+  text: Vasil Kaliz
+  formattingOptions: []
+  position:
+  - 2.31453125e+2
+  - 1.23002746582031e+2
+  width: 8e+1
+  connections:
+    indexes:
+    - location: 4
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 9
+  text: Bork
+  formattingOptions: []
+  position:
+  - 4.60386596679688e+2
+  - 3.79016265869141e+1
+  width: 6e+1
+  connections:
+    indexes:
+    - location: 10
+      length: 2
+  _effectiveHeight: 1.4e+1
+- ID: 10
+  text: El Vadeen - human monk . scholar
+  formattingOptions: []
+  position:
+  - 5.55753051757812e+2
+  - 1.95990295410156e+1
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 9
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 11
+  text: Magic item - braceleet of reading
+  formattingOptions: []
+  position:
+  - 5.55424682617188e+2
+  - 6.84584350585938e+1
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 9
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 12
+  text: 'Amanda: a 9 foot chubby monk would be cool
+
+    Step: stout. decent beer gut'
+  formattingOptions: []
+  position:
+  - 4.65687744140625e+2
+  - 2.34206756591797e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 4
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 13
+  text: Amulet of Yig, Father of Serpents.  Automatic death save, visions of a snake
+    emmbracing the world.  +1 to religion checks.
+  formattingOptions: []
+  position:
+  - 4.83838134765625e+2
+  - 3.1062890625e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 4
+      length: 1
+  _effectiveHeight: 7e+1
