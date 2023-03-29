@@ -172,3 +172,41 @@
     - location: 4
       length: 1
   _effectiveHeight: 7e+1
+- ID: 14
+  text: Episode 1
+  fillColorRGB:
+    red: 8.93993e-1
+    green: 9.92872e-1
+    blue: 1e+0
+  formattingOptions: []
+  position:
+  - 7.78168395996098e+2
+  - 3.51961975097656e+1
+  width: 1.6e+2
+  connections:
+    indexes: []
+  _effectiveHeight: 1.4e+1
+- ID: 15
+  text: ''
+  formattingOptions: []
+  position:
+  - 8.5707753499349e+2
+  - 6.45243876139322e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 16
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 16
+  text: ''
+  formattingOptions: []
+  position:
+  - 8.47853495279948e+2
+  - 9.80557367960612e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 15
+      length: 1
+  _effectiveHeight: 1.4e+1

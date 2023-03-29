@@ -19447,8 +19447,8 @@
     the beast defeated.
   formattingOptions: []
   position:
-  - 7.07386947989534e+3
-  - 3.37362435913075e+3
+  - 7.12010208487581e+3
+  - 3.37742044067372e+3
   width: 1.6e+2
   connections:
     indexes:
@@ -19488,25 +19488,31 @@
       length: 1
   _effectiveHeight: 1.4e+1
 - ID: 1213
-  text: Episode IX
+  text: Episode IXish
   fillColorRGB:
     red: 1e+0
     green: 9.0283e-1
     blue: 9.76506e-1
   formattingOptions: []
   position:
-  - 6.30706799316406e+3
-  - 3.60187701416016e+3
+  - 6.30325197347005e+3
+  - 3.6148022257487e+3
   width: 1.6e+2
   connections:
-    indexes: []
+    indexes:
+    - location: 1216
+      length: 4
   _effectiveHeight: 1.4e+1
 - ID: 1214
   text: ''
+  fillColorRGB:
+    red: 8.93993e-1
+    green: 9.92872e-1
+    blue: 1e+0
   formattingOptions: []
   position:
-  - 6.31689346671192e+3
-  - 3.53294979858398e+3
+  - 6.31658330639291e+3
+  - 3.53327577718098e+3
   width: 1.6e+2
   connections:
     indexes:
@@ -19515,13 +19521,2700 @@
   _effectiveHeight: 1.4e+1
 - ID: 1215
   text: ''
+  fillColorRGB:
+    red: 8.93993e-1
+    green: 9.92872e-1
+    blue: 1e+0
   formattingOptions: []
   position:
-  - 7.12669382071582e+3
-  - 3.57707067871094e+3
+  - 7.12648579255827e+3
+  - 3.57739665730794e+3
   width: 1.6e+2
   connections:
     indexes:
     - location: 1214
       length: 1
   _effectiveHeight: 1.4e+1
+- ID: 1216
+  text: 'Late start due to Bork '
+  formattingOptions: []
+  position:
+  - 6.30841158040362e+3
+  - 3.66170719401041e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 1213
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 1217
+  text: I'm one behind
+  formattingOptions: []
+  position:
+  - 6.39801926016891e+3
+  - 3.56963238016766e+3
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 1213
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 1218
+  text: 'reminder: need to get books stolen from monestary'
+  formattingOptions: []
+  position:
+  - 6.52153122305926e+3
+  - 3.56135806201827e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 1213
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 1219
+  text: 'Book - black pages, infinite void.  Whizzing through space and time. At least
+    feels like moving quickly. Losing perception of light and sound. EVentually you
+    see as before the dots
+
+    RED
+
+    GREEN
+
+    PURPLE
+
+    As move at astronomical speeds, grow large as whizzing by. Entire planets, perhaps
+    even galaxies.  In the distance see a swirling churning mass of blue water in
+    a figure 8. See small islands bobbing in the water. Then a mountain appears before
+    you. Then Jerked off course just as about to stop, everything turns inside out.
+    heads feel like they''re going to asplode.
+
+    This time you are exhausted.  Copletely soaked. More than soaked. Saturated. You
+    are IN WATER.  The pressure bearing down on you is immense.  Look around mostly
+    darkness.  Someone has light up.'
+  formattingOptions: []
+  position:
+  - 6.52121408729381e+3
+  - 3.60785319446456e+3
+  width: 3.8e+2
+  connections:
+    indexes:
+    - location: 1213
+      length: 1
+    - location: 1220
+      length: 2
+  _effectiveHeight: 2.1e+2
+- ID: 1220
+  text: Widget - on the tip of something.
+  formattingOptions: []
+  position:
+  - 6.93125249584571e+3
+  - 3.59994798278883e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 1219
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 1221
+  text: Dim light emenating from Widget (from his toungue?) (ITEMS!).  Have just finished
+    a battle with a creature that was grasping OUTSIDE the book it was in.  The Larm
+    Yoop
+  formattingOptions: []
+  position:
+  - 6.91145767569598e+3
+  - 3.67637714640374e+3
+  width: 2.4e+2
+  connections:
+    indexes:
+    - location: 1219
+      length: 1
+    - location: 1222
+      length: 4
+    - location: 1228
+      length: 3
+  _effectiveHeight: 7e+1
+- ID: 1222
+  text: From the upper penninsula
+  formattingOptions: []
+  position:
+  - 6.97049108227152e+3
+  - 3.64312112426832e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 1221
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 1223
+  text: We sliced it to pieces
+  formattingOptions: []
+  position:
+  - 7.116196733205e+3
+  - 3.61228556660014e+3
+  width: 1.2e+2
+  connections:
+    indexes:
+    - location: 1221
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 1224
+  text: We're harder to see b/c we're thorougly dyed black, from the ink we've been
+    surrounded by.
+  formattingOptions: []
+  position:
+  - 7.154028764455e+3
+  - 3.64926317347948e+3
+  width: 1.4e+2
+  connections:
+    indexes:
+    - location: 1221
+      length: 1
+  _effectiveHeight: 5.6e+1
+- ID: 1225
+  text: 'Chandra looks around for book. Inestigation.  1+2 = 3 (d''oh). b/c can''t
+    see anything at all and lost track of your party. Feel coldness and wetness and
+    immenseness of the ocean.
+
+    Couldn''t see clues b/c anywhere at all.  "Guys Guys"'
+  formattingOptions: []
+  position:
+  - 7.1308288026262e+3
+  - 3.84566315768784e+3
+  width: 1.8e+2
+  connections:
+    indexes:
+    - location: 1221
+      length: 1
+    - location: 1226
+      length: 1
+  _effectiveHeight: 1.12e+2
+- ID: 1226
+  text: 'Widget: "wha?"  Make perception roll.  '
+  formattingOptions: []
+  position:
+  - 7.11616762791419e+3
+  - 3.79275461663214e+3
+  width: 2.1e+2
+  connections:
+    indexes:
+    - location: 1225
+      length: 1
+    - location: 1227
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 1227
+  text: Dirty 20 - found chandra.  Casts (tinkers) light on the Holy Symbol
+  formattingOptions: []
+  position:
+  - 7.16343544224335e+3
+  - 3.73420594908702e+3
+  width: 1.5e+2
+  connections:
+    indexes:
+    - location: 1226
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 1228
+  text: Roh - do not like the experience being underwater. Sitting there displeased.
+    There's nothing to hit underwater, at least effectively.
+  formattingOptions: []
+  position:
+  - 6.91064235570876e+3
+  - 3.78909029429695e+3
+  width: 1.9e+2
+  connections:
+    indexes:
+    - location: 1221
+      length: 1
+  _effectiveHeight: 5.6e+1
+- ID: 1229
+  text: 'Widget investigation 25: doesn''t seem right being an organic element being
+    alive. You''d say with confidence as you comb through everything, that it''s not
+    a creature you''ve ever heard word of.  (awesome), not just in Orub, but in existance.  Not
+    even a fairy tale.  Other than this looking somewhat '
+  formattingOptions:
+  - options: 1
+    rangeStart: 229
+    rangeLength: 9
+  position:
+  - 6.89188882438901e+3
+  - 3.8766239944225e+3
+  width: 2.2e+2
+  connections:
+    indexes:
+    - location: 1221
+      length: 1
+  _effectiveHeight: 1.12e+2
+- ID: 1230
+  text: 'Kashi: (character sheet) - I have some deviniation things. See if I have
+    any equipped.'
+  formattingOptions: []
+  position:
+  - 6.58722702384094e+3
+  - 3.89580381556927e+3
+  width: 2.4e+2
+  connections:
+    indexes:
+    - location: 1221
+      length: 1
+    - location: 1231
+      length: 4
+  _effectiveHeight: 4.2e+1
+- ID: 1231
+  text: 'Widget: how''s everyone looking?  Kashi/Chandra looking good.  Roh looking
+    a bit rohguh (a bit of poison damage as the beast fell apart and drifted around)
+
+    Will dark vision help? Or just a cloud of ink and stuff?  The ink is settling
+    out. Can tell that from the light from Widget/Chandra, that the water is still
+    terribly dark, not ink, but vast amount of ocean'
+  formattingOptions: []
+  position:
+  - 6.29680553249048e+3
+  - 3.77006223842086e+3
+  width: 2.1e+2
+  connections:
+    indexes:
+    - location: 1230
+      length: 1
+  _effectiveHeight: 1.54e+2
+- ID: 1232
+  text: Third Eye ability and get dark vision to 60'.  24 investigation.
+  formattingOptions: []
+  position:
+  - 6.68232032043688e+3
+  - 3.9712846636092e+3
+  width: 2e+2
+  connections:
+    indexes:
+    - location: 1230
+      length: 1
+    - location: 1236
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 1233
+  text: 'Widget: last 2nd slot on See Invisibility. and got a 24 on investigation.'
+  formattingOptions: []
+  position:
+  - 6.50389572501281e+3
+  - 3.96863501848505e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 1230
+      length: 1
+    - location: 1235
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 1234
+  text: Roh starts hacking on the monster
+  formattingOptions: []
+  position:
+  - 6.57127138768024e+3
+  - 3.83946287318652e+3
+  width: 2.1e+2
+  connections:
+    indexes:
+    - location: 1230
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 1235
+  text: '"This monster has no pockets"'
+  formattingOptions: []
+  position:
+  - 6.29478409171205e+3
+  - 3.97533558872782e+3
+  width: 1.8e+2
+  connections:
+    indexes:
+    - location: 1233
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 1236
+  text: As move around and scour the area, now not restricted to staying in the light,
+    and can see in the gloom. In one direction, see this dragging, long-lines in the
+    ocean floor that look suspiciously like loops, the creature may have come from
+    that direction
+  formattingOptions: []
+  position:
+  - 6.48279521270504e+3
+  - 4.18538346741706e+3
+  width: 2.6e+2
+  connections:
+    indexes:
+    - location: 1232
+      length: 1
+    - location: 1237
+      length: 1
+  _effectiveHeight: 8.4e+1
+- ID: 1237
+  text: Pick up that path and begin moving in that one direction. Say call it "North"
+    b/c have no sense of bearing. Now and then see the signs - plants bent and broken,
+    picking up a trail. Widget can see it as well when Kashi points it out.
+  formattingOptions: []
+  position:
+  - 6.47394755161098e+3
+  - 4.06639130316855e+3
+  width: 2.2e+2
+  connections:
+    indexes:
+    - location: 1236
+      length: 1
+    - location: 1238
+      length: 1
+  _effectiveHeight: 8.4e+1
+- ID: 1238
+  text: Moving slowly?  (not extra magic, so 1/2 speed)
+  formattingOptions: []
+  position:
+  - 6.29312049133537e+3
+  - 4.01611500767313e+3
+  width: 1.5e+2
+  connections:
+    indexes:
+    - location: 1237
+      length: 1
+    - location: 1239
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 1239
+  text: 'Kashi can cantrip shape water, change the flow as direct.  Can make a jet
+    for us to move along casting over and over.
+
+    Does give you some speed - another half your speed. As swimming feel yourself
+    carried along by the movement of the water. There''s this little current bubble.
+    not strong enough to disturb things around us'
+  formattingOptions: []
+  position:
+  - 6.30352515442132e+3
+  - 4.1173064115011e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 1238
+      length: 1
+    - location: 1240
+      length: 1
+  _effectiveHeight: 1.82e+2
+- ID: 1240
+  text: "Widget picks up in periphery of the light, something.  Swimming? Just outside
+    the edge of vision.  b/c see invisiblity - slight outline or glow \nWidget looks
+    right at it, trying to get a good look at it."
+  formattingOptions: []
+  position:
+  - 6.32209963959467e+3
+  - 4.33621958850704e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 1239
+      length: 1
+    - location: 1241
+      length: 1
+  _effectiveHeight: 1.26e+2
+- ID: 1241
+  text: "Perception check: 7 + 4 == 11.  It's moving a little too quickly.  It moves
+    out of sight.  10 seconds... 30 seconds... minute... nothing.  \n"
+  formattingOptions: []
+  position:
+  - 6.4223384081571e+3
+  - 4.49344988819934e+3
+  width: 1.9e+2
+  connections:
+    indexes:
+    - location: 1240
+      length: 1
+    - location: 1243
+      length: 1
+  _effectiveHeight: 7e+1
+- ID: 1242
+  text: ZACH, haircut, fixed 17 times. in a sans serif font, can you tell the difference
+    beteen an AI and a guy named Al?
+  formattingOptions: []
+  position:
+  - 6.785077859732e+3
+  - 4.19644403560603e+3
+  width: 2.5e+2
+  connections:
+    indexes: []
+  _effectiveHeight: 4.2e+1
+- ID: 1243
+  text: 'Widget: going to alert everybody.  Might be something normally invisible,
+    skirting aorund the edges. About yay big'
+  formattingOptions: []
+  position:
+  - 6.49835006102788e+3
+  - 4.31976545739577e+3
+  width: 1.9e+2
+  connections:
+    indexes:
+    - location: 1241
+      length: 1
+    - location: 1244
+      length: 1
+  _effectiveHeight: 5.6e+1
+- ID: 1244
+  text: 'More oppressive atmosphere - invisible beings moving more quickly around
+    you than you can move.  Don''t see anything to react to. '
+  formattingOptions: []
+  position:
+  - 6.76218669219742e+3
+  - 4.08171728903175e+3
+  width: 1.9e+2
+  connections:
+    indexes:
+    - location: 1243
+      length: 1
+    - location: 1245
+      length: 1
+  _effectiveHeight: 7e+1
+- ID: 1245
+  text: Your trail leading you to this lorge cave
+  formattingOptions: []
+  position:
+  - 6.80288309364211e+3
+  - 4.02708533829002e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 1244
+      length: 1
+    - location: 1246
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 1246
+  text: This might be more spooky, but it's still can't see beyond your light and
+    darkvision
+  formattingOptions: []
+  position:
+  - 6.9695220716617e+3
+  - 4.03828131975471e+3
+  width: 2e+2
+  connections:
+    indexes:
+    - location: 1245
+      length: 1
+    - location: 1247
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 1247
+  text: Large underground structure, almost mountainous, with some holes on the side.
+    See a trail going down
+  formattingOptions: []
+  position:
+  - 7.12908681349274e+3
+  - 3.97268931991355e+3
+  width: 1.9e+2
+  connections:
+    indexes:
+    - location: 1246
+      length: 1
+    - location: 1248
+      length: 1
+  _effectiveHeight: 5.6e+1
+- ID: 1248
+  text: We all go down (even though Roh chants "Split the party!")
+  formattingOptions: []
+  position:
+  - 7.13662168901144e+3
+  - 4.09921918504616e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 1247
+      length: 1
+    - location: 1249
+      length: 2
+  _effectiveHeight: 4.2e+1
+- ID: 1249
+  text: 'Perception:
+
+    Widget: 18
+
+    Chandra: 15
+
+    Roh: 1 + 7 == 8
+
+    Kashi: '
+  formattingOptions: []
+  position:
+  - 6.97420485354735e+3
+  - 4.10456196085635e+3
+  width: 1.1e+2
+  connections:
+    indexes:
+    - location: 1248
+      length: 1
+  _effectiveHeight: 7e+1
+- ID: 1250
+  text: 'Widget: your extra on edge b/c seen this invisibru. As your light is passing
+    over the walls around you, and darting looking everywhere, on the edge of the
+    light, as the light is leaving the rock behind you. See this glimmer, and whip
+    around bringing the light over to that spot, thinking you''ve caught what was
+    swimming around you.'
+  formattingOptions: []
+  position:
+  - 7.06609594380127e+3
+  - 4.19660341443372e+3
+  width: 2.3e+2
+  connections:
+    indexes:
+    - location: 1248
+      length: 1
+    - location: 1251
+      length: 1
+  _effectiveHeight: 1.26e+2
+- ID: 1251
+  text: 'The glimmer stays in one spot.  You find a thread.  A familiar thread.
+
+    Widget sits down and tries to identify it.'
+  formattingOptions: []
+  position:
+  - 6.7554838193128e+3
+  - 4.26900208638622e+3
+  width: 2.2e+2
+  connections:
+    indexes:
+    - location: 1250
+      length: 1
+    - location: 1252
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 1252
+  text: 'Tells you what you suspected, this is a thread from the robes at the monestary.  This
+    is fromsone here(?) and in particular, it''s from a Vanna-level robe. Really just
+    a handful of folks
+
+    (tell this to the group)'
+  formattingOptions: []
+  position:
+  - 6.75329690060003e+3
+  - 4.3359309256913e+3
+  width: 2.7e+2
+  connections:
+    indexes:
+    - location: 1251
+      length: 1
+    - location: 1253
+      length: 1
+    - location: 1255
+      length: 1
+  _effectiveHeight: 7e+1
+- ID: 1253
+  text: 'Chandra: that''s highly suspicious. stuff it in your backpack, we gotta find
+    that book.'
+  formattingOptions: []
+  position:
+  - 6.60144583994468e+3
+  - 4.41565551423689e+3
+  width: 1.3e+2
+  connections:
+    indexes:
+    - location: 1252
+      length: 1
+  _effectiveHeight: 5.6e+1
+- ID: 1254
+  text: that was not the walk of someone who just hit something with the car)
+  formattingOptions: []
+  position:
+  - 6.77548824849722e+3
+  - 4.42495714169489e+3
+  width: 3.1e+2
+  connections:
+    indexes: []
+  _effectiveHeight: 2.8e+1
+- ID: 1255
+  text: The trail is twisty and turney - grateful for the trail, almost labaranthine
+  formattingOptions: []
+  position:
+  - 7.07411736013542e+3
+  - 4.35673202950649e+3
+  width: 2.1e+2
+  connections:
+    indexes:
+    - location: 1252
+      length: 1
+    - location: 1256
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 1256
+  text: Larger / central chamber that our path wanders in to chamber.  See... marks
+    of civilization. In particular what looks like a chest. a little bizarre - showing
+    the signs of being made by someone rather than environment.  Seen around the chamber,
+    but hard to make sense of.  Nothing really looks like anything that we all know.  A
+    place where some kind of being occupies it. Presumably, see the drag marks in
+    the sand.
+  formattingOptions: []
+  position:
+  - 7.10966117197608e+3
+  - 4.40935277211151e+3
+  width: 2.1e+2
+  connections:
+    indexes:
+    - location: 1255
+      length: 1
+    - location: 1257
+      length: 1
+  _effectiveHeight: 1.68e+2
+- ID: 1257
+  text: With that, you hear a rush of water, not just Kash's little current, but around
+    you. Widget, you catch a full glimpse of one of the invisible creatures. Looks
+    like a long, almost dolphin like body, but the front of its head that has a giant
+    horn protruding from it.  See another one going the other way.
+  formattingOptions: []
+  position:
+  - 6.84652509048019e+3
+  - 4.47709588623088e+3
+  width: 2.5e+2
+  connections:
+    indexes:
+    - location: 1256
+      length: 1
+    - location: 1259
+      length: 1
+  _effectiveHeight: 9.8e+1
+- ID: 1258
+  text: The Narwhal bacons at midnight
+  formattingOptions: []
+  position:
+  - 7.06621291987627e+3
+  - 4.59601018221458e+3
+  width: 2e+2
+  connections:
+    indexes: []
+  _effectiveHeight: 1.4e+1
+- ID: 1259
+  text: 'They look powerful and dangerous. Pretty sure they''ve been following you.  There
+    wouldn''t have been enough room for them being around you.  Taking other passageways.
+
+    They don''t seem overly afraid of us at the moment.'
+  formattingOptions: []
+  position:
+  - 6.83492758730249e+3
+  - 4.64056153506366e+3
+  width: 2e+2
+  connections:
+    indexes:
+    - location: 1257
+      length: 1
+    - location: 1260
+      length: 1
+  _effectiveHeight: 9.8e+1
+- ID: 1260
+  text: Nothing makes enough sense.  Since it's a 22 (nature check). not just catch
+    the horn, as the body passes by, also see arms and legs where expect only fins.
+    They look fairly powerful. Whether it's predetory or not, hard to say.  "going
+    to write off as neutral but will fight if pissed off"
+  formattingOptions: []
+  position:
+  - 6.62269288678156e+3
+  - 4.50540907796268e+3
+  width: 2.1e+2
+  connections:
+    indexes:
+    - location: 1259
+      length: 1
+    - location: 1261
+      length: 1
+  _effectiveHeight: 1.12e+2
+- ID: 1261
+  text: We all hear a voice in our head. "Whatcha doing here, ehhh?  Jeff did you
+    invite them over for dinner, we have guests"
+  formattingOptions: []
+  position:
+  - 6.32571470345906e+3
+  - 4.58378278411425e+3
+  width: 2.2e+2
+  connections:
+    indexes:
+    - location: 1260
+      length: 1
+    - location: 1262
+      length: 1
+  _effectiveHeight: 5.6e+1
+- ID: 1262
+  text: 'Dunno rob, they don''t seem very talkative.
+
+    Widget: "Can you hear these guys talk? they''re invisible. can you hear them?"
+
+    To the invisibles: can you understand me?"
+
+    You can speak, little one. how are you?
+
+    I''m doing well, and looking around.
+
+    Rest of us can''t see anything. Widget does know they are invisible b/c of a little
+    shimmer.'
+  formattingOptions: []
+  position:
+  - 6.30265918181192e+3
+  - 4.6978306962275e+3
+  width: 2.5e+2
+  connections:
+    indexes:
+    - location: 1261
+      length: 1
+    - location: 1263
+      length: 1
+  _effectiveHeight: 1.12e+2
+- ID: 1263
+  text: 'They seem a little boring, shall we play again?  I like a game. they don''t
+    seem fast. Might be a quick game.
+
+    Widget: dang I wish I didn''t say they were invisible'
+  formattingOptions: []
+  position:
+  - 6.3340031081357e+3
+  - 4.85836370268366e+3
+  width: 2.4e+2
+  connections:
+    indexes:
+    - location: 1262
+      length: 1
+    - location: 1264
+      length: 1
+  _effectiveHeight: 7e+1
+- ID: 1264
+  text: 'Chandra - feel a sudden pressure, thump against you  and spin around the
+    water, feel a large beast.  Widget sees it. Swooped in and body checked chandra.
+    Very gently,  W: "dick move, but not an attack?"  yeah.'
+  formattingOptions: []
+  position:
+  - 6.56350373398826e+3
+  - 4.64038859727692e+3
+  width: 2.5e+2
+  connections:
+    indexes:
+    - location: 1263
+      length: 1
+    - location: 1265
+      length: 1
+  _effectiveHeight: 7e+1
+- ID: 1265
+  text: You folks come in here uninvited. What's with the repeat visits?
+  formattingOptions: []
+  position:
+  - 6.58454513907568e+3
+  - 4.77598017326278e+3
+  width: 2.2e+2
+  connections:
+    indexes:
+    - location: 1264
+      length: 1
+    - location: 1266
+      length: 2
+  _effectiveHeight: 2.8e+1
+- ID: 1266
+  text: '"you think we all look alike?"'
+  formattingOptions: []
+  position:
+  - 6.59200956914302e+3
+  - 4.8567550969204e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 1265
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 1267
+  text: 'Not used to seeing non-sea creatures. Tell you what. Jeff think they''ll
+    like an exchange of ifnormatin?
+
+    Jeff: (dull) sure. we can talk before we eat'
+  formattingOptions: []
+  position:
+  - 6.76801174218835e+3
+  - 4.83667618233862e+3
+  width: 2e+2
+  connections:
+    indexes:
+    - location: 1265
+      length: 1
+    - location: 1268
+      length: 2
+  _effectiveHeight: 8.4e+1
+- ID: 1268
+  text: 'Roh: on Widget can see them? (correct, Kashi just has darkvision)'
+  formattingOptions: []
+  position:
+  - 6.82339515922713e+3
+  - 4.75002643597363e+3
+  width: 2e+2
+  connections:
+    indexes:
+    - location: 1267
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 1269
+  text: 'Widget; can also see into the etheral plane if that''s relevant.
+
+    Relevant!  The ehteral plane can see in to it, but something is very weird about
+    it. the colors are typically a gray wash. but here see almost pink red brightness.
+
+    Secondly - why  we didn''t get lost.  The etheral plane had the equivalent of
+    arrows along the floor back to the cave and through symbols in the cave walls
+    at the junctures. Don''t know what the symbols mean, at least so far not deciphered,
+    did decipher one the releated one leading to the passage way leading to now.  Makes
+    it easier to navigate here.'
+  formattingOptions: []
+  position:
+  - 7.04880096551124e+3
+  - 4.62055086844356e+3
+  width: 2.7e+2
+  connections:
+    indexes:
+    - location: 1267
+      length: 1
+    - location: 1270
+      length: 1
+  _effectiveHeight: 1.96e+2
+- ID: 1270
+  text: The dragmarks on the floor, also see on the etheral - the Larm had something
+    to do with it
+  formattingOptions: []
+  position:
+  - 7.15422379382242e+3
+  - 4.8438803895017e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 1269
+      length: 1
+    - location: 1271
+      length: 1
+  _effectiveHeight: 5.6e+1
+- ID: 1271
+  text: Kashi - can invisible thing see other invisible things?  Casts invisibilty
+    on everybody
+  formattingOptions: []
+  position:
+  - 7.13361994298847e+3
+  - 4.93811251152944e+3
+  width: 1.9e+2
+  connections:
+    indexes:
+    - location: 1270
+      length: 1
+    - location: 1273
+      length: 1
+    - location: 1276
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 1272
+  text: (Local fight / posturing. 400 quatloos on the newcomers)
+  formattingOptions: []
+  position:
+  - 6.98481011884727e+3
+  - 4.84232258823997e+3
+  width: 1.6e+2
+  connections:
+    indexes: []
+  _effectiveHeight: 2.8e+1
+- ID: 1273
+  text: 'Can almost hear the chuckle in their voices, until you go invisible.
+
+    You hear unpleasant sound in the water. Sort of garbled, but recgonize as rob''s
+    voice.  "well that makes it more interesting. I see you all are fun to play with!  hrmmm.
+    Would hate for this day to turn out terribly for all of us. You''re here looking
+    for someone or something. We have our own questions."'
+  formattingOptions: []
+  position:
+  - 6.83983669336054e+3
+  - 4.94410818869028e+3
+  width: 2.7e+2
+  connections:
+    indexes:
+    - location: 1271
+      length: 1
+    - location: 1274
+      length: 1
+  _effectiveHeight: 1.26e+2
+- ID: 1274
+  text: 'Widget: what questions? (get them into a keep-talking) Where are you coming
+    from, especially the repeat visits, especially when it messes with our local territory
+    dynamics with the killing of death.  Your help today most appreciatied, that bit
+    of nastiness has been a thorn in our side.  Cna''t say we can complain about this
+    actions. Last time say it was a cousin of mine that was dealth with similarly,
+    and we don''t like that very much.'
+  formattingOptions: []
+  position:
+  - 6.60006475170631e+3
+  - 4.951731072805e+3
+  width: 2.3e+2
+  connections:
+    indexes:
+    - location: 1273
+      length: 1
+    - location: 1275
+      length: 1
+  _effectiveHeight: 1.54e+2
+- ID: 1275
+  text: Feel the current as someone trying for another bump and trying to figure out
+    where we are, and just sort of missed.
+  formattingOptions: []
+  position:
+  - 6.31068829848826e+3
+  - 4.97122213406106e+3
+  width: 2.5e+2
+  connections:
+    indexes:
+    - location: 1274
+      length: 1
+    - location: 1277
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 1276
+  text: WE ARE INVISIBLE
+  fillColorRGB:
+    red: 1e+0
+    green: 9.0283e-1
+    blue: 9.76506e-1
+  formattingOptions: []
+  position:
+  - 6.98187061728174e+3
+  - 4.90276511249916e+3
+  width: 1.4e+2
+  connections:
+    indexes:
+    - location: 1271
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 1277
+  text: 'Roh: This is going to be stupid! Where was the current? (off right shoulder,
+    going backwards) Want to spin around and make a quick attempt to grapple.  Bit
+    arms just squeeze, for a bear hugge.  Straight roll b/c everyone is invisible.
+
+    Athletics: 23
+
+    Widget gets to see them circling, and see the party kind of clumped together,
+    staying together, not even treading water just floating. See them floating around,
+    and see dart toward to Roh, clear they don''t know where we are and tryign to
+    take out more.  Then see Roh with his arms around it.  It starts going nuts.  It
+    will take off at the edge of the cage, taking a body roll to scrape you off the
+    side of the ceiling'
+  formattingOptions: []
+  position:
+  - 6.29771538259665e+3
+  - 5.040499957373e+3
+  width: 2.7e+2
+  connections:
+    indexes:
+    - location: 1275
+      length: 1
+    - location: 1278
+      length: 1
+  _effectiveHeight: 2.1e+2
+- ID: 1278
+  text: 'Can tell there''s a wall coming up, and do a move.
+
+    I have an action, Grappling Pin - make another grapple check, if succeed, we''ll
+    be both be restrained until I end the grapple'
+  formattingOptions: []
+  position:
+  - 6.62071629231106e+3
+  - 5.13478700377522e+3
+  width: 2.2e+2
+  connections:
+    indexes:
+    - location: 1277
+      length: 1
+    - location: 1279
+      length: 1
+  _effectiveHeight: 8.4e+1
+- ID: 1279
+  text: 'Can try it - disadvange, b/c in its natural territory.
+
+    (grappling rules discussion)
+
+    Second grapple - that''s an 8.  Kashi portents and replaces with a 19.
+
+    DMs Rolled 2 natural twos.  Despite the signifiant modifiers, won''t beat a 19.  This
+    creature has misjudged you.
+
+    One thing you understand is the physicality of a fight. You can tell it''s trying
+    to scrape you off. You get intiuitive and brace feet, yank on the fin, rotate
+    it back around and slam its head straight into rocks (BOOSH) use its own momentum.'
+  formattingOptions: []
+  position:
+  - 6.87147612187762e+3
+  - 5.09595707678494e+3
+  width: 1.9e+2
+  connections:
+    indexes:
+    - location: 1278
+      length: 1
+    - location: 1280
+      length: 2
+  _effectiveHeight: 2.52e+2
+- ID: 1280
+  text: Hear Jeff going.  Uh Rob. Rob, get it off get off. I can't see antying get
+    my head out of here I don't like it. Hear it as a physical sound (Mikey does excellent
+    gurgle)
+  formattingOptions: []
+  position:
+  - 6.62660259544068e+3
+  - 5.26480090138346e+3
+  width: 2.1e+2
+  connections:
+    indexes:
+    - location: 1279
+      length: 1
+  _effectiveHeight: 7e+1
+- ID: 1281
+  text: 'Kashi leans over to gizmo (er widget), where is it.  Points.
+
+    Will cast a flow water to make it think we''re by it. Away from where we actually
+    are. To it, what happeend to roh, like something brushed passed it.'
+  formattingOptions: []
+  position:
+  - 7.11937221582138e+3
+  - 5.01084838576621e+3
+  width: 2.1e+2
+  connections:
+    indexes:
+    - location: 1279
+      length: 1
+    - location: 1282
+      length: 1
+  _effectiveHeight: 8.4e+1
+- ID: 1282
+  text: Jeff yelling incoherent story of what's happening, the other one can't see
+    that. Only getting bits and pieces, can see Wdiget get its movement more frantic.
+    The jet of water, it flips out and starts barrel spinning, seeing their athletic
+    capability as it shoots perpindicularly up and trying to shake somethign that
+    it's afraid of it.  They had been lazily circling, now frantically whipping around
+    the chamber.  Darts out of this cavern and in to another one.
+  formattingOptions: []
+  position:
+  - 7.10146110044755e+3
+  - 5.12157699052192e+3
+  width: 2.5e+2
+  connections:
+    indexes:
+    - location: 1281
+      length: 1
+    - location: 1283
+      length: 1
+  _effectiveHeight: 1.54e+2
+- ID: 1283
+  text: Hearing yelling from both of them. "This is why I don't like them visiting,
+    they're going to kill us"  Rolling initiative
+  formattingOptions: []
+  position:
+  - 7.11746646572854e+3
+  - 5.31200270104866e+3
+  width: 2.3e+2
+  connections:
+    indexes:
+    - location: 1282
+      length: 1
+    - location: 1284
+      length: 1
+    - location: 1286
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 1284
+  text: 'Widget and Kash - 2
+
+    Chandra - 10
+
+    Roh - 16'
+  formattingOptions: []
+  position:
+  - 6.92662836584015e+3
+  - 5.38324112858928e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 1283
+      length: 1
+    - location: 1285
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 1285
+  text: (obtw Kash's Fox background for red-panda is not slowed by water - "steady
+    gait")
+  fillColorRGB:
+    red: 1e+0
+    green: 9.0283e-1
+    blue: 9.76506e-1
+  formattingOptions: []
+  position:
+  - 6.6984379973563e+3
+  - 5.37501818527607e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 1284
+      length: 1
+  _effectiveHeight: 5.6e+1
+- ID: 1286
+  text: They thought they had the advantage.  Have caught them by surprise. Action
+    from Kashi and from Roh.  Chandra
+  formattingOptions: []
+  position:
+  - 7.12787201043353e+3
+  - 5.38763743276529e+3
+  width: 2e+2
+  connections:
+    indexes:
+    - location: 1283
+      length: 1
+    - location: 1287
+      length: 2
+  _effectiveHeight: 5.6e+1
+- ID: 1287
+  text: Chandra screams and tries to stop spinning around. Uses movement to get bearings
+  formattingOptions: []
+  position:
+  - 7.14599377460144e+3
+  - 5.48057555377378e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 1286
+      length: 1
+  _effectiveHeight: 5.6e+1
+- ID: 1288
+  text: 'Widget - just us and the dudes that were trying to bully us?
+
+    Not seeing anything else (with see invisible and etheral)
+
+    Shout this is getting real weird real fast. I think this is your last chance to
+    let us know you don''t mean us harm.'
+  formattingOptions: []
+  position:
+  - 6.88416836808799e+3
+  - 5.45107784888942e+3
+  width: 2.1e+2
+  connections:
+    indexes:
+    - location: 1286
+      length: 1
+    - location: 1289
+      length: 1
+  _effectiveHeight: 9.8e+1
+- ID: 1289
+  text: Widget is the only one that can see anything
+  formattingOptions: []
+  position:
+  - 6.65188814309109e+3
+  - 5.4726545742088e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 1288
+      length: 1
+    - location: 1290
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 1290
+  text: 'The one tackled still yelling from the hole jammed in by Roh (restrained)
+
+    Readying a bow shot against anything decidely hostile.'
+  formattingOptions: []
+  position:
+  - 6.38878598346598e+3
+  - 5.34644835598171e+3
+  width: 2.6e+2
+  connections:
+    indexes:
+    - location: 1289
+      length: 1
+    - location: 1291
+      length: 1
+  _effectiveHeight: 5.6e+1
+- ID: 1291
+  text: '"I see you are capable, and would like to not ruin my day by dyig. I will
+    hope that sentiment is shared by eeryone. let''s take it down a notching. Totally
+    happy to just swim from here and let you enjoy. Would be great if you got what
+    you needed and didn''t come back that would be cool
+
+    "JEFF Stop. Promise you''ll let me out''" Roh wrenches again wall'' That itches"
+    Widget: tap out!'
+  formattingOptions: []
+  position:
+  - 6.31232787337986e+3
+  - 5.44605635579428e+3
+  width: 2.5e+2
+  connections:
+    indexes:
+    - location: 1290
+      length: 1
+    - location: 1292
+      length: 1
+  _effectiveHeight: 1.4e+2
+- ID: 1292
+  text: 'We are in violent agreement!
+
+    Just head off this way.  Haven''t been helpful
+
+    "have you seen a book?" I absolutely have - container thing right down in the
+    middle of the room, off to the side. I''d point you to it.  Not go near it. Can''t
+    see me either.  This is awkward'
+  formattingOptions: []
+  position:
+  - 6.61995471445964e+3
+  - 5.53734137876944e+3
+  width: 2.4e+2
+  connections:
+    indexes:
+    - location: 1291
+      length: 1
+    - location: 1293
+      length: 1
+  _effectiveHeight: 9.8e+1
+- ID: 1293
+  text: Widget sees him swim around. He's not coming near us. Circles around to where
+    can see this give descriptions on the cavern floor.
+  formattingOptions: []
+  position:
+  - 6.8918357649011e+3
+  - 5.59977808501755e+3
+  width: 2.1e+2
+  connections:
+    indexes:
+    - location: 1292
+      length: 1
+    - location: 1294
+      length: 1
+  _effectiveHeight: 5.6e+1
+- ID: 1294
+  text: '15'' below them.  Everyone can see the room, just not any others.  '
+  formattingOptions: []
+  position:
+  - 7.16050419008784e+3
+  - 5.58438883994282e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 1293
+      length: 1
+    - location: 1295
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 1295
+  text: The other dude - how long ago. Did they seem friendly.  Less so, primarily
+    with the killing of my cousin part. Go with not friendly. Hoestly we should have
+    known not to underestimate, quick with the reactions. Not used to being spotted
+    so that was uncomfortable. They put the book down, then they opened, and the book
+    opened and that beast came out, wrecking our shit and ate my other cousin (I got
+    300 of them) that was just over all a day. And dude just left us with the problem,
+    that loopy beast thing. We kind had to vacate our territory on account not wanting
+    of being eaten
+  formattingOptions: []
+  position:
+  - 7.13602018052749e+3
+  - 5.6728339273544e+3
+  width: 2.4e+2
+  connections:
+    indexes:
+    - location: 1294
+      length: 1
+    - location: 1296
+      length: 1
+  _effectiveHeight: 1.96e+2
+- ID: 1296
+  text: Description, know that this is one of the Vanas. Not Gadorn, but another one.
+    For Chandra, recognize who it was. Not one with a paticular strong relationship
+  formattingOptions: []
+  position:
+  - 6.82231426283454e+3
+  - 5.68411277232882e+3
+  width: 2.4e+2
+  connections:
+    indexes:
+    - location: 1295
+      length: 1
+    - location: 1297
+      length: 1
+  _effectiveHeight: 5.6e+1
+- ID: 1297
+  text: interesting hearing them describe us.  Only second encouter with pandareans
+  formattingOptions: []
+  position:
+  - 6.64402317644414e+3
+  - 5.67587194706274e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 1296
+      length: 1
+    - location: 1298
+      length: 2
+  _effectiveHeight: 4.2e+1
+- ID: 1298
+  text: Sounds win/win - is it possible that you never come back.
+  formattingOptions: []
+  position:
+  - 6.46519737490813e+3
+  - 5.60538743407021e+3
+  width: 1.4e+2
+  connections:
+    indexes:
+    - location: 1297
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 1299
+  text: 'Kashi: that sounds great. What do you call yourselves (want to document these
+    creatures)'
+  formattingOptions: []
+  position:
+  - 6.45683016853736e+3
+  - 5.68522003262282e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 1297
+      length: 1
+    - location: 1300
+      length: 1
+  _effectiveHeight: 5.6e+1
+- ID: 1300
+  text: 'What type of species?
+
+    (We''re pandarens)
+
+    We call ourselves Narhemoths.'
+  formattingOptions: []
+  position:
+  - 6.3096876989194e+3
+  - 5.70103694838369e+3
+  width: 1.2e+2
+  connections:
+    indexes:
+    - location: 1299
+      length: 1
+    - location: 1301
+      length: 3
+  _effectiveHeight: 7e+1
+- ID: 1301
+  text: Kash realizes there's no way to write on paper, so does a little presdigitation
+    of glowing bit of that on top of one of his notebooks
+  formattingOptions: []
+  position:
+  - 6.28480187888995e+3
+  - 5.78656442187025e+3
+  width: 1.9e+2
+  connections:
+    indexes:
+    - location: 1300
+      length: 1
+  _effectiveHeight: 5.6e+1
+- ID: 1302
+  text: Widget gets the book "we're going to book it"
+  formattingOptions: []
+  position:
+  - 6.36111782162656e+3
+  - 5.62740683086592e+3
+  width: 1.1e+2
+  connections:
+    indexes:
+    - location: 1300
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 1303
+  text: 'Roh - willing to release your friend and get out of there?
+
+    Yes.'
+  formattingOptions: []
+  position:
+  - 6.49147584618687e+3
+  - 5.77188483580063e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 1300
+      length: 1
+    - location: 1304
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 1304
+  text: Rob is keeping his distance from you all. It was quite... what's the word.
+    Quite eventful to meet you all. Thank you for taking the book and taking creature
+    and not killing me and my boy here. We're going to go get a drink
+  formattingOptions: []
+  position:
+  - 6.67071344337135e+3
+  - 5.77303270363917e+3
+  width: 2.5e+2
+  connections:
+    indexes:
+    - location: 1303
+      length: 1
+    - location: 1305
+      length: 1
+  _effectiveHeight: 7e+1
+- ID: 1305
+  text: 'Kashi "getting a drink... how.... oh never mind. let''s get out of here"
+
+    Underwater bar'
+  formattingOptions: []
+  position:
+  - 6.9392770355173e+3
+  - 5.8601088542846e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 1304
+      length: 1
+    - location: 1306
+      length: 2
+    - location: 1309
+      length: 1
+  _effectiveHeight: 5.6e+1
+- ID: 1306
+  text: With that, able to pop open your return book. (oh no all the ocean is coming
+    through!11!!)
+  formattingOptions: []
+  position:
+  - 6.93846884748891e+3
+  - 5.76472663562423e+3
+  width: 1.4e+2
+  connections:
+    indexes:
+    - location: 1305
+      length: 1
+  _effectiveHeight: 5.6e+1
+- ID: 1307
+  text: 'Return under the sun. Surrounded by a decent amount of water, dripping '
+  formattingOptions: []
+  position:
+  - 7.0090127483203e+3
+  - 5.9621965570443e+3
+  width: 1.3e+2
+  connections:
+    indexes:
+    - location: 1305
+      length: 1
+    - location: 1308
+      length: 1
+  _effectiveHeight: 5.6e+1
+- ID: 1308
+  text: We return wet.  Roh looks like a muskrat. next to the hut where we came from
+  formattingOptions: []
+  position:
+  - 7.17231233751031e+3
+  - 5.9562939519678e+3
+  width: 1.2e+2
+  connections:
+    indexes:
+    - location: 1307
+      length: 1
+    - location: 1310
+      length: 1
+  _effectiveHeight: 5.6e+1
+- ID: 1309
+  text: Chandra gets the thread from Widget and puts it in his pack
+  formattingOptions: []
+  position:
+  - 6.71969473417935e+3
+  - 5.86417707448764e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 1305
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 1310
+  text: Recovering from your journey - hard not to think about Vana Kavari, see less
+    of them than the others, one of the ones closer to oman, the leader of the monestary.
+  formattingOptions:
+  - options: 1
+    rangeStart: 55
+    rangeLength: 11
+  position:
+  - 7.14247213083483e+3
+  - 6.04051192818187e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 1308
+      length: 1
+    - location: 1311
+      length: 1
+    - location: 1314
+      length: 1
+  _effectiveHeight: 8.4e+1
+- ID: 1311
+  text: 'Chandra tracks down Vana Gadorn, waiting by the hut. '
+  formattingOptions: []
+  position:
+  - 6.93706306302403e+3
+  - 6.04532345844316e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 1310
+      length: 1
+    - location: 1312
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 1312
+  text: (Chandra tells Vana Gadorn that we got the thread and the Vana KAvari placed
+    the book and unleased it, quietly on the QT )
+  formattingOptions: []
+  position:
+  - 6.92293146313961e+3
+  - 6.10472986732833e+3
+  width: 2e+2
+  connections:
+    indexes:
+    - location: 1311
+      length: 1
+    - location: 1313
+      length: 1
+  _effectiveHeight: 5.6e+1
+- ID: 1313
+  text: '"That''s terrible if that''s true. That not right. Not how this should be.
+    Let''s keep this to ourselves. We''ll figure out what to do about that'
+  formattingOptions: []
+  position:
+  - 6.71792271316647e+3
+  - 5.96351303203782e+3
+  width: 2.6e+2
+  connections:
+    indexes:
+    - location: 1312
+      length: 1
+    - location: 1315
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 1314
+  text: 'Vana Kavari maybe BBEG
+
+    Or Vanna Gadorn masquarading as Kavari'
+  fillColorRGB:
+    red: 1e+0
+    green: 9.0283e-1
+    blue: 9.76506e-1
+  formattingOptions: []
+  position:
+  - 7.14256221939922e+3
+  - 6.16138414078335e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 1310
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 1315
+  text: '"I appreciate the discretion and keep it to ourselves who we can trust. this
+    is unsettling for sure"'
+  formattingOptions: []
+  position:
+  - 6.71909967737805e+3
+  - 6.03996706342464e+3
+  width: 2.1e+2
+  connections:
+    indexes:
+    - location: 1313
+      length: 1
+    - location: 1316
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 1316
+  text: (brief break)
+  formattingOptions: []
+  position:
+  - 6.54004355216117e+3
+  - 6.05880107964351e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 1315
+      length: 1
+    - location: 1317
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 1317
+  text: Finish  this up!
+  formattingOptions: []
+  position:
+  - 6.49323687510417e+3
+  - 6.01090796231771e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 1316
+      length: 1
+    - location: 1318
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 1318
+  text: 'Vanna Gadorn: One other thing to insure, you did recover the book, in Widget''s
+    possession.  Might I havet he recovered book'
+  formattingOptions: []
+  position:
+  - 6.49271443684897e+3
+  - 5.90190511067713e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 1317
+      length: 1
+  _effectiveHeight: 7e+1
+- ID: 1319
+  text: 'Widget - message Chandra, "don''t know how much to trust."
+
+    Insight - dirty (C)and clean 20 (Widget)
+
+    "well shoot...."
+
+    '
+  formattingOptions: []
+  position:
+  - 6.30809594726563e+3
+  - 5.883754153724e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 1320
+      length: 1
+  _effectiveHeight: 9.8e+1
+- ID: 1320
+  text: Widget doesn't know what conversation - something in Gadorn's language is
+    off to you.  As you make eye contact and glance over at chandra. See Gadorn reading
+    you to trust you in that moment. Several pieces click in to place - memories,
+    parts of descriptions, and an unusual weight you see beside Gadorn on his belt
+    that wasn't there when went through the book. Not all that long agao.  We did
+    some things, went pretty quickly. Havne't been gone long enough to walk across
+    the mountain to the monestary and back
+  formattingOptions: []
+  position:
+  - 6.2872521296351e+3
+  - 6.02400748697921e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 1319
+      length: 1
+    - location: 1321
+      length: 1
+  _effectiveHeight: 2.8e+2
+- ID: 1321
+  text: We were only gone an hour, know thre is money there. Put together in that
+    moment as you lock eyes. Let me roll for this. See in Gadorn eyes clear intent
+    to bettray us.
+  formattingOptions: []
+  position:
+  - 6.46316936596323e+3
+  - 6.09812996419276e+3
+  width: 2e+2
+  connections:
+    indexes:
+    - location: 1320
+      length: 1
+    - location: 1322
+      length: 1
+  _effectiveHeight: 7e+1
+- ID: 1322
+  text: Also feel confident you have veiled  your own expression. While to read to
+    trust you, back to his jovial self.
+  formattingOptions: []
+  position:
+  - 6.46332187247365e+3
+  - 6.19686035156255e+3
+  width: 2.1e+2
+  connections:
+    indexes:
+    - location: 1321
+      length: 1
+    - location: 1323
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 1323
+  text: 'Widget: when we got back, did we just apparote in this room, or did we stop
+    by our rooms or anything?'
+  formattingOptions: []
+  position:
+  - 6.53278332150638e+3
+  - 6.27271919177832e+3
+  width: 2.1e+2
+  connections:
+    indexes:
+    - location: 1322
+      length: 1
+    - location: 1324
+      length: 2
+  _effectiveHeight: 4.2e+1
+- ID: 1324
+  text: yesterday was a multi hour walk to another mountain. The shack with the book.
+    Reappeared outside the shack
+  formattingOptions: []
+  position:
+  - 6.70996863586649e+3
+  - 6.11219501023062e+3
+  width: 1.9e+2
+  connections:
+    indexes:
+    - location: 1323
+      length: 1
+  _effectiveHeight: 5.6e+1
+- ID: 1325
+  text: "Widget: question for you, can somebody take something out of a bag of holding
+    that didn't put it there. \nyeah, if you know what it is."
+  formattingOptions: []
+  position:
+  - 6.76814723054655e+3
+  - 6.1888206380208e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 1323
+      length: 1
+    - location: 1326
+      length: 1
+  _effectiveHeight: 8.4e+1
+- ID: 1326
+  text: That split second "still with my stuff"
+  formattingOptions: []
+  position:
+  - 6.94735412228763e+3
+  - 6.18778745814732e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 1325
+      length: 1
+    - location: 1327
+      length: 3
+  _effectiveHeight: 2.8e+1
+- ID: 1327
+  text: Chandra fake scolds
+  formattingOptions: []
+  position:
+  - 7.13481366469834e+3
+  - 6.21620937965029e+3
+  width: 1.2e+2
+  connections:
+    indexes:
+    - location: 1326
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 1328
+  text: Roh fake nods
+  formattingOptions: []
+  position:
+  - 7.12329545878316e+3
+  - 6.24945296223958e+3
+  width: 1.2e+2
+  connections:
+    indexes:
+    - location: 1326
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 1329
+  text: 'Decelption check (advantage)
+
+    3-1, then a 14-1 so a 13'
+  formattingOptions: []
+  position:
+  - 6.95997747143197e+3
+  - 6.23905704752604e+3
+  width: 1.4e+2
+  connections:
+    indexes:
+    - location: 1326
+      length: 1
+    - location: 1330
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 1330
+  text: Back at the monestary - got security contraptions over there
+  formattingOptions: []
+  position:
+  - 7.12306387396173e+3
+  - 6.31538616071428e+3
+  width: 1.5e+2
+  connections:
+    indexes:
+    - location: 1329
+      length: 1
+    - location: 1331
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 1331
+  text: While taking place. Shotgun messaging all 3 - "I don't trust him, going to
+    betray us, biding time to figure out what to do. (6 seconds a cast, so nod, and
+    do that while we walk.
+  formattingOptions: []
+  position:
+  - 6.92887930364923e+3
+  - 6.31252500697544e+3
+  width: 1.8e+2
+  connections:
+    indexes:
+    - location: 1330
+      length: 1
+    - location: 1332
+      length: 1
+  _effectiveHeight: 8.4e+1
+- ID: 1332
+  text: '"kash or row are you doing antyhing"
+
+    Roh: "I can hit him" or pin him or stick him in a hole. A specific skill set.'
+  formattingOptions: []
+  position:
+  - 6.76149404974298e+3
+  - 6.29789708891369e+3
+  width: 1.5e+2
+  connections:
+    indexes:
+    - location: 1331
+      length: 1
+    - location: 1333
+      length: 1
+  _effectiveHeight: 7e+1
+- ID: 1333
+  text: 'Kashi - We had a similar thing, getting enthralled by the book we were taking..
+
+    Does that seem like that''s waht''s happening here.
+
+    Perception (or Arcana) : dirty 20 (perception)'
+  formattingOptions: []
+  position:
+  - 6.58064089451605e+3
+  - 6.34274682617187e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 1332
+      length: 1
+    - location: 1334
+      length: 1
+  _effectiveHeight: 9.8e+1
+- ID: 1334
+  text: 'All you having a good handle on what''s going on. Not the same as before.
+    That time was drawn in by the book / creature having a certain will. Even we all
+    were at risk to, just resisted.
+
+    Widget you know this is difference. Whatever chandra shared, he realized you stumbled
+    in to someething you weren''t meant to know.'
+  formattingOptions: []
+  position:
+  - 6.30048952732861e+3
+  - 6.32616973586312e+3
+  width: 2.4e+2
+  connections:
+    indexes:
+    - location: 1333
+      length: 1
+    - location: 1335
+      length: 1
+  _effectiveHeight: 1.26e+2
+- ID: 1335
+  text: Get on to the trail and jump him!  (reminder he could easily outrun all of
+    us if given the chance)
+  formattingOptions: []
+  position:
+  - 6.31181257404034e+3
+  - 6.47552811200157e+3
+  width: 2.1e+2
+  connections:
+    indexes:
+    - location: 1334
+      length: 1
+    - location: 1336
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 1336
+  text: (fast forward) You're at the spot. have realtive to the party.
+  formattingOptions: []
+  position:
+  - 6.55499134310652e+3
+  - 6.4656608198699e+3
+  width: 1.8e+2
+  connections:
+    indexes:
+    - location: 1335
+      length: 1
+    - location: 1337
+      length: 3
+  _effectiveHeight: 2.8e+1
+- ID: 1337
+  text: Retcon Short Rest
+  fillColorRGB:
+    red: 1e+0
+    green: 9.0283e-1
+    blue: 9.76506e-1
+  formattingOptions: []
+  position:
+  - 6.36366585498864e+3
+  - 6.54407018461695e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 1336
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 1338
+  text: Deception  everyone good except Chandra, with a 7
+  formattingOptions: []
+  position:
+  - 6.55304928365308e+3
+  - 6.52690994698675e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 1336
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 1339
+  text: "Who's intiating?  \nAlong the way Roh will step in front of Vana Gadorn and
+    block his way and use the Intimidating Presence"
+  formattingOptions: []
+  position:
+  - 6.75643126823674e+3
+  - 6.38802017626875e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 1336
+      length: 1
+    - location: 1340
+      length: 2
+  _effectiveHeight: 7e+1
+- ID: 1340
+  text: Does not succeed (is frightened)
+  formattingOptions: []
+  position:
+  - 6.94116767325488e+3
+  - 6.4168826171875e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 1339
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 1341
+  text: Low tone conversation, about how important it's been to me to be responsible
+    for the monestary and its safety and everyone in it. And not any particular intent
+    yet, frighten the bajeezus out of him
+  formattingOptions: []
+  position:
+  - 6.75515790762988e+3
+  - 6.4777115234375e+3
+  width: 2.6e+2
+  connections:
+    indexes:
+    - location: 1339
+      length: 1
+    - location: 1342
+      length: 1
+  _effectiveHeight: 7e+1
+- ID: 1342
+  text: 'Somethings difficult violent things must be done for folks to do peace.
+
+    He runs. Suspected something coming, and ready to run'
+  formattingOptions: []
+  position:
+  - 7.15044147010214e+3
+  - 6.37812720477764e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 1341
+      length: 1
+    - location: 1343
+      length: 2
+    - location: 1351
+      length: 2
+  _effectiveHeight: 8.4e+1
+- ID: 1343
+  text: Widget acid arrow in his back.
+  formattingOptions: []
+  position:
+  - 7.03320273184861e+3
+  - 6.48182934570312e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 1342
+      length: 1
+    - location: 1348
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 1345
+  text: 'The bag of the money.
+
+    "jow much figure out"
+
+    you were going to betray us
+
+    "was going to protect the cloister. up to you to destroy us or live a harsh lesson.
+    The money was not a payment for you. The GEAR BANALI (the books that let us move
+    between existenaces) operate in an unusual way. Anything good brought thourgh
+    must be balanced by bad. Any force or power must be balanced. So when went in
+    to the other plane, we sent power there, so the universe balanced that this money,
+    this measure of power. Seems terrible, Omana Karee has decreed that we as a Gadaran
+    Cloister, we have lost a lot of power over the years, attacked by many peoples,
+    and nearly eliminated, when realized this, we can restore the balance within our
+    own existenace of orub.  T'
+  formattingOptions: []
+  position:
+  - 6.35729904156916e+3
+  - 6.89436617807241e+3
+  width: 2.7e+2
+  connections:
+    indexes:
+    - location: 1371
+      length: 1
+    - location: 1373
+      length: 1
+  _effectiveHeight: 2.52e+2
+- ID: 1346
+  text: Doesn't put up any resitance, doesn't want any more clobbering
+  formattingOptions: []
+  position:
+  - 7.17734222628972e+3
+  - 7.04202414550781e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 1372
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 1344
+  text: 'Roh attack of opportunity, hidden dagger into the side
+
+    21 - no reaction, focused on getting away from us.'
+  formattingOptions: []
+  position:
+  - 7.13204653508111e+3
+  - 6.53099051231971e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 1342
+      length: 1
+    - location: 1347
+      length: 1
+  _effectiveHeight: 5.6e+1
+- ID: 1347
+  text: all within 10' of each other
+  formattingOptions: []
+  position:
+  - 7.11404037833307e+3
+  - 6.62400278883719e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 1344
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 1348
+  text: 'Close gap and try grapple
+
+    or maybe telekentic shove'
+  formattingOptions: []
+  position:
+  - 6.94612393076696e+3
+  - 6.56553430175786e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 1343
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 1351
+  text: Kashi - dimension door to get in front of him. up to 500, out in front of
+    in the distance. so a round's worth (so 120 feet in a round), so 200 feet.
+  formattingOptions: []
+  position:
+  - 6.91233496216716e+3
+  - 6.62112502817012e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 1342
+      length: 1
+  _effectiveHeight: 8.4e+1
+- ID: 1352
+  text: Chandra - Blindness, DC 16 CON save
+  formattingOptions: []
+  position:
+  - 6.71747670458002e+3
+  - 6.57994911545978e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 1342
+      length: 1
+    - location: 1353
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 1353
+  text: Fails! (the high risk / reward dice - 2 20s and 2 1s)
+  formattingOptions: []
+  position:
+  - 6.740629452101e+3
+  - 6.63750395320018e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 1352
+      length: 1
+    - location: 1354
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 1354
+  text: Being a little risky!  He's still a monk
+  formattingOptions: []
+  position:
+  - 6.70812625949282e+3
+  - 6.6921982609676e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 1353
+      length: 1
+    - location: 1355
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 1355
+  text: Does get past the 30'. Slams into a tree, about 40' away
+  formattingOptions: []
+  position:
+  - 6.53190306801145e+3
+  - 6.67846431790871e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 1354
+      length: 1
+    - location: 1356
+      length: 2
+  _effectiveHeight: 2.8e+1
+- ID: 1356
+  text: 'Initiativ
+
+    Roh - 30
+
+    caash - 20
+
+    Chandra - 18
+
+    Widget - 16'
+  formattingOptions: []
+  position:
+  - 6.59347763419234e+3
+  - 6.57899992487987e+3
+  width: 9e+1
+  connections:
+    indexes:
+    - location: 1355
+      length: 1
+  _effectiveHeight: 7e+1
+- ID: 1357
+  text: Has arms out warily, trying to move foward. that was his turn
+  formattingOptions: []
+  position:
+  - 6.37711824041242e+3
+  - 6.58913823993428e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 1355
+      length: 1
+    - location: 1358
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 1358
+  text: 'Roh dashes after him
+
+    (you''re close)
+
+    Tackle him. (Athletics)
+
+    nat 20 + 7 + 4 = 31
+
+    He hears coming, adjusting weight and throws himself to the side, but can read
+    it.  Wrap him up, bounce him off another tree.
+
+    Currently Grappled.'
+  formattingOptions: []
+  position:
+  - 6.30054029382287e+3
+  - 6.65914232459473e+3
+  width: 1.9e+2
+  connections:
+    indexes:
+    - location: 1357
+      length: 1
+    - location: 1359
+      length: 2
+  _effectiveHeight: 1.26e+2
+- ID: 1359
+  text: He's terrified. "I'm scary!"
+  formattingOptions: []
+  position:
+  - 6.30103406823693e+3
+  - 6.83222971754846e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 1358
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 1360
+  text: 'Kashi - he didn''t make it as far as he''s planning.
+
+    (They are intertwined) (magic missilies don''t miss!)'
+  formattingOptions: []
+  position:
+  - 6.51921353037636e+3
+  - 6.73867089843788e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 1358
+      length: 1
+    - location: 1361
+      length: 2
+  _effectiveHeight: 5.6e+1
+- ID: 1361
+  text: Hear them incoming, but he doesn't look terribly hurt
+  formattingOptions: []
+  position:
+  - 6.5158198348385e+3
+  - 6.82105779559834e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 1360
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 1362
+  text: "V'G's turn - feel his body go entirely limp, take a deep breath.  And then
+    a surge of power and attempt to flip the grapple.\nFull on wrestler style, acrobatics:
+    14\nHe rolled a 27, feel him locked up tightly, like he disconnects a shoulder
+    and drops out of your grasp. Now he's behind attempting to grapple.  \nRoh: 12.\nHe
+    now has Roh in a grapple to end the intimidation.  Able to drop the fear condition
+    (stilled mind and spent a Ki point)"
+  formattingOptions: []
+  position:
+  - 6.69996679810469e+3
+  - 6.74471225210381e+3
+  width: 2.5e+2
+  connections:
+    indexes:
+    - location: 1360
+      length: 1
+    - location: 1363
+      length: 1
+  _effectiveHeight: 1.68e+2
+- ID: 1363
+  text: 'Leaves him grappling Roh, and looking around - but he can''t see anything
+    (retcon a disadvantage)
+
+    Rolling bonkers.  still all above 20.
+
+    Can see him turning head and eyes closed and straining to listen.
+
+    failed roll'
+  formattingOptions: []
+  position:
+  - 6.9612493814881e+3
+  - 6.72449642240129e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 1362
+      length: 1
+    - location: 1364
+      length: 1
+  _effectiveHeight: 1.4e+2
+- ID: 1364
+  text: Chandra - spiritual weapon at 4th - 15 to hit, 14 damage
+  formattingOptions: []
+  position:
+  - 7.12886347028026e+3
+  - 6.67402161583582e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 1363
+      length: 1
+    - location: 1365
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 1365
+  text: 'Recognizes Chandra''s spiritual weapon
+
+    Lets Roh go, "I told them to trust you"'
+  formattingOptions: []
+  position:
+  - 7.1607665464522e+3
+  - 6.73102755972103e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 1364
+      length: 1
+    - location: 1366
+      length: 1
+  _effectiveHeight: 5.6e+1
+- ID: 1366
+  text: 'Widget: Does misty step have to maintain latitude? (nope!)
+
+    begining to sprint towards him and too far away.  Seeing exchanging grapples at
+    40 feet away. probably didn''t hear a tone.
+
+    Speed is 30. start to sprint, then take a jump in to the air tomisty step 4 feet
+    in the air in front of him. Weight of body slams in to him to pin hi down.
+
+    Misty step is a bonus, and the falling thing is the action.
+
+    (HA) - zero.  natural 1 minus 1 + d4.
+
+    He''s not trying to resist it. You would have to actually him.'
+  formattingOptions: []
+  position:
+  - 7.14198349356758e+3
+  - 6.80591840069158e+3
+  width: 2.1e+2
+  connections:
+    indexes:
+    - location: 1365
+      length: 1
+    - location: 1367
+      length: 1
+  _effectiveHeight: 2.1e+2
+- ID: 1367
+  text: Misjudged the hieght with your step, and tackle the air above your head, and
+    you hit the ground
+  formattingOptions: []
+  position:
+  - 6.96165643903033e+3
+  - 6.88381827486543e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 1366
+      length: 1
+    - location: 1368
+      length: 1
+  _effectiveHeight: 5.6e+1
+- ID: 1368
+  text: Round two, back to Roh)
+  formattingOptions: []
+  position:
+  - 6.95212058791831e+3
+  - 6.96094924692118e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 1367
+      length: 1
+    - location: 1370
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 1369
+  text: 'Chandra: Explain. please'
+  formattingOptions: []
+  position:
+  - 6.79850768226928e+3
+  - 7.10933251953236e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 1370
+      length: 2
+  _effectiveHeight: 1.4e+1
+- ID: 1370
+  text: V'G goes to knees
+  formattingOptions: []
+  position:
+  - 6.95039686120557e+3
+  - 6.99474990610087e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 1368
+      length: 2
+    - location: 1372
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 1371
+  text: 'Mind interrogation - Kashi detect thoughts.
+
+    if he wants to resist, WIS save of 15. he''s accepting
+
+    Continue like an interrogation and Kashi just specifying anything, nothing, or
+    super selective about it.'
+  formattingOptions: []
+  position:
+  - 6.67136971464608e+3
+  - 6.94312552584246e+3
+  width: 2.5e+2
+  connections:
+    indexes:
+    - location: 1345
+      length: 1
+    - location: 1369
+      length: 1
+  _effectiveHeight: 8.4e+1
+- ID: 1372
+  text: Roh binds him. do magic folk have any help?  maybe gag him and binary questions?
+    Reading thoughts
+  formattingOptions: []
+  position:
+  - 6.98050616108538e+3
+  - 7.04990474759727e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 1346
+      length: 1
+    - location: 1370
+      length: 1
+  _effectiveHeight: 7e+1
+- ID: 1373
+  text: The monsters you cleaned up was caused by us - we can bring power and money.
+    He has been building an army to restore our rightful name, and protected for ever.  The
+    cost is some risk to the population
+  formattingOptions: []
+  position:
+  - 5.97153043229863e+3
+  - 6.83457092916605e+3
+  width: 2.9e+2
+  connections:
+    indexes:
+    - location: 1345
+      length: 1
+    - location: 1374
+      length: 1
+  _effectiveHeight: 5.6e+1
+- ID: 1374
+  text: 'Chandra: "That just makes me feel dirty"
+
+    Work that must be done.
+
+    Roh: Turning scary axe over and over, and don''t say anything'
+  formattingOptions: []
+  position:
+  - 5.97511680373862e+3
+  - 6.91864460637146e+3
+  width: 2.3e+2
+  connections:
+    indexes:
+    - location: 1373
+      length: 1
+    - location: 1375
+      length: 1
+  _effectiveHeight: 5.6e+1
+- ID: 1375
+  text: 'Chandra - taking off robes in disgust. They''re broken.
+
+    Widget, can you set fire to those?  Sits by a rock and zones out.'
+  formattingOptions: []
+  position:
+  - 5.99220284452891e+3
+  - 7.00059355281079e+3
+  width: 2.4e+2
+  connections:
+    indexes:
+    - location: 1374
+      length: 1
+    - location: 1376
+      length: 1
+  _effectiveHeight: 5.6e+1
+- ID: 1376
+  text: 'Roh: what does the book going to help you with. The oath  you swore was true,
+    can destory the world. We put them out for the wealth, and then pick them up.
+
+    Insight check (Roh): 11. Seems truthful. the saddest you''ve ever seen him. Legitimately
+    sad and broken down. Also tied up and gagged.'
+  formattingOptions: []
+  position:
+  - 6.01132351572783e+3
+  - 7.09286218261848e+3
+  width: 2.2e+2
+  connections:
+    indexes:
+    - location: 1375
+      length: 1
+    - location: 1377
+      length: 1
+  _effectiveHeight: 1.12e+2
+- ID: 1377
+  text: "Roh: I've fought wars, and I've heard lesser men make those same excuses
+    that you have to hurt in order to win the day. That you have to sacrifice to in
+    order to make it out. I don't believe in that any more. I don't belive in that
+    br\xFCtal calculus."
+  formattingOptions: []
+  position:
+  - 5.72949965179991e+3
+  - 7.08460379425032e+3
+  width: 2.3e+2
+  connections:
+    indexes:
+    - location: 1376
+      length: 1
+    - location: 1378
+      length: 1
+  _effectiveHeight: 8.4e+1
+- ID: 1378
+  text: 'Roh: We can fight. I like doing that.'
+  formattingOptions: []
+  position:
+  - 5.71390404257515e+3
+  - 7.04469497138381e+3
+  width: 2.2e+2
+  connections:
+    indexes:
+    - location: 1377
+      length: 1
+    - location: 1379
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 1379
+  text: 'Mikey:as a player not sure what they are needing it.  DM: You have a small
+    village, it has some of what you need. Seen in various ways. Some as a place to
+    take advantage of.  Certainly the Gedaran Cloister have a guiard (like Roh is
+    an active member, have been attacked not too long ago, 20 years. Was an invasion
+    and explosion in the monestary. There have been attacks over time  Also holding
+    something of extroidinary power - these books are certainly amongst a magical
+    world, not brimming and overflowing with it. These books are beyond that - that
+    amount of power could attract attention. Know from history that entire island
+    used to be yours, only part of it is. Most people  that''s fine, and some look
+    at that as a loss. As a players a context, some persecution in our past, exceessive?
+    depends on your point of view. For the most part no, but for individual characrer,
+    more or less validity to that claim'
+  formattingOptions: []
+  position:
+  - 5.64385816491657e+3
+  - 6.75076886455978e+3
+  width: 3e+2
+  connections:
+    indexes:
+    - location: 1378
+      length: 1
+    - location: 1380
+      length: 1
+  _effectiveHeight: 2.52e+2
+- ID: 1380
+  text: Not any differetn from any other sitatuon, but not a grand conspiracy
+  formattingOptions: []
+  position:
+  - 5.59822785955307e+3
+  - 6.67857164588494e+3
+  width: 2.5e+2
+  connections:
+    indexes:
+    - location: 1379
+      length: 1
+    - location: 1381
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 1381
+  text: 'Where are the other books - Oman been preparing his army and amassing on
+    a sister island. Saved the most powerful book for last. Have heard of the Bannac
+    Peaks on our sister island within the lagoon on the southern where the remaing
+    book as well as Oman is.
+
+    Kash - b/c mind reading, give a perception check.'
+  formattingOptions: []
+  position:
+  - 5.94489008160836e+3
+  - 6.61977281775994e+3
+  width: 2.7e+2
+  connections:
+    indexes:
+    - location: 1380
+      length: 1
+    - location: 1382
+      length: 1
+  _effectiveHeight: 9.8e+1
+- ID: 1382
+  text: 'Widget is listening - the other books. Reaching into the bag of holding.
+    While the Vanna is answering the question, is ripping out the cover page, putting
+    the book and cover page into the fire of the fully involved robes.
+
+    Like a page to put your hand to teleport, so that it doesn''t get saved somehow,
+    putting it in the fire, and then the rest of the book'
+  formattingOptions: []
+  position:
+  - 5.93111731080006e+3
+  - 6.47990155498951e+3
+  width: 2.8e+2
+  connections:
+    indexes:
+    - location: 1381
+      length: 1
+    - location: 1383
+      length: 1
+  _effectiveHeight: 1.12e+2
+- ID: 1383
+  text: 'Arcana Check: 8.  Seems reasonable to you.
+
+    DEX Save...
+
+    As place it into the flame. crouched down tending file.
+
+    As you place, enormouse fireball explodes from the fire, consuming all of you.'
+  formattingOptions: []
+  position:
+  - 5.67362632522314e+3
+  - 6.50248054856673e+3
+  width: 2.2e+2
+  connections:
+    indexes:
+    - location: 1382
+      length: 1
+    - location: 1384
+      length: 1
+  _effectiveHeight: 1.12e+2
+- ID: 1384
+  text: 'Except chandra and gadorn takes 30 points of damage.
+
+    Widget is out. Gadorn''s rops burn, and he''s off'
+  formattingOptions: []
+  position:
+  - 5.69926465905727e+3
+  - 6.40553484168577e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 1383
+      length: 1
+    - location: 1386
+      length: 1
+  _effectiveHeight: 5.6e+1
+- ID: 1385
+  text: ''
+  formattingOptions: []
+  position:
+  - 5.42508431425558e+3
+  - 6.27990124981378e+3
+  width: 1.6e+2
+  connections:
+    indexes: []
+  _effectiveHeight: 1.4e+1
+- ID: 1386
+  text: You all have uncovered and disrupted the plot
+  formattingOptions: []
+  position:
+  - 5.8967231082009e+3
+  - 6.41219835486937e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 1384
+      length: 1
+    - location: 1387
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 1387
+  text: Was this book necessary for the plot to continue, or would we have to finish
+    them off. A bunch of books - but its Oman's leadership that is the problem
+  formattingOptions: []
+  position:
+  - 5.91825668692686e+3
+  - 6.29935132305597e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 1386
+      length: 1
+  _effectiveHeight: 8.4e+1
