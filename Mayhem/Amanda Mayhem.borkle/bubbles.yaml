@@ -120,6 +120,8 @@
     indexes:
     - location: 10
       length: 2
+    - location: 48
+      length: 1
   _effectiveHeight: 1.4e+1
 - ID: 10
   text: El Vadeen - human monk . scholar
@@ -180,18 +182,20 @@
     blue: 1e+0
   formattingOptions: []
   position:
-  - 7.78168395996098e+2
-  - 3.51961975097656e+1
+  - 7.61186787923181e+2
+  - 4.97170333862304e+1
   width: 1.6e+2
   connections:
-    indexes: []
+    indexes:
+    - location: 19
+      length: 1
   _effectiveHeight: 1.4e+1
 - ID: 15
   text: ''
   formattingOptions: []
   position:
-  - 8.5707753499349e+2
-  - 6.45243876139322e+2
+  - 1.46342549641927e+3
+  - 3.26417690531413e+3
   width: 1.6e+2
   connections:
     indexes:
@@ -202,11 +206,1505 @@
   text: ''
   formattingOptions: []
   position:
-  - 8.47853495279948e+2
-  - 9.80557367960612e+2
+  - 1.46158009847005e+3
+  - 3.6749368947347e+3
   width: 1.6e+2
   connections:
     indexes:
     - location: 15
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 17
+  text: Step, Mikey, and Bork! Yay!
+  formattingOptions: []
+  position:
+  - 9.75395100911458e+2
+  - 4.76697726204426e+1
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 18
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 18
+  text: 'Vasil Kaliz, El Vadeen, and '
+  formattingOptions: []
+  position:
+  - 1.01016143798828e+3
+  - 1.44517542521135e+1
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 17
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 19
+  text: Research unusual and interestng and possible dangerous magicks
+  formattingOptions: []
+  position:
+  - 7.55244547526044e+2
+  - 9.6460459391271e+1
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 14
+      length: 1
+    - location: 20
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 20
+  text: Research the (mumble) Formercarious Flitwidget
+  formattingOptions: []
+  position:
+  - 9.3960276285808e+2
+  - 1.09109744544266e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 19
+      length: 1
+    - location: 21
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 21
+  text: On the shores, on the dockside, SE port town of ASSAUR in the forgetten realms
+    setting
+  formattingOptions: []
+  position:
+  - 1.14848368326823e+3
+  - 5.90859916959635e+1
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 20
+      length: 1
+    - location: 22
+      length: 1
+  _effectiveHeight: 5.6e+1
+- ID: 22
+  text: 'Step: ay-yip, Vasil Kaliz, goliath monk, enourmously tall, somewhat lithe,
+    but still pretty big, barrel chested.  Dresses simply in togaesque or in a wrap
+    of some sort (toga / skirt)
+
+    (Monk)
+
+    '
+  formattingOptions:
+  - options: 1
+    rangeStart: 14
+    rangeLength: 11
+  position:
+  - 1.24176554361979e+3
+  - 1.52853968302406e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 21
+      length: 1
+    - location: 23
+      length: 1
+  _effectiveHeight: 1.26e+2
+- ID: 23
+  text: "Bork: El Vadeen - red vestage, bracelet. But generally enjoying life\n\nColleagues
+    with Vasil \n\n(Monk also)\nhttps://www.dndbeyond.com/characters/95806403"
+  formattingOptions:
+  - options: 1
+    rangeStart: 6
+    rangeLength: 9
+  position:
+  - 1.01571909586589e+3
+  - 2.03958857218413e+2
+  width: 1.7e+2
+  connections:
+    indexes:
+    - location: 22
+      length: 1
+    - location: 24
+      length: 1
+  _effectiveHeight: 1.26e+2
+- ID: 24
+  text: "Mikey: Skillet Whengewit\nNot wearing traditional garb of the research order.
+    More plainclothes, something of a DoEr - that requires 10 of an herb that doesn't
+    grow nearby. or go to a town and listen in.\nFetchquestor\u2122  More in the brutish
+    way.\nHe's got some wit to him, but prefers to stick in the shadows.\n(~Rogue~
+    Cleric+ Halfling)\nTrouble before in modifying the robes of his order, ripping
+    off the signets / Sleevless vest."
+  formattingOptions:
+  - options: 1
+    rangeStart: 7
+    rangeLength: 17
+  position:
+  - 7.88676452636724e+2
+  - 1.72016209920236e+2
+  width: 2e+2
+  connections:
+    indexes:
+    - location: 23
+      length: 1
+    - location: 25
+      length: 1
+  _effectiveHeight: 1.96e+2
+- ID: 25
+  text: 'Fresh off the boat, just arrived.
+
+    Vasil - food
+
+    ElV- where they putting us up?  Cheap tavern.  Basic mean, barebones.
+
+    The Pitcher and Pallete
+
+    (We each get our own bed this time - pitcher of veer and a palette to sleep on)
+
+    "Food, and not having to cuddle"
+
+    "they''re pulling out all the stops" "even pulled out some of the boards"'
+  formattingOptions:
+  - options: 1
+    rangeStart: 121
+    rangeLength: 19
+  position:
+  - 7.25404663085929e+2
+  - 4.07639302571615e+2
+  width: 2.5e+2
+  connections:
+    indexes:
+    - location: 24
+      length: 1
+    - location: 26
+      length: 1
+  _effectiveHeight: 1.4e+2
+- ID: 26
+  text: 'We go in!  See a bartender, she''s about 50, grey hair, human.  Just looks
+    at ya''ll.
+
+    Skillet surveys the room, what the mood is, dsposition of the clientel.
+
+    Working class - eating, some folks meeting in the corner.  Just discussing some
+    general business.  Eating cheap food before going back to the fields or docks.'
+  formattingOptions: []
+  position:
+  - 1.00798116048176e+3
+  - 3.76123291015625e+2
+  width: 2.3e+2
+  connections:
+    indexes:
+    - location: 25
+      length: 1
+    - location: 27
+      length: 1
+  _effectiveHeight: 1.26e+2
+- ID: 27
+  text: 'V: johnny used to work on the docs?
+
+    '
+  formattingOptions: []
+  position:
+  - 1.2595327758789e+3
+  - 3.27474100748698e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 26
+      length: 1
+    - location: 28
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 28
+  text: 'House special - three meads, and three bowls of seafood stew.
+
+    El: eats half, and gives bowl to Vasil.  We would like to have lodging
+
+    Reservations?  Are you with the guild?  Through that door over there.
+
+    Skllet: are we being shown out?  We''re enjing the food
+
+    Barkeep: "you''re enjoying the food?!?"'
+  formattingOptions: []
+  position:
+  - 1.25820688883463e+3
+  - 4.05030202229818e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 27
+      length: 1
+    - location: 29
+      length: 1
+  _effectiveHeight: 1.82e+2
+- ID: 29
+  text: 'V: "Antyhing interesting going on?"
+
+    The museum - can go inside and see dimensions and creatures across the multiverse.  First
+    time she looks amazed. "It''s amazing"  Like stepping into a whole new dimension.'
+  formattingOptions: []
+  position:
+  - 1.16311655680338e+3
+  - 6.20743550618483e+2
+  width: 2.5e+2
+  connections:
+    indexes:
+    - location: 28
+      length: 1
+    - location: 30
+      length: 1
+  _effectiveHeight: 8.4e+1
+- ID: 30
+  text: 'El: Insight on the barkeep  (genuine amazement, or somethign induced) - got
+    a six!  She''s just real pretty and that she likes she went to the museum'
+  formattingOptions: []
+  position:
+  - 9.39248657226554e+2
+  - 5.67641693115227e+2
+  width: 2e+2
+  connections:
+    indexes:
+    - location: 29
+      length: 1
+    - location: 31
+      length: 1
+  _effectiveHeight: 7e+1
+- ID: 31
+  text: "V: is it far away or is it near\nBK: have to go through the Bad Quarter\u2122
+    to get to the museum. Not a big deal."
+  formattingOptions: []
+  position:
+  - 9.28137919108064e+2
+  - 6.65364064534498e+2
+  width: 2.1e+2
+  connections:
+    indexes:
+    - location: 30
+      length: 1
+    - location: 32
+      length: 1
+  _effectiveHeight: 5.6e+1
+- ID: 32
+  text: 'S: is there a good quareter?
+
+    BK: go to the good quater, and then through 3/4 of the bad quarter'
+  formattingOptions: []
+  position:
+  - 7.32524871826165e+2
+  - 5.77871795654289e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 31
+      length: 1
+    - location: 33
+      length: 1
+  _effectiveHeight: 5.6e+1
+- ID: 33
+  text: 'V: bad/good - that still leaves something (two more quarters)
+
+    BK: there''s also the dock quarter and the farm quarter'
+  formattingOptions: []
+  position:
+  - 7.32659047444653e+2
+  - 6.71011800130201e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 32
+      length: 1
+    - location: 34
+      length: 1
+  _effectiveHeight: 7e+1
+- ID: 34
+  text: 'V: That was a ... meal and something liquid.
+
+    BK; hey Polly show them to their room
+
+    Young boy holding a broom. come on this way.
+
+    Been to the museum?
+
+    Amazing, see all sorts of stuff. Strange animals, and people birds, and creatures
+    and so much fun, don''t know if Ill see somethign like that again.
+
+    You could go back? "I don''t have enough money" - it costs a shilling (5 silver)'
+  formattingOptions: []
+  position:
+  - 7.38528137207024e+2
+  - 7.78858174641905e+2
+  width: 3.6e+2
+  connections:
+    indexes:
+    - location: 33
+      length: 1
+    - location: 35
+      length: 1
+    - location: 38
+      length: 1
+  _effectiveHeight: 1.26e+2
+- ID: 35
+  text: 'How much money do we have?
+
+    Mikey: usual for 1st level middle class, 25 gold combined worth of gear and pocket'
+  formattingOptions: []
+  position:
+  - 1.14431538899739e+3
+  - 7.35669291178372e+2
+  width: 2.3e+2
+  connections:
+    indexes:
+    - location: 34
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 38
+  text: '"live on the edge of squishdom, like through our own poor choices"'
+  formattingOptions: []
+  position:
+  - 1.14912958780923e+3
+  - 8.03979532877615e+2
+  width: 2.2e+2
+  connections:
+    indexes:
+    - location: 34
+      length: 1
+    - location: 39
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 39
+  text: 'V: "Work hard and save your pennies, you''ll make someone else rich and they
+    can go to the muse
+
+    Paulie is absolutely thrill'
+  formattingOptions: []
+  position:
+  - 1.16340189615884e+3
+  - 8.6402739461264e+2
+  width: 2.2e+2
+  connections:
+    indexes:
+    - location: 38
+      length: 1
+    - location: 40
+      length: 1
+  _effectiveHeight: 5.6e+1
+- ID: 40
+  text: 'There''s a really good pub a block and ahalf way - the Bull and Bible. Their
+    food is great.
+
+    Maura the bartender, she''s good person, but have had some tough times, and not
+    the best cook.
+
+    V: no no no ... yeah'
+  formattingOptions:
+  - options: 1
+    rangeStart: 54
+    rangeLength: 14
+  position:
+  - 1.10923970540364e+3
+  - 9.62673634847005e+2
+  width: 3e+2
+  connections:
+    indexes:
+    - location: 39
+      length: 1
+    - location: 41
+      length: 1
+  _effectiveHeight: 7e+1
+- ID: 41
+  text: 'The Room - Three beds, very narrow, small. Half as small for Vasil.
+
+    "That''s normal. I put my legs on the bed and head off the edge and put my head
+    on my bag.  It doesn''t look comfortable". Really basic.  Two side tables with
+    drawers, and a table with a candle, and a single chair.'
+  formattingOptions:
+  - options: 1
+    rangeStart: 0
+    rangeLength: 8
+  position:
+  - 7.50432688395172e+2
+  - 9.84770243326822e+2
+  width: 3.1e+2
+  connections:
+    indexes:
+    - location: 40
+      length: 1
+    - location: 42
+      length: 2
+  _effectiveHeight: 8.4e+1
+- ID: 42
+  text: /r/isYourDog|Pet broken?
+  formattingOptions: []
+  position:
+  - 8.0861821492512e+2
+  - 9.46639546712239e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 41
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 43
+  text: 'El Vadeen will pull out a journal, and write up impressions of the boat ride,
+    and folks we met.
+
+
+    Vasil will open window, and people watch.  See dock workers,  the folks are poorer,
+    clothes are rough and homespun - some swaggering and skulking down the street.
+    "do I see anyone particularly unusual, like something wrong with them" (how do
+    you mean?) Like two heads is extremely wrong, looking for less wrong.
+
+    You do!  See someone unusually tall and skinny, almost as tall as V is, and emaciated
+    almost, in... long... steps... Keeping to the shadows, just walkng by.'
+  formattingOptions: []
+  position:
+  - 7.52587941487615e+2
+  - 1.11437178548174e+3
+  width: 3.2e+2
+  connections:
+    indexes:
+    - location: 41
+      length: 1
+    - location: 44
+      length: 1
+  _effectiveHeight: 1.68e+2
+- ID: 44
+  text: 'It gets later and fewer people.
+
+    "What quarter they moving from?"
+
+    "Know he went that direction, but can roll"
+
+    (Natural or survival for lay of the land, insight for character) Nature: 11
+
+    Is your character that would have looked at a map.  "Think going deeper in the
+    bad quarter"'
+  formattingOptions:
+  - options: 3
+    rangeStart: 79
+    rangeLength: 4
+  position:
+  - 1.10896291097004e+3
+  - 1.10645275370277e+3
+  width: 2.8e+2
+  connections:
+    indexes:
+    - location: 43
+      length: 1
+    - location: 45
+      length: 2
+  _effectiveHeight: 9.8e+1
+- ID: 45
+  text: High Variance Die
+  formattingOptions: []
+  position:
+  - 1.19564056396483e+3
+  - 1.05698223368323e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 44
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 46
+  text: If there's a lock on a door, locked it.  There are sturdy locks on doors and
+    windows.  Maura prides herself on the safety of  guests.
+  formattingOptions: []
+  position:
+  - 1.12381978352863e+3
+  - 1.29805006917314e+3
+  width: 2.2e+2
+  connections:
+    indexes:
+    - location: 44
+      length: 1
+    - location: 47
+      length: 1
+    - location: 49
+      length: 1
+  _effectiveHeight: 5.6e+1
+- ID: 47
+  text: '"Food, it''s what''s for dinner"'
+  formattingOptions: []
+  position:
+  - 1.26075103759764e+3
+  - 1.25339390055335e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 46
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 48
+  text: Prone to seasickness
+  formattingOptions: []
+  position:
+  - 2.92073262532544e+2
+  - 5.38562927246043e+1
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 9
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 49
+  text: "ElVadeen gets two beds, Skillet is sleeping on the floor, V snores\nSurvival:\nS:
+    10 - fine\nE: 6 - tired. \nDid hear a little rattling at the window.  maybe..
+    Al little checheche"
+  formattingOptions:
+  - options: 2
+    rangeStart: 166
+    rangeLength: 9
+  position:
+  - 7.49425862630193e+2
+  - 1.30654997762045e+3
+  width: 3.5e+2
+  connections:
+    indexes:
+    - location: 46
+      length: 1
+    - location: 50
+      length: 1
+  _effectiveHeight: 8.4e+1
+- ID: 50
+  text: 'E: goes to window. Investigation.  17. See a dark shadow disappearing down
+    a dark alley way.
+
+    "Is this where you saw your dude?" "it wasn''t" "bad dreams from the ''food''"'
+  formattingOptions: []
+  position:
+  - 7.32007853190089e+2
+  - 1.43132302856444e+3
+  width: 2.3e+2
+  connections:
+    indexes:
+    - location: 49
+      length: 1
+    - location: 51
+      length: 1
+  _effectiveHeight: 7e+1
+- ID: 51
+  text: Skillet wasn't in the room, excited about knowledge and learning, and done
+    that kid the night before disney, dressed and ready to go, went downstairs, ate
+    breakfast, and sitting at a table, going over notes in the diary
+  formattingOptions: []
+  position:
+  - 9.80594482421879e+2
+  - 1.40817864990237e+3
+  width: 2.3e+2
+  connections:
+    indexes:
+    - location: 50
+      length: 1
+    - location: 52
+      length: 1
+  _effectiveHeight: 8.4e+1
+- ID: 52
+  text: More seafood stew with a friend egg on top.  Very watery coffee
+  formattingOptions: []
+  position:
+  - 1.22472585042318e+3
+  - 1.38391900634769e+3
+  width: 2e+2
+  connections:
+    indexes:
+    - location: 51
+      length: 1
+    - location: 53
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 53
+  text: 'Let''s go, and look for "X and Y"
+
+    S: we''ve already had breakfast.'
+  formattingOptions: []
+  position:
+  - 1.24295471191407e+3
+  - 1.43935016886399e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 52
+      length: 1
+    - location: 54
+      length: 1
+  _effectiveHeight: 5.6e+1
+- ID: 54
+  text: 'Maura give us a poorly drawn map to get to the Museum.
+
+    Do find a street vendor. Can get an egg on a stick for a couple of coppers.
+
+    Consumes egg, and keeps stick.'
+  formattingOptions: []
+  position:
+  - 1.23969228108725e+3
+  - 1.52225473022467e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 53
+      length: 1
+    - location: 55
+      length: 1
+  _effectiveHeight: 1.12e+2
+- ID: 55
+  text: 'See big sign, letters in gold ''The Truely extroind and curiou museum of
+    formecarious fitwidget"
+
+    Lots of folks milling around. Well dressed down to rags, all waiting to get into
+    museum.'
+  formattingOptions: []
+  position:
+  - 1.02727467854818e+3
+  - 1.53467492675787e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 54
+      length: 1
+    - location: 56
+      length: 1
+  _effectiveHeight: 1.12e+2
+- ID: 56
+  text: "The entrance, just a cart, doesn't look big. Covered wagon with bright colors.
+    There's a gnome waving his arms.\n\"Sorry, you have to leave don't know what you're
+    doing here.  There's an issue and it's closed the museum. the museum is closed
+    for the day\". \n"
+  formattingOptions: []
+  position:
+  - 7.47751617431646e+2
+  - 1.5524420064291e+3
+  width: 2.3e+2
+  connections:
+    indexes:
+    - location: 55
+      length: 1
+    - location: 57
+      length: 1
+  _effectiveHeight: 1.12e+2
+- ID: 57
+  text: 'V: why can''t we see it?
+
+    G: it''s closed
+
+    S: why is it closed, someting we must be able to do, we''ve come so far.
+
+    (anything in the assignment? - up to the discretion of the)
+
+    So stay unidentified unless making official contact'
+  formattingOptions: []
+  position:
+  - 7.44051310221358e+2
+  - 1.6870502115886e+3
+  width: 2.5e+2
+  connections:
+    indexes:
+    - location: 56
+      length: 1
+    - location: 58
+      length: 1
+  _effectiveHeight: 1.12e+2
+- ID: 58
+  text: 'V: yells at the crowd, and they scatter.
+
+    Eventually just us and Formacarious left. A gnome. Flaxen blonde hair, big bushy
+    beard, and a moustahce that twirls several time around, like a Salvador Dali moustache
+    with twirls.
+
+    Looks at us and sighs.  Sees we have weapons.  "so, what is your interest here"
+
+    S: "Knowledge of the world, is that not the point of a gathring of artifacts and
+    wisdom, how can we take away"
+
+    G: have you got any skills.
+
+    V: it''s literally in his name. We got them.'
+  formattingOptions: []
+  position:
+  - 1.03620269775391e+3
+  - 1.68176828002934e+3
+  width: 3.5e+2
+  connections:
+    indexes:
+    - location: 57
+      length: 1
+    - location: 59
+      length: 1
+  _effectiveHeight: 1.4e+2
+- ID: 59
+  text: 'S: what kind of skills are you in need of?
+
+    G: a bit of sword work.  Laruel the Gargon broke out of the clay jar she was in.
+    I bought a couple of worlds ago, I don''t know how she escaped. She has turned
+    the exhibits against us. Made the museum her own (oh dear) and several of the
+    attendees were killed. Had no choice. People are in danger right now
+
+    G: would like to put a pin on several worlds ago. Did I hear you Bought a gorgon?  (of
+    course) are they comoddi.... skillet gets hyperfocused lost in thought, figuring
+    out what the ramifications are, looks like a trance.
+
+    She was jailed for rampaging, and I had a safe place to keep her
+
+    V: wasn''t so safe.  Rampaging is her thing?'
+  formattingOptions: []
+  position:
+  - 9.72547200520837e+2
+  - 1.86462472534184e+3
+  width: 3.9e+2
+  connections:
+    indexes:
+    - location: 58
+      length: 1
+    - location: 60
+      length: 1
+  _effectiveHeight: 1.54e+2
+- ID: 60
+  text: 'What is a gorgon?  Fiersome monters, can turn you to stone at a glance, but
+    not often, like after an amount of time, and can''t use it continuously, just
+    as a last resport.
+
+    S: is there a way to tell how long it''s been sine they turned osmeon to stone?
+
+    G: if they turn one of your friends to stone, then you have time.
+
+    This is a place of learning, from across the multiverse with things to teach us'
+  formattingOptions: []
+  position:
+  - 7.57361399332685e+2
+  - 1.81887668863936e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 59
+      length: 1
+    - location: 61
+      length: 1
+  _effectiveHeight: 2.24e+2
+- ID: 61
+  text: Should you help, everyone will be safe, and you would have learned quite a  bit.
+  formattingOptions: []
+  position:
+  - 7.29800872802738e+2
+  - 2.07416457112624e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 60
+      length: 1
+    - location: 62
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 62
+  text: 'V: You want us to go in there, and put her back in a clay pot?
+
+    G: that, or defeat her, or find another way to the enviornments have so many things
+    that can help you.  Each time you overcome an environemnt you''ll get a FLITWIDGET
+    FRANK - paper with his profile, and they''re good for the giftshop. You can buy
+    anything (in stock)'
+  formattingOptions: []
+  position:
+  - 9.18586120605472e+2
+  - 2.05560739135736e+3
+  width: 2.7e+2
+  connections:
+    indexes:
+    - location: 61
+      length: 1
+    - location: 63
+      length: 1
+  _effectiveHeight: 1.12e+2
+- ID: 63
+  text: 'S: what state would you like the gorgon if we were to defeat her?
+
+    G: whateer state you could win, where she would no longer be a menace.
+
+    S: not dead, not captured, but docile.
+
+    G: if we can keep her alive, that''d be for the best. If not possible, she''s
+    in a bit of a mood.  may not be possible to do it that way.'
+  formattingOptions: []
+  position:
+  - 1.20802469889323e+3
+  - 2.04344120279941e+3
+  width: 2.2e+2
+  connections:
+    indexes:
+    - location: 62
+      length: 1
+    - location: 64
+      length: 1
+  _effectiveHeight: 1.26e+2
+- ID: 64
+  text: 'V: I can hit things
+
+    G: can reward you hamsondly.
+
+    V: real gold, or just the franks?
+
+    G: real gold as well.
+
+    V: how much?
+
+    G: 300 gold!  (100 each)
+
+    V: do you have any candy in the store?
+
+    G: we have some wonderous candy'
+  formattingOptions: []
+  position:
+  - 1.17449625651042e+3
+  - 2.20865584309889e+3
+  width: 2.4e+2
+  connections:
+    indexes:
+    - location: 63
+      length: 1
+    - location: 65
+      length: 1
+  _effectiveHeight: 1.12e+2
+- ID: 65
+  text: 'My assistant TELPER, can help you, if he''s still in the giftshop. and alive.
+
+    He''s actually a boot.  It''s alive. somewhat.'
+  formattingOptions: []
+  position:
+  - 9.33718668619795e+2
+  - 2.21041853841139e+3
+  width: 2.1e+2
+  connections:
+    indexes:
+    - location: 64
+      length: 1
+    - location: 66
+      length: 1
+  _effectiveHeight: 5.6e+1
+- ID: 66
+  text: 'S: what is he aboot?
+
+    G: yes!'
+  formattingOptions: []
+  position:
+  - 7.46226704915368e+2
+  - 2.17156035359694e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 65
+      length: 1
+    - location: 67
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 67
+  text: 'S: can you recommend a point of ingress?
+
+    G: here is the entrance.
+
+    See a door that''s an entry into the cart. doesn''t look exciting at all.
+
+    Hands you a potion, if things go horribly awry.  (anti stone)'
+  formattingOptions: []
+  position:
+  - 7.33239491780602e+2
+  - 2.23324319458001e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 66
+      length: 1
+    - location: 68
+      length: 2
+  _effectiveHeight: 1.12e+2
+- ID: 68
+  text: 'Anti-petrification potion given to Skillet
+
+    Skillet gives V his healing potion.'
+  formattingOptions:
+  - options: 2
+    rangeStart: 0
+    rangeLength: 78
+  position:
+  - 9.32007141113284e+2
+  - 2.28697493489577e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 67
+      length: 1
+  _effectiveHeight: 5.6e+1
+- ID: 69
+  text: "Open the doors to this small cart, about 10 feet, open the doors, there's
+    a black curtain. Push it aside. and step inside. And it's nighttime.  A large
+    area - basically stepped into another world.\nLittle stars pinpointing, little
+    rays of sunshine will come down, and then vanish. \nSee some ether fuied ~brassiers~
+    braziers, and see some topiaries (1B) is a triceripatops 1C is a briar boar, 1D
+    is a briar beast, and 1E is another briar beast (briar cat?). Beautifully cut
+    topiary.  Pool of water, large lake with a sign.\n\nSome detritus. Some gardening
+    shears, a sledge hammer, "
+  formattingOptions: []
+  position:
+  - 7.3142267862956e+2
+  - 2.38806054687493e+3
+  width: 2.6e+2
+  connections:
+    indexes:
+    - location: 67
+      length: 1
+    - location: 70
+      length: 1
+  _effectiveHeight: 2.1e+2
+- ID: 70
+  text: '"Beware of the bushes, in case of emergency, use the water. -FF"'
+  formattingOptions: []
+  position:
+  - 1.04531280517578e+3
+  - 2.36910124715167e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 69
+      length: 1
+    - location: 71
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 71
+  text: The triceritops starts to slowly turn his head.
+  formattingOptions: []
+  position:
+  - 1.23891387939453e+3
+  - 2.37219639078773e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 70
+      length: 1
+    - location: 72
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 72
+  text: 'Roll Initiaitve
+
+    E: 18
+
+    V: 21+ (dodge)
+
+    Triceratops a 7
+
+    E  Walks in to the lake up to ankles
+
+    S: 22 (nat 20!  glad to have used that up)
+
+    S: cleric is something of a cleanup crew.  Will withhold and step back and watch
+    for a moment. wait for whoever''s next, (which permanently moves it in initiiatve
+    order)
+
+    V: any of the rest of them moved?
+
+    Roll! 16 perception.  See the ones - 1D '
+  formattingOptions: []
+  position:
+  - 1.12441904703776e+3
+  - 2.43980859374997e+3
+  width: 3e+2
+  connections:
+    indexes:
+    - location: 71
+      length: 1
+    - location: 73
+      length: 2
+  _effectiveHeight: 1.68e+2
+- ID: 73
+  text: 'The triceritops will go for ElVadeen Hits for 4
+
+    S: from where I stand, the T is facing Ellie. Will try a crossbow bolt from secure
+    distance into its rump
+
+    "those are bushes. THEY HAVE NOT MOVED YET".  About 3 feet tall.
+
+    S will move around and hide-ish ehind one (2 1/2 feet tall)'
+  formattingOptions: []
+  position:
+  - 1.0867236328125e+3
+  - 2.64529326375328e+3
+  width: 3.2e+2
+  connections:
+    indexes:
+    - location: 72
+      length: 1
+    - location: 75
+      length: 1
+  _effectiveHeight: 8.4e+1
+- ID: 74
+  text: '"nature is metal" - grapefruit spikes'
+  formattingOptions: []
+  position:
+  - 1.00367340087891e+3
+  - 2.46614043172203e+3
+  width: 1.1e+2
+  connections:
+    indexes:
+    - location: 72
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 75
+  text: "V: the other bushes didn't move?  just the T is after my buddy Ell. \n(nope,
+    they moved), haven't moved a lot - rustling, shaking in the breeze. Leaves are
+    trembling"
+  formattingOptions: []
+  position:
+  - 7.88116709391278e+2
+  - 2.63613615926125e+3
+  width: 2.1e+2
+  connections:
+    indexes:
+    - location: 73
+      length: 1
+    - location: 76
+      length: 1
+  _effectiveHeight: 7e+1
+- ID: 76
+  text: "If gave a good shove, go in the water.?  Yes nice and big. \nShove - regular
+    attack. 25 to hit!\nand it gets shoved into the water!\nHowever, Elvadeen is right
+    where would be shoving, and gets 'tops\nDex check - 11. This goes to eleven.\nStumble
+    backwards, caught a little bit as it goes by.\n1 HP damage"
+  formattingOptions: []
+  position:
+  - 7.60027974446617e+2
+  - 2.79619577026385e+3
+  width: 2.1e+2
+  connections:
+    indexes:
+    - location: 75
+      length: 1
+    - location: 77
+      length: 1
+    - location: 81
+      length: 1
+  _effectiveHeight: 1.4e+2
+- ID: 77
+  text: It stretches, and is vulnerable to slashing damage. Struggling, splashing
+    water everywhere
+  formattingOptions: []
+  position:
+  - 1.01907948811849e+3
+  - 2.75720773315448e+3
+  width: 2.9e+2
+  connections:
+    indexes:
+    - location: 76
+      length: 1
+    - location: 78
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 78
+  text: Something roiling under the water, feel something brush up against your ankles.
+    Some black roiling tentacles in the water.
+  formattingOptions: []
+  position:
+  - 1.04965606689453e+3
+  - 2.81017098999043e+3
+  width: 3.5e+2
+  connections:
+    indexes:
+    - location: 77
+      length: 1
+    - location: 79
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 79
+  text: 'E: moveout of the water. quarter staff - 21  5 points.  '
+  formattingOptions: []
+  position:
+  - 1.23398508707683e+3
+  - 2.86684665934264e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 78
+      length: 1
+    - location: 80
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 80
+  text: 'S: notices movement on either side (the briar beasts)
+
+    Casts bless.'
+  formattingOptions: []
+  position:
+  - 1.00626454671224e+3
+  - 2.85899855550158e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 79
+      length: 1
+    - location: 83
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 81
+  text: V gets a FLITWIDGET FRANK for moving it into the water
+  formattingOptions: []
+  position:
+  - 7.40062510172529e+2
+  - 2.72561146036808e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 76
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 82
+  text: 'Franks:
+
+    E: 3
+
+    S: 3
+
+    V: 4'
+  formattingOptions: []
+  position:
+  - 7.41018727620445e+2
+  - 2.99185451761905e+3
+  width: 6e+1
+  connections:
+    indexes: []
+  _effectiveHeight: 5.6e+1
+- ID: 83
+  text: 'T: going to attack V. Both attacks miss
+
+    Shoulder rolls, "didn''t think you could move this fast!"
+
+    Unexpected you see the tentacles come shooting out.
+
+    First goes to Triceretops (missed)
+
+    seconds Vasil (hit) for 3 points
+
+    Third Triceratops (missed)'
+  formattingOptions: []
+  position:
+  - 1.11636922200521e+3
+  - 2.93409911092146e+3
+  width: 3e+2
+  connections:
+    indexes:
+    - location: 80
+      length: 1
+    - location: 84
+      length: 1
+  _effectiveHeight: 8.4e+1
+- ID: 84
+  text: 'Top of the order is V.
+
+    Throw a throwing star at the T, because mad the other thing missed it, maybe it''s
+    distracted.
+
+    10 to hit. (misses)
+
+    Moves past Briar Cat "I thought highly of you (you''re on a pedestal)"'
+  formattingOptions: []
+  position:
+  - 8.35646514892581e+2
+  - 2.96175119018582e+3
+  width: 2.4e+2
+  connections:
+    indexes:
+    - location: 83
+      length: 1
+    - location: 85
+      length: 1
+  _effectiveHeight: 9.8e+1
+- ID: 85
+  text: 'El: Disengage, and follow V'
+  formattingOptions: []
+  position:
+  - 7.30541076660159e+2
+  - 3.09200123087593e+3
+  width: 1.1e+2
+  connections:
+    indexes:
+    - location: 84
+      length: 1
+    - location: 86
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 86
+  text: 'S: has the briar beast made any movements yet? starting to step down off
+    its pedestal
+
+    Swinging crossbow like a bat, but trying to shove the briar beast into the lake.
+    A small aged halfling against a large bush. SHove check (athletics, -1)  You fail'
+  formattingOptions: []
+  position:
+  - 7.38389739990238e+2
+  - 3.17488656616239e+3
+  width: 3e+2
+  connections:
+    indexes:
+    - location: 85
+      length: 1
+    - location: 87
+      length: 2
+  _effectiveHeight: 7e+1
+- ID: 87
+  text: '"Purpose: it may just may be that the purpose of your life is to serve an
+    warning to others". or
+
+    https://despair.com/collections/posters/products/risktaking'
+  formattingOptions: []
+  position:
+  - 8.65459594726566e+2
+  - 3.08015280660022e+3
+  width: 2.1e+2
+  connections:
+    indexes:
+    - location: 86
+      length: 1
+  _effectiveHeight: 7e+1
+- ID: 88
+  text: Briarbeast (cat) - attacks Skillet. (AC 15). Did hit, with 4 piercing
+  formattingOptions: []
+  position:
+  - 1.0722543334961e+3
+  - 3.17207503255197e+3
+  width: 1.7e+2
+  connections:
+    indexes:
+    - location: 86
+      length: 1
+    - location: 89
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 89
+  text: Roll the lake - they have wrapped around the T, and have pulled it underneath
+  formattingOptions: []
+  position:
+  - 1.08828877766927e+3
+  - 3.10280707295719e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 88
+      length: 1
+    - location: 91
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 90
+  text: it was dino-shrubbery, would that make a difference?
+  formattingOptions: []
+  position:
+  - 1.13107716878255e+3
+  - 3.03822096761051e+3
+  width: 1.3e+2
+  connections:
+    indexes: []
+  _effectiveHeight: 4.2e+1
+- ID: 91
+  text: '"stop any of the exhibits that have gone bad"'
+  formattingOptions: []
+  position:
+  - 1.2934662882487e+3
+  - 3.03247450764957e+3
+  width: 1.1e+2
+  connections:
+    indexes:
+    - location: 89
+      length: 1
+    - location: 92
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 92
+  text: 'V: Shove the cat in the water, colaborae on shoving with El. Don''t forget
+    the D4
+
+    17 to shove against.
+
+    Push it into the water.
+
+    BYE BYE KITTY MEOW'
+  formattingOptions: []
+  position:
+  - 1.27111653645834e+3
+  - 3.10746931966129e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 91
+      length: 1
+    - location: 93
+      length: 1
+  _effectiveHeight: 8.4e+1
+- ID: 93
+  text: (there's a Pile of rubble that looks like it happened after things went down)
+  formattingOptions: []
+  position:
+  - 1.24789571126302e+3
+  - 3.22603921508773e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 92
+      length: 1
+    - location: 94
+      length: 2
+  _effectiveHeight: 4.2e+1
+- ID: 94
+  text: Briar Boar moved down of pedestal
+  formattingOptions: []
+  position:
+  - 1.25629862467448e+3
+  - 3.29925709025049e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 93
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 95
+  text: 'S: since that briar beast was knocked out of melee, no opportunity attack.
+    After seeing it eye-to-eye, was life re-afferming, and skitters over for safety.
+
+    "what do you think of going inside and slamming the doors?'
+  formattingOptions: []
+  position:
+  - 1.05973429361979e+3
+  - 3.23758284505192e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 93
+      length: 1
+    - location: 96
+      length: 1
+  _effectiveHeight: 1.26e+2
+- ID: 96
+  text: 'Giant 15 foot doors, have beautiful green and gold vines. can push them open,
+    and they flow inward, as with just a touch (S: ooh, nicely counterweighted)'
+  formattingOptions: []
+  position:
+  - 7.76498718261722e+2
+  - 3.27070550537093e+3
+  width: 2.5e+2
+  connections:
+    indexes:
+    - location: 95
+      length: 1
+    - location: 97
+      length: 1
+  _effectiveHeight: 5.6e+1
+- ID: 97
+  text: 'Briarboar: attack the only one in its sights is Skillit, and he hits.  7
+    slashing.
+
+    "Vlottta gore for a briar boar".
+
+    Cat topiary try to get out of the water.  it rolled a 19. Able to leap out of
+    the water.  and comes towards the group.
+
+    Tentacles attempt to catch, and get a nat 1. and splashed water
+
+    "never thought i''d be routing for hte sea monster"'
+  formattingOptions: []
+  position:
+  - 7.68940734863284e+2
+  - 3.36119770304345e+3
+  width: 2.2e+2
+  connections:
+    indexes:
+    - location: 96
+      length: 1
+    - location: 99
+      length: 1
+  _effectiveHeight: 1.4e+2
+- ID: 98
+  text: 'A small entry way, and see a  box filled with different currencies - gold,
+    copper, elven leaves, dwarven cogs, and things you''ve never seen before
+
+    Behind a hanging on a wall - save it for next time.'
+  formattingOptions: []
+  position:
+  - 1.2539491780599e+3
+  - 3.4409398295083e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 100
+      length: 3
+  _effectiveHeight: 1.12e+2
+- ID: 99
+  text: 'V: the boar hurt my little friend. How big is the boar?'
+  formattingOptions: []
+  position:
+  - 1.01668441772461e+3
+  - 3.39306130981432e+3
+  width: 2.1e+2
+  connections:
+    indexes:
+    - location: 97
+      length: 1
+    - location: 100
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 100
+  text: The boar is a small construct. V will pick it up. 26 - surprise it, toss it
+    into the middle of the lake. wheeeeesplash, and goes through doors
+  formattingOptions: []
+  position:
+  - 1.03079213460287e+3
+  - 3.45600859578437e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 98
+      length: 2
+  _effectiveHeight: 8.4e+1
+- ID: 101
+  text: El throws a "dart" (the stick without the eggs) missed it with a 9
+  formattingOptions: []
+  position:
+  - 1.25573415120443e+3
+  - 3.60040144856757e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 98
+      length: 1
+    - location: 103
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 102
+  text: FLITFIGET FRANK for us all
+  formattingOptions: []
+  position:
+  - 1.27293823242188e+3
+  - 3.37174834187819e+3
+  width: 1.2e+2
+  connections:
+    indexes:
+    - location: 98
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 103
+  text: 'S: stepping inside and slams door shut.
+
+    The cat is too far away. Could easy slam the door.  The boar is in the late. Not
+    hit by tentacles yet. But the water is tough on them
+
+    (and the fourth one never moved)'
+  formattingOptions: []
+  position:
+  - 1.0471805826823e+3
+  - 3.56255426025384e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 101
+      length: 1
+    - location: 104
+      length: 1
+  _effectiveHeight: 1.26e+2
+- ID: 104
+  text: TO BE CONTINUED
+  formattingOptions: []
+  position:
+  - 8.04498799641932e+2
+  - 3.58220915730793e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 103
       length: 1
   _effectiveHeight: 1.4e+1
