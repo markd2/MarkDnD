@@ -9,8 +9,8 @@
     rangeStart: 0
     rangeLength: 20
   position:
-  - 3.58665161132812e+1
-  - 2.34866027832031e+1
+  - 3.59551579402043e+1
+  - 2.35752446101261e+1
   width: 3e+2
   connections:
     indexes: []
@@ -22,8 +22,8 @@
     rangeStart: 0
     rangeLength: 26
   position:
-  - 3.17002563476562e+1
-  - 1.65053375244141e+2
+  - 3.17888981745793e+1
+  - 1.65142017071064e+2
   width: 1.6e+2
   connections:
     indexes:
@@ -35,8 +35,8 @@
     magic and also help a little bit to keep things safe when things go out of control
   formattingOptions: []
   position:
-  - 8.13486328125e+1
-  - 2.25220428466797e+2
+  - 8.14372746394231e+1
+  - 2.2530907029372e+2
   width: 1.6e+2
   connections:
     indexes:
@@ -47,8 +47,8 @@
   text: Step thinking of a monk also
   formattingOptions: []
   position:
-  - 2.86195190429688e+2
-  - 1.84093566894531e+2
+  - 2.86283832256611e+2
+  - 1.84182208721454e+2
   width: 1.6e+2
   connections:
     indexes:
@@ -61,8 +61,8 @@
   text: Hey Hey We're the Monk-ees
   formattingOptions: []
   position:
-  - 3.28484497070312e+2
-  - 1.12208038330078e+2
+  - 3.28573138897235e+2
+  - 1.12296680157001e+2
   width: 1.6e+2
   connections:
     indexes:
@@ -73,8 +73,8 @@
   text: Amanda says we need to sing.  Like a bad monk/bard hybrid
   formattingOptions: []
   position:
-  - 4.71119262695312e+2
-  - 1.65655700683594e+2
+  - 4.71207904522235e+2
+  - 1.65744342510517e+2
   width: 1.6e+2
   connections:
     indexes:
@@ -89,8 +89,8 @@
     340 lbs'
   formattingOptions: []
   position:
-  - 2.89978881835938e+2
-  - 2.51778289794922e+2
+  - 2.90067523662861e+2
+  - 2.51866931621845e+2
   width: 1.6e+2
   connections:
     indexes:
@@ -101,8 +101,8 @@
   text: Vasil Kaliz
   formattingOptions: []
   position:
-  - 2.31453125e+2
-  - 1.23002746582031e+2
+  - 2.31541766826923e+2
+  - 1.23091388408954e+2
   width: 8e+1
   connections:
     indexes:
@@ -113,8 +113,8 @@
   text: Bork
   formattingOptions: []
   position:
-  - 4.60386596679688e+2
-  - 3.79016265869141e+1
+  - 4.60475238506611e+2
+  - 3.79902684138371e+1
   width: 6e+1
   connections:
     indexes:
@@ -127,8 +127,8 @@
   text: El Vadeen - human monk . scholar
   formattingOptions: []
   position:
-  - 5.55753051757812e+2
-  - 1.95990295410156e+1
+  - 5.55841693584735e+2
+  - 1.96876713679386e+1
   width: 1.6e+2
   connections:
     indexes:
@@ -139,8 +139,8 @@
   text: Magic item - braceleet of reading
   formattingOptions: []
   position:
-  - 5.55424682617188e+2
-  - 6.84584350585938e+1
+  - 5.55513324444111e+2
+  - 6.85470768855168e+1
   width: 1.6e+2
   connections:
     indexes:
@@ -153,8 +153,8 @@
     Step: stout. decent beer gut'
   formattingOptions: []
   position:
-  - 4.65687744140625e+2
-  - 2.34206756591797e+2
+  - 4.65776385967548e+2
+  - 2.3429539841872e+2
   width: 1.6e+2
   connections:
     indexes:
@@ -166,8 +166,8 @@
     emmbracing the world.  +1 to religion checks.
   formattingOptions: []
   position:
-  - 4.83838134765625e+2
-  - 3.1062890625e+2
+  - 4.83926776592548e+2
+  - 3.10717548076923e+2
   width: 1.6e+2
   connections:
     indexes:
@@ -182,8 +182,8 @@
     blue: 1e+0
   formattingOptions: []
   position:
-  - 7.61186787923181e+2
-  - 4.97170333862304e+1
+  - 7.61275429750104e+2
+  - 4.98056752131534e+1
   width: 1.6e+2
   connections:
     indexes:
@@ -194,8 +194,8 @@
   text: ''
   formattingOptions: []
   position:
-  - 1.46342549641927e+3
-  - 3.26417690531413e+3
+  - 1.45098860520583e+3
+  - 3.66168782904209e+3
   width: 1.6e+2
   connections:
     indexes:
@@ -206,8 +206,8 @@
   text: ''
   formattingOptions: []
   position:
-  - 1.46158009847005e+3
-  - 3.6749368947347e+3
+  - 1.45287424566807e+3
+  - 3.44144014837803e+3
   width: 1.6e+2
   connections:
     indexes:
@@ -218,8 +218,8 @@
   text: Step, Mikey, and Bork! Yay!
   formattingOptions: []
   position:
-  - 9.62970479329427e+2
-  - 5.80081616992186e+1
+  - 9.6305912115635e+2
+  - 5.80968035261416e+1
   width: 1.6e+2
   connections:
     indexes:
@@ -230,8 +230,8 @@
   text: Vasil Kaliz, El Vadeen, and Skillet
   formattingOptions: []
   position:
-  - 1.01005330403646e+3
-  - 1.41317520141577e+1
+  - 1.01014194586338e+3
+  - 1.42203938410807e+1
   width: 1.9e+2
   connections:
     indexes:
@@ -242,8 +242,8 @@
   text: Research unusual and interestng and possible dangerous magicks
   formattingOptions: []
   position:
-  - 7.55244547526044e+2
-  - 9.6460459391271e+1
+  - 7.55333189352967e+2
+  - 9.6549101218194e+1
   width: 1.6e+2
   connections:
     indexes:
@@ -256,8 +256,8 @@
   text: Research the (mumble) Formercarious Flitwidget
   formattingOptions: []
   position:
-  - 9.3960276285808e+2
-  - 1.09109744544266e+2
+  - 9.39691404685003e+2
+  - 1.09198386371189e+2
   width: 1.6e+2
   connections:
     indexes:
@@ -271,8 +271,8 @@
     setting
   formattingOptions: []
   position:
-  - 1.14848368326823e+3
-  - 5.90859916959635e+1
+  - 1.14857232509515e+3
+  - 5.91746335228865e+1
   width: 1.6e+2
   connections:
     indexes:
@@ -294,8 +294,8 @@
     rangeStart: 14
     rangeLength: 11
   position:
-  - 1.24176554361979e+3
-  - 1.52853968302406e+2
+  - 1.24185418544671e+3
+  - 1.52942610129329e+2
   width: 1.6e+2
   connections:
     indexes:
@@ -312,8 +312,8 @@
     rangeStart: 6
     rangeLength: 9
   position:
-  - 1.01571909586589e+3
-  - 2.03958857218413e+2
+  - 1.01580773769281e+3
+  - 2.04047499045336e+2
   width: 1.7e+2
   connections:
     indexes:
@@ -334,8 +334,8 @@
     rangeStart: 7
     rangeLength: 17
   position:
-  - 7.88676452636724e+2
-  - 1.72016209920236e+2
+  - 7.88765094463647e+2
+  - 1.72104851747159e+2
   width: 2e+2
   connections:
     indexes:
@@ -363,8 +363,8 @@
     rangeStart: 121
     rangeLength: 19
   position:
-  - 7.25404663085929e+2
-  - 4.07639302571615e+2
+  - 7.25493304912852e+2
+  - 4.07727944398538e+2
   width: 2.5e+2
   connections:
     indexes:
@@ -383,8 +383,8 @@
     general business.  Eating cheap food before going back to the fields or docks.'
   formattingOptions: []
   position:
-  - 1.00798116048176e+3
-  - 3.76123291015625e+2
+  - 1.00806980230868e+3
+  - 3.76211932842548e+2
   width: 2.3e+2
   connections:
     indexes:
@@ -399,8 +399,8 @@
     '
   formattingOptions: []
   position:
-  - 1.2595327758789e+3
-  - 3.27474100748698e+2
+  - 1.25962141770582e+3
+  - 3.27562742575621e+2
   width: 1.6e+2
   connections:
     indexes:
@@ -421,8 +421,8 @@
     Barkeep: "you''re enjoying the food?!?"'
   formattingOptions: []
   position:
-  - 1.25820688883463e+3
-  - 4.05030202229818e+2
+  - 1.25829553066155e+3
+  - 4.05118844056741e+2
   width: 1.6e+2
   connections:
     indexes:
@@ -438,8 +438,8 @@
     time she looks amazed. "It''s amazing"  Like stepping into a whole new dimension.'
   formattingOptions: []
   position:
-  - 1.16311655680338e+3
-  - 6.20743550618483e+2
+  - 1.1632051986303e+3
+  - 6.20832192445406e+2
   width: 2.5e+2
   connections:
     indexes:
@@ -453,8 +453,8 @@
     a six!  She''s just real pretty and that she likes she went to the museum'
   formattingOptions: []
   position:
-  - 9.39248657226554e+2
-  - 5.67641693115227e+2
+  - 9.39337299053477e+2
+  - 5.6773033494215e+2
   width: 2e+2
   connections:
     indexes:
@@ -468,8 +468,8 @@
     to get to the museum. Not a big deal."
   formattingOptions: []
   position:
-  - 9.28137919108064e+2
-  - 6.65364064534498e+2
+  - 9.28226560934987e+2
+  - 6.65452706361421e+2
   width: 2.1e+2
   connections:
     indexes:
@@ -484,8 +484,8 @@
     BK: go to the good quater, and then through 3/4 of the bad quarter'
   formattingOptions: []
   position:
-  - 7.32524871826165e+2
-  - 5.77871795654289e+2
+  - 7.32613513653088e+2
+  - 5.77960437481212e+2
   width: 1.6e+2
   connections:
     indexes:
@@ -500,8 +500,8 @@
     BK: there''s also the dock quarter and the farm quarter'
   formattingOptions: []
   position:
-  - 7.32659047444653e+2
-  - 6.71011800130201e+2
+  - 7.32747689271576e+2
+  - 6.71100441957124e+2
   width: 1.6e+2
   connections:
     indexes:
@@ -525,8 +525,8 @@
     You could go back? "I don''t have enough money" - it costs a shilling (5 silver)'
   formattingOptions: []
   position:
-  - 7.38528137207024e+2
-  - 7.78858174641905e+2
+  - 7.38616779033947e+2
+  - 7.78946816468828e+2
   width: 3.6e+2
   connections:
     indexes:
@@ -543,8 +543,8 @@
     Mikey: usual for 1st level middle class, 25 gold combined worth of gear and pocket'
   formattingOptions: []
   position:
-  - 1.14431538899739e+3
-  - 7.35669291178372e+2
+  - 1.14440403082431e+3
+  - 7.35757933005295e+2
   width: 2.3e+2
   connections:
     indexes:
@@ -555,8 +555,8 @@
   text: '"live on the edge of squishdom, like through our own poor choices"'
   formattingOptions: []
   position:
-  - 1.14912958780923e+3
-  - 8.03979532877615e+2
+  - 1.14921822963615e+3
+  - 8.04068174704538e+2
   width: 2.2e+2
   connections:
     indexes:
@@ -572,8 +572,8 @@
     Paulie is absolutely thrill'
   formattingOptions: []
   position:
-  - 1.16340189615884e+3
-  - 8.6402739461264e+2
+  - 1.16349053798576e+3
+  - 8.64116036439563e+2
   width: 2.2e+2
   connections:
     indexes:
@@ -595,8 +595,8 @@
     rangeStart: 54
     rangeLength: 14
   position:
-  - 1.10923970540364e+3
-  - 9.62673634847005e+2
+  - 1.10932834723056e+3
+  - 9.62762276673928e+2
   width: 3e+2
   connections:
     indexes:
@@ -616,8 +616,8 @@
     rangeStart: 0
     rangeLength: 8
   position:
-  - 7.50432688395172e+2
-  - 9.84770243326822e+2
+  - 7.50521330222095e+2
+  - 9.84858885153745e+2
   width: 3.1e+2
   connections:
     indexes:
@@ -630,8 +630,8 @@
   text: /r/isYourDog|Pet broken?
   formattingOptions: []
   position:
-  - 8.0861821492512e+2
-  - 9.46639546712239e+2
+  - 8.08706856752043e+2
+  - 9.46728188539162e+2
   width: 1.6e+2
   connections:
     indexes:
@@ -652,8 +652,8 @@
     almost, in... long... steps... Keeping to the shadows, just walkng by.'
   formattingOptions: []
   position:
-  - 7.52587941487615e+2
-  - 1.11437178548174e+3
+  - 7.52676583314538e+2
+  - 1.11446042730866e+3
   width: 3.2e+2
   connections:
     indexes:
@@ -678,8 +678,8 @@
     rangeStart: 79
     rangeLength: 4
   position:
-  - 1.10896291097004e+3
-  - 1.10645275370277e+3
+  - 1.10905155279696e+3
+  - 1.10654139552969e+3
   width: 2.8e+2
   connections:
     indexes:
@@ -692,8 +692,8 @@
   text: High Variance Die
   formattingOptions: []
   position:
-  - 1.19564056396483e+3
-  - 1.05698223368323e+3
+  - 1.19572920579175e+3
+  - 1.05707087551015e+3
   width: 1.6e+2
   connections:
     indexes:
@@ -705,8 +705,8 @@
     windows.  Maura prides herself on the safety of  guests.
   formattingOptions: []
   position:
-  - 1.12381978352863e+3
-  - 1.29805006917314e+3
+  - 1.12390842535555e+3
+  - 1.29813871100006e+3
   width: 2.2e+2
   connections:
     indexes:
@@ -721,8 +721,8 @@
   text: '"Food, it''s what''s for dinner"'
   formattingOptions: []
   position:
-  - 1.26075103759764e+3
-  - 1.25339390055335e+3
+  - 1.26083967942456e+3
+  - 1.25348254238027e+3
   width: 1.6e+2
   connections:
     indexes:
@@ -733,8 +733,8 @@
   text: Prone to seasickness
   formattingOptions: []
   position:
-  - 2.92073262532544e+2
-  - 5.38562927246043e+1
+  - 2.92161904359467e+2
+  - 5.39449345515273e+1
   width: 1.6e+2
   connections:
     indexes:
@@ -750,8 +750,8 @@
     rangeStart: 166
     rangeLength: 9
   position:
-  - 7.49425862630193e+2
-  - 1.30654997762045e+3
+  - 7.49514504457116e+2
+  - 1.30663861944737e+3
   width: 3.5e+2
   connections:
     indexes:
@@ -767,8 +767,8 @@
     "Is this where you saw your dude?" "it wasn''t" "bad dreams from the ''food''"'
   formattingOptions: []
   position:
-  - 7.32007853190089e+2
-  - 1.43132302856444e+3
+  - 7.32096495017012e+2
+  - 1.43141167039136e+3
   width: 2.3e+2
   connections:
     indexes:
@@ -783,8 +783,8 @@
     breakfast, and sitting at a table, going over notes in the diary
   formattingOptions: []
   position:
-  - 9.80594482421879e+2
-  - 1.40817864990237e+3
+  - 9.80683124248802e+2
+  - 1.40826729172929e+3
   width: 2.3e+2
   connections:
     indexes:
@@ -797,8 +797,8 @@
   text: More seafood stew with a friend egg on top.  Very watery coffee
   formattingOptions: []
   position:
-  - 1.22472585042318e+3
-  - 1.38391900634769e+3
+  - 1.2248144922501e+3
+  - 1.38400764817461e+3
   width: 2e+2
   connections:
     indexes:
@@ -813,8 +813,8 @@
     S: we''ve already had breakfast.'
   formattingOptions: []
   position:
-  - 1.24295471191407e+3
-  - 1.43935016886399e+3
+  - 1.24304335374099e+3
+  - 1.43943881069091e+3
   width: 1.6e+2
   connections:
     indexes:
@@ -831,8 +831,8 @@
     Consumes egg, and keeps stick.'
   formattingOptions: []
   position:
-  - 1.23969228108725e+3
-  - 1.52225473022467e+3
+  - 1.23978092291417e+3
+  - 1.52234337205159e+3
   width: 1.6e+2
   connections:
     indexes:
@@ -849,8 +849,8 @@
     museum.'
   formattingOptions: []
   position:
-  - 1.02727467854818e+3
-  - 1.53467492675787e+3
+  - 1.0273633203751e+3
+  - 1.53476356858479e+3
   width: 1.6e+2
   connections:
     indexes:
@@ -866,8 +866,8 @@
     for the day\". \n"
   formattingOptions: []
   position:
-  - 7.47751617431646e+2
-  - 1.5524420064291e+3
+  - 7.47840259258569e+2
+  - 1.55253064825602e+3
   width: 2.3e+2
   connections:
     indexes:
@@ -888,8 +888,8 @@
     So stay unidentified unless making official contact'
   formattingOptions: []
   position:
-  - 7.44051310221358e+2
-  - 1.6870502115886e+3
+  - 7.44139952048281e+2
+  - 1.68713885341552e+3
   width: 2.5e+2
   connections:
     indexes:
@@ -915,8 +915,8 @@
     V: it''s literally in his name. We got them.'
   formattingOptions: []
   position:
-  - 1.03620269775391e+3
-  - 1.68176828002934e+3
+  - 1.03629133958083e+3
+  - 1.68185692185626e+3
   width: 3.5e+2
   connections:
     indexes:
@@ -942,8 +942,8 @@
     V: wasn''t so safe.  Rampaging is her thing?'
   formattingOptions: []
   position:
-  - 9.72547200520837e+2
-  - 1.86462472534184e+3
+  - 9.7263584234776e+2
+  - 1.86471336716876e+3
   width: 3.9e+2
   connections:
     indexes:
@@ -964,8 +964,8 @@
     This is a place of learning, from across the multiverse with things to teach us'
   formattingOptions: []
   position:
-  - 7.57361399332685e+2
-  - 1.81887668863936e+3
+  - 7.57450041159608e+2
+  - 1.81896533046628e+3
   width: 1.6e+2
   connections:
     indexes:
@@ -978,8 +978,8 @@
   text: Should you help, everyone will be safe, and you would have learned quite a  bit.
   formattingOptions: []
   position:
-  - 7.29800872802738e+2
-  - 2.07416457112624e+3
+  - 7.29889514629661e+2
+  - 2.07425321295316e+3
   width: 1.6e+2
   connections:
     indexes:
@@ -997,8 +997,8 @@
     anything (in stock)'
   formattingOptions: []
   position:
-  - 9.18586120605472e+2
-  - 2.05560739135736e+3
+  - 9.18674762432395e+2
+  - 2.05569603318428e+3
   width: 2.7e+2
   connections:
     indexes:
@@ -1018,8 +1018,8 @@
     in a bit of a mood.  may not be possible to do it that way.'
   formattingOptions: []
   position:
-  - 1.20802469889323e+3
-  - 2.04344120279941e+3
+  - 1.20811334072015e+3
+  - 2.04352984462633e+3
   width: 2.2e+2
   connections:
     indexes:
@@ -1046,8 +1046,8 @@
     G: we have some wonderous candy'
   formattingOptions: []
   position:
-  - 1.17449625651042e+3
-  - 2.20865584309889e+3
+  - 1.17458489833734e+3
+  - 2.20874448492581e+3
   width: 2.4e+2
   connections:
     indexes:
@@ -1062,8 +1062,8 @@
     He''s actually a boot.  It''s alive. somewhat.'
   formattingOptions: []
   position:
-  - 9.33718668619795e+2
-  - 2.21041853841139e+3
+  - 9.33807310446718e+2
+  - 2.21050718023831e+3
   width: 2.1e+2
   connections:
     indexes:
@@ -1078,8 +1078,8 @@
     G: yes!'
   formattingOptions: []
   position:
-  - 7.46226704915368e+2
-  - 2.17156035359694e+3
+  - 7.46315346742291e+2
+  - 2.17164899542386e+3
   width: 1.6e+2
   connections:
     indexes:
@@ -1098,8 +1098,8 @@
     Hands you a potion, if things go horribly awry.  (anti stone)'
   formattingOptions: []
   position:
-  - 7.33239491780602e+2
-  - 2.23324319458001e+3
+  - 7.33328133607525e+2
+  - 2.23333183640693e+3
   width: 1.6e+2
   connections:
     indexes:
@@ -1117,8 +1117,8 @@
     rangeStart: 0
     rangeLength: 78
   position:
-  - 9.32007141113284e+2
-  - 2.28697493489577e+3
+  - 9.32095782940207e+2
+  - 2.28706357672269e+3
   width: 1.6e+2
   connections:
     indexes:
@@ -1136,8 +1136,8 @@
     shears, a sledge hammer, "
   formattingOptions: []
   position:
-  - 7.3142267862956e+2
-  - 2.38806054687493e+3
+  - 7.31511320456483e+2
+  - 2.38814918870185e+3
   width: 2.6e+2
   connections:
     indexes:
@@ -1150,8 +1150,8 @@
   text: '"Beware of the bushes, in case of emergency, use the water. -FF"'
   formattingOptions: []
   position:
-  - 1.04531280517578e+3
-  - 2.36910124715167e+3
+  - 1.0454014470027e+3
+  - 2.36918988897859e+3
   width: 1.6e+2
   connections:
     indexes:
@@ -1164,8 +1164,8 @@
   text: The triceritops starts to slowly turn his head.
   formattingOptions: []
   position:
-  - 1.23891387939453e+3
-  - 2.37219639078773e+3
+  - 1.23900252122145e+3
+  - 2.37228503261465e+3
   width: 1.6e+2
   connections:
     indexes:
@@ -1196,8 +1196,8 @@
     Roll! 16 perception.  See the ones - 1D '
   formattingOptions: []
   position:
-  - 1.12441904703776e+3
-  - 2.43980859374997e+3
+  - 1.12450768886468e+3
+  - 2.43989723557689e+3
   width: 3e+2
   connections:
     indexes:
@@ -1217,8 +1217,8 @@
     S will move around and hide-ish ehind one (2 1/2 feet tall)'
   formattingOptions: []
   position:
-  - 1.0867236328125e+3
-  - 2.64529326375328e+3
+  - 1.08681227463942e+3
+  - 2.6453819055802e+3
   width: 3.2e+2
   connections:
     indexes:
@@ -1231,8 +1231,8 @@
   text: '"nature is metal" - grapefruit spikes'
   formattingOptions: []
   position:
-  - 1.00367340087891e+3
-  - 2.46614043172203e+3
+  - 1.00376204270583e+3
+  - 2.46622907354895e+3
   width: 1.1e+2
   connections:
     indexes:
@@ -1245,8 +1245,8 @@
     trembling"
   formattingOptions: []
   position:
-  - 7.88116709391278e+2
-  - 2.63613615926125e+3
+  - 7.88205351218201e+2
+  - 2.63622480108817e+3
   width: 2.1e+2
   connections:
     indexes:
@@ -1262,8 +1262,8 @@
     backwards, caught a little bit as it goes by.\n1 HP damage"
   formattingOptions: []
   position:
-  - 7.60027974446617e+2
-  - 2.79619577026385e+3
+  - 7.6011661627354e+2
+  - 2.79628441209077e+3
   width: 2.1e+2
   connections:
     indexes:
@@ -1279,8 +1279,8 @@
     water everywhere
   formattingOptions: []
   position:
-  - 1.01907948811849e+3
-  - 2.75720773315448e+3
+  - 1.01916812994541e+3
+  - 2.7572963749814e+3
   width: 2.9e+2
   connections:
     indexes:
@@ -1294,8 +1294,8 @@
     Some black roiling tentacles in the water.
   formattingOptions: []
   position:
-  - 1.04965606689453e+3
-  - 2.81017098999043e+3
+  - 1.04974470872145e+3
+  - 2.81025963181735e+3
   width: 3.5e+2
   connections:
     indexes:
@@ -1308,8 +1308,8 @@
   text: 'E: moveout of the water. quarter staff - 21  5 points.  '
   formattingOptions: []
   position:
-  - 1.23398508707683e+3
-  - 2.86684665934264e+3
+  - 1.23407372890375e+3
+  - 2.86693530116956e+3
   width: 1.6e+2
   connections:
     indexes:
@@ -1324,8 +1324,8 @@
     Casts bless.'
   formattingOptions: []
   position:
-  - 1.00626454671224e+3
-  - 2.85899855550158e+3
+  - 1.00635318853916e+3
+  - 2.8590871973285e+3
   width: 1.6e+2
   connections:
     indexes:
@@ -1338,8 +1338,8 @@
   text: V gets a FLITWIDGET FRANK for moving it into the water
   formattingOptions: []
   position:
-  - 7.40062510172529e+2
-  - 2.72561146036808e+3
+  - 7.40151151999452e+2
+  - 2.725700102195e+3
   width: 1.6e+2
   connections:
     indexes:
@@ -1356,8 +1356,8 @@
     V: 4'
   formattingOptions: []
   position:
-  - 7.41018727620445e+2
-  - 2.99185451761905e+3
+  - 7.41107369447368e+2
+  - 2.99194315944597e+3
   width: 6e+1
   connections:
     indexes: []
@@ -1376,8 +1376,8 @@
     Third Triceratops (missed)'
   formattingOptions: []
   position:
-  - 1.11636922200521e+3
-  - 2.93409911092146e+3
+  - 1.11645786383213e+3
+  - 2.93418775274838e+3
   width: 3e+2
   connections:
     indexes:
@@ -1397,8 +1397,8 @@
     Moves past Briar Cat "I thought highly of you (you''re on a pedestal)"'
   formattingOptions: []
   position:
-  - 8.35646514892581e+2
-  - 2.96175119018582e+3
+  - 8.35735156719504e+2
+  - 2.96183983201274e+3
   width: 2.4e+2
   connections:
     indexes:
@@ -1411,8 +1411,8 @@
   text: 'El: Disengage, and follow V'
   formattingOptions: []
   position:
-  - 7.30541076660159e+2
-  - 3.09200123087593e+3
+  - 7.30629718487082e+2
+  - 3.09208987270285e+3
   width: 1.1e+2
   connections:
     indexes:
@@ -1429,8 +1429,8 @@
     A small aged halfling against a large bush. SHove check (athletics, -1)  You fail'
   formattingOptions: []
   position:
-  - 7.38389739990238e+2
-  - 3.17488656616239e+3
+  - 7.38478381817161e+2
+  - 3.17497520798931e+3
   width: 3e+2
   connections:
     indexes:
@@ -1446,8 +1446,8 @@
     https://despair.com/collections/posters/products/risktaking'
   formattingOptions: []
   position:
-  - 8.65459594726566e+2
-  - 3.08015280660022e+3
+  - 8.65548236553489e+2
+  - 3.08024144842714e+3
   width: 2.1e+2
   connections:
     indexes:
@@ -1458,8 +1458,8 @@
   text: Briarbeast (cat) - attacks Skillet. (AC 15). Did hit, with 4 piercing
   formattingOptions: []
   position:
-  - 1.0722543334961e+3
-  - 3.17207503255197e+3
+  - 1.07234297532302e+3
+  - 3.17216367437889e+3
   width: 1.7e+2
   connections:
     indexes:
@@ -1472,8 +1472,8 @@
   text: Roll the lake - they have wrapped around the T, and have pulled it underneath
   formattingOptions: []
   position:
-  - 1.08828877766927e+3
-  - 3.10280707295719e+3
+  - 1.08837741949619e+3
+  - 3.10289571478411e+3
   width: 1.6e+2
   connections:
     indexes:
@@ -1486,8 +1486,8 @@
   text: it was dino-shrubbery, would that make a difference?
   formattingOptions: []
   position:
-  - 1.13107716878255e+3
-  - 3.03822096761051e+3
+  - 1.13116581060947e+3
+  - 3.03830960943743e+3
   width: 1.3e+2
   connections:
     indexes: []
@@ -1496,8 +1496,8 @@
   text: '"stop any of the exhibits that have gone bad"'
   formattingOptions: []
   position:
-  - 1.2934662882487e+3
-  - 3.03247450764957e+3
+  - 1.29355493007562e+3
+  - 3.03256314947649e+3
   width: 1.1e+2
   connections:
     indexes:
@@ -1517,8 +1517,8 @@
     BYE BYE KITTY MEOW'
   formattingOptions: []
   position:
-  - 1.27111653645834e+3
-  - 3.10746931966129e+3
+  - 1.27120517828526e+3
+  - 3.10755796148821e+3
   width: 1.6e+2
   connections:
     indexes:
@@ -1531,8 +1531,8 @@
   text: (there's a Pile of rubble that looks like it happened after things went down)
   formattingOptions: []
   position:
-  - 1.24789571126302e+3
-  - 3.22603921508773e+3
+  - 1.24798435308994e+3
+  - 3.22612785691465e+3
   width: 1.6e+2
   connections:
     indexes:
@@ -1545,8 +1545,8 @@
   text: Briar Boar moved down of pedestal
   formattingOptions: []
   position:
-  - 1.25629862467448e+3
-  - 3.29925709025049e+3
+  - 1.2563872665014e+3
+  - 3.29934573207741e+3
   width: 1.6e+2
   connections:
     indexes:
@@ -1560,8 +1560,8 @@
     "what do you think of going inside and slamming the doors?'
   formattingOptions: []
   position:
-  - 1.05973429361979e+3
-  - 3.23758284505192e+3
+  - 1.05982293544671e+3
+  - 3.23767148687884e+3
   width: 1.6e+2
   connections:
     indexes:
@@ -1575,8 +1575,8 @@
     and they flow inward, as with just a touch (S: ooh, nicely counterweighted)'
   formattingOptions: []
   position:
-  - 7.76498718261722e+2
-  - 3.27070550537093e+3
+  - 7.76587360088645e+2
+  - 3.27079414719785e+3
   width: 2.5e+2
   connections:
     indexes:
@@ -1599,8 +1599,8 @@
     "never thought i''d be routing for hte sea monster"'
   formattingOptions: []
   position:
-  - 7.68940734863284e+2
-  - 3.36119770304345e+3
+  - 7.69029376690207e+2
+  - 3.36128634487037e+3
   width: 2.2e+2
   connections:
     indexes:
@@ -1616,8 +1616,8 @@
     Behind a hanging on a wall - save it for next time.'
   formattingOptions: []
   position:
-  - 1.2539491780599e+3
-  - 3.4409398295083e+3
+  - 1.25403781988682e+3
+  - 3.44102847133522e+3
   width: 1.6e+2
   connections:
     indexes:
@@ -1628,8 +1628,8 @@
   text: 'V: the boar hurt my little friend. How big is the boar?'
   formattingOptions: []
   position:
-  - 1.01668441772461e+3
-  - 3.39306130981432e+3
+  - 1.01677305955153e+3
+  - 3.39314995164124e+3
   width: 2.1e+2
   connections:
     indexes:
@@ -1643,8 +1643,8 @@
     into the middle of the lake. wheeeeesplash, and goes through doors
   formattingOptions: []
   position:
-  - 1.03079213460287e+3
-  - 3.45600859578437e+3
+  - 1.03088077642979e+3
+  - 3.45609723761129e+3
   width: 1.6e+2
   connections:
     indexes:
@@ -1655,8 +1655,8 @@
   text: El throws a "dart" (the stick without the eggs) missed it with a 9
   formattingOptions: []
   position:
-  - 1.25573415120443e+3
-  - 3.60040144856757e+3
+  - 1.25582279303135e+3
+  - 3.60049009039449e+3
   width: 1.6e+2
   connections:
     indexes:
@@ -1669,8 +1669,8 @@
   text: FLITFIGET FRANK for us all
   formattingOptions: []
   position:
-  - 1.27293823242188e+3
-  - 3.37174834187819e+3
+  - 1.2730268742488e+3
+  - 3.37183698370511e+3
   width: 1.2e+2
   connections:
     indexes:
@@ -1686,8 +1686,8 @@
     (and the fourth one never moved)'
   formattingOptions: []
   position:
-  - 1.0471805826823e+3
-  - 3.56255426025384e+3
+  - 1.04726922450922e+3
+  - 3.56264290208076e+3
   width: 1.6e+2
   connections:
     indexes:
@@ -1700,8 +1700,8 @@
   text: TO BE CONTINUED
   formattingOptions: []
   position:
-  - 8.04498799641932e+2
-  - 3.58220915730793e+3
+  - 8.04587441468855e+2
+  - 3.58229779913485e+3
   width: 1.6e+2
   connections:
     indexes:
@@ -1712,9 +1712,1292 @@
   text: I have faith in you guys to not get through it
   formattingOptions: []
   position:
-  - 8.09198760986334e+2
-  - 3.61793344116208e+3
+  - 8.09287402813257e+2
+  - 3.618022082989e+3
   width: 1.6e+2
   connections:
     indexes: []
   _effectiveHeight: 2.8e+1
+- ID: 106
+  text: Episode 2
+  fillColorRGB:
+    red: 8.93993e-1
+    green: 9.92872e-1
+    blue: 1e+0
+  formattingOptions: []
+  position:
+  - 1.47842972036508e+3
+  - 9.04691748985876e+1
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 109
+      length: 2
+  _effectiveHeight: 1.4e+1
+- ID: 107
+  text: ''
+  formattingOptions: []
+  position:
+  - 2.29548158616286e+3
+  - 2.94374867600661e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 108
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 108
+  text: ''
+  formattingOptions: []
+  position:
+  - 1.4539338261531e+3
+  - 2.9357358586238e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 107
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 109
+  text: Joined by Lady Step (Sarah), "Bard", playing a fighter.
+  formattingOptions:
+  - options: 1
+    rangeStart: 30
+    rangeLength: 4
+  position:
+  - 1.66438950758714e+3
+  - 2.52780761718749e+1
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 106
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 110
+  text: Recap - guild to research strange magic and creatures, to see if threat to
+    populous, and for the info itself.  Supposed to all meet at the tavern. You were
+    delayed and would meet up with them.
+  formattingOptions: []
+  position:
+  - 1.66364325420673e+3
+  - 1.2393289067195e+2
+  width: 2.1e+2
+  connections:
+    indexes:
+    - location: 106
+      length: 1
+    - location: 111
+      length: 1
+  _effectiveHeight: 8.4e+1
+- ID: 111
+  text: 'They have already gone in.  Gone in to meet them the Travelling of For Marcarious
+    FLitwidghit - a blonde gnome, and a super floofy enormous beard that looks like
+    a cloud, and has a mousctache that has several twirls like Salvador Dali on crack.
+    See him sitting outside.  "Sorry, you can''t go in. It''s closed".  We have people
+    in there now. I have hired some folks to go in and clear it out.
+
+    "I''m on the team with them. Just a little bit of a late arrival."
+
+    "what are names?" "some extra! for the meat grinder!"  Do go in. Gives you a Flitwidget
+    Frank
+
+    "And clear out as many exhibits as you can. The gorbon Uriel has escaped and turned
+    the exhibits against us. they have caused us mischief.'
+  formattingOptions:
+  - options: 1
+    rangeStart: 606
+    rangeLength: 5
+  position:
+  - 1.90487032376804e+3
+  - 1.19164663461507e+1
+  width: 2.8e+2
+  connections:
+    indexes:
+    - location: 110
+      length: 1
+    - location: 112
+      length: 1
+  _effectiveHeight: 2.1e+2
+- ID: 112
+  text: 'See the lake, and ~brassiers~ braziers.  P is a carved hedge in the shape
+    of a cat.  And an entry way right below the P.
+
+    This is outside.  And a briar beast prowling.
+
+    Bard goes around, avoiding.'
+  formattingOptions: []
+  position:
+  - 1.9411536583534e+3
+  - 2.6303925499549e+2
+  width: 2.5e+2
+  connections:
+    indexes:
+    - location: 111
+      length: 1
+    - location: 113
+      length: 1
+  _effectiveHeight: 7e+1
+- ID: 113
+  text: Going through the doors, it's night time inside. A velvety blue night, stars
+    pinpointing, and rays shooting through the darkness
+  formattingOptions: []
+  position:
+  - 1.71022371732275e+3
+  - 2.49260544996992e+2
+  width: 2e+2
+  connections:
+    indexes:
+    - location: 112
+      length: 1
+    - location: 114
+      length: 1
+  _effectiveHeight: 5.6e+1
+- ID: 114
+  text: 'Roll a stealth check Bard.
+
+    8: it will move over to you, by the doors, but will swipe at you. (teal circle)
+
+    AC 17.  Briar Beast misses! Twice!'
+  formattingOptions: []
+  position:
+  - 1.46083435058596e+3
+  - 1.47281315730165e+2
+  width: 1.8e+2
+  connections:
+    indexes:
+    - location: 113
+      length: 1
+    - location: 115
+      length: 1
+  _effectiveHeight: 8.4e+1
+- ID: 115
+  text: 'Open the doors and head in.
+
+    The door shuts behind you.
+
+    Attack of opportunity. Misses.  Second did hit, for 3 damage.'
+  formattingOptions: []
+  position:
+  - 1.46168180025543e+3
+  - 3.08358914888819e+2
+  width: 1.8e+2
+  connections:
+    indexes:
+    - location: 114
+      length: 1
+    - location: 116
+      length: 2
+  _effectiveHeight: 5.6e+1
+- ID: 116
+  text: '"I make mistakes. Characters Die"'
+  formattingOptions: []
+  position:
+  - 1.58247375488283e+3
+  - 2.5513888784555e+2
+  width: 1.1e+2
+  connections:
+    indexes:
+    - location: 115
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 117
+  text: 'In the corner, see a half elf, and a half orc. One has a pole in its hand.
+    and the other has a piece of lawn ornament, hoding and looking at all of you.
+    They entered just before we et there
+
+    Perception check.  20(dirty), and a small figure hiding behind.  Not stone.
+
+    Shouting "Stay Back".'
+  formattingOptions: []
+  position:
+  - 1.46828336275543e+3
+  - 4.15526742788459e+2
+  width: 2.2e+2
+  connections:
+    indexes:
+    - location: 115
+      length: 1
+    - location: 118
+      length: 1
+  _effectiveHeight: 1.12e+2
+- ID: 118
+  text: 'Skillet: Are you indanger? (they push the little one behind them)
+
+    Vasil you''re not in danger, we''re not a ranger.
+
+    Here to help?
+
+    V:Help and hurt.
+
+    He''s looking upset. "if you hurt our child"
+
+    Skillet: "why do you feel in dnager, what''s making you so scared.'
+  formattingOptions: []
+  position:
+  - 1.72271418644834e+3
+  - 3.61321326622593e+2
+  width: 1.9e+2
+  connections:
+    indexes:
+    - location: 117
+      length: 1
+    - location: 119
+      length: 1
+  _effectiveHeight: 1.4e+2
+- ID: 119
+  text: "\"this place is attacking every one. We paid to bring wife and child in.
+    There are Things out there\"\nSkillet: do we need to clear a path here?\nBard:
+    we can hold the kitties off. \nSkillet: muffled mumbling\nAre there more people
+    here?\nHaven't seen any on this level, but haven't seen.\nV: Want to let them
+    out, want to smash the cat about\nB: I have an axe and love smashing thing\nLook
+    out for tentacles in the lake!"
+  formattingOptions:
+  - options: 2
+    rangeStart: 187
+    rangeLength: 16
+  position:
+  - 1.95382774939906e+3
+  - 3.57044405423675e+2
+  width: 2.3e+2
+  connections:
+    indexes:
+    - location: 118
+      length: 1
+    - location: 120
+      length: 1
+  _effectiveHeight: 1.82e+2
+- ID: 120
+  text: "Bard busts through the door first with Axe. \ncat is very surprised!"
+  formattingOptions: []
+  position:
+  - 1.9365826885517e+3
+  - 5.78611130934492e+2
+  width: 2.3e+2
+  connections:
+    indexes:
+    - location: 119
+      length: 1
+    - location: 121
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 121
+  text: 'Initiaitvie! Skillet V Bork Bard (I think)
+
+
+    Skillet like a scardy trigger finger. See Bard start to charge out. Panic a bit,
+    and fires off a bolt from crossbow
+
+    17 to hit (hits) for 10 points.
+
+    It blows its coat like the vet. It practically explodes, but is still staggering'
+  formattingOptions: []
+  position:
+  - 1.73173443134017e+3
+  - 5.36498516376198e+2
+  width: 1.9e+2
+  connections:
+    indexes:
+    - location: 120
+      length: 1
+    - location: 122
+      length: 1
+  _effectiveHeight: 1.54e+2
+- ID: 122
+  text: 'Vasil - whack with quarterstaff.  You hit. 10 points.  You take him out.
+
+    It was barely held together'
+  formattingOptions: []
+  position:
+  - 1.45668386606072e+3
+  - 5.56225501427276e+2
+  width: 1.9e+2
+  connections:
+    indexes:
+    - location: 121
+      length: 1
+    - location: 123
+      length: 1
+  _effectiveHeight: 5.6e+1
+- ID: 123
+  text: Safeley escort out
+  formattingOptions: []
+  position:
+  - 1.45125605656553e+3
+  - 6.27270188551675e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 122
+      length: 1
+    - location: 124
+      length: 2
+  _effectiveHeight: 1.4e+1
+- ID: 124
+  text: 'another flitwidget frank for all
+
+    and each get 10 gold'
+  formattingOptions:
+  - options: 1
+    rangeStart: 0
+    rangeLength: 53
+  position:
+  - 1.57155240572419e+3
+  - 6.61416588416459e+2
+  width: 1.4e+2
+  connections:
+    indexes:
+    - location: 123
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 125
+  text: '"I thought they were all out"
+
+    (we do not believe him)'
+  formattingOptions: []
+  position:
+  - 1.45253455528849e+3
+  - 7.20414438100954e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 123
+      length: 1
+    - location: 126
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 126
+  text: "Back in the room.\nWhere that box, (2B), see it is filled with different
+    currencies.  Little note underneath \"thank you for your domation\" - gold coiins,
+    silver , copper, elven leaves, dwarven cogs. Things we've never seen before. \nWhere
+    2A is, see a guy hanging on the wall. Just hanging there.\nB: actual person, or
+    an artwork.  Or a constriuct. Something that is created.\nLooks fascinating. Hasn't
+    mooved. Staying on the wall. There's, note underneath \"thank you for your donation\",
+    other than that no information on the exhibit"
+  formattingOptions: []
+  position:
+  - 1.45408860426687e+3
+  - 7.69988788311287e+2
+  width: 2.6e+2
+  connections:
+    indexes:
+    - location: 125
+      length: 1
+    - location: 127
+      length: 1
+  _effectiveHeight: 1.96e+2
+- ID: 127
+  text: One door says "The chamber of ancients" (west) . Hall of paintings.
+  formattingOptions: []
+  position:
+  - 1.7327191631611e+3
+  - 7.15281850961522e+2
+  width: 1.8e+2
+  connections:
+    indexes:
+    - location: 126
+      length: 1
+    - location: 128
+      length: 3
+  _effectiveHeight: 4.2e+1
+- ID: 128
+  text: 'V: "Little man I''m quite a fan"
+
+    B: you''re an interesting character. (it does not feel slighted
+
+    "cool stuff here, but it can wait"
+
+    paintings?  ancients?'
+  formattingOptions: []
+  position:
+  - 1.74920015775245e+3
+  - 7.92110135591931e+2
+  width: 1.9e+2
+  connections:
+    indexes:
+    - location: 127
+      length: 1
+  _effectiveHeight: 7e+1
+- ID: 129
+  text: ElVadeen looks in, things with little lights on them.   No idea how they work.  Little
+    cards, not sure what they does, a whole plethora things don't know where they
+    are.
+  formattingOptions: []
+  position:
+  - 1.98547081580533e+3
+  - 6.41563636192892e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 127
+      length: 1
+  _effectiveHeight: 9.8e+1
+- ID: 130
+  text: 'Did any of the money look edible? "there was some oregano"
+
+    V reaches in for it.
+
+    At that point the large sentinal begins to move.
+
+    THANK YOU FOR YOUR DONATION and moves towards you.
+
+    Roll initiative - just V.  "Sk: we''re all watching this train wreck"
+
+    10 initiative, construct has a 13.'
+  formattingOptions:
+  - options: 1
+    rangeStart: 218
+    rangeLength: 3
+  position:
+  - 1.95984121469356e+3
+  - 7.60733933668854e+2
+  width: 2e+2
+  connections:
+    indexes:
+    - location: 127
+      length: 1
+    - location: 131
+      length: 1
+  _effectiveHeight: 1.54e+2
+- ID: 131
+  text: 'Swipes at V.   Bigger than you are.  "I think it''s cool it''s walking towoards
+    me and admire it"
+
+    Using a gauntlented fist to swipe at you.
+
+    One hit. 4 damage.'
+  formattingOptions: []
+  position:
+  - 1.95710289588346e+3
+  - 9.47574331430272e+2
+  width: 2.2e+2
+  connections:
+    indexes:
+    - location: 130
+      length: 1
+    - location: 132
+      length: 1
+  _effectiveHeight: 7e+1
+- ID: 132
+  text: 'V: Sorry, I was hungry. I''ll take two gold and flip it in there.
+
+    It stops.
+
+    (Looks in pocket for food, doesn''t find any)
+
+    Roll 1d10 (4).  You put donation. each time any time a character is healed (excluding
+    yourself) you get healed 2 points.
+
+    Will last for one hour'
+  formattingOptions: []
+  position:
+  - 1.73012385441711e+3
+  - 9.31419593224142e+2
+  width: 2e+2
+  connections:
+    indexes:
+    - location: 131
+      length: 1
+    - location: 133
+      length: 1
+    - location: 136
+      length: 1
+  _effectiveHeight: 1.4e+2
+- ID: 133
+  text: HEALTH BUFF for Vasil
+  formattingOptions:
+  - options: 1
+    rangeStart: 0
+    rangeLength: 21
+  position:
+  - 1.75460266113286e+3
+  - 8.82074547400825e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 132
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 134
+  text: 'V is examining the thing that punched him. "Thank you for your donation"
+
+    Admire the handiwork at a safe distance.  Standing like the terminator by the
+    donaition box'
+  formattingOptions: []
+  position:
+  - 1.4491823636569e+3
+  - 1.06121456204926e+3
+  width: 2.2e+2
+  connections:
+    indexes:
+    - location: 136
+      length: 2
+  _effectiveHeight: 7e+1
+- ID: 135
+  text: '4K - various paintings as stand and look. All have different artists, different
+    styles
+
+    V looking for things that catch his eye, with people and action.
+
+    4A: portrait of darkskin elf with white hair. on a snowfield. Has two scimitars
+    and a black cat.
+
+    See the picture looking back at you. Turns his head. And eyeing each other.
+
+    See the panther stalking forward, and puts its head up to the front of the painting. '
+  formattingOptions:
+  - options: 1
+    rangeStart: 152
+    rangeLength: 2
+  position:
+  - 1.94447885366591e+3
+  - 1.03756470665563e+3
+  width: 2.6e+2
+  connections:
+    indexes:
+    - location: 137
+      length: 2
+  _effectiveHeight: 1.4e+2
+- ID: 136
+  text: 'Skillet: what kind of dominate person got cast on the monk. "I don''t play
+    domino"
+
+    "EV: that''s kind of creepy"'
+  formattingOptions: []
+  position:
+  - 1.46421851524944e+3
+  - 9.84798029972941e+2
+  width: 2.4e+2
+  connections:
+    indexes:
+    - location: 132
+      length: 1
+    - location: 134
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 137
+  text: Which one is left?  Paintings!
+  formattingOptions: []
+  position:
+  - 1.71897784893334e+3
+  - 1.09917143366886e+3
+  width: 2e+2
+  connections:
+    indexes:
+    - location: 134
+      length: 2
+  _effectiveHeight: 1.4e+1
+- ID: 138
+  text: '4D has airship going through the sky. and puffs of clouds.  Huge sails and
+    large engine that is spinning, and feel like you could reach in to them.
+
+
+    Dang no space hamsters.'
+  formattingOptions:
+  - options: 1
+    rangeStart: 0
+    rangeLength: 2
+  position:
+  - 1.97052246093756e+3
+  - 1.21918833571213e+3
+  width: 2.1e+2
+  connections:
+    indexes:
+    - location: 135
+      length: 1
+    - location: 139
+      length: 1
+  _effectiveHeight: 8.4e+1
+- ID: 139
+  text: 'Sk: Flitwidget should have Given us some acceptance criteria.
+
+    A little cat paw and head tries to rub on your hand.
+
+    V: does not deny the panther a pet ,and pet its head.  realize your hand goes
+    in to the painting.
+
+    CON check.  Natural 20.  Pull out a painted scimitar.  It''s an normal size scimitar
+    with a paint effect.  Additional 1d4 damage to particular types of eneimes you
+    have not encountered.
+
+    '
+  formattingOptions:
+  - options: 1
+    rangeStart: 283
+    rangeLength: 113
+  position:
+  - 1.67325857309201e+3
+  - 1.14108108285757e+3
+  width: 2.6e+2
+  connections:
+    indexes:
+    - location: 138
+      length: 1
+    - location: 140
+      length: 2
+  _effectiveHeight: 1.68e+2
+- ID: 140
+  text: '"it''s my character, I''m not an idiot"'
+  formattingOptions:
+  - options: 2
+    rangeStart: 0
+    rangeLength: 37
+  position:
+  - 1.48194504957939e+3
+  - 1.17131024639423e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 139
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 141
+  text: V looks for frames that have food in them, or food-like scenes.
+  formattingOptions: []
+  position:
+  - 1.45890596829934e+3
+  - 1.23542321777344e+3
+  width: 1.9e+2
+  connections:
+    indexes:
+    - location: 139
+      length: 1
+    - location: 142
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 142
+  text: '4I: giant squid.   Vast gallean, sea spray.  Monsterous bloated tentacles.
+    "not appetizing. Any fish jumping out of the water", just lots of thrashing'
+  formattingOptions:
+  - options: 1
+    rangeStart: 0
+    rangeLength: 2
+  position:
+  - 1.4476739971455e+3
+  - 1.28999719238282e+3
+  width: 2e+2
+  connections:
+    indexes:
+    - location: 141
+      length: 1
+    - location: 143
+      length: 1
+  _effectiveHeight: 7e+1
+- ID: 143
+  text: '4J: Duelist. An elf with beard and clipped ears. Doublet open. In one hand
+    holds a pistol.  Other pistol is outstretched
+
+    "Sk: that''s a strange wand", looks like a cool monk thing.
+
+    DEX check.  Natural 1. Nothing happens, but you weren''t able to grab one of his
+    pistols.  In fact, he smacked you.  1HP damage.'
+  formattingOptions:
+  - options: 1
+    rangeStart: 0
+    rangeLength: 3
+  position:
+  - 1.47563730093155e+3
+  - 1.38839112267128e+3
+  width: 2.2e+2
+  connections:
+    indexes:
+    - location: 142
+      length: 1
+    - location: 144
+      length: 1
+  _effectiveHeight: 1.4e+2
+- ID: 144
+  text: 'Sk: We might want to take as much armament that might help us against such
+    fowl beasties along our way
+
+
+    EV on the 4K display.  Dude with fire sword. See a gaunteled hand coming towards.
+    Like the ring, coming through the televeision, pulling himself up and out surrounded
+    by a red glow, and a helmet red with rage.
+
+    Bard stands up, and EV steps back.'
+  formattingOptions:
+  - options: 1
+    rangeStart: 114
+    rangeLength: 2
+  position:
+  - 1.71636812650247e+3
+  - 1.33717811936599e+3
+  width: 2.2e+2
+  connections:
+    indexes:
+    - location: 143
+      length: 1
+    - location: 145
+      length: 1
+  _effectiveHeight: 1.54e+2
+- ID: 145
+  text: Initiaitve! V monster Bard El Skillet
+  formattingOptions: []
+  position:
+  - 1.97981060321521e+3
+  - 1.32379944786659e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 144
+      length: 1
+    - location: 146
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 146
+  text: 'Vasil -emerged like a nightmare from this paintining. Bring staff down on
+    its neck to drive down to the floor.  10 to hit. Sadly does not hit.  Red glow
+    expands as it firecly stars at Vasil
+
+    '
+  formattingOptions: []
+  position:
+  - 1.96869807316713e+3
+  - 1.36246174504207e+3
+  width: 2.1e+2
+  connections:
+    indexes:
+    - location: 145
+      length: 1
+    - location: 147
+      length: 1
+  _effectiveHeight: 8.4e+1
+- ID: 147
+  text: 'Kniggit: attacks ElVadeen (13) - misses.  It just whiffs.
+
+    "We can talk this through if you want to"'
+  formattingOptions: []
+  position:
+  - 2.0152428260217e+3
+  - 1.46335736553486e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 146
+      length: 1
+    - location: 148
+      length: 1
+  _effectiveHeight: 5.6e+1
+- ID: 148
+  text: Bard - moving to big baddy rash guy, and swing with the great axe.  "you want
+    to talk" you're still hitting.  Swing and miss (8) Throws his head back and laughs.
+  formattingOptions: []
+  position:
+  - 1.96671414888829e+3
+  - 1.55999686373198e+3
+  width: 2.1e+2
+  connections:
+    indexes:
+    - location: 147
+      length: 1
+    - location: 149
+      length: 1
+  _effectiveHeight: 7e+1
+- ID: 149
+  text: El - 11 bludgening (would rateher hit the thing than annoy Bard
+  formattingOptions: []
+  position:
+  - 1.73393066406257e+3
+  - 1.56722690054087e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 148
+      length: 1
+    - location: 150
+      length: 2
+  _effectiveHeight: 4.2e+1
+- ID: 150
+  text: BARDBARRIAN!
+  formattingOptions: []
+  position:
+  - 1.77517761230469e+3
+  - 1.52509881591797e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 149
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 151
+  text: Skillet - takes up and moves arond to mostly be behind vasil and fires off
+    a crossbow bolt.
+  formattingOptions: []
+  position:
+  - 1.47427202497212e+3
+  - 1.58120276893692e+3
+  width: 2.2e+2
+  connections:
+    indexes:
+    - location: 149
+      length: 1
+    - location: 152
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 152
+  text: '(borkle crashed!)
+
+    Damage isn''t what you expected. There should be more staggering him at this point.
+
+    Bard: "so you wanted to talk", and he snarls'
+  formattingOptions: []
+  position:
+  - 1.47495016915459e+3
+  - 1.66742198835099e+3
+  width: 2.1e+2
+  connections:
+    indexes:
+    - location: 151
+      length: 1
+    - location: 153
+      length: 1
+  _effectiveHeight: 8.4e+1
+- ID: 153
+  text: "back to the top - Vasil  run over to 4I - see a powder keg on the deck.\nDEX
+    check - 23\nYou are able to snag the powder keg with zero tentacles getting in
+    the way or any other damage.\n\"could I throw it 20 feet\"? STR is 18+4  yah totally
+    throw it.  It will be difficult, big and unweidly.  \nDoes it need to be lighted
+    on fired?\nINT check.  10.  \"you don't know, you're just going wing it\"\nYell
+    \"EVERYBODY GET BACK I'm Going to Attack.  (action was getting the keg from the
+    painting)"
+  formattingOptions: []
+  position:
+  - 1.7134302193778e+3
+  - 1.64654883684429e+3
+  width: 2e+2
+  connections:
+    indexes:
+    - location: 152
+      length: 1
+    - location: 154
+      length: 1
+  _effectiveHeight: 2.1e+2
+- ID: 154
+  text: 'Attacks Bard - it hit.  "First time I hit someone hard as a DM".  '
+  formattingOptions: []
+  position:
+  - 1.94034868512836e+3
+  - 1.70946091134206e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 153
+      length: 1
+    - location: 155
+      length: 2
+  _effectiveHeight: 4.2e+1
+- ID: 155
+  text: '"See your players driven before you"'
+  formattingOptions:
+  - options: 2
+    rangeStart: 0
+    rangeLength: 36
+  position:
+  - 2.01965419224331e+3
+  - 1.64987220110211e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 154
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 156
+  text: 'Bard - painted scimator - YOU LIKE THIS?
+
+    15 to hit  (1d8 + 1d4) - 9HP'
+  formattingOptions: []
+  position:
+  - 1.92792855398997e+3
+  - 1.78073510742186e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 154
+      length: 1
+    - location: 157
+      length: 2
+  _effectiveHeight: 4.2e+1
+- ID: 157
+  text: He took full damage from this
+  formattingOptions: []
+  position:
+  - 2.10450195312501e+3
+  - 1.75939861188615e+3
+  width: 1.2e+2
+  connections:
+    indexes:
+    - location: 156
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 158
+  text: "EV: move back a lit. Looks at 4C - People are paying a board game, little
+    tiles, and dice in there.  \nHow are they dressed.  Dressed jeans and t-shirts,
+    leaning over the table and some have cards and looking. \"This is unnatural\"
+    \"someone took mushrooms\"  \"very fake looking\"\nDEX 20, three dice!  "
+  formattingOptions:
+  - options: 1
+    rangeStart: 30
+    rangeLength: 2
+  - options: 1
+    rangeStart: 275
+    rangeLength: 19
+  position:
+  - 1.98810443987166e+3
+  - 1.87691500127881e+3
+  width: 2.1e+2
+  connections:
+    indexes:
+    - location: 156
+      length: 1
+    - location: 159
+      length: 1
+  _effectiveHeight: 1.26e+2
+- ID: 159
+  text: 'Skillet: can I do a lap looking for bludgeoning
+
+    4B - dwarven king with a huge red beard. a cave behind him where see people hammering.
+    Large whet stone.  Might be able to grab that whetstone
+
+    4C - airship huge sails and a large engine - it looks like it''s practicaly coming
+    out of hte picture
+
+    4D - Family of clows behind a circus - makup dripping down cheeks, and ringmaster
+    smiling sinisterly. Test of strenght with a giant mallet.  Skillet grabs it.  STR
+    check - grabs it. maul (2d6), with paint attribute
+
+    '
+  formattingOptions:
+  - options: 1
+    rangeStart: 48
+    rangeLength: 2
+  - options: 1
+    rangeStart: 191
+    rangeLength: 2
+  - options: 1
+    rangeStart: 292
+    rangeLength: 2
+  - options: 1
+    rangeStart: 474
+    rangeLength: 32
+  position:
+  - 1.67852095540365e+3
+  - 1.90295912679037e+3
+  width: 2.4e+2
+  connections:
+    indexes:
+    - location: 158
+      length: 1
+    - location: 160
+      length: 2
+  _effectiveHeight: 2.24e+2
+- ID: 160
+  text: "Vasil - Bard should have run away.   \n\nChuckin' the keg of powder.  STR
+    (big heavy and unweildy, so need to control it) 18 to hit.\nIt hits him - explode
+    on impact. IT DOES!  Breaks above, and powder flies everywhere, a puff, a good
+    10' around him at least.\ndid not catch on fire and did not hurt him, and he looks
+    annoyed\n"
+  formattingOptions: []
+  position:
+  - 1.46906978352865e+3
+  - 1.77845638020835e+3
+  width: 1.9e+2
+  connections:
+    indexes:
+    - location: 159
+      length: 1
+  _effectiveHeight: 1.68e+2
+- ID: 161
+  text: 4H - Empty throne with bats and skulls. Towering room, gold, red tapastry,
+    and a single glass, on an oak card table, and a pack of strange cards. and a glass
+    of red liquid.
+  formattingOptions:
+  - options: 1
+    rangeStart: 0
+    rangeLength: 2
+  position:
+  - 1.48129923502604e+3
+  - 1.96115895589195e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 159
+      length: 1
+    - location: 162
+      length: 1
+  _effectiveHeight: 9.8e+1
+- ID: 162
+  text: 'The knight will choose someone (goes for EV) (time out for Pidgeon, beatrice
+    peidgeon yum yum applesauce meow meow or something, from Voltron)
+
+    19 to hit. - 8 hp damage (down to 7)'
+  formattingOptions: []
+  position:
+  - 1.46178678385417e+3
+  - 2.08422668457033e+3
+  width: 1.9e+2
+  connections:
+    indexes:
+    - location: 161
+      length: 1
+    - location: 163
+      length: 1
+  _effectiveHeight: 9.8e+1
+- ID: 163
+  text: 'Bard with painted sword 11. didn''t hit
+
+    EV. rolled an 8.  missy missy'
+  formattingOptions: []
+  position:
+  - 1.71385563151043e+3
+  - 2.1583904215495e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 162
+      length: 1
+    - location: 164
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 164
+  text: 'Skillet - moves to flank with El. Changing a weapon you''re not weilding
+    requires dropping it.
+
+    Drop crossbow mental note to pick it up, weilds new paint maul and takes a solid
+    swing. STR on the check is 17+ mods, if that''s enough to hit (it is) for 7 HP.
+    (+2 - 1), so 8.
+
+    Starting to look like he''s taken some damage. Doesn''t look like he''s ready
+    to give up the fight.'
+  formattingOptions:
+  - options: 1
+    rangeStart: 108
+    rangeLength: 25
+  position:
+  - 1.95627148437502e+3
+  - 2.03009431966148e+3
+  width: 2.5e+2
+  connections:
+    indexes:
+    - location: 163
+      length: 1
+    - location: 165
+      length: 1
+  _effectiveHeight: 1.54e+2
+- ID: 165
+  text: 'Vasil reachs in for 4H - grab the cup of red liquid, no check. Cup of red
+    liquid.
+
+    V drinks it. (everyone laughs)
+
+    You Drank It Baby - metalic taste of blood in your mouth.  and a taste of terpentine
+    along with it. (spits it out).  5 HP and feel really sick.
+
+    Drops to the floor to his knees and grabs a health potion (ready for next turn)'
+  formattingOptions:
+  - options: 2
+    rangeStart: 113
+    rangeLength: 17
+  position:
+  - 1.98216495768231e+3
+  - 2.2220944417318e+3
+  width: 2.2e+2
+  connections:
+    indexes:
+    - location: 164
+      length: 1
+    - location: 166
+      length: 1
+  _effectiveHeight: 1.4e+2
+- ID: 166
+  text: 'Swordboy - attack skillet, rolled 16.  9 damage (giant two handed sword)
+
+    Skillet goes down. TO THE RASH MONSTER "dammit vasil"'
+  formattingOptions: []
+  position:
+  - 1.75866910807294e+3
+  - 2.2303981526693e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 165
+      length: 1
+    - location: 167
+      length: 1
+  _effectiveHeight: 8.4e+1
+- ID: 167
+  text: 'Bard is ticked off. Friends are dropping.
+
+    Painted scimitar, rolled a 14. 13 HP damage. Looking pretty ragged.'
+  formattingOptions: []
+  position:
+  - 1.48439176432294e+3
+  - 2.21847517903649e+3
+  width: 2.4e+2
+  connections:
+    indexes:
+    - location: 166
+      length: 1
+    - location: 168
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 168
+  text: EV - moves to flanking with Bard, misses with a 10
+  formattingOptions: []
+  position:
+  - 1.47405167643231e+3
+  - 2.29129380289717e+3
+  width: 1.8e+2
+  connections:
+    indexes:
+    - location: 167
+      length: 1
+    - location: 169
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 169
+  text: Skillet - Death saving throw. 3.  one failure.
+  formattingOptions: []
+  position:
+  - 1.47653605143231e+3
+  - 2.34660961914066e+3
+  width: 2.6e+2
+  connections:
+    indexes:
+    - location: 168
+      length: 1
+    - location: 170
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 170
+  text: Vasil - healing potion. 2d4+2. 8 HP healing. Moves over to his side and gets
+    a potion out.  "Skillet (slaps him in the face)"
+  formattingOptions:
+  - options: 1
+    rangeStart: 24
+    rangeLength: 5
+  position:
+  - 1.77234944661461e+3
+  - 2.34934619140628e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 169
+      length: 1
+    - location: 171
+      length: 1
+  _effectiveHeight: 7e+1
+- ID: 171
+  text: Rash Boy goes for Vasil.  5HP
+  formattingOptions: []
+  position:
+  - 1.49180432128909e+3
+  - 2.39617268880212e+3
+  width: 2.2e+2
+  connections:
+    indexes:
+    - location: 170
+      length: 1
+    - location: 172
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 172
+  text: "Bard - again with the painted sword. Dirty 20.  13 again!  Staggering - extra
+    red Vapor and flames coming out from his body.   Passes scimiar. \nEV: 7 total.
+    It just slices through is head. helmet goes and spins through the air bounces,
+    red turpentine\nEV gives the scimitar back."
+  formattingOptions: []
+  position:
+  - 1.490608194987e+3
+  - 2.43748470052087e+3
+  width: 2.3e+2
+  connections:
+    indexes:
+    - location: 171
+      length: 1
+    - location: 173
+      length: 2
+  _effectiveHeight: 1.12e+2
+- ID: 173
+  text: Failed a death save, but Vasil pours in potion for 9 hP damage
+  formattingOptions: []
+  position:
+  - 1.74770011393232e+3
+  - 2.50013899739588e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 172
+      length: 1
+    - location: 175
+      length: 2
+  _effectiveHeight: 4.2e+1
+- ID: 174
+  text: ALL GET Two Flitwidget Franks
+  formattingOptions:
+  - options: 1
+    rangeStart: 0
+    rangeLength: 29
+  position:
+  - 1.74099731445315e+3
+  - 2.44178019205733e+3
+  width: 1.1e+2
+  connections:
+    indexes:
+    - location: 172
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 175
+  text: '"that''s super creepy, he''s watching us do stuff"'
+  formattingOptions: []
+  position:
+  - 1.94277343750003e+3
+  - 2.40090539550786e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 173
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 176
+  text: 'Skillet look around for 1-handed dexterity weapons.
+
+    4J - (pistol) DEX check.  dirty 20.  You easily reach in and snatch the pistol
+    out of his hands.  It has one shot.
+
+    But can reach in and get some more ammo.  DEX check - 9.  The duelist jumps on
+    top and bites your hand s you reach in.  1 point damage. "Can I backhand him to
+    the horizon" roll to hit!  missed! He leaps over your hand, and kicks you has
+    he runs by." "I knock the painting off the wall, face down"
+
+    '
+  formattingOptions: []
+  position:
+  - 1.95153767903648e+3
+  - 2.46322961425786e+3
+  width: 2.6e+2
+  connections:
+    indexes:
+    - location: 173
+      length: 1
+    - location: 177
+      length: 1
+  _effectiveHeight: 1.82e+2
+- ID: 177
+  text: "Vasil will morosley stare at 4G warrior standing ona bridge. wood block print.
+    Warrior decked out in scarlet armor.  He does have a blade at his side.  \nVasil
+    does not go ino painting.  Goes to skillet to point at all of his wounds. \"Doc
+    a little help, I've been rocked\"\n\"Also best to avoid fire - or the floor will
+    become a pyre\""
+  formattingOptions:
+  - options: 1
+    rangeStart: 29
+    rangeLength: 2
+  position:
+  - 1.68653377278648e+3
+  - 2.61377221679693e+3
+  width: 2.2e+2
+  connections:
+    indexes:
+    - location: 176
+      length: 1
+  _effectiveHeight: 1.26e+2
