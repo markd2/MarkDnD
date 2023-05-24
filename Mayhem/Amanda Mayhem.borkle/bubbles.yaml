@@ -3005,8 +3005,8 @@
   text: ''
   formattingOptions: []
   position:
-  - 2.24814108276368e+3
-  - 2.84560675048828e+3
+  - 3.17356024169923e+3
+  - 2.86774267578125e+3
   width: 1.6e+2
   connections:
     indexes:
@@ -3014,17 +3014,19 @@
       length: 1
   _effectiveHeight: 1.4e+1
 - ID: 179
-  text: ''
+  text: 'Splunge
+
+    '
   formattingOptions: []
   position:
-  - 2.95020500691732e+3
-  - 2.82804790242514e+3
+  - 3.70652876790364e+3
+  - 2.87480134073894e+3
   width: 1.6e+2
   connections:
     indexes:
     - location: 178
       length: 1
-  _effectiveHeight: 1.4e+1
+  _effectiveHeight: 2.8e+1
 - ID: 180
   text: Episode 3
   fillColorRGB:
@@ -3092,7 +3094,7 @@
     rangeStart: 0
     rangeLength: 26
   position:
-  - 2.86685723876953e+3
+  - 2.87252716064453e+3
   - 1.64912928263346e+2
   width: 1.6e+2
   connections:
@@ -3225,7 +3227,7 @@
     "do you know the dangers" "I''ve seem some walk past. been in a paintining.'
   formattingOptions: []
   position:
-  - 2.81244059244779e+3
+  - 2.81811051432279e+3
   - 4.6623005167644e+2
   width: 2.6e+2
   connections:
@@ -3391,7 +3393,7 @@
     rangeStart: 483
     rangeLength: 2
   position:
-  - 2.81779744466137e+3
+  - 2.82346736653637e+3
   - 7.11359802246072e+2
   width: 2.6e+2
   connections:
@@ -3416,7 +3418,7 @@
     hear "Oy haven''t had any customers here in quite a while"'
   formattingOptions: []
   position:
-  - 2.82137919108065e+3
+  - 2.82704911295565e+3
   - 1.0623729858398e+3
   width: 2.3e+2
   connections:
@@ -3554,7 +3556,7 @@
     V: "I''ll tell everyone to get their plastic snakes"'
   formattingOptions: []
   position:
-  - 2.82192901611324e+3
+  - 2.82759893798824e+3
   - 1.25352143859841e+3
   width: 2.5e+2
   connections:
@@ -3570,7 +3572,7 @@
     Casts bless'
   formattingOptions: []
   position:
-  - 2.8486337280273e+3
+  - 2.8543036499023e+3
   - 1.37235424296039e+3
   width: 2.3e+2
   connections:
@@ -3592,7 +3594,7 @@
     "I stand there and let it happen'
   formattingOptions: []
   position:
-  - 2.82713419596349e+3
+  - 2.83280411783849e+3
   - 1.43339756266257e+3
   width: 2.6e+2
   connections:
@@ -3755,7 +3757,7 @@
     rangeStart: 0
     rangeLength: 2
   position:
-  - 2.86884928385414e+3
+  - 2.87451920572914e+3
   - 1.57868699645972e+3
   width: 2.3e+2
   connections:
@@ -3772,7 +3774,7 @@
     - the jaws miss, but talons hit for 4 points of damage."
   formattingOptions: []
   position:
-  - 2.84092956542966e+3
+  - 2.84659948730466e+3
   - 1.79672364807113e+3
   width: 2.5e+2
   connections:
@@ -3788,8 +3790,8 @@
   text: '"it''s a beatufil thing having a child that can drive"'
   formattingOptions: []
   position:
-  - 3.01184956868487e+3
-  - 1.73749261474593e+3
+  - 2.93730952962237e+3
+  - 1.74330957031234e+3
   width: 1.6e+2
   connections:
     indexes:
@@ -3820,7 +3822,7 @@
   text: "Slashes at Skillet, misses both times, \nhits Bard for 5hp\n"
   formattingOptions: []
   position:
-  - 2.85035807291664e+3
+  - 2.85602799479164e+3
   - 2.00993859863266e+3
   width: 2.1e+2
   connections:
@@ -3932,7 +3934,7 @@
     to you, and keeps trying, and poushing in and having a hard time, '
   formattingOptions: []
   position:
-  - 2.87548238118486e+3
+  - 2.88115230305986e+3
   - 2.0787534993488e+3
   width: 1.6e+2
   connections:
@@ -3948,7 +3950,7 @@
     Attacks EV - hit with bite, missed claws, manages to CHOMP for 3 hop'
   formattingOptions: []
   position:
-  - 2.86896382649736e+3
+  - 2.87463374837236e+3
   - 2.19851093546533e+3
   width: 1.6e+2
   connections:
@@ -4030,3 +4032,37 @@
     - location: 228
       length: 1
   _effectiveHeight: 1.4e+1
+- ID: 230
+  text: Episode 4
+  fillColorRGB:
+    red: 8.93993e-1
+    green: 9.92872e-1
+    blue: 1e+0
+  formattingOptions: []
+  position:
+  - 3.14829223632812e+3
+  - 3.32796173095703e+1
+  width: 1.6e+2
+  connections:
+    indexes: []
+  _effectiveHeight: 1.4e+1
+- ID: 231
+  text: 'Reminder of personas:
+
+    * Skiillet Whengewit
+
+    * Vasil
+
+    * El Vadeen
+
+    * Bard
+
+    * Duke of Hell (Telper)'
+  formattingOptions: []
+  position:
+  - 3.36485256958008e+3
+  - 4.41856740315755e+1
+  width: 1.6e+2
+  connections:
+    indexes: []
+  _effectiveHeight: 8.4e+1
