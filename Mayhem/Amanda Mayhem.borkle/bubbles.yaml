@@ -3001,3 +3001,1032 @@
     - location: 176
       length: 1
   _effectiveHeight: 1.26e+2
+- ID: 178
+  text: ''
+  formattingOptions: []
+  position:
+  - 2.24814108276368e+3
+  - 2.84560675048828e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 179
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 179
+  text: ''
+  formattingOptions: []
+  position:
+  - 2.95020500691732e+3
+  - 2.82804790242514e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 178
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 180
+  text: Episode 3
+  fillColorRGB:
+    red: 8.93993e-1
+    green: 9.92872e-1
+    blue: 1e+0
+  formattingOptions: []
+  position:
+  - 2.26434606933594e+3
+  - 3.75595245361328e+1
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 181
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 181
+  text: More Pictures!  4E - Family of Clowns . Fitwidget pulled out the test your
+    strength mallet Maul with a painting
+  formattingOptions:
+  - options: 1
+    rangeStart: 16
+    rangeLength: 21
+  position:
+  - 2.45907970174154e+3
+  - 2.86590347290039e+1
+  width: 2.3e+2
+  connections:
+    indexes:
+    - location: 180
+      length: 1
+    - location: 182
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 182
+  text: '4F- beautiful woman, looks at you with wistful eyes, sitting on a chair.
+    road to horizon. mountain region seemingly devoid of life
+
+    Vasil looks in - Charm (love at first sight) saving throw (CHA) So 10.
+
+    "you fell in love, so alluring, so completely fascinated by this picture. Why
+    is she wistful.'
+  formattingOptions:
+  - options: 1
+    rangeStart: 0
+    rangeLength: 2
+  position:
+  - 2.73126934814453e+3
+  - 4.33748982747396e+1
+  width: 2.7e+2
+  connections:
+    indexes:
+    - location: 181
+      length: 1
+    - location: 183
+      length: 2
+  _effectiveHeight: 9.8e+1
+- ID: 183
+  text: '4G - warrier on a bridge, block print, scarlet armor.  Holding see a warriors
+    blade on his hip.  (dagger or great sword)  Fitwidget reaches in.
+
+    DEX check. -  10 , failed, 1hp damage as he tries to protect the dagger'
+  formattingOptions:
+  - options: 1
+    rangeStart: 0
+    rangeLength: 26
+  position:
+  - 2.86685723876953e+3
+  - 1.64912928263346e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 182
+      length: 1
+  _effectiveHeight: 1.12e+2
+- ID: 184
+  text: 'Vasil had prior thrown keg of powder, have anything painted?  Looks through
+    his pouch, and moves toward the painting.
+
+    Reach in and offer my hand
+
+    She smiles.
+
+    "This is great", if they try to stop me, will brush aside"'
+  formattingOptions: []
+  position:
+  - 2.5044470214843e+3
+  - 1.64866373697916e+2
+  width: 3.2e+2
+  connections:
+    indexes:
+    - location: 182
+      length: 1
+    - location: 185
+      length: 1
+  _effectiveHeight: 8.4e+1
+- ID: 185
+  text: 'Initiative.
+
+    16 for vasil and el vadeen,  (rollies - 18 vs 10) 13 for fitwidget, 9 for painting.
+
+    As she grasps my hand...
+
+    gentle embrace? (gentle but firm).
+
+    Arm starts coming out.
+
+    "I will help her out of the painting.
+
+    She is not all the way out
+
+    "hold worlds in those eyes, and deep sorrow"'
+  formattingOptions: []
+  position:
+  - 2.25978363037101e+3
+  - 9.74738210042311e+1
+  width: 2e+2
+  connections:
+    indexes:
+    - location: 184
+      length: 1
+    - location: 186
+      length: 1
+  _effectiveHeight: 1.54e+2
+- ID: 186
+  text: ElVadeen will hold action, if violence happens will attack.  Otherwise, if
+    it's love, it's love.
+  formattingOptions: []
+  position:
+  - 2.28132258097322e+3
+  - 2.89168894449869e+2
+  width: 2.3e+2
+  connections:
+    indexes:
+    - location: 185
+      length: 1
+    - location: 187
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 187
+  text: 'Skillet .. would like to murder my teammate....
+
+
+    Have a small knife,  counts as adventuring. will try to slash the painting
+
+
+    (paint attribute?) aww snap it is not.  Try to slash anyway.  (anything above
+    a 1 - got a 12)
+
+    Damage - (butter knife.  Roll a 1d4, got a 1)
+
+    Start to rip through it.  His arm is inside the painting (that''s ok it''ll grow
+    back), trying to slice it, so went around the arm, did do damage to it. The lady
+    shrieks'
+  formattingOptions: []
+  position:
+  - 2.53184783935538e+3
+  - 2.7214776611328e+2
+  width: 2.4e+2
+  connections:
+    indexes:
+    - location: 186
+      length: 1
+    - location: 188
+      length: 1
+  _effectiveHeight: 1.96e+2
+- ID: 188
+  text: "NO NO NO Gentle, she's a lady.\n\nNow her turn.  Will launch herself out
+    of the painting and into Vasil' arms, wraps you around pulling close.  \nVasil
+    will catch and hold close.\n\nSave at disadvantage. 4."
+  formattingOptions: []
+  position:
+  - 2.819339497884e+3
+  - 3.03116800944018e+2
+  width: 1.9e+2
+  connections:
+    indexes:
+    - location: 187
+      length: 1
+    - location: 189
+      length: 1
+  _effectiveHeight: 1.26e+2
+- ID: 189
+  text: 'Back to Vasil''s turn. She is out of the painting.  "What is your name" and
+    swing her around, and swing with back to Fitwideget, lean back with a foot, half
+    push / kick away
+
+
+    "Fianel" "oh that''s lovely. I didn''t think the rest of this through. Want to
+    join us?  we''re nejoing a walk in a museum. " "a museum, I think I know this
+    place. maybe you can help us, forgotten everything lost"
+
+
+    El: "trying to make this safe for guests"
+
+    Want to watch us work.  "it is a frightening place. There are many dangers here"
+
+    "do you know the dangers" "I''ve seem some walk past. been in a paintining.'
+  formattingOptions: []
+  position:
+  - 2.81244059244779e+3
+  - 4.6623005167644e+2
+  width: 2.6e+2
+  connections:
+    indexes:
+    - location: 188
+      length: 1
+    - location: 190
+      length: 1
+  _effectiveHeight: 2.24e+2
+- ID: 190
+  text: 'What faces us?  "only seen some - sow Uriel, she''s a gorgon, she''s quite
+    magnificent.
+
+    "She''s hot" "did not feel a heat"
+
+    You''re not stone "no, I''m not" "skin''s so soft (product placement!)
+
+
+    Another wisdom save.16.  Don''t feel like your mind is clouded, but very fascinated
+
+
+    Surely can escort out of here. Was trapped in the painting eons ago.  for so many
+    days months. See some blood on her arm from a small cut as pulled out of a painting.
+
+
+    Vasil rips off a sleeve, makeshift bandage
+
+    "you are quite the hero"
+
+    Vasil blushes, incredibly awkward.'
+  formattingOptions: []
+  position:
+  - 2.53167765299467e+3
+  - 4.94128611246752e+2
+  width: 2.4e+2
+  connections:
+    indexes:
+    - location: 189
+      length: 1
+    - location: 191
+      length: 1
+  _effectiveHeight: 2.52e+2
+- ID: 191
+  text: 'ElVadeen - Insight - 8 . Pretty awesome.
+
+    Obviously stuck in this painting.
+
+
+    Skillet - 23 on the insight.  Get a realluy bad feeling. Looks innocent - big
+    grey eyes, not possibly harm a fly. you feel like throwing up looking at her.
+
+
+    Throws his mace at her head.
+
+    She hasn''t done anything.  Just a bad feeling.
+
+
+    FW: Our only experiences with these have been unpleasant.  An impulsive decision,
+    I''m a cleric, feel seen this kind of entrancement before. Trying to break her
+    concentration with a hit of some kind.  "stop! stop it!"
+
+
+    14 Grazes past her ear, she whips her head around to look at you.
+
+    "That wasn''t very nice. I thought we were friends"
+
+    "I never said that. Vasil, get away"
+
+    "nooh, get away" "evil aura"
+
+    "Holds hands out, and magic missiles"'
+  formattingOptions: []
+  position:
+  - 2.25882400512683e+3
+  - 3.76725046793627e+2
+  width: 2.2e+2
+  connections:
+    indexes:
+    - location: 190
+      length: 1
+    - location: 193
+      length: 1
+  _effectiveHeight: 3.64e+2
+- ID: 192
+  text: Skillet Whengewit
+  formattingOptions: []
+  position:
+  - 2.51323465983062e+3
+  - 1.08297337849942e+2
+  width: 1.6e+2
+  connections:
+    indexes: []
+  _effectiveHeight: 1.4e+1
+- ID: 193
+  text: 'Vasil tries to separate thing. Don''t quite understand hwat''s going on with
+    skillet, and don''t like her attacking him either.
+
+    "I don''t understand what you''re doing... not being a good wingman" - help her
+    dodge.  Assist advtange on her roll, tries to hide behind her.
+
+    '
+  formattingOptions: []
+  position:
+  - 2.25052642822254e+3
+  - 7.90666976928718e+2
+  width: 2.8e+2
+  connections:
+    indexes:
+    - location: 191
+      length: 1
+    - location: 194
+      length: 1
+  _effectiveHeight: 9.8e+1
+- ID: 194
+  text: El Vadeen . 14 to hit?  Skillet is in melee.  Try quarterstaff. Miss!  Just
+    barely grazes.
+  formattingOptions: []
+  position:
+  - 2.56596872965483e+3
+  - 7.80429117838507e+2
+  width: 2e+2
+  connections:
+    indexes:
+    - location: 193
+      length: 1
+    - location: 195
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 195
+  text: 'Skillet.  my mace is on the ground on the floor over there.  did not get
+    attacked when disengaging.
+
+    "If you want to go, go, but leave him alone"  with crossbow.
+
+    hold hands up "fine. I am not here to attack you. if you want me to leave", and
+    goes towards the door. looks around. and goes through that door.
+
+    Vasil: but but but... awww...  Looks very sad.
+
+    "I hope to see you again"'
+  formattingOptions: []
+  position:
+  - 2.53862192789704e+3
+  - 8.60166361490864e+2
+  width: 2.5e+2
+  connections:
+    indexes:
+    - location: 194
+      length: 1
+    - location: 196
+      length: 1
+  _effectiveHeight: 1.54e+2
+- ID: 196
+  text: "Let's get out of this place, and we love the paiting room\n\nSouth, there's
+    a stairwell that goes down.  and a door we didn't enter before.\n\nwhile waiting,
+    will tie something around.  \n\nChamber of the Ancietns, or up the stairs.\nVasil
+    looking for the gorgan\nSkillet - that our only tree at the value.\n\n(stone cold
+    steve austin..  like her to slam me... party fowl)\n\nSkillet DEX to see if Vasil
+    walks in to him.  14 - out of the way just in time.\n\nKNEES TO THE FACE  Votes
+    for stairs.\n\n5A - "
+  formattingOptions:
+  - options: 1
+    rangeStart: 483
+    rangeLength: 2
+  position:
+  - 2.81779744466137e+3
+  - 7.11359802246072e+2
+  width: 2.6e+2
+  connections:
+    indexes:
+    - location: 195
+      length: 1
+    - location: 197
+      length: 1
+  _effectiveHeight: 2.94e+2
+- ID: 197
+  text: 'Stop at a small room at the top of the room. See a number of itmes hanging
+    on walls, on shelves, a counter, a cash register, and a single boot on the register.
+
+
+    Skillet: next to the boot is there a top hat and car. "Door that says do not pass
+    go"
+
+
+    Vasil stumbled up the stairs.
+
+
+    hear "Oy haven''t had any customers here in quite a while"'
+  formattingOptions: []
+  position:
+  - 2.82137919108065e+3
+  - 1.0623729858398e+3
+  width: 2.3e+2
+  connections:
+    indexes:
+    - location: 196
+      length: 1
+    - location: 198
+      length: 1
+  _effectiveHeight: 1.68e+2
+- ID: 198
+  text: 'Source of the voice?  Is the boot.  The eyelets ,the laces go up, and form
+    two eyes, and as it talks, the tounge of the boot flaps.
+
+    You''ll need a few items while you''re here
+
+    V: what do yo need
+
+    This is a place to spend all your flitwidget franks!
+
+    V: got any candy?'
+  formattingOptions: []
+  position:
+  - 2.53892812093091e+3
+  - 1.06932239786779e+3
+  width: 2.4e+2
+  connections:
+    indexes:
+    - location: 197
+      length: 1
+    - location: 199
+      length: 1
+  _effectiveHeight: 1.26e+2
+- ID: 199
+  text: 'Guide to primeval creatures. As a standard action can gain advantage surivial
+    wisdom intelligence.
+
+    V: is gorgon primarily. She''s most likley evil.
+
+
+    Got any guides to evil creatures
+
+
+    "I am telpa. Formerly one of the grand dukes of hell. you should be bowing"  EV
+    bows.  "as is my due"  It is polite in our society.
+
+
+    EV: buys the book. Boot clonks over. Uses the tongue
+
+
+    "We have magic beans, arrows, mech construction manuals"
+
+    choas arrows? 1 use, before ranged attack a may declare - it adds 2 1d4 fire ice
+    and lightning damage.  "how much" "does say 5"
+
+
+    Skillet - missing force and radiance.  Say letting go of them for three.  "four"
+    can you understand grand duke of hell language.  Make some kind of pursuasian
+    check.  Rolled a 4.  "4 Franks it is"
+
+
+    "What would you say, 2 for six?"  16 pursuason check.  Thinks, taps its shoelace.
+    "I suppose show, and htese are end times, and only people we''ve seen in quite
+    a while"
+
+    '
+  formattingOptions: []
+  position:
+  - 2.24417638142896e+3
+  - 9.72275329589796e+2
+  width: 2.7e+2
+  connections:
+    indexes:
+    - location: 198
+      length: 1
+    - location: 200
+      length: 2
+  _effectiveHeight: 4.06e+2
+- ID: 200
+  text: EV has one frank left, as does Skillet
+  formattingOptions: []
+  position:
+  - 2.29065266927072e+3
+  - 9.25373016357362e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 199
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 201
+  text: 'I certainly have ideas... you can grow your fingers back. I can grow my laces,
+    gets a butcher knife.
+
+    "oh, I''ll wait if I see your kin in the museum"'
+  formattingOptions: []
+  position:
+  - 2.52897786458324e+3
+  - 1.22156564331031e+3
+  width: 2.7e+2
+  connections:
+    indexes:
+    - location: 199
+      length: 1
+    - location: 202
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 202
+  text: 'V: what''s the magic beans. makes tree of d20 + 2 will instantly burst forth.  single
+    action.  Anyone one it will take a 2d4 bludgeing with a DC 12 save
+
+    Trap - ghots must pass WIS save or be restrained. They may break.
+
+    Plastic Snake - becomes a snake that follows your command.  SImple orders, but
+    will disappear after one hour. (gone forever)
+
+    Bucket of slime - appply slime to meleee weapon  Next minute 2d4 poison damage.'
+  formattingOptions: []
+  position:
+  - 2.53942698160798e+3
+  - 1.28680698649065e+3
+  width: 2.4e+2
+  connections:
+    indexes:
+    - location: 201
+      length: 1
+    - location: 203
+      length: 1
+  _effectiveHeight: 1.54e+2
+- ID: 203
+  text: 'I got seven - plastic snake and bucket of slime (8)
+
+    14 pursuasion. - boot seems unimpressed.  V - does a bow.  Oh, all right I''ll
+    accept it. "I''ll accept it one is due"
+
+    V: "I''ll tell everyone to get their plastic snakes"'
+  formattingOptions: []
+  position:
+  - 2.82192901611324e+3
+  - 1.25352143859841e+3
+  width: 2.5e+2
+  connections:
+    indexes:
+    - location: 202
+      length: 1
+    - location: 204
+      length: 1
+  _effectiveHeight: 8.4e+1
+- ID: 204
+  text: 'Skillet "one moe adventure to retirement".
+
+    Casts bless'
+  formattingOptions: []
+  position:
+  - 2.8486337280273e+3
+  - 1.37235424296039e+3
+  width: 2.3e+2
+  connections:
+    indexes:
+    - location: 203
+      length: 1
+    - location: 205
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 205
+  text: 'We love the boot!  Now I have servants, well on resuming my duke of hell
+    place!
+
+    What''s the best way to convey. Could cradle in arms, as is my due of course.
+
+    "strings around skillets neck".  Giving Vasil the ugliest look.  Hopping to skillet,
+    its laces extending forward.
+
+    "I stand there and let it happen'
+  formattingOptions: []
+  position:
+  - 2.82713419596349e+3
+  - 1.43339756266257e+3
+  width: 2.6e+2
+  connections:
+    indexes:
+    - location: 204
+      length: 1
+    - location: 206
+      length: 1
+  _effectiveHeight: 1.12e+2
+- ID: 206
+  text: "Doors over there, right? \nA door headed to the room of the ancients, and
+    a door upstairs. further upstairs.\n\nVasil goes first up the stairs\n"
+  formattingOptions: []
+  position:
+  - 2.60246897379552e+3
+  - 1.47725610351544e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 205
+      length: 1
+    - location: 207
+      length: 1
+  _effectiveHeight: 9.8e+1
+- ID: 207
+  text: 'Top of stairs! at the top. tall ceiling, and low light, and each exhiibit
+    has spotlights shining down on each one.
+
+    6F diarama of a dense jungle - 10'' square multicolored flowers and plants, cannot
+    look through it, hot humid, hear distant sound of jungle birds . seems bigger.   Also
+    hear skritching skittering sounds'
+  formattingOptions:
+  - options: 1
+    rangeStart: 115
+    rangeLength: 2
+  position:
+  - 2.27491592407221e+3
+  - 1.3915665588377e+3
+  width: 2.3e+2
+  connections:
+    indexes:
+    - location: 206
+      length: 1
+    - location: 208
+      length: 1
+  _effectiveHeight: 1.12e+2
+- ID: 208
+  text: 'EV looks around jnugle at 6E - pickled jars, a grell, a corpse with a brain
+    and chem?
+
+    "Lord evil boot, know anything?" do you know.
+
+    "Does that make us footsoldiers" "YES!  Humanoids are typically not that intelligent.
+
+    Look like any gorgons in the room.
+
+    "don''t see, any directly... here''"
+
+    In the background hear birds, shrieks and murmers.'
+  formattingOptions: []
+  position:
+  - 2.26576243082678e+3
+  - 1.541684254964e+3
+  width: 2.8e+2
+  connections:
+    indexes:
+    - location: 207
+      length: 1
+  _effectiveHeight: 1.26e+2
+- ID: 209
+  text: '"any food?"
+
+    6C is a stuffed flightless bird, next to it is a animal with a chiten shell -
+    six foot bird, hcomping on handful of green vegetables. Behidn it see al arge
+    chitunous creature stalking the bird.
+
+    6D Tarrasque.  Appears to be an artists rendition
+
+
+    Skillet - do I know if I know what a tarrasque is? 19
+
+    You know what it is, you''ve studied, familiar with what this is.
+
+
+    Laying painting face down o n the floor. (nothing happens) cool!
+
+    "What you doin skillet" "you scared of the painting" - "you saw what happened
+    in the other room."
+
+    (The boot kind of teases Skillet)
+
+    '
+  formattingOptions:
+  - options: 1
+    rangeStart: 12
+    rangeLength: 2
+  - options: 1
+    rangeStart: 206
+    rangeLength: 2
+  position:
+  - 2.25773976643876e+3
+  - 1.71422850545228e+3
+  width: 2.7e+2
+  connections:
+    indexes:
+    - location: 211
+      length: 1
+  _effectiveHeight: 2.66e+2
+- ID: 210
+  text: '6B minitature model of a city, a large city  7-8'' skyscrapers, and trains.
+    Every now and then hear skittering and scritching as well. sounds like it froms
+    the city, and from different areas
+
+    Vasil watches the trains.  '
+  formattingOptions:
+  - options: 1
+    rangeStart: 0
+    rangeLength: 2
+  position:
+  - 2.55093617757158e+3
+  - 1.59917779540995e+3
+  width: 2.8e+2
+  connections:
+    indexes:
+    - location: 211
+      length: 2
+  _effectiveHeight: 7e+1
+- ID: 211
+  text: 'Vasil goes down hallway - 6A
+
+    Skull of a boulette, or land shark. The inside of the exoskeleton is hollow
+
+    (and roll perception) 15+1 = 16
+
+    Under the sound of birds and cries of crickets, keep thinking you hear some skittering.
+
+    Look around for source of skittering. No mice or droppings or tiny footprints.'
+  formattingOptions:
+  - options: 1
+    rangeStart: 26
+    rangeLength: 2
+  position:
+  - 2.56369527180986e+3
+  - 1.72890084838846e+3
+  width: 2.1e+2
+  connections:
+    indexes:
+    - location: 209
+      length: 2
+  _effectiveHeight: 1.4e+2
+- ID: 212
+  text: '6G - glass cabinate misted over, full of strange fungus.  So much condensation.  "Vasil
+    there''s mushrooms over here"
+
+    There''s a thunk sound as Skillet has been while nobody looking, crawling in the
+    exoskeleton of the boulette. As I hear edible mushrooms, I stand up too quickly
+    and hit my head. "Should out, I expected better of you"'
+  formattingOptions:
+  - options: 1
+    rangeStart: 0
+    rangeLength: 2
+  position:
+  - 2.86884928385414e+3
+  - 1.57868699645972e+3
+  width: 2.3e+2
+  connections:
+    indexes:
+    - location: 210
+      length: 1
+    - location: 213
+      length: 1
+  _effectiveHeight: 1.26e+2
+- ID: 213
+  text: "Bard steps into the rainforest. \nSkillet too...\n\nBoth are currently being
+    attacked.  _oh snap_\n\nCruthic hunter.  Attacking both SKillet and Bard. waiting
+    to get ya'll alone.\n\n17 on skillet (hits) and a 3 (miss) - 4 HP damage\non Bard
+    - the jaws miss, but talons hit for 4 points of damage."
+  formattingOptions: []
+  position:
+  - 2.84092956542966e+3
+  - 1.79672364807113e+3
+  width: 2.5e+2
+  connections:
+    indexes:
+    - location: 212
+      length: 1
+    - location: 214
+      length: 1
+    - location: 216
+      length: 1
+  _effectiveHeight: 1.68e+2
+- ID: 214
+  text: '"it''s a beatufil thing having a child that can drive"'
+  formattingOptions: []
+  position:
+  - 3.01184956868487e+3
+  - 1.73749261474593e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 213
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 215
+  text: 'Critters
+
+    Vasil
+
+    ElVadeen
+
+    Bard
+
+    Boot (telper)
+
+    Skillet'
+  formattingOptions: []
+  position:
+  - 2.5846809895833e+3
+  - 1.88520476277654e+3
+  width: 1.6e+2
+  connections:
+    indexes: []
+  _effectiveHeight: 8.4e+1
+- ID: 216
+  text: "Slashes at Skillet, misses both times, \nhits Bard for 5hp\n"
+  formattingOptions: []
+  position:
+  - 2.85035807291664e+3
+  - 2.00993859863266e+3
+  width: 2.1e+2
+  connections:
+    indexes:
+    - location: 213
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 217
+  text: Vasil - try to flank with bard - go away little bug and stomp on it (unarmed
+    attack) - 16 to hit
+  formattingOptions: []
+  position:
+  - 2.60565419514971e+3
+  - 2.01355589803045e+3
+  width: 2.3e+2
+  connections:
+    indexes:
+    - location: 219
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 218
+  text: 'Skillet - crawled in like a kid on the playground. Is there standing room?
+    lets out a wilhelm scream with a scottish accent.
+
+    Left the mace behind, so bolt off at disadvantage, 6 to hit.  Nope.  AC 13'
+  formattingOptions: []
+  position:
+  - 2.48747009277341e+3
+  - 2.15323787943507e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 222
+      length: 2
+  _effectiveHeight: 1.12e+2
+- ID: 219
+  text: 'Can''t see or hear Skillet yet.
+
+    12 to hit.  missed'
+  formattingOptions: []
+  position:
+  - 2.37845448811846e+3
+  - 2.01326684570297e+3
+  width: 2e+2
+  connections:
+    indexes:
+    - location: 217
+      length: 1
+    - location: 220
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 220
+  text: Bard hits! for 9HP.  knock the chiten, bug guts everywhere
+  formattingOptions: []
+  position:
+  - 2.24150273640947e+3
+  - 2.09593799845363e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 219
+      length: 1
+    - location: 221
+      length: 2
+  _effectiveHeight: 4.2e+1
+- ID: 221
+  text: Boot "you need to attack" rolls a 16
+  formattingOptions: []
+  position:
+  - 2.30124908447262e+3
+  - 2.1726636149087e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 220
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 222
+  text: '"The possessed boot is better than most of us at combat"'
+  formattingOptions: []
+  position:
+  - 2.4321439615885e+3
+  - 2.07617562866196e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 218
+      length: 1
+    - location: 220
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 223
+  text: Killed the Cruthic in there, at the top of this roudn, you hear skittering
+    in the jungle around you. See two more.
+  formattingOptions: []
+  position:
+  - 2.67494659423825e+3
+  - 2.08024845377588e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 218
+      length: 1
+    - location: 224
+      length: 1
+  _effectiveHeight: 5.6e+1
+- ID: 224
+  text: 'attacks Skillet again - missed both.  Struggling to fit in to there and get
+    to you, and keeps trying, and poushing in and having a hard time, '
+  formattingOptions: []
+  position:
+  - 2.87548238118486e+3
+  - 2.0787534993488e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 223
+      length: 1
+    - location: 225
+      length: 1
+  _effectiveHeight: 8.4e+1
+- ID: 225
+  text: 'Attacks Vasil - miss/hits for 3 points.
+
+    Attacks EV - hit with bite, missed claws, manages to CHOMP for 3 hop'
+  formattingOptions: []
+  position:
+  - 2.86896382649736e+3
+  - 2.19851093546533e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 224
+      length: 1
+    - location: 226
+      length: 1
+  _effectiveHeight: 7e+1
+- ID: 226
+  text: 'V: Another bug stomp. Circle around to the other side of the bug?  (difficult
+    terrain)  Nah, just stomp.  20 to hit. (22) 7 points of stomping damage.
+
+    (melts into bugpaste)
+
+    and lift foot intimidatingly.
+
+    It looks scared.
+
+    VD: dirty 20, 11 hp, disolves into bug goo.'
+  formattingOptions: []
+  position:
+  - 2.68126169840491e+3
+  - 2.16815311686182e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 225
+      length: 1
+    - location: 227
+      length: 1
+  _effectiveHeight: 1.54e+2
+- ID: 227
+  text: 'Telper tries to kick it.  misses
+
+    "If my minion isn''t going to protect me, must protect myself"
+
+    Sk: enough room to scurry past it. and you''re having someone in front of a door.
+
+    can''t afford an opportunity attack, take another shot.  With disadavntage a 7,
+    max of 11.'
+  formattingOptions: []
+  position:
+  - 2.45299845377601e+3
+  - 2.2945419718423e+3
+  width: 1.9e+2
+  connections:
+    indexes:
+    - location: 226
+      length: 1
+    - location: 228
+      length: 1
+  _effectiveHeight: 1.26e+2
+- ID: 228
+  text: Cruthic, the bug sees Brad, adn runs into the city. Opportunity attack for
+    Skillet - unarmed strike 11, does not hit.  SKitters off and dissapears into the
+    city.
+  formattingOptions: []
+  position:
+  - 2.26380889892574e+3
+  - 2.25264301554345e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 227
+      length: 1
+    - location: 229
+      length: 1
+  _effectiveHeight: 8.4e+1
+- ID: 229
+  text: end of that portion.
+  formattingOptions: []
+  position:
+  - 2.25310404459631e+3
+  - 2.37794264729802e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 228
+      length: 1
+  _effectiveHeight: 1.4e+1
