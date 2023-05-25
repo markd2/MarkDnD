@@ -3906,14 +3906,14 @@
   position:
   - 2.4321439615885e+3
   - 2.07617562866196e+3
-  width: 1.6e+2
+  width: 1.8e+2
   connections:
     indexes:
     - location: 218
       length: 1
     - location: 220
       length: 1
-  _effectiveHeight: 4.2e+1
+  _effectiveHeight: 2.8e+1
 - ID: 223
   text: Killed the Cruthic in there, at the top of this roudn, you hear skittering
     in the jungle around you. See two more.
@@ -4005,7 +4005,7 @@
       length: 1
   _effectiveHeight: 1.26e+2
 - ID: 228
-  text: Cruthic, the bug sees Brad, adn runs into the city. Opportunity attack for
+  text: Cruthic, the bug sees Bard, adn runs into the city. Opportunity attack for
     Skillet - unarmed strike 11, does not hit.  SKitters off and dissapears into the
     city.
   formattingOptions: []
@@ -4031,6 +4031,8 @@
     indexes:
     - location: 228
       length: 1
+    - location: 232
+      length: 1
   _effectiveHeight: 1.4e+1
 - ID: 230
   text: Episode 4
@@ -4040,11 +4042,13 @@
     blue: 1e+0
   formattingOptions: []
   position:
-  - 3.14829223632812e+3
-  - 3.32796173095703e+1
+  - 3.13291763305664e+3
+  - 3.30424067179362e+1
   width: 1.6e+2
   connections:
-    indexes: []
+    indexes:
+    - location: 233
+      length: 1
   _effectiveHeight: 1.4e+1
 - ID: 231
   text: 'Reminder of personas:
@@ -4057,12 +4061,1037 @@
 
     * Bard
 
-    * Duke of Hell (Telper)'
+    * Duke of Hell (Telper) - hanging around Skillet''s neck'
   formattingOptions: []
   position:
-  - 3.36485256958008e+3
-  - 4.41856740315755e+1
-  width: 1.6e+2
+  - 3.57831407674153e+3
+  - 2.32456181844075e+1
+  width: 3e+2
   connections:
     indexes: []
   _effectiveHeight: 8.4e+1
+- ID: 232
+  text: Oh! and Level 2!
+  formattingOptions: []
+  position:
+  - 2.28842473347964e+3
+  - 2.43506621297168e+3
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 229
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 233
+  text: Have not yet rested, but could be made
+  formattingOptions: []
+  position:
+  - 3.17910247802726e+3
+  - 1.05153658548722e+2
+  width: 1.4e+2
+  connections:
+    indexes:
+    - location: 230
+      length: 1
+    - location: 234
+      length: 1
+    - location: 236
+      length: 2
+  _effectiveHeight: 2.8e+1
+- ID: 234
+  text: And we got Flitwidget Franks for the Cruthics last time
+  formattingOptions: []
+  position:
+  - 3.34986185709627e+3
+  - 3.00688578285077e+1
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 233
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 235
+  text: 'Bork Franks: 2'
+  formattingOptions:
+  - options: 1
+    rangeStart: 0
+    rangeLength: 14
+  position:
+  - 3.23902618408195e+3
+  - 6.5799283345145e+1
+  width: 1e+2
+  connections:
+    indexes: []
+  _effectiveHeight: 1.4e+1
+- ID: 236
+  text: '"flice" - fire, lightning, ice
+
+    3d4 one for each'
+  formattingOptions: []
+  position:
+  - 3.36464680989583e+3
+  - 1.01540390014648e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 233
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 237
+  text: 'El Vadeen goes to 6H - the hedgehog looking thing.
+
+    A tree with branches going up to the ceiling. Razor bark, as a type of armor.  1sq
+    foot of bark is worth 3 silver pieces.'
+  formattingOptions:
+  - options: 1
+    rangeStart: 18
+    rangeLength: 2
+  position:
+  - 3.16369394938151e+3
+  - 1.72325276692708e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 233
+      length: 1
+    - location: 238
+      length: 1
+  _effectiveHeight: 9.8e+1
+- ID: 238
+  text: 'Vasil looks at 6I - model of a cave system. 20''x10'' cave system, with glass
+    peepholes.  See caves, tight, and skeletal remans. and has a ring sticking up
+
+    Vasil: Middle finger?  DM: pinky finger'
+  formattingOptions:
+  - options: 1
+    rangeStart: 15
+    rangeLength: 2
+  position:
+  - 3.35183013916016e+3
+  - 1.77974360148112e+2
+  width: 1.9e+2
+  connections:
+    indexes:
+    - location: 237
+      length: 1
+    - location: 239
+      length: 1
+  _effectiveHeight: 9.8e+1
+- ID: 239
+  text: 'ElVadeen - grab said ring?
+
+    There''s entracne on either side
+
+    Vasil sees pile of people and stuff
+
+    ElVadeen goes in - wait, pause, and listen.
+
+    Keep Crawling through.
+
+    Hear some scuttling - crutch.
+
+    Nope Out.
+
+    Hey Bard come in!  And ElVadeen goe to grabs a ring.
+
+    Vasil is 9'', and isn''t crawling.'
+  formattingOptions: []
+  position:
+  - 3.58458567301432e+3
+  - 1.52920064290365e+2
+  width: 3e+2
+  connections:
+    indexes:
+    - location: 238
+      length: 1
+    - location: 240
+      length: 1
+  _effectiveHeight: 1.26e+2
+- ID: 240
+  text: 'Telper, starts swinging back and forth on Skillet.  Why are you letting them
+    do all the fun, Are you a coward.
+
+    Grabs boot string and holds it into the tunnel'
+  formattingOptions: []
+  position:
+  - 3.70805582682293e+3
+  - 3.0374546305338e+2
+  width: 1.9e+2
+  connections:
+    indexes:
+    - location: 239
+      length: 1
+    - location: 241
+      length: 1
+  _effectiveHeight: 8.4e+1
+- ID: 241
+  text: 'Skillet: insight on telper throwing a hissy fit will be problematic?  A:
+    "yes"
+
+    Crawls in from the other side'
+  formattingOptions: []
+  position:
+  - 3.42991790771485e+3
+  - 3.0054950968424e+2
+  width: 1.8e+2
+  connections:
+    indexes:
+    - location: 240
+      length: 1
+    - location: 242
+      length: 1
+  _effectiveHeight: 5.6e+1
+- ID: 242
+  text: 'Ring Grabbing has commence - pull off the hand. Comes right off. Glance around,
+    look at some of the bones
+
+    "Why ould you do that?" "research!"
+
+    Find a small doll, pair of nice boots, and about 30gp.
+
+    "TElper would you like a new place to live?" "I don''t know how I got in here"
+
+    "hello boot, do you talk?"
+
+    "long lost collegauge?" "could be but I hightly doubt in this world. The Great
+    Telper,"'
+  formattingOptions: []
+  position:
+  - 3.15262557983398e+3
+  - 2.95489339192701e+2
+  width: 2.4e+2
+  connections:
+    indexes:
+    - location: 241
+      length: 1
+    - location: 243
+      length: 1
+  _effectiveHeight: 1.68e+2
+- ID: 243
+  text: "Cruthics.  Very large.  Skillet: shove the tree in there!  Vasil shoves in
+    the tree.  \nDEX - big and unweildy and avoid the needles and razors.  10 - managed
+    to move it.  Staggering to one side, and staggering to the other."
+  formattingOptions: []
+  position:
+  - 3.14600341796875e+3
+  - 5.04625640869133e+2
+  width: 2.5e+2
+  connections:
+    indexes:
+    - location: 242
+      length: 1
+    - location: 244
+      length: 1
+  _effectiveHeight: 8.4e+1
+- ID: 244
+  text: 'Skillet looking at kitchen 6J for a snack.
+
+    A diorama of an ordinary working kitchen - complete with array of tools knives
+    pots and pans. a central counter with cubboard doors polished to a fine shine.
+
+    Any food in there? (rolls)  Not a lot of food in here. Find a single apple in
+    the cupboard.
+
+    And a few dried rations.  Dried meat, your typical mideval kitchen
+
+    "is it plastic - lick and sniff" - not a lot of flavor"
+
+    Tries to bang apple on the counter. Does not crack
+
+    "Sorry  buddy!" "aww dangit"'
+  formattingOptions:
+  - options: 1
+    rangeStart: 27
+    rangeLength: 2
+  position:
+  - 3.4169492594401e+3
+  - 3.8131199137369e+2
+  width: 2.3e+2
+  connections:
+    indexes:
+    - location: 243
+      length: 1
+    - location: 245
+      length: 1
+  _effectiveHeight: 2.1e+2
+- ID: 245
+  text: 'Vasil goes in to 8A - step in to the room, a sizzle and a crack of static
+    - a bright neon light, hear WELCOME TO THE WORLD OF TOMORROW!
+
+    "I just time traveled"
+
+    See a mechanical thing, along the sides see a little dragon, and a set of clothes,
+    and the dragon puffs on the clothes, and all the wrinkles disappear.
+
+    Also a washing machine - clothes inside, and water, and a little note "say Wash
+    to start Washer Stop to stop".
+
+    "it says wash", it starts spinning back
+
+    "I wonder how you can make the washer stop" - it stops.
+
+    Vasil: wah / stop / washStopWashStop.  Eventually the water starts flinging out,
+    and drenches the dragon and the steam stops.
+
+    '
+  formattingOptions:
+  - options: 1
+    rangeStart: 17
+    rangeLength: 2
+  position:
+  - 3.69120666503908e+3
+  - 4.20299062093094e+2
+  width: 2.4e+2
+  connections:
+    indexes:
+    - location: 244
+      length: 1
+    - location: 246
+      length: 1
+  _effectiveHeight: 2.66e+2
+- ID: 246
+  text: 'On counters, see a knife, and some food - some carrots, apples, and says
+    "knife cut" "knife stop"
+
+    Vasil grabs apple, actual apple, and starts eating it. "tasty and juicy and enjoy
+    all of it"
+
+    Grabs carrot, and goes to the dragon, to get him to steam it.
+
+    "hey little buddy, steam me up" when you say steam, it puffs.  Holding it in hand.
+    Behind the carrot, off to the side. Holding in front of clothes?
+
+    it steams the carrot. Your fingers get a little singed. Do it a couple of more
+    times - is it more tenderized?  the third time, pretty soft.
+
+    Skillet ignores and walks in to the next room.
+
+    When you take an apple, another takes its place.He walks out with his tunic full
+    of appls and carrots. "I GOT INFINTE FOOD" and waddles after them.'
+  formattingOptions: []
+  position:
+  - 3.35845377604169e+3
+  - 6.07382649739577e+2
+  width: 3.2e+2
+  connections:
+    indexes:
+    - location: 245
+      length: 1
+    - location: 247
+      length: 1
+  _effectiveHeight: 2.24e+2
+- ID: 247
+  text: '8B (?) - benches. Skillet goes in first. See podium, some rows of benches.
+    someone at podium, wearing a hat, tilted down, and reading from a lecture.
+
+    El listening
+
+
+    INT save - charm.  El got a FIVE.  (Skillet saved with 20+).  Fascinating - all
+    of these worlds, and things never seen or heard of, and passionate about it, and
+    drawn in. Totally jam, research, knowledge, this dude has charm.
+
+
+    Telper failed too.  Since his boot form, never encountred anything like this.'
+  formattingOptions:
+  - options: 1
+    rangeStart: 0
+    rangeLength: 2
+  position:
+  - 3.1374944051107e+3
+  - 6.02713918050124e+2
+  width: 1.9e+2
+  connections:
+    indexes:
+    - location: 246
+      length: 1
+    - location: 248
+      length: 1
+  _effectiveHeight: 2.52e+2
+- ID: 248
+  text: 'Skillet: what is the topic of discussion. Can''t quite make it out. Fascinating
+    and comforting, and hypnotic in the way he speaks.
+
+    Perception: 21. The figures all sitting there listneing have all dead, some dessicated,
+    and some have sat down recenty and had become leathery and wizened.
+
+    Was a real lecturer, when started, really enthusiastic, follks would come listen.
+    Then at one point he passed away, that still there giving lectres at his appointed
+    times.  Became thsi gostly form.
+
+    #goals.
+
+    Skillet interrupts!. "I think this place is dangerous, everything is off limits,
+    you should evacuate the museum and leave the premisis"
+
+    He deflects and drones on'
+  formattingOptions: []
+  position:
+  - 3.13074610392255e+3
+  - 8.72825052897128e+2
+  width: 3.1e+2
+  connections:
+    indexes:
+    - location: 247
+      length: 1
+    - location: 249
+      length: 1
+  _effectiveHeight: 2.1e+2
+- ID: 249
+  text: "\"there are multiple universes, paralle, or same place. Time is not linear,
+    IT'S A CUBE, \nSkillet: as a cleric, would I notice anything off or altered about
+    party members?\nYes, you notice, worried about it.\n\"That's enough about of that,
+    leave this looming for another \nEl, Time Cube, Dodecehdran.\nPat the seat next
+    to me.\nSkillet looks at the lecturer.  \"shut up now\"\nThe door has now shut
+    while Vasil is still getting apples."
+  formattingOptions: []
+  position:
+  - 3.46165049235029e+3
+  - 8.49171234130864e+2
+  width: 3e+2
+  connections:
+    indexes:
+    - location: 248
+      length: 1
+    - location: 250
+      length: 1
+  _effectiveHeight: 1.68e+2
+- ID: 250
+  text: Vasil comes down the hall, eating an apple, but didn't notice the door closing
+    to the lecture hall.
+  formattingOptions: []
+  position:
+  - 3.70555582682295e+3
+  - 7.0580107625326e+2
+  width: 2.4e+2
+  connections:
+    indexes:
+    - location: 249
+      length: 1
+    - location: 251
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 251
+  text: El Sakes it off. Really want to continue to listen.  And think, even if end
+    up dying here, might be worth it. "Well actually, this is nonsense"
+  formattingOptions: []
+  position:
+  - 3.7488688151042e+3
+  - 7.7468052164714e+2
+  width: 1.9e+2
+  connections:
+    indexes:
+    - location: 250
+      length: 1
+    - location: 252
+      length: 1
+  _effectiveHeight: 7e+1
+- ID: 252
+  text: '20+1 - Saved!  but at bottom of round
+
+    Skillet - eyes are on lecturer, raising voice and shouting at the lecturer. "Stop
+    Immediately, cease, or I will be forced to harm you".
+
+    Holding action for more words to come out of his mouth. (then will pull trigger).
+
+    "is he undead?" "yes" "is that clear?" "yes - if look at first, looks like standing,
+    but perception was high, noticed feeet not touching the foor".
+
+    Do a Turn Undead.
+
+    WIS DC of 13  (got an 18 - oh snap)'
+  formattingOptions: []
+  position:
+  - 3.78639841715499e+3
+  - 8.681354675293e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 251
+      length: 1
+    - location: 253
+      length: 1
+  _effectiveHeight: 2.66e+2
+- ID: 253
+  text: 'if there are other undead in the room will need to do this
+
+    Tries to draw you back into the lecture.
+
+    13.  You failed it.'
+  formattingOptions: []
+  position:
+  - 3.61567026774093e+3
+  - 1.04390145874022e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 252
+      length: 1
+    - location: 254
+      length: 1
+  _effectiveHeight: 7e+1
+- ID: 254
+  text: El walks out - grab skillet, 'this guy is talking nonsense, let's go
+  formattingOptions: []
+  position:
+  - 3.45224507649744e+3
+  - 1.04382048543293e+3
+  width: 1.5e+2
+  connections:
+    indexes:
+    - location: 253
+      length: 1
+    - location: 255
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 255
+  text: WWSkillet do? Four sided days.  Rolled a 14. Saved. Barely
+  formattingOptions: []
+  position:
+  - 3.42880330403651e+3
+  - 1.11368519083658e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 254
+      length: 1
+    - location: 256
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 256
+  text: 'Could Vasil hear?  Perception check. 10.
+
+    APPLES AND CARROT AT SAME TIME - crunch and sweetness.
+
+    (some are more are steamed)'
+  formattingOptions: []
+  position:
+  - 3.17476333618169e+3
+  - 1.11126947021483e+3
+  width: 2e+2
+  connections:
+    indexes:
+    - location: 255
+      length: 1
+    - location: 257
+      length: 1
+  _effectiveHeight: 7e+1
+- ID: 257
+  text: We have a bard!  And too buys eating steamed carrot
+  formattingOptions: []
+  position:
+  - 3.15820332845057e+3
+  - 1.23597695922851e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 256
+      length: 1
+    - location: 258
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 258
+  text: 'Try to leave, door is locked.
+
+    All 4 of us get charmed and all of us die.'
+  formattingOptions: []
+  position:
+  - 3.35354543050135e+3
+  - 1.19749139404295e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 257
+      length: 1
+    - location: 259
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 259
+  text: 'Vasil can hear it? Roll perception.  17. do hear it '
+  formattingOptions: []
+  position:
+  - 3.53856699625656e+3
+  - 1.17004001871743e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 258
+      length: 1
+    - location: 260
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 260
+  text: Skillet - charmed.  Sat back down, likely put crossbow on back, and scribble
+    notes in note pad.  Lecture notes.
+  formattingOptions: []
+  position:
+  - 3.54561503092453e+3
+  - 1.23446796671548e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 259
+      length: 1
+    - location: 261
+      length: 1
+  _effectiveHeight: 5.6e+1
+- ID: 261
+  text: "Telper rolled a 2. Totally entranced. Looking at notes, and giving suggestions
+    to the notes as you go along\nWIS save - Natural 1.  The Most Engrossed. One level
+    of exhaustion b/c below 8. Telper too.  \n_This Boot was made for hoppin_"
+  formattingOptions:
+  - options: 2
+    rangeStart: 202
+    rangeLength: 31
+  position:
+  - 3.73066630045578e+3
+  - 1.15711745198566e+3
+  width: 2.3e+2
+  connections:
+    indexes:
+    - location: 260
+      length: 1
+    - location: 262
+      length: 1
+  _effectiveHeight: 9.8e+1
+- ID: 262
+  text: El Succeeds another save.  15
+  formattingOptions: []
+  position:
+  - 3.74978159586594e+3
+  - 1.28776981608071e+3
+  width: 1.8e+2
+  connections:
+    indexes:
+    - location: 261
+      length: 1
+    - location: 263
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 263
+  text: 'Els Try a leverage transom, with a 13.  Can''t quite get it the rest of the
+    way.  Trying to hold it and keep pushing.
+
+    School for the gifted'
+  formattingOptions: []
+  position:
+  - 3.79749867757167e+3
+  - 1.34127837117509e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 262
+      length: 1
+    - location: 264
+      length: 1
+  _effectiveHeight: 7e+1
+- ID: 264
+  text: 'Skillet - WIS - 3.  Telper a 12
+
+    "he''s not factoring in the moons". Another level of exhausstion'
+  formattingOptions: []
+  position:
+  - 3.61544260660812e+3
+  - 1.34366611735022e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 263
+      length: 1
+    - location: 265
+      length: 1
+  _effectiveHeight: 5.6e+1
+- ID: 265
+  text: "Bard - stuck outside the door, and hear banging and hear voices in there.
+    \ \nOpen the door. But it's locked.\nSmash with Scimitar?  Or a graet axe.\nPush
+    it and braek the lock? 22!  Shove it, the door pops open, it flies open.  DEX
+    6.\nElvadeen bangs into and takes 1 point of damage"
+  formattingOptions: []
+  position:
+  - 3.40127695719406e+3
+  - 1.31330298360185e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 264
+      length: 1
+    - location: 266
+      length: 1
+  _effectiveHeight: 1.68e+2
+- ID: 266
+  text: "Lecturer's term look at the brand new person.  \nBard: 19\nEl is in reach
+    of the door. SKillet is not.\nVasil yanks him out of the door. STR check - 22.
+    quite successful. snagging and pulling out.\nSounds terribly boring.  We got stuff
+    to do."
+  formattingOptions: []
+  position:
+  - 3.13653727213547e+3
+  - 1.31410470581051e+3
+  width: 2.2e+2
+  connections:
+    indexes:
+    - location: 265
+      length: 1
+    - location: 267
+      length: 1
+  _effectiveHeight: 1.26e+2
+- ID: 267
+  text: El. takes apple and throws it at lecturer. hits 24.5 pts of damage
+  formattingOptions: []
+  position:
+  - 3.15943537394211e+3
+  - 1.46726042683915e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 266
+      length: 1
+    - location: 268
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 268
+  text: 'Does lecturer need a concentration save? It''s the force of his lecture.  '
+  formattingOptions: []
+  position:
+  - 3.14733230590825e+3
+  - 1.53757694498694e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 267
+      length: 1
+    - location: 269
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 269
+  text: 'Skillet.  WIS - 8 - no exhaustion
+
+    Telper made it. "what''s going on, what are you doing sitting there", starts moving
+    back and forth and banging into your chest, helps you break free. a constant.'
+  formattingOptions: []
+  position:
+  - 3.34588638305669e+3
+  - 1.5060057983398e+3
+  width: 2.3e+2
+  connections:
+    indexes:
+    - location: 268
+      length: 1
+    - location: 270
+      length: 1
+  _effectiveHeight: 7e+1
+- ID: 270
+  text: 'Lecturer looks up, and he is going to look at Vasil.  WIS 14. almost got
+    sucked in.
+
+    Now Vasil''s turn - "lets bug out", grab skillet and carry him out.
+
+    Close the door once Bard is out.
+
+    Once door is closed, can''t hear anything.
+
+    Still holding skillet - "what was that about"'
+  formattingOptions: []
+  position:
+  - 3.60683848063156e+3
+  - 1.43184086100256e+3
+  width: 2e+2
+  connections:
+    indexes:
+    - location: 269
+      length: 1
+    - location: 271
+      length: 1
+  _effectiveHeight: 1.4e+2
+- ID: 271
+  text: 'Skillet mortiifed and terrified, blanched, and not catatonic, and not hyper
+    responsive.
+
+    "buddy you had a rought time" and cradles skillet and walk down the hall.'
+  formattingOptions: []
+  position:
+  - 3.83024943033859e+3
+  - 1.43411223347978e+3
+  width: 1.9e+2
+  connections:
+    indexes:
+    - location: 270
+      length: 1
+    - location: 272
+      length: 1
+  _effectiveHeight: 8.4e+1
+- ID: 272
+  text: 'there''s some stairs over here. and doors. I don''t want to go into doors.
+
+    Skillet just stares.
+
+    Missed something in the world of tomorrow.
+
+    Vasil goes right back to world of tomorrow carrying skillet'
+  formattingOptions: []
+  position:
+  - 3.84654591878261e+3
+  - 1.54983252461745e+3
+  width: 1.8e+2
+  connections:
+    indexes:
+    - location: 271
+      length: 1
+    - location: 273
+      length: 1
+  _effectiveHeight: 1.12e+2
+- ID: 273
+  text: "Do see a humanoid Mech in the middle of the room.\nC-3POgre. \"A reason we
+    didn't touch that\". See this guy in the middle of the room. and his face is lit
+    with a green and yellow,  Standing still, and is dormant. There are instructions
+    on how to use the steam mech. \"which of course can be found in the Mech instruction
+    manual\"  \"I am a great duke of hell, you should be worshipping me\", We do sell
+    the manual in the shop.  \nEl has 2, Vasil has 1.  It is actually a bit more.\nVasil
+    pulls on the back of the bot.\nSteam / clockwork / magic for any function to happen."
+  formattingOptions: []
+  position:
+  - 3.50149546305344e+3
+  - 1.60938058471674e+3
+  width: 2.7e+2
+  connections:
+    indexes:
+    - location: 272
+      length: 1
+    - location: 274
+      length: 1
+  _effectiveHeight: 1.96e+2
+- ID: 274
+  text: 'A panel opens in its chest. See a code pop up. There is this grid. OH NO
+    PUZZLE. Grid of letters.
+
+    Vasil says "SOLVE", nothing happens.'
+  formattingOptions: []
+  position:
+  - 3.16821319580083e+3
+  - 1.62577045695e+3
+  width: 2.4e+2
+  connections:
+    indexes:
+    - location: 273
+      length: 1
+    - location: 275
+      length: 1
+  _effectiveHeight: 5.6e+1
+- ID: 275
+  text: 'When looking at it, a string of numbers popped up.
+
+    7-10, 5-2, 8-6, 5-7, 7-2, 9-9.
+
+    RECALL (name)
+
+    numbers go dark.'
+  formattingOptions: []
+  position:
+  - 3.17458867390956e+3
+  - 1.69903365071627e+3
+  width: 2.3e+2
+  connections:
+    indexes:
+    - location: 274
+      length: 1
+    - location: 276
+      length: 1
+  _effectiveHeight: 7e+1
+- ID: 276
+  text: '7-5, 8-5, 4-8, 9-2
+
+    LIVE
+
+    Comes up
+
+    It goes "HELLO! I Am El Roboto" "I''m El Vadeen, are we related"
+
+    I was made at a factory in the province of yoland.  "me not"
+
+    "hightly unlikely that we are related"
+
+    "what is your menu of options. My sibroutines are
+
+    DEFENDER - stay in a designated area and attack any hostiles in 20'' radius.
+
+    AGGRESSOR and will engage hostiles
+
+    NANNY follow the person engage hostiles that attack speaker
+
+    HUNTER - find a particular object that must visual identified at time of order
+
+    SAVOIR - protect designated individaul and remove from harm
+
+    ASSASSSIN  -attack a designated individual
+
+    TWERK - Big Bootylicious
+
+    Bard: "Send it to kill the lectuerr"
+
+    ElRoboto "I have no human emotions"
+
+    Who is the designated commander?" "that would be skillet little guy right there"'
+  formattingOptions: []
+  position:
+  - 3.13982798258469e+3
+  - 1.82372679646823e+3
+  width: 3.9e+2
+  connections:
+    indexes:
+    - location: 275
+      length: 1
+    - location: 277
+      length: 1
+    - location: 285
+      length: 1
+  _effectiveHeight: 2.8e+2
+- ID: 277
+  text: Skillet - "yes, that's right! Absoluteouy" And make a display of fealty by
+    dealing with the lecture next door
+  formattingOptions: []
+  position:
+  - 3.54987731933598e+3
+  - 1.83536711629244e+3
+  width: 2.4e+2
+  connections:
+    indexes:
+    - location: 276
+      length: 1
+    - location: 278
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 278
+  text: El Vadeen puts fingers in ears
+  formattingOptions: []
+  position:
+  - 3.8098325602214e+3
+  - 1.77583744303398e+3
+  width: 1.1e+2
+  connections:
+    indexes:
+    - location: 277
+      length: 1
+    - location: 279
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 279
+  text: '"there is no person standing" (floating)'
+  formattingOptions: []
+  position:
+  - 3.80090881347661e+3
+  - 1.72793181355806e+3
+  width: 1.2e+2
+  connections:
+    indexes:
+    - location: 278
+      length: 1
+    - location: 280
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 280
+  text: '"is that a person? It is not alive"'
+  formattingOptions: []
+  position:
+  - 3.85208730061853e+3
+  - 1.68074655151379e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 279
+      length: 1
+    - location: 281
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 281
+  text: Assissinate the dummy that is floating above the floor. This practice.  ...
+    undead. ... - walks towards the undead.
+  formattingOptions: []
+  position:
+  - 3.93524302164718e+3
+  - 1.72812005615246e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 280
+      length: 1
+    - location: 282
+      length: 1
+  _effectiveHeight: 5.6e+1
+- ID: 282
+  text: after a wahile the mech comes out. "The undead humanoid has been assassinated".
+    Now ready for the front lines. Why do I feel strangely happy now?
+  formattingOptions: []
+  position:
+  - 3.93412261962895e+3
+  - 1.80066868082694e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 281
+      length: 1
+    - location: 283
+      length: 1
+  _effectiveHeight: 8.4e+1
+- ID: 283
+  text: 'What shall I call you?
+
+    El Roboto. I have gone by many names.
+
+    Do you like one more than the other?
+
+    "I don''t know what like is"
+
+    Feelign pleased?  recall your internal state. any of your names, do they make
+    you feel that way more than the others?
+
+    "No"
+
+    '
+  formattingOptions: []
+  position:
+  - 3.86809183756515e+3
+  - 1.91488097127289e+3
+  width: 2.2e+2
+  connections:
+    indexes:
+    - location: 282
+      length: 1
+    - location: 284
+      length: 1
+  _effectiveHeight: 1.26e+2
+- ID: 284
+  text: 'Looking aroudn - several pages of lecture notes.  One page allows casting
+    of sleep (once)
+
+    Other page, if the reader reads all of it, casts sleep on the reader.
+
+    Skillet: "do I know which is which?" Roll Arcana: 11  can figure it out.
+
+    "WIll make it easy to get some shuteye after a partocuarly eventful day.'
+  formattingOptions: []
+  position:
+  - 3.57246358235681e+3
+  - 1.93198134358732e+3
+  width: 2.2e+2
+  connections:
+    indexes:
+    - location: 283
+      length: 1
+  _effectiveHeight: 1.26e+2
+- ID: 285
+  text: 'We almost made it to the stairs...
+
+    "maybe next time to go up the stairs"'
+  formattingOptions:
+  - options: 1
+    rangeStart: 3
+    rangeLength: 6
+  position:
+  - 3.15955780029301e+3
+  - 2.14471932983406e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 276
+      length: 1
+  _effectiveHeight: 5.6e+1
