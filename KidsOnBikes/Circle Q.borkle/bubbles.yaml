@@ -1,1 +1,523 @@
-[]
+- ID: 1
+  text: STRANGE THINGS AFOOT AT THE CIRCLE Q
+  fillColorRGB:
+    red: 8.93993e-1
+    green: 9.92872e-1
+    blue: 1e+0
+  formattingOptions: []
+  position:
+  - 1.452421875e+2
+  - 8.398828125e+1
+  width: 2.7e+2
+  connections:
+    indexes: []
+  _effectiveHeight: 1.4e+1
+- ID: 2
+  text: Carson Creek, CO
+  fillColorRGB:
+    red: 1e+0
+    green: 9.0283e-1
+    blue: 9.76506e-1
+  formattingOptions: []
+  position:
+  - 3.2456640625e+2
+  - 5.1100390625e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 3
+      length: 3
+    - location: 7
+      length: 1
+    - location: 18
+      length: 2
+    - location: 22
+      length: 1
+    - location: 29
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 3
+  text: Shadow of Cheyenne Mountain
+  formattingOptions: []
+  position:
+  - 1.69859375e+2
+  - 3.937578125e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 2
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 4
+  text: Flat, dominated by a main road
+  formattingOptions: []
+  position:
+  - 2.4279296875e+2
+  - 3.35609375e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 2
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 5
+  text: 'The Boot
+
+    a.k.a. Kicking Boots'
+  fillColorRGB:
+    red: 8.96043e-1
+    green: 9.97437e-1
+    blue: 9.42763e-1
+  formattingOptions: []
+  position:
+  - 4.75296875e+2
+  - 3.0968359375e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 2
+      length: 1
+    - location: 6
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 6
+  text: Has pay phones
+  formattingOptions: []
+  position:
+  - 6.0188671875e+2
+  - 2.513125e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 5
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 7
+  text: Circle Q Convenience Store
+  fillColorRGB:
+    red: 8.96043e-1
+    green: 9.97437e-1
+    blue: 9.42763e-1
+  formattingOptions: []
+  position:
+  - 3.4008984375e+2
+  - 6.147578125e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 2
+      length: 1
+    - location: 12
+      length: 1
+    - location: 16
+      length: 2
+  _effectiveHeight: 1.4e+1
+- ID: 8
+  text: 'Rachel Kelly
+
+    Town (elected) police chief, staff of two others
+
+    In via neopotism
+
+    Basically on the kid''s side'
+  formattingOptions:
+  - options: 1
+    rangeStart: 0
+    rangeLength: 12
+  position:
+  - 9.6673828125e+2
+  - 6.88203125e+1
+  width: 1.6e+2
+  connections:
+    indexes: []
+  _effectiveHeight: 7e+1
+- ID: 9
+  text: '(Lt Commander) Grover Kilian
+
+
+    History teacher at Questa Verde High School
+
+    Also Mahmoud''s "minder"
+
+    Teaches history
+
+
+    Air Force background secret (as is releationship with Mahmoud)'
+  formattingOptions:
+  - options: 1
+    rangeStart: 0
+    rangeLength: 30
+  position:
+  - 1.0544609375e+3
+  - 1.6696875e+2
+  width: 1.6e+2
+  connections:
+    indexes: []
+  _effectiveHeight: 1.54e+2
+- ID: 10
+  text: 'Mr. King
+
+    Murder victim
+
+    Abusive alcoholic father of one of the local kids'
+  formattingOptions:
+  - options: 1
+    rangeStart: 0
+    rangeLength: 9
+  position:
+  - 9.77375e+2
+  - 3.5098046875e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 15
+      length: 1
+  _effectiveHeight: 5.6e+1
+- ID: 11
+  text: '(Colonel) Mahmoud Shariari
+
+    (or maybe Mansouri)
+
+
+    Owner of the Circle Q
+
+    The only immegrant in town
+
+    Fished out of Iran in 1979 by then Captain Kilian
+
+    '
+  formattingOptions:
+  - options: 1
+    rangeStart: 0
+    rangeLength: 27
+  position:
+  - 9.8441796875e+2
+  - 4.6790625e+2
+  width: 1.6e+2
+  connections:
+    indexes: []
+  _effectiveHeight: 1.12e+2
+- ID: 12
+  text: '"Storage Locker"
+
+    Below the Circle Q'
+  formattingOptions: []
+  position:
+  - 3.93640625e+2
+  - 7.7841796875e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 7
+      length: 1
+    - location: 13
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 13
+  text: nearby shadowy government agency stores its mistakes here
+  formattingOptions: []
+  position:
+  - 2.75609375e+2
+  - 8.5401171875e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 12
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 14
+  text: 'The Wild Man
+
+
+    Haunting the local woods since the 80s.
+
+    Short, hairless, dressed in rags.
+
+    Known for eating small animals, pets, and local game.
+
+    Seems especially interested in the Circle Q.
+
+    Need to get him to his spaceship hidden in the Storage Locker'
+  formattingOptions:
+  - options: 1
+    rangeStart: 0
+    rangeLength: 13
+  position:
+  - 9.9328125e+2
+  - 6.0876171875e+2
+  width: 1.6e+2
+  connections:
+    indexes: []
+  _effectiveHeight: 1.96e+2
+- ID: 15
+  text: Son actually a clone
+  formattingOptions: []
+  position:
+  - 1.03248828125e+3
+  - 4.274765625e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 10
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 16
+  text: Space Killers / Galaxinoid / Galen's Quest (50 cent laser disc game)
+  formattingOptions: []
+  position:
+  - 4.65359375e+2
+  - 6.8089453125e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 7
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 17
+  text: 'Owner, Mahmoud Shariari
+
+    Only immigrant in town'
+  formattingOptions: []
+  position:
+  - 2.24546875e+2
+  - 6.8622265625e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 7
+      length: 1
+    - location: 21
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 18
+  text: Small Town, around 300 folks
+  formattingOptions: []
+  position:
+  - 3.6291015625e+2
+  - 2.3083984375e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 2
+      length: 1
+    - location: 24
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 19
+  text: Questra Verde High School
+  fillColorRGB:
+    red: 8.96043e-1
+    green: 9.97437e-1
+    blue: 9.42763e-1
+  formattingOptions: []
+  position:
+  - 5.685625e+2
+  - 3.8904296875e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 2
+      length: 1
+    - location: 20
+      length: 1
+    - location: 25
+      length: 2
+  _effectiveHeight: 1.4e+1
+- ID: 20
+  text: Schoo Distrik for adjoining towns?
+  formattingOptions: []
+  position:
+  - 6.985e+2
+  - 3.0898046875e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 19
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 21
+  text: Kinda Grumpy
+  formattingOptions: []
+  position:
+  - 1.9108203125e+2
+  - 7.5021484375e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 17
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 22
+  text: EnCom Scientific
+  fillColorRGB:
+    red: 8.96043e-1
+    green: 9.97437e-1
+    blue: 9.42763e-1
+  formattingOptions: []
+  position:
+  - 5.1958984375e+2
+  - 5.4147265625e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 2
+      length: 1
+    - location: 23
+      length: 1
+    - location: 27
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 23
+  text: Tallest building in town at 3 stories
+  formattingOptions: []
+  position:
+  - 5.60078125e+2
+  - 5.9346484375e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 22
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 24
+  text: Unemployment and alcoholism are prevelant
+  formattingOptions: []
+  position:
+  - 1.9262890625e+2
+  - 2.8094140625e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 18
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 25
+  text: 'Most elaborate structure in town.
+
+    Built in the 50s when the town was prosperous and growing'
+  formattingOptions: []
+  position:
+  - 6.581328125e+2
+  - 4.5511328125e+2
+  width: 2.1e+2
+  connections:
+    indexes:
+    - location: 19
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 26
+  text: computer lab, science lab, library
+  formattingOptions: []
+  position:
+  - 7.644765625e+2
+  - 3.7113671875e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 19
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 27
+  text: Famous for developing the Microencabulator
+  formattingOptions: []
+  position:
+  - 7.283828125e+2
+  - 5.620078125e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 22
+      length: 1
+    - location: 28
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 28
+  text: But now mainly repackages centrefuges for the medical industry
+  formattingOptions: []
+  position:
+  - 7.4203125e+2
+  - 6.285078125e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 27
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 29
+  text: Royal Bridge Mall
+  fillColorRGB:
+    red: 8.96043e-1
+    green: 9.97437e-1
+    blue: 9.42763e-1
+  formattingOptions: []
+  position:
+  - 1.7878515625e+2
+  - 5.264765625e+2
+  width: 1.1e+2
+  connections:
+    indexes:
+    - location: 2
+      length: 1
+    - location: 30
+      length: 2
+  _effectiveHeight: 1.4e+1
+- ID: 30
+  text: Shopping center shaped like a plus sign. Three of the four wings are abandoned
+  formattingOptions: []
+  position:
+  - 7.12265625e+1
+  - 5.73578125e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 29
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 31
+  text: Other wing is mostly shoe stores
+  formattingOptions: []
+  position:
+  - 8.976953125e+1
+  - 4.635859375e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 29
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 32
+  text: 'Sparky
+
+    The powered character. Doggo.
+
+    The town mutt, sleeps outside the Circle Q.  Absorbing alien radiation emitted
+    from the deep underground.
+
+    Smarter than your average dog, understands complex  sentences
+
+    But only barks'
+  formattingOptions:
+  - options: 1
+    rangeStart: 0
+    rangeLength: 6
+  position:
+  - 9.876015625e+2
+  - 8.5858203125e+2
+  width: 2.2e+2
+  connections:
+    indexes:
+    - location: 33
+      length: 1
+  _effectiveHeight: 1.12e+2
+- ID: 33
+  text: Teleportation
+  formattingOptions: []
+  position:
+  - 1.04941796875e+3
+  - 1.00631640625e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 32
+      length: 1
+  _effectiveHeight: 1.4e+1
