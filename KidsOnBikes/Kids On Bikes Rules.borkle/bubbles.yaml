@@ -287,17 +287,19 @@
       length: 1
   _effectiveHeight: 2.8e+1
 - ID: 22
-  text: Explodes if you roll the max (and don't make the difficulty)
+  text: Explodes if you roll the max (and don't make the difficulty). Narrative should
+    reflect character has done something beyond what they could have on their own,
+    perhaps influenced by external forces
   formattingOptions: []
   position:
-  - 4.85107572115384e+2
-  - 3.70544771634615e+2
-  width: 1.3e+2
+  - 8.37941105769231e+2
+  - 4.41716646634615e+2
+  width: 1.6e+2
   connections:
     indexes:
     - location: 21
       length: 1
-  _effectiveHeight: 4.2e+1
+  _effectiveHeight: 1.12e+2
 - ID: 23
   text: Choosing a Stat
   fillColorRGB:
@@ -323,7 +325,7 @@
   text: ''
   formattingOptions: []
   position:
-  - 1.59321213942308e+3
+  - 1.84551983173077e+3
   - 1.87364723557692e+3
   width: 1.6e+2
   connections:
@@ -950,7 +952,10 @@
     red: 1e+0
     green: 9.0283e-1
     blue: 9.76506e-1
-  formattingOptions: []
+  formattingOptions:
+  - options: 1
+    rangeStart: 0
+    rangeLength: 15
   position:
   - 8.58112980769233e+2
   - 2.4128846153845e+2
@@ -972,7 +977,10 @@
     red: 1e+0
     green: 9.0283e-1
     blue: 9.76506e-1
-  formattingOptions: []
+  formattingOptions:
+  - options: 1
+    rangeStart: 0
+    rangeLength: 14
   position:
   - 8.60871394230772e+2
   - 2.77529447115373e+2
@@ -1069,8 +1077,8 @@
     Adults: +1 Grit, +1 Brains'
   formattingOptions: []
   position:
-  - 4.47169471153851e+2
-  - 4.57769831730801e+2
+  - 4.54978966346159e+2
+  - 4.42511418269262e+2
   width: 1.7e+2
   connections:
     indexes:
@@ -1081,8 +1089,8 @@
   text: Can spend adversity tokens, each token being a +1
   formattingOptions: []
   position:
-  - 7.25210336538467e+2
-  - 4.53818509615415e+2
+  - 4.86084735576928e+2
+  - 3.902307692308e+2
   width: 1.6e+2
   connections:
     indexes:
@@ -1102,14 +1110,23 @@
       length: 1
   _effectiveHeight: 2.8e+1
 - ID: 76
-  text: ''
-  formattingOptions: []
+  text: Failure / Success consequences
+  fillColorRGB:
+    red: 8.96043e-1
+    green: 9.97437e-1
+    blue: 9.42763e-1
+  formattingOptions:
+  - options: 1
+    rangeStart: 0
+    rangeLength: 30
   position:
-  - 9.08918269230769e+2
-  - 1.2946899007692e+3
-  width: 1.6e+2
+  - 8.714453125e+2
+  - 1.18949158346151e+3
+  width: 2e+2
   connections:
-    indexes: []
+    indexes:
+    - location: 81
+      length: 8
   _effectiveHeight: 1.4e+1
 - ID: 77
   text: 'If roll is >= difficulty, succeeded - narrate with GM the success
@@ -1169,3 +1186,129 @@
     - location: 66
       length: 1
   _effectiveHeight: 2.8e+1
+- ID: 81
+  text: +10 or higher - Character succeeds smoothly and easily. Perhaps some unexpected
+    positive results
+  formattingOptions:
+  - options: 1
+    rangeStart: 0
+    rangeLength: 13
+  position:
+  - 1.0964302884615e+3
+  - 9.93953727499842e+2
+  width: 2.2e+2
+  connections:
+    indexes:
+    - location: 76
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 82
+  text: +5 to +9 - Character succeeds quite impressively
+  formattingOptions:
+  - options: 1
+    rangeStart: 0
+    rangeLength: 8
+  position:
+  - 1.0989723557692e+3
+  - 1.05063942307676e+3
+  width: 2.2e+2
+  connections:
+    indexes:
+    - location: 76
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 83
+  text: +1 to +4 - Character succeeds, but not impressively
+  formattingOptions:
+  - options: 1
+    rangeStart: 0
+    rangeLength: 8
+  position:
+  - 1.0999879807692e+3
+  - 1.09278786057678e+3
+  width: 2.2e+2
+  connections:
+    indexes:
+    - location: 76
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 84
+  text: 0 - Character succeeds, but just barely
+  formattingOptions:
+  - options: 1
+    rangeStart: 0
+    rangeLength: 2
+  position:
+  - 1.10059495192304e+3
+  - 1.13580168269217e+3
+  width: 2.2e+2
+  connections:
+    indexes:
+    - location: 76
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 85
+  text: -1 to -4 - Character fails, but not too badly.  Might be some very very minor
+    short-term consequences.
+  formattingOptions:
+  - options: 1
+    rangeStart: 0
+    rangeLength: 8
+  position:
+  - 1.10089843749997e+3
+  - 1.16601802884602e+3
+  width: 2.2e+2
+  connections:
+    indexes:
+    - location: 76
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 86
+  text: -5 to -9 - Failure is bad, but not a disaster.  Short-term consequences that
+    might lead to some immediate difficulties.  Had tried to do / been forced to do
+    something beyond their capabilities (and they failed)
+  formattingOptions:
+  - options: 1
+    rangeStart: 0
+    rangeLength: 8
+  position:
+  - 1.10055588942304e+3
+  - 1.22276081730751e+3
+  width: 2.2e+2
+  connections:
+    indexes:
+    - location: 76
+      length: 1
+  _effectiveHeight: 8.4e+1
+- ID: 87
+  text: -10 to -14 - Failure is profound.  There will be consequences, perhaps very
+    bad.  Character bit off more than could chew
+  formattingOptions:
+  - options: 1
+    rangeStart: 0
+    rangeLength: 10
+  position:
+  - 1.10077223557688e+3
+  - 1.32321454326905e+3
+  width: 2.2e+2
+  connections:
+    indexes:
+    - location: 76
+      length: 1
+  _effectiveHeight: 5.6e+1
+- ID: 88
+  text: -15 or lower - Failure is staggering and catastrophic. Immediate and long-term
+    consequences.
+  formattingOptions:
+  - options: 1
+    rangeStart: 0
+    rangeLength: 12
+  position:
+  - 1.10208533653842e+3
+  - 1.39075360576905e+3
+  width: 2.2e+2
+  connections:
+    indexes:
+    - location: 76
+      length: 1
+  _effectiveHeight: 4.2e+1
