@@ -225,15 +225,20 @@
     red: 8.93993e-1
     green: 9.92872e-1
     blue: 1e+0
-  formattingOptions: []
+  formattingOptions:
+  - options: 1
+    rangeStart: 0
+    rangeLength: 11
   position:
-  - 6.36984375e+2
-  - 2.4099609375e+2
+  - 6.36434495192308e+2
+  - 2.45142728365385e+2
   width: 1.6e+2
   connections:
     indexes:
     - location: 19
       length: 1
+    - location: 65
+      length: 2
   _effectiveHeight: 1.4e+1
 - ID: 19
   text: Any time you do something with the risk of failure
@@ -267,8 +272,8 @@
   text: Roll the appropriate die and add any modifiers
   formattingOptions: []
   position:
-  - 6.2700390625e+2
-  - 4.2211328125e+2
+  - 6.58782752403846e+2
+  - 4.04306790865384e+2
   width: 1.6e+2
   connections:
     indexes:
@@ -276,14 +281,18 @@
       length: 1
     - location: 22
       length: 1
+    - location: 73
+      length: 2
+    - location: 77
+      length: 1
   _effectiveHeight: 2.8e+1
 - ID: 22
   text: Explodes if you roll the max (and don't make the difficulty)
   formattingOptions: []
   position:
-  - 6.26342548076923e+2
-  - 4.72179387019231e+2
-  width: 1.6e+2
+  - 4.85107572115384e+2
+  - 3.70544771634615e+2
+  width: 1.3e+2
   connections:
     indexes:
     - location: 21
@@ -314,8 +323,8 @@
   text: ''
   formattingOptions: []
   position:
-  - 7.05348557692302e+1
-  - 1.51631550480769e+3
+  - 1.59321213942308e+3
+  - 1.87364723557692e+3
   width: 1.6e+2
   connections:
     indexes:
@@ -326,8 +335,8 @@
   text: ''
   formattingOptions: []
   position:
-  - 1.75700120192307e+2
-  - 1.87437740384615e+3
+  - 8.98590745192307e+2
+  - 1.88526382211538e+3
   width: 1.6e+2
   connections:
     indexes:
@@ -354,6 +363,8 @@
       length: 1
     - location: 27
       length: 3
+    - location: 70
+      length: 1
   _effectiveHeight: 1.4e+1
 - ID: 27
   text: Book Smarts
@@ -411,6 +422,8 @@
       length: 1
     - location: 35
       length: 3
+    - location: 69
+      length: 1
   _effectiveHeight: 1.4e+1
 - ID: 31
   text: Fight
@@ -514,8 +527,8 @@
   text: How much can lift or how much damage they can take
   formattingOptions: []
   position:
-  - 8.43179086538461e+2
-  - 7.5830468750003e+2
+  - 8.47923677884615e+2
+  - 7.74894230769261e+2
   width: 1.6e+2
   connections:
     indexes:
@@ -773,8 +786,8 @@
     rangeStart: 0
     rangeLength: 17
   position:
-  - 6.49912860576924e+2
-  - 1.29806129499998e+3
+  - 6.59411057692309e+2
+  - 1.52832271326921e+3
   width: 1.1e+2
   connections:
     indexes:
@@ -782,117 +795,143 @@
       length: 7
   _effectiveHeight: 1.4e+1
 - ID: 57
-  text: '20 - Only the most incredible could even possibly succeed.
-
-    Nearly guaranteed failure'
+  text: "20 - Only the most incredible could even possibly succeed. Nearly guaranteed
+    failure\n    Lifting a car off someone"
   formattingOptions:
   - options: 1
     rangeStart: 0
     rangeLength: 2
+  - options: 2
+    rangeStart: 85
+    rangeLength: 29
   position:
-  - 7.9725060096154e+2
-  - 1.20035997596154e+3
-  width: 2.3e+2
+  - 4.15366586538463e+2
+  - 1.3933407451923e+3
+  width: 2.7e+2
   connections:
     indexes:
     - location: 56
       length: 1
   _effectiveHeight: 4.2e+1
 - ID: 58
-  text: '17-19 - Success would be incredible and impressive.
-
-    Nearly guaranteed failure'
+  text: "17-19 - Success would be incredible and impressive. Nearly guaranteed failure\n
+    \   Talking cop out of arrest when clearly broken the law and have no relationship;
+    break school record in track"
   formattingOptions:
   - options: 1
     rangeStart: 0
     rangeLength: 5
+  - options: 2
+    rangeStart: 78
+    rangeLength: 112
   position:
-  - 7.99885817307693e+2
-  - 1.27441346153846e+3
-  width: 2.3e+2
+  - 3.63716947115386e+2
+  - 1.49011959134615e+3
+  width: 2.7e+2
   connections:
     indexes:
     - location: 56
       length: 1
-  _effectiveHeight: 4.2e+1
+  _effectiveHeight: 7e+1
 - ID: 59
-  text: 13-16 - Success is extraordinary, but decidetly possible for skilled characters
+  text: "13-16 - Success is extraordinary, but decidetly possible for skilled characters\n
+    \   Finding the right item on the first try; someone espionage trained withstanding
+    police interogation"
   formattingOptions:
   - options: 1
     rangeStart: 0
     rangeLength: 5
+  - options: 2
+    rangeStart: 80
+    rangeLength: 103
   position:
-  - 8.00994591346155e+2
-  - 1.34268569711538e+3
-  width: 2.3e+2
+  - 4.18620793269232e+2
+  - 1.611390625e+3
+  width: 2.7e+2
   connections:
     indexes:
     - location: 56
       length: 1
-  _effectiveHeight: 2.8e+1
+  _effectiveHeight: 7e+1
 - ID: 60
-  text: 10-12 - Success is impressive, but completely expected for someone skilled
-    at it
+  text: "10-12 - Success is impressive, but completely expected for someone skilled
+    at it\n    Strong person prying open a heavy locked door; computer nerd repairing
+    a computer under pressure"
   formattingOptions:
   - options: 1
     rangeStart: 0
     rangeLength: 6
+  - options: 2
+    rangeStart: 81
+    rangeLength: 100
   position:
-  - 7.99879807692309e+2
-  - 1.39842788461538e+3
-  width: 2.3e+2
+  - 7.10808293269232e+2
+  - 1.35761358173077e+3
+  width: 2.7e+2
   connections:
     indexes:
     - location: 56
       length: 1
-  _effectiveHeight: 4.2e+1
+  _effectiveHeight: 7e+1
 - ID: 61
-  text: 7-9 - Success is certain for characters who are very skilled, but not for
-    those who aren't
+  text: "7-9 - Success is certain for characters who are very skilled, but not for
+    those who aren't.\n    Convincing the principal you didn't start of a food fight';
+    running a message from one end of the building to the other in a very short time"
   formattingOptions:
   - options: 1
     rangeStart: 0
     rangeLength: 3
+  - options: 2
+    rangeStart: 92
+    rangeLength: 144
   position:
-  - 8.00072115384617e+2
-  - 1.47356009615386e+3
-  width: 2.3e+2
+  - 7.97226562500002e+2
+  - 1.45137860576924e+3
+  width: 2.7e+2
   connections:
     indexes:
     - location: 56
       length: 1
-  _effectiveHeight: 4.2e+1
+  _effectiveHeight: 7e+1
 - ID: 62
-  text: 3-6 - Success is likely for all characters except those who aren't skilled
-    or who have a low state
+  text: "3-6 - Success is likely for all characters except those who aren't skilled
+    or who have a low state\n    Lucky person drawing a non-face card from a deck;
+    character withstanding a verbal berating"
   formattingOptions:
   - options: 1
     rangeStart: 0
     rangeLength: 3
+  - options: 2
+    rangeStart: 99
+    rangeLength: 94
   position:
-  - 8.01610576923079e+2
-  - 1.54539903538464e+3
-  width: 2.3e+2
+  - 7.91811899038464e+2
+  - 1.55248437192311e+3
+  width: 2.7e+2
   connections:
     indexes:
     - location: 56
       length: 1
-  _effectiveHeight: 4.2e+1
+  _effectiveHeight: 5.6e+1
 - ID: 63
-  text: 1-2 - Task where success is guaranteed, except in extreme cases
+  text: "1-2 - Task where success is guaranteed, except in extreme cases\n    Character
+    lifting a 10-pound weight over their head; reciting a multiplication table"
   formattingOptions:
   - options: 1
     rangeStart: 0
     rangeLength: 3
+  - options: 2
+    rangeStart: 64
+    rangeLength: 88
   position:
-  - 8.05384615384617e+2
-  - 1.61956069711541e+3
-  width: 2.3e+2
+  - 7.34543269230771e+2
+  - 1.63294411057695e+3
+  width: 2.7e+2
   connections:
     indexes:
     - location: 56
       length: 1
-  _effectiveHeight: 2.8e+1
+  _effectiveHeight: 5.6e+1
 - ID: 64
   text: Deceit and Lying
   formattingOptions: []
@@ -905,3 +944,228 @@
     - location: 33
       length: 1
   _effectiveHeight: 1.4e+1
+- ID: 65
+  text: Planned Actions
+  fillColorRGB:
+    red: 1e+0
+    green: 9.0283e-1
+    blue: 9.76506e-1
+  formattingOptions: []
+  position:
+  - 8.58112980769233e+2
+  - 2.4128846153845e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 18
+      length: 1
+    - location: 67
+      length: 1
+    - location: 71
+      length: 1
+    - location: 75
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 66
+  text: Snap Decisions
+  fillColorRGB:
+    red: 1e+0
+    green: 9.0283e-1
+    blue: 9.76506e-1
+  formattingOptions: []
+  position:
+  - 8.60871394230772e+2
+  - 2.77529447115373e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 18
+      length: 1
+    - location: 68
+      length: 1
+    - location: 78
+      length: 3
+  _effectiveHeight: 1.4e+1
+- ID: 67
+  text: Have time to think about the best course of action and work with your friends
+  formattingOptions: []
+  position:
+  - 7.72659254807695e+2
+  - 1.64638822115373e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 65
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 68
+  text: Choices made quickly under bad conditions or under pressure
+  formattingOptions: []
+  position:
+  - 8.41868990384618e+2
+  - 3.28139423076912e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 66
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 69
+  text: Muscle your way in
+  formattingOptions: []
+  position:
+  - 8.4347055288462e+2
+  - 7.3170312500003e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 30
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 70
+  text: Crack the safe
+  formattingOptions: []
+  position:
+  - 5.28125000000005e+2
+  - 6.6294110576926e+2
+  width: 9e+1
+  connections:
+    indexes:
+    - location: 26
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 71
+  text: Can take half value of stat die.
+  formattingOptions: []
+  position:
+  - 9.72016225961543e+2
+  - 1.39560697115409e+2
+  width: 1.4e+2
+  connections:
+    indexes:
+    - location: 65
+      length: 1
+    - location: 72
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 72
+  text: e.g. d12 stat, the difficult is 5, player could "take half" and score a 6
+    without rolling
+  formattingOptions: []
+  position:
+  - 9.84936899038466e+2
+  - 2.10260814230801e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 71
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 73
+  text: 'Children: +1 Charm, +1 Flight
+
+    Teens: +1 Brawn, +1 Fight
+
+    Adults: +1 Grit, +1 Brains'
+  formattingOptions: []
+  position:
+  - 4.47169471153851e+2
+  - 4.57769831730801e+2
+  width: 1.7e+2
+  connections:
+    indexes:
+    - location: 21
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 74
+  text: Can spend adversity tokens, each token being a +1
+  formattingOptions: []
+  position:
+  - 7.25210336538467e+2
+  - 4.53818509615415e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 21
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 75
+  text: Can transfer adversity tokens
+  formattingOptions: []
+  position:
+  - 8.42773437500006e+2
+  - 1.11003004807723e+2
+  width: 1.3e+2
+  connections:
+    indexes:
+    - location: 65
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 76
+  text: ''
+  formattingOptions: []
+  position:
+  - 9.08918269230769e+2
+  - 1.2946899007692e+3
+  width: 1.6e+2
+  connections:
+    indexes: []
+  _effectiveHeight: 1.4e+1
+- ID: 77
+  text: 'If roll is >= difficulty, succeeded - narrate with GM the success
+
+
+    if roll is < difficulty, failed, GM narrates with minimal input. Also receive
+    an adversity token'
+  formattingOptions:
+  - options: 1
+    rangeStart: 3
+    rangeLength: 21
+  - options: 1
+    rangeStart: 70
+    rangeLength: 20
+  position:
+  - 6.02695312499981e+2
+  - 5.02541467884448e+2
+  width: 2.1e+2
+  connections:
+    indexes:
+    - location: 21
+      length: 1
+  _effectiveHeight: 8.4e+1
+- ID: 78
+  text: Cannot take half value
+  formattingOptions: []
+  position:
+  - 9.93701923076904e+2
+  - 4.03737379807526e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 66
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 79
+  text: Can't transfer adversity tokens
+  formattingOptions: []
+  position:
+  - 1.04392427884613e+3
+  - 3.52499399038295e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 66
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 80
+  text: Consequence of a failure are less weighty
+  formattingOptions: []
+  position:
+  - 1.01935997596152e+3
+  - 2.85128605769065e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 66
+      length: 1
+  _effectiveHeight: 2.8e+1
