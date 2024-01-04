@@ -1,1 +1,907 @@
-[]
+- ID: 1
+  text: Powered Character
+  fillColorRGB:
+    red: 8.93993e-1
+    green: 9.92872e-1
+    blue: 1e+0
+  formattingOptions: []
+  position:
+  - 1.74015625e+2
+  - 1.947890625e+2
+  width: 1.1e+2
+  connections:
+    indexes:
+    - location: 2
+      length: 2
+  _effectiveHeight: 1.4e+1
+- ID: 2
+  text: Introduce early in the first session
+  formattingOptions: []
+  position:
+  - 1.155e+2
+  - 2.5314453125e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 1
+      length: 1
+    - location: 4
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 3
+  text: co-controlled by all the players
+  formattingOptions: []
+  position:
+  - 3.0081640625e+2
+  - 2.1629296875e+2
+  width: 1.7e+2
+  connections:
+    indexes:
+    - location: 1
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 4
+  text: When first introduced, give some traits / aspects (on cards)
+  formattingOptions: []
+  position:
+  - 7.780859375e+1
+  - 3.254453125e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 2
+      length: 1
+    - location: 5
+      length: 5
+  _effectiveHeight: 4.2e+1
+- ID: 5
+  text: Two per player recommended
+  formattingOptions: []
+  position:
+  - 3.655078125e+1
+  - 4.066640625e+2
+  width: 1.7e+2
+  connections:
+    indexes:
+    - location: 4
+      length: 1
+    - location: 11
+      length: 2
+  _effectiveHeight: 1.4e+1
+- ID: 6
+  text: personality traits
+  formattingOptions: []
+  position:
+  - 2.39125e+2
+  - 4.32875e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 4
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 7
+  text: patterns in their behavior
+  formattingOptions: []
+  position:
+  - 3.060078125e+2
+  - 3.963203125e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 4
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 8
+  text: powers
+  formattingOptions: []
+  position:
+  - 2.7484765625e+2
+  - 5.1411328125e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 4
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 9
+  text: Psychic Energy Tokens
+  formattingOptions: []
+  position:
+  - 2.5608984375e+2
+  - 3.4054296875e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 4
+      length: 1
+    - location: 10
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 10
+  text: Start with 7
+  formattingOptions: []
+  position:
+  - 3.6630859375e+2
+  - 3.019765625e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 9
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 11
+  text: When an aspect comes up that the player can do, they control the narration
+  formattingOptions: []
+  position:
+  - 1.34921875e+1
+  - 4.7860546875e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 5
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 12
+  text: 'Any player can activate any aspect on the table. But the player by the card
+    should control the narration of that aspect
+
+    '
+  formattingOptions: []
+  position:
+  - 1.11234375e+2
+  - 5.70453125e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 5
+      length: 1
+  _effectiveHeight: 8.4e+1
+- ID: 13
+  text: Game is a sequence of scenes
+  formattingOptions: []
+  position:
+  - 3.3115234375e+2
+  - 3.373046875e+1
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 14
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 14
+  text: No need to slog through uninteresting things, like 9 periods of school
+  formattingOptions: []
+  position:
+  - 4.064921875e+2
+  - 9.4734375e+1
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 13
+      length: 1
+    - location: 15
+      length: 3
+  _effectiveHeight: 4.2e+1
+- ID: 15
+  text: ACTION!
+  formattingOptions: []
+  position:
+  - 5.6355078125e+2
+  - 4.593359375e+1
+  width: 9e+1
+  connections:
+    indexes:
+    - location: 14
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 16
+  text: EXCITEMENT!
+  formattingOptions: []
+  position:
+  - 6.2804296875e+2
+  - 8.85234375e+1
+  width: 9e+1
+  connections:
+    indexes:
+    - location: 14
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 17
+  text: INTRIGUE!
+  formattingOptions: []
+  position:
+  - 6.4212890625e+2
+  - 1.3675e+2
+  width: 9e+1
+  connections:
+    indexes:
+    - location: 14
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 18
+  text: Stat Checks
+  fillColorRGB:
+    red: 8.93993e-1
+    green: 9.92872e-1
+    blue: 1e+0
+  formattingOptions: []
+  position:
+  - 6.36984375e+2
+  - 2.4099609375e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 19
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 19
+  text: Any time you do something with the risk of failure
+  formattingOptions: []
+  position:
+  - 6.3176171875e+2
+  - 3.006015625e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 18
+      length: 1
+    - location: 20
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 20
+  text: GM Sets a difficulty
+  formattingOptions: []
+  position:
+  - 6.1867578125e+2
+  - 3.56984375e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 19
+      length: 1
+    - location: 21
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 21
+  text: Roll the appropriate die and add any modifiers
+  formattingOptions: []
+  position:
+  - 6.2700390625e+2
+  - 4.2211328125e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 20
+      length: 1
+    - location: 22
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 22
+  text: Explodes if you roll the max (and don't make the difficulty)
+  formattingOptions: []
+  position:
+  - 6.26342548076923e+2
+  - 4.72179387019231e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 21
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 23
+  text: Choosing a Stat
+  fillColorRGB:
+    red: 8.93993e-1
+    green: 9.92872e-1
+    blue: 1e+0
+  formattingOptions:
+  - options: 1
+    rangeStart: 0
+    rangeLength: 15
+  position:
+  - 6.17569110576922e+2
+  - 8.51832331730767e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 26
+      length: 1
+    - location: 30
+      length: 5
+  _effectiveHeight: 1.4e+1
+- ID: 24
+  text: ''
+  formattingOptions: []
+  position:
+  - 7.05348557692302e+1
+  - 1.51631550480769e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 25
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 25
+  text: ''
+  formattingOptions: []
+  position:
+  - 1.75700120192307e+2
+  - 1.87437740384615e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 24
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 26
+  text: Brains
+  fillColorRGB:
+    red: 1e+0
+    green: 9.0283e-1
+    blue: 9.76506e-1
+  formattingOptions:
+  - options: 1
+    rangeStart: 0
+    rangeLength: 6
+  position:
+  - 6.17055288461538e+2
+  - 7.60789662692315e+2
+  width: 6e+1
+  connections:
+    indexes:
+    - location: 23
+      length: 1
+    - location: 27
+      length: 3
+  _effectiveHeight: 1.4e+1
+- ID: 27
+  text: Book Smarts
+  formattingOptions: []
+  position:
+  - 4.97106370192307e+2
+  - 6.88704326923106e+2
+  width: 8e+1
+  connections:
+    indexes:
+    - location: 26
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 28
+  text: How quickly can solve academic problems
+  formattingOptions: []
+  position:
+  - 5.58536658653845e+2
+  - 6.20041466346183e+2
+  width: 1.3e+2
+  connections:
+    indexes:
+    - location: 26
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 29
+  text: How well they understand problems
+  formattingOptions: []
+  position:
+  - 6.69065504807692e+2
+  - 6.6074158653849e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 26
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 30
+  text: Brawn
+  fillColorRGB:
+    red: 1e+0
+    green: 9.0283e-1
+    blue: 9.76506e-1
+  formattingOptions:
+  - options: 1
+    rangeStart: 0
+    rangeLength: 5
+  position:
+  - 7.52067307692307e+2
+  - 7.83103365384644e+2
+  width: 6e+1
+  connections:
+    indexes:
+    - location: 23
+      length: 1
+    - location: 35
+      length: 3
+  _effectiveHeight: 1.4e+1
+- ID: 31
+  text: Fight
+  fillColorRGB:
+    red: 1e+0
+    green: 9.0283e-1
+    blue: 9.76506e-1
+  formattingOptions:
+  - options: 1
+    rangeStart: 0
+    rangeLength: 5
+  position:
+  - 7.54221754807692e+2
+  - 9.0165204326926e+2
+  width: 6e+1
+  connections:
+    indexes:
+    - location: 23
+      length: 1
+    - location: 38
+      length: 2
+  _effectiveHeight: 1.4e+1
+- ID: 32
+  text: Flight
+  fillColorRGB:
+    red: 1e+0
+    green: 9.0283e-1
+    blue: 9.76506e-1
+  formattingOptions:
+  - options: 1
+    rangeStart: 0
+    rangeLength: 6
+  position:
+  - 7.30057091346153e+2
+  - 9.93181490384644e+2
+  width: 6e+1
+  connections:
+    indexes:
+    - location: 23
+      length: 1
+    - location: 40
+      length: 2
+  _effectiveHeight: 1.4e+1
+- ID: 33
+  text: Charm
+  fillColorRGB:
+    red: 1e+0
+    green: 9.0283e-1
+    blue: 9.76506e-1
+  formattingOptions:
+  - options: 1
+    rangeStart: 0
+    rangeLength: 5
+  position:
+  - 5.74498197115384e+2
+  - 9.6710877403849e+2
+  width: 6e+1
+  connections:
+    indexes:
+    - location: 23
+      length: 1
+    - location: 43
+      length: 3
+    - location: 64
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 34
+  text: Grit
+  fillColorRGB:
+    red: 1e+0
+    green: 9.0283e-1
+    blue: 9.76506e-1
+  formattingOptions:
+  - options: 1
+    rangeStart: 0
+    rangeLength: 4
+  position:
+  - 4.8256610576923e+2
+  - 8.37096754807721e+2
+  width: 6e+1
+  connections:
+    indexes:
+    - location: 23
+      length: 1
+    - location: 46
+      length: 3
+  _effectiveHeight: 1.4e+1
+- ID: 35
+  text: Brute Strength
+  formattingOptions: []
+  position:
+  - 7.40724158653846e+2
+  - 7.31066105769261e+2
+  width: 9e+1
+  connections:
+    indexes:
+    - location: 30
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 36
+  text: How much can lift or how much damage they can take
+  formattingOptions: []
+  position:
+  - 8.43179086538461e+2
+  - 7.5830468750003e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 30
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 37
+  text: Physical Intimidation
+  formattingOptions: []
+  position:
+  - 8.31418269230769e+2
+  - 8.26282451923107e+2
+  width: 1.2e+2
+  connections:
+    indexes:
+    - location: 30
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 38
+  text: How good a combatant
+  formattingOptions: []
+  position:
+  - 8.32587139423076e+2
+  - 8.82568509615415e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 31
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 39
+  text: Can learn combat / weapons easier
+  formattingOptions: []
+  position:
+  - 8.29663461538461e+2
+  - 9.255703117308e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 31
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 40
+  text: How fast they are
+  formattingOptions: []
+  position:
+  - 6.85438701923076e+2
+  - 1.0545276442308e+3
+  width: 1.1e+2
+  connections:
+    indexes:
+    - location: 32
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 41
+  text: How skilled at evading problems
+  formattingOptions: []
+  position:
+  - 8.26165865384615e+2
+  - 1.02836478365388e+3
+  width: 1.2e+2
+  connections:
+    indexes:
+    - location: 32
+      length: 1
+    - location: 42
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 42
+  text: litrally and figuratively
+  formattingOptions: []
+  position:
+  - 8.03662860576923e+2
+  - 1.10426622596157e+3
+  width: 1.3e+2
+  connections:
+    indexes:
+    - location: 41
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 43
+  text: Social Adeptness
+  formattingOptions: []
+  position:
+  - 4.44525240384615e+2
+  - 9.28178484807729e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 33
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 44
+  text: How good at reading emotions
+  formattingOptions: []
+  position:
+  - 5.01929086538461e+2
+  - 1.02420011942314e+3
+  width: 1.2e+2
+  connections:
+    indexes:
+    - location: 33
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 45
+  text: Can talk out of tough situations and into good ones with relative ease
+  formattingOptions:
+  - options: 1
+    rangeStart: 57
+    rangeLength: 8
+  position:
+  - 3.77256610576922e+2
+  - 9.60912860576989e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 33
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 46
+  text: How hard to break emotionally or physically
+  formattingOptions: []
+  position:
+  - 3.65624999999999e+2
+  - 7.63448918269297e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 34
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 47
+  text: High grits able to keep a level head in the worst situations
+  formattingOptions: []
+  position:
+  - 3.20570913461538e+2
+  - 8.16324518461604e+2
+  width: 1.4e+2
+  connections:
+    indexes:
+    - location: 34
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 48
+  text: Street-smarts too
+  formattingOptions: []
+  position:
+  - 3.65513822115384e+2
+  - 8.81225360576983e+2
+  width: 1.1e+2
+  connections:
+    indexes:
+    - location: 34
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 49
+  text: Stat Die
+  fillColorRGB:
+    red: 8.96043e-1
+    green: 9.97437e-1
+    blue: 9.42763e-1
+  formattingOptions:
+  - options: 1
+    rangeStart: 0
+    rangeLength: 8
+  position:
+  - 4.27959735576924e+2
+  - 1.18301021634621e+3
+  width: 6e+1
+  connections:
+    indexes:
+    - location: 50
+      length: 6
+  _effectiveHeight: 1.4e+1
+- ID: 50
+  text: d20 - Superb
+  formattingOptions: []
+  position:
+  - 4.46385216346155e+2
+  - 1.11165204250006e+3
+  width: 1.1e+2
+  connections:
+    indexes:
+    - location: 49
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 51
+  text: d12 - impressive
+  formattingOptions: []
+  position:
+  - 5.13013822115386e+2
+  - 1.15222596153849e+3
+  width: 1.1e+2
+  connections:
+    indexes:
+    - location: 49
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 52
+  text: d10 - above average
+  formattingOptions: []
+  position:
+  - 5.08551682692309e+2
+  - 1.21563942307695e+3
+  width: 1.2e+2
+  connections:
+    indexes:
+    - location: 49
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 53
+  text: d8 - below average
+  formattingOptions: []
+  position:
+  - 4.07689302884616e+2
+  - 1.26894771634618e+3
+  width: 1.1e+2
+  connections:
+    indexes:
+    - location: 49
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 54
+  text: d6 - bad
+  formattingOptions: []
+  position:
+  - 3.18134014423078e+2
+  - 1.2305823317308e+3
+  width: 1.1e+2
+  connections:
+    indexes:
+    - location: 49
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 55
+  text: d4 - terrible
+  formattingOptions: []
+  position:
+  - 2.98103966346155e+2
+  - 1.15809435096157e+3
+  width: 1.1e+2
+  connections:
+    indexes:
+    - location: 49
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 56
+  text: Difficulty Levels
+  fillColorRGB:
+    red: 8.96043e-1
+    green: 9.97437e-1
+    blue: 9.42763e-1
+  formattingOptions:
+  - options: 1
+    rangeStart: 0
+    rangeLength: 17
+  position:
+  - 6.49912860576924e+2
+  - 1.29806129499998e+3
+  width: 1.1e+2
+  connections:
+    indexes:
+    - location: 57
+      length: 7
+  _effectiveHeight: 1.4e+1
+- ID: 57
+  text: '20 - Only the most incredible could even possibly succeed.
+
+    Nearly guaranteed failure'
+  formattingOptions:
+  - options: 1
+    rangeStart: 0
+    rangeLength: 2
+  position:
+  - 7.9725060096154e+2
+  - 1.20035997596154e+3
+  width: 2.3e+2
+  connections:
+    indexes:
+    - location: 56
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 58
+  text: '17-19 - Success would be incredible and impressive.
+
+    Nearly guaranteed failure'
+  formattingOptions:
+  - options: 1
+    rangeStart: 0
+    rangeLength: 5
+  position:
+  - 7.99885817307693e+2
+  - 1.27441346153846e+3
+  width: 2.3e+2
+  connections:
+    indexes:
+    - location: 56
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 59
+  text: 13-16 - Success is extraordinary, but decidetly possible for skilled characters
+  formattingOptions:
+  - options: 1
+    rangeStart: 0
+    rangeLength: 5
+  position:
+  - 8.00994591346155e+2
+  - 1.34268569711538e+3
+  width: 2.3e+2
+  connections:
+    indexes:
+    - location: 56
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 60
+  text: 10-12 - Success is impressive, but completely expected for someone skilled
+    at it
+  formattingOptions:
+  - options: 1
+    rangeStart: 0
+    rangeLength: 6
+  position:
+  - 7.99879807692309e+2
+  - 1.39842788461538e+3
+  width: 2.3e+2
+  connections:
+    indexes:
+    - location: 56
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 61
+  text: 7-9 - Success is certain for characters who are very skilled, but not for
+    those who aren't
+  formattingOptions:
+  - options: 1
+    rangeStart: 0
+    rangeLength: 3
+  position:
+  - 8.00072115384617e+2
+  - 1.47356009615386e+3
+  width: 2.3e+2
+  connections:
+    indexes:
+    - location: 56
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 62
+  text: 3-6 - Success is likely for all characters except those who aren't skilled
+    or who have a low state
+  formattingOptions:
+  - options: 1
+    rangeStart: 0
+    rangeLength: 3
+  position:
+  - 8.01610576923079e+2
+  - 1.54539903538464e+3
+  width: 2.3e+2
+  connections:
+    indexes:
+    - location: 56
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 63
+  text: 1-2 - Task where success is guaranteed, except in extreme cases
+  formattingOptions:
+  - options: 1
+    rangeStart: 0
+    rangeLength: 3
+  position:
+  - 8.05384615384617e+2
+  - 1.61956069711541e+3
+  width: 2.3e+2
+  connections:
+    indexes:
+    - location: 56
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 64
+  text: Deceit and Lying
+  formattingOptions: []
+  position:
+  - 3.83554687500002e+2
+  - 1.03926922769229e+3
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 33
+      length: 1
+  _effectiveHeight: 1.4e+1
