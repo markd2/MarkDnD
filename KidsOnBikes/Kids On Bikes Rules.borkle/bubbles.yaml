@@ -100,8 +100,8 @@
   formattingOptions: []
   position:
   - 2.42651141826923e+2
-  - 5.14317608173077e+2
-  width: 1e+2
+  - 5.14079326923077e+2
+  width: 6e+1
   connections:
     indexes:
     - location: 4
@@ -152,8 +152,8 @@
     '
   formattingOptions: []
   position:
-  - 7.92211538461538e+1
-  - 5.70477163461538e+2
+  - 1.06947716346154e+2
+  - 5.58160757211538e+2
   width: 1.6e+2
   connections:
     indexes:
@@ -164,8 +164,8 @@
   text: Game is a sequence of scenes
   formattingOptions: []
   position:
-  - 3.75884915865384e+2
-  - 1.75465745192307e+1
+  - 3.68146634615384e+2
+  - 3.03434495192307e+1
   width: 1.6e+2
   connections:
     indexes:
@@ -202,8 +202,8 @@
   text: EXCITEMENT!
   formattingOptions: []
   position:
-  - 6.72775540865384e+2
-  - 7.23395432692307e+1
+  - 6.53361478365384e+2
+  - 6.31168870192307e+1
   width: 9e+1
   connections:
     indexes:
@@ -214,8 +214,8 @@
   text: INTRIGUE!
   formattingOptions: []
   position:
-  - 6.86861478365384e+2
-  - 1.20566105769231e+2
+  - 6.77131009615384e+2
+  - 9.7757512019231e+1
   width: 9e+1
   connections:
     indexes:
@@ -323,30 +323,6 @@
       length: 1
     - location: 30
       length: 5
-  _effectiveHeight: 1.4e+1
-- ID: 24
-  text: ''
-  formattingOptions: []
-  position:
-  - 2.50932992788462e+3
-  - 1.85746334134615e+3
-  width: 1.6e+2
-  connections:
-    indexes:
-    - location: 25
-      length: 1
-  _effectiveHeight: 1.4e+1
-- ID: 25
-  text: ''
-  formattingOptions: []
-  position:
-  - 1.2983203125e+3
-  - 2.20776382211538e+3
-  width: 1.6e+2
-  connections:
-    indexes:
-    - location: 24
-      length: 1
   _effectiveHeight: 1.4e+1
 - ID: 26
   text: Brains
@@ -592,8 +568,8 @@
   text: How skilled at evading problems
   formattingOptions: []
   position:
-  - 1.16552283653846e+3
-  - 1.12221995192311e+3
+  - 1.17685486778846e+3
+  - 1.09795432692311e+3
   width: 1.2e+2
   connections:
     indexes:
@@ -603,11 +579,11 @@
       length: 1
   _effectiveHeight: 2.8e+1
 - ID: 42
-  text: litrally and figuratively
+  text: literally and figuratively
   formattingOptions: []
   position:
-  - 1.14301983173077e+3
-  - 1.1981213942308e+3
+  - 1.16464092548077e+3
+  - 1.1764963942308e+3
   width: 1.3e+2
   connections:
     indexes:
@@ -692,16 +668,16 @@
 - ID: 49
   text: Stat Die
   fillColorRGB:
-    red: 8.96043e-1
-    green: 9.97437e-1
-    blue: 9.42763e-1
+    red: 8.93993e-1
+    green: 9.92872e-1
+    blue: 1e+0
   formattingOptions:
   - options: 1
     rangeStart: 0
     rangeLength: 8
   position:
-  - 5.07824519230756e+2
-  - 2.20870793269292e+2
+  - 5.11937800480756e+2
+  - 2.37308293269292e+2
   width: 6e+1
   connections:
     indexes:
@@ -712,8 +688,8 @@
   text: d20 - Superb
   formattingOptions: []
   position:
-  - 5.26249999999987e+2
-  - 1.50245792500067e+2
+  - 5.30363281249987e+2
+  - 1.67159855000067e+2
   width: 1.1e+2
   connections:
     indexes:
@@ -724,8 +700,8 @@
   text: d12 - impressive
   formattingOptions: []
   position:
-  - 5.92878605769218e+2
-  - 1.90819711538495e+2
+  - 5.96991887019218e+2
+  - 2.07733774038495e+2
   width: 1.1e+2
   connections:
     indexes:
@@ -736,8 +712,8 @@
   text: d10 - above average
   formattingOptions: []
   position:
-  - 5.88416466346141e+2
-  - 2.54233173076956e+2
+  - 5.92529747596141e+2
+  - 2.71147235576956e+2
   width: 1.2e+2
   connections:
     indexes:
@@ -748,8 +724,8 @@
   text: d8 - below average
   formattingOptions: []
   position:
-  - 4.87554086538448e+2
-  - 3.07541466346187e+2
+  - 4.91667367788448e+2
+  - 3.24455528846187e+2
   width: 1.1e+2
   connections:
     indexes:
@@ -760,8 +736,8 @@
   text: d6 - bad
   formattingOptions: []
   position:
-  - 3.9799879807691e+2
-  - 2.69176081730802e+2
+  - 4.0211207932691e+2
+  - 2.86090144230802e+2
   width: 1.1e+2
   connections:
     indexes:
@@ -772,8 +748,8 @@
   text: d4 - terrible
   formattingOptions: []
   position:
-  - 3.77968749999987e+2
-  - 1.96688100961571e+2
+  - 3.82082031249987e+2
+  - 2.13602163461571e+2
   width: 1.1e+2
   connections:
     indexes:
@@ -839,9 +815,9 @@
       length: 1
   _effectiveHeight: 7e+1
 - ID: 59
-  text: "13-16 - Success is extraordinary, but decidetly possible for skilled characters\n
+  text: "13-16 - Success is extraordinary, but decidedly possible for skilled characters\n
     \   Finding the right item on the first try; someone espionage trained withstanding
-    police interogation"
+    police interrogation"
   formattingOptions:
   - options: 1
     rangeStart: 0
@@ -870,8 +846,8 @@
     rangeStart: 81
     rangeLength: 100
   position:
-  - 1.06676081730769e+3
-  - 1.25551322115384e+3
+  - 1.05262409855769e+3
+  - 1.24947025240384e+3
   width: 2.7e+2
   connections:
     indexes:
@@ -1025,9 +1001,9 @@
   text: Muscle your way in
   formattingOptions: []
   position:
-  - 1.18282752403847e+3
-  - 8.2555829326926e+2
-  width: 1.6e+2
+  - 1.18164393028847e+3
+  - 8.2649579326926e+2
+  width: 1.2e+2
   connections:
     indexes:
     - location: 30
@@ -1115,7 +1091,7 @@
       length: 1
   _effectiveHeight: 2.8e+1
 - ID: 76
-  text: Failure / Success consequences
+  text: StatCheck Failure / Success consequences
   fillColorRGB:
     red: 8.96043e-1
     green: 9.97437e-1
@@ -1123,16 +1099,16 @@
   formattingOptions:
   - options: 1
     rangeStart: 0
-    rangeLength: 30
+    rangeLength: 40
   position:
-  - 9.13161057692302e+1
-  - 9.80780645961506e+2
+  - 4.4862860576923e+2
+  - 9.92960333461506e+2
   width: 2e+2
   connections:
     indexes:
     - location: 81
       length: 8
-  _effectiveHeight: 1.4e+1
+  _effectiveHeight: 2.8e+1
 - ID: 77
   text: 'If roll is >= difficulty, succeeded - narrate with GM the success
 
@@ -1173,7 +1149,7 @@
   position:
   - 1.1039753605769e+3
   - 4.31234374999834e+2
-  width: 1.6e+2
+  width: 1.4e+2
   connections:
     indexes:
     - location: 66
@@ -1183,8 +1159,8 @@
   text: Consequence of a failure are less weighty
   formattingOptions: []
   position:
-  - 1.07941105769229e+3
-  - 3.63863581730604e+2
+  - 1.06114152644229e+3
+  - 3.54738581730604e+2
   width: 1.6e+2
   connections:
     indexes:
@@ -1199,8 +1175,8 @@
     rangeStart: 0
     rangeLength: 13
   position:
-  - 3.16301081730734e+2
-  - 7.85242789999842e+2
+  - 1.65285456730734e+2
+  - 7.94496696249842e+2
   width: 2.2e+2
   connections:
     indexes:
@@ -1214,8 +1190,8 @@
     rangeStart: 0
     rangeLength: 8
   position:
-  - 3.18843149038426e+2
-  - 8.41928485576765e+2
+  - 1.67827524038426e+2
+  - 8.51182391826765e+2
   width: 2.2e+2
   connections:
     indexes:
@@ -1229,8 +1205,8 @@
     rangeStart: 0
     rangeLength: 8
   position:
-  - 3.19858774038427e+2
-  - 8.84076923076785e+2
+  - 1.68843149038427e+2
+  - 8.93330829326785e+2
   width: 2.2e+2
   connections:
     indexes:
@@ -1244,8 +1220,8 @@
     rangeStart: 0
     rangeLength: 2
   position:
-  - 3.20465745192273e+2
-  - 9.27090745192172e+2
+  - 1.69450120192273e+2
+  - 9.36344651442172e+2
   width: 2.2e+2
   connections:
     indexes:
@@ -1260,8 +1236,8 @@
     rangeStart: 0
     rangeLength: 8
   position:
-  - 3.20769230769196e+2
-  - 9.57307091346018e+2
+  - 1.69753605769196e+2
+  - 9.66560997596018e+2
   width: 2.2e+2
   connections:
     indexes:
@@ -1277,8 +1253,8 @@
     rangeStart: 0
     rangeLength: 8
   position:
-  - 3.20426682692273e+2
-  - 1.01404987980751e+3
+  - 1.69411057692273e+2
+  - 1.02330378605751e+3
   width: 2.2e+2
   connections:
     indexes:
@@ -1293,8 +1269,8 @@
     rangeStart: 0
     rangeLength: 10
   position:
-  - 3.20643028846113e+2
-  - 1.11450360576905e+3
+  - 1.69627403846113e+2
+  - 1.12375751201905e+3
   width: 2.2e+2
   connections:
     indexes:
@@ -1309,38 +1285,14 @@
     rangeStart: 0
     rangeLength: 12
   position:
-  - 3.21956129807652e+2
-  - 1.18204266826905e+3
+  - 1.70940504807652e+2
+  - 1.19129657451905e+3
   width: 2.2e+2
   connections:
     indexes:
     - location: 76
       length: 1
   _effectiveHeight: 4.2e+1
-- ID: 89
-  text: ''
-  formattingOptions: []
-  position:
-  - 1.28905949519229e+3
-  - 2.30445853519229e+3
-  width: 1.6e+2
-  connections:
-    indexes:
-    - location: 90
-      length: 1
-  _effectiveHeight: 1.4e+1
-- ID: 90
-  text: ''
-  formattingOptions: []
-  position:
-  - 1.29451923076922e+3
-  - 2.56220192307686e+3
-  width: 1.6e+2
-  connections:
-    indexes:
-    - location: 89
-      length: 1
-  _effectiveHeight: 1.4e+1
 - ID: 91
   text: Combat
   fillColorRGB:
@@ -1411,8 +1363,8 @@
     rangeStart: 0
     rangeLength: 11
   position:
-  - 6.97415865384525e+1
-  - 1.44434435096163e+3
+  - 6.62962740384525e+1
+  - 1.42856700721163e+3
   width: 2.4e+2
   connections:
     indexes:
@@ -1551,14 +1503,14 @@
       length: 1
   _effectiveHeight: 5.6e+1
 - ID: 104
-  text: Results
+  text: Combat Result
   fillColorRGB:
     red: 8.96043e-1
     green: 9.97437e-1
     blue: 9.42763e-1
   formattingOptions: []
   position:
-  - 3.64032451922999e+1
+  - 3.80438701922999e+1
   - 2.01026081730772e+3
   width: 6e+1
   connections:
@@ -1567,7 +1519,7 @@
       length: 1
     - location: 105
       length: 5
-  _effectiveHeight: 1.4e+1
+  _effectiveHeight: 2.8e+1
 - ID: 105
   text: 'Defender >= attacker - Defender narrates the outcome
 
@@ -1614,8 +1566,8 @@
     rangeStart: 0
     rangeLength: 19
   position:
-  - 2.35745192307686e+2
-  - 1.95389362980767e+3
+  - 2.30003004807686e+2
+  - 1.93014362980767e+3
   width: 2.8e+2
   connections:
     indexes:
@@ -1627,15 +1579,15 @@
     they respond. Attacker can alter any of the details as they''re being explained
     then how it fails to prevent harm
 
-    The defender is badly hurt, need professional care immediatel. They''re unconscious
+    The defender is badly hurt, need professional care immediately. They''re unconscious
     and will be badly concussed when they wake up. Bones are broken'
   formattingOptions:
   - options: 1
     rangeStart: 0
     rangeLength: 19
   position:
-  - 2.34681490384608e+2
-  - 2.06789002403839e+3
+  - 2.27072115384608e+2
+  - 2.02825330528839e+3
   width: 2.8e+2
   connections:
     indexes:
@@ -1653,8 +1605,8 @@
     rangeStart: 0
     rangeLength: 17
   position:
-  - 2.37385817307685e+2
-  - 2.1885270448076e+3
+  - 2.15608473557685e+2
+  - 2.1514762635576e+3
   width: 2.9e+2
   connections:
     indexes:
@@ -1684,8 +1636,8 @@
     rangeStart: 0
     rangeLength: 18
   position:
-  - 1.37580468749999e+3
-  - 1.2428425480773e+2
+  - 1.41819140624999e+3
+  - 1.4536237980773e+2
   width: 1.6e+2
   connections:
     indexes:
@@ -1699,8 +1651,8 @@
     rangeStart: 0
     rangeLength: 17
   position:
-  - 1.56116285673075e+3
-  - 1.19464544807719e+2
+  - 1.56110035673075e+3
+  - 1.01105169807719e+2
   width: 1.6e+2
   connections:
     indexes:
@@ -1714,8 +1666,8 @@
     rangeStart: 0
     rangeLength: 59
   position:
-  - 1.64564543269229e+3
-  - 1.54230168269285e+2
+  - 1.65116496394229e+3
+  - 1.46980168269285e+2
   width: 1.6e+2
   connections:
     indexes:
@@ -1729,8 +1681,8 @@
     rangeStart: 0
     rangeLength: 21
   position:
-  - 1.64459975961537e+3
-  - 2.2861117788467e+2
+  - 1.65240444711537e+3
+  - 2.2500570913467e+2
   width: 1.6e+2
   connections:
     indexes:
@@ -1738,14 +1690,14 @@
       length: 1
   _effectiveHeight: 1.4e+1
 - ID: 115
-  text: 4. Answer questions bout your relationships with the other chracters
+  text: 4. Answer questions bout your relationships with the other characters
   formattingOptions:
   - options: 1
     rangeStart: 0
     rangeLength: 68
   position:
-  - 1.61453665865383e+3
-  - 2.77105769230824e+2
+  - 1.63237650240383e+3
+  - 2.71562800480824e+2
   width: 1.6e+2
   connections:
     indexes:
@@ -1759,7 +1711,7 @@
       length: 1
   _effectiveHeight: 4.2e+1
 - ID: 116
-  text: '5. Complete finishing touches: motivatios, fears, backpacks, last name, trop-specific
+  text: '5. Complete finishing touches: motivation, fears, backpacks, last name, trop-specific
     questions'
   formattingOptions:
   - options: 1
@@ -1789,7 +1741,7 @@
       length: 6
   _effectiveHeight: 1.4e+1
 - ID: 118
-  text: 'Strenghts have mehanical advantanges.
+  text: 'Strengths have mechanical advantages.
 
     Flaws help develop character personality.
 
@@ -1848,9 +1800,9 @@
 - ID: 122
   text: 'For character you know:
 
-    * decide if relationship is mostly postive or negative
+    * decide if relationship is mostly positive or negative
 
-    * d20 on list (pg 56  or 57), choose another if question isn''t approprite
+    * d20 on list (pg 56  or 57), choose another if question isn''t appropriate
 
     * cross question off the list'
   formattingOptions:
@@ -1924,7 +1876,7 @@
       length: 3
   _effectiveHeight: 1.4e+1
 - ID: 126
-  text: Each will answer a question about each other chartacter
+  text: Each will answer a question about each other character
   formattingOptions: []
   position:
   - 1.48821153846152e+3
@@ -1937,7 +1889,7 @@
   _effectiveHeight: 2.8e+1
 - ID: 127
   text: "For character you know:\n* if feel mostly positive, d20 and answer question
-    on pg 56\n* if feel mostly negative,d 20 and answer question on pg 57\n* Have
+    on pg 56\n* if feel mostly negative, d20 and answer question on pg 57\n* Have
     them answer a question about you from the other list (e.g. negative if you answered
     positive, \n* cross out the question"
   formattingOptions:

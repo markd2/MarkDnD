@@ -73,8 +73,8 @@
     blue: 9.42763e-1
   formattingOptions: []
   position:
-  - 4.75296875e+2
-  - 3.0968359375e+2
+  - 4.82724330357143e+2
+  - 3.18704241071428e+2
   width: 1.6e+2
   connections:
     indexes:
@@ -371,15 +371,15 @@
       length: 1
   _effectiveHeight: 1.4e+1
 - ID: 22
-  text: EnCom Scientific
+  text: EnCom Scientific Instruments
   fillColorRGB:
     red: 8.96043e-1
     green: 9.97437e-1
     blue: 9.42763e-1
   formattingOptions: []
   position:
-  - 5.1958984375e+2
-  - 5.4147265625e+2
+  - 5.20092075892857e+2
+  - 5.4096484375e+2
   width: 1.6e+2
   connections:
     indexes:
@@ -389,7 +389,7 @@
       length: 1
     - location: 27
       length: 1
-  _effectiveHeight: 1.4e+1
+  _effectiveHeight: 2.8e+1
 - ID: 23
   text: Tallest building in town at 3 stories
   formattingOptions: []
@@ -835,7 +835,7 @@
     - location: 54
       length: 3
     - location: 81
-      length: 2
+      length: 3
   _effectiveHeight: 1.4e+1
 - ID: 52
   text: '"Leave My Dad Alone"'
@@ -867,8 +867,8 @@
   text: 8 bit PC revolution, Mac / Amiga have been out.
   formattingOptions: []
   position:
-  - 5.7028125e+2
-  - 6.338671875e+1
+  - 5.38330915178571e+2
+  - 4.41372767857143e+1
   width: 1.6e+2
   connections:
     indexes:
@@ -880,7 +880,7 @@
   formattingOptions: []
   position:
   - 6.5401953125e+2
-  - 1.1075e+2
+  - 1.18785714285714e+2
   width: 1.6e+2
   connections:
     indexes:
@@ -1211,8 +1211,8 @@
   text: Koosh ball, Rubik's cube, Transformers / masters of the Universe, care bears
   formattingOptions: []
   position:
-  - 3.723828125e+2
-  - 5.390625e+1
+  - 3.605078125e+2
+  - 4.07700892857143e+1
   width: 1.6e+2
   connections:
     indexes:
@@ -1224,11 +1224,27 @@
     latch-key
   formattingOptions: []
   position:
-  - 3.98578125e+2
-  - 1.5484375e+2
+  - 7.35564732142857e+2
+  - 4.66741071428571e+1
   width: 1.6e+2
   connections:
     indexes:
     - location: 51
       length: 1
   _effectiveHeight: 4.2e+1
+- ID: 83
+  text: 'Bon Jovi livin on a prayer, Faith from George Michael,
+
+    Walk like an Egyptian,
+
+    Never gonna Give you Up'
+  formattingOptions: []
+  position:
+  - 3.46314174107147e+2
+  - 1.27950330535777e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 51
+      length: 1
+  _effectiveHeight: 5.6e+1
