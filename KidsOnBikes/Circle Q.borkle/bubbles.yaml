@@ -6,8 +6,8 @@
     blue: 1e+0
   formattingOptions: []
   position:
-  - 1.452421875e+2
-  - 8.398828125e+1
+  - 6.817578125e+1
+  - 6.008203125e+1
   width: 2.7e+2
   connections:
     indexes: []
@@ -18,10 +18,13 @@
     red: 1e+0
     green: 9.0283e-1
     blue: 9.76506e-1
-  formattingOptions: []
+  formattingOptions:
+  - options: 1
+    rangeStart: 0
+    rangeLength: 16
   position:
-  - 3.2456640625e+2
-  - 5.1100390625e+2
+  - 3.5173828125e+2
+  - 4.8892578125e+2
   width: 1.6e+2
   connections:
     indexes:
@@ -120,19 +123,23 @@
     In via neopotism
 
     Basically on the kid''s side'
+  fillColorRGB:
+    red: 8.93993e-1
+    green: 9.92872e-1
+    blue: 1e+0
   formattingOptions:
   - options: 1
     rangeStart: 0
     rangeLength: 12
   position:
-  - 9.6673828125e+2
-  - 6.88203125e+1
+  - 1.007546875e+3
+  - 1.873046875e+1
   width: 1.6e+2
   connections:
     indexes: []
   _effectiveHeight: 7e+1
 - ID: 9
-  text: '(Lt Commander) Grover Kilian
+  text: '(Colonel) Grover Kilian
 
 
     History teacher at Questa Verde High School
@@ -143,38 +150,53 @@
 
 
     Air Force background secret (as is releationship with Mahmoud)'
+  fillColorRGB:
+    red: 8.93993e-1
+    green: 9.92872e-1
+    blue: 1e+0
   formattingOptions:
   - options: 1
     rangeStart: 0
-    rangeLength: 30
+    rangeLength: 25
   position:
-  - 1.0544609375e+3
-  - 1.6696875e+2
+  - 1.5765078125e+3
+  - 1.58125e+1
   width: 1.6e+2
   connections:
     indexes: []
-  _effectiveHeight: 1.54e+2
+  _effectiveHeight: 1.4e+2
 - ID: 10
   text: 'Mr. King
 
     Murder victim
 
     Abusive alcoholic father of one of the local kids'
+  fillColorRGB:
+    red: 8.93993e-1
+    green: 9.92872e-1
+    blue: 1e+0
   formattingOptions:
   - options: 1
     rangeStart: 0
     rangeLength: 9
+  - options: 2
+    rangeStart: 9
+    rangeLength: 13
   position:
-  - 9.77375e+2
-  - 3.5098046875e+2
+  - 1.05275e+3
+  - 5.5640234375e+2
   width: 1.6e+2
   connections:
     indexes:
     - location: 15
       length: 1
+    - location: 58
+      length: 1
+    - location: 79
+      length: 1
   _effectiveHeight: 5.6e+1
 - ID: 11
-  text: '(Colonel) Mahmoud Shariari
+  text: '(Lt. Colonel) Mahmoud Shariari
 
     (or maybe Mansouri)
 
@@ -186,17 +208,25 @@
     Fished out of Iran in 1979 by then Captain Kilian
 
     '
+  fillColorRGB:
+    red: 8.93993e-1
+    green: 9.92872e-1
+    blue: 1e+0
   formattingOptions:
   - options: 1
     rangeStart: 0
-    rangeLength: 27
+    rangeLength: 31
   position:
-  - 9.8441796875e+2
-  - 4.6790625e+2
+  - 1.03313671875e+3
+  - 2.356875e+2
   width: 1.6e+2
   connections:
-    indexes: []
-  _effectiveHeight: 1.12e+2
+    indexes:
+    - location: 63
+      length: 3
+    - location: 68
+      length: 1
+  _effectiveHeight: 1.26e+2
 - ID: 12
   text: '"Storage Locker"
 
@@ -205,68 +235,61 @@
   position:
   - 3.93640625e+2
   - 7.7841796875e+2
-  width: 1.6e+2
+  width: 1.2e+2
   connections:
     indexes:
     - location: 7
       length: 1
     - location: 13
       length: 1
+    - location: 36
+      length: 1
+    - location: 71
+      length: 1
+    - location: 73
+      length: 1
   _effectiveHeight: 2.8e+1
 - ID: 13
   text: nearby shadowy government agency stores its mistakes here
   formattingOptions: []
   position:
-  - 2.75609375e+2
-  - 8.5401171875e+2
+  - 2.5595703125e+2
+  - 8.4903125e+2
   width: 1.6e+2
   connections:
     indexes:
     - location: 12
       length: 1
   _effectiveHeight: 4.2e+1
-- ID: 14
-  text: 'The Wild Man
-
-
-    Haunting the local woods since the 80s.
-
-    Short, hairless, dressed in rags.
-
-    Known for eating small animals, pets, and local game.
-
-    Seems especially interested in the Circle Q.
-
-    Need to get him to his spaceship hidden in the Storage Locker'
-  formattingOptions:
-  - options: 1
-    rangeStart: 0
-    rangeLength: 13
-  position:
-  - 9.9328125e+2
-  - 6.0876171875e+2
-  width: 1.6e+2
-  connections:
-    indexes: []
-  _effectiveHeight: 1.96e+2
 - ID: 15
-  text: Son actually a clone
+  text: Son actually a clone of wild man
   formattingOptions: []
   position:
-  - 1.03248828125e+3
-  - 4.274765625e+2
+  - 1.0060234375e+3
+  - 6.3982421875e+2
   width: 1.6e+2
   connections:
     indexes:
     - location: 10
       length: 1
-  _effectiveHeight: 1.4e+1
+    - location: 48
+      length: 1
+  _effectiveHeight: 2.8e+1
 - ID: 16
   text: Space Killers / Galaxinoid / Galen's Quest (50 cent laser disc game)
-  formattingOptions: []
+  formattingOptions:
+  - options: 1
+    rangeStart: 0
+    rangeLength: 13
+  - options: 1
+    rangeStart: 16
+    rangeLength: 10
+  - options: 1
+    rangeStart: 29
+    rangeLength: 13
   position:
-  - 4.65359375e+2
-  - 6.8089453125e+2
+  - 4.7902734375e+2
+  - 6.7926171875e+2
   width: 1.6e+2
   connections:
     indexes:
@@ -339,9 +362,9 @@
   text: Kinda Grumpy
   formattingOptions: []
   position:
-  - 1.9108203125e+2
-  - 7.5021484375e+2
-  width: 1.6e+2
+  - 1.9084375e+2
+  - 7.499765625e+2
+  width: 1e+2
   connections:
     indexes:
     - location: 17
@@ -383,8 +406,8 @@
   text: Unemployment and alcoholism are prevelant
   formattingOptions: []
   position:
-  - 1.9262890625e+2
-  - 2.8094140625e+2
+  - 1.832890625e+2
+  - 2.5798046875e+2
   width: 1.6e+2
   connections:
     indexes:
@@ -451,8 +474,8 @@
     blue: 9.42763e-1
   formattingOptions: []
   position:
-  - 1.7878515625e+2
-  - 5.264765625e+2
+  - 1.8321875e+2
+  - 5.303984375e+2
   width: 1.1e+2
   connections:
     indexes:
@@ -496,28 +519,716 @@
     Smarter than your average dog, understands complex  sentences
 
     But only barks'
+  fillColorRGB:
+    red: 8.93993e-1
+    green: 9.92872e-1
+    blue: 1e+0
   formattingOptions:
   - options: 1
     rangeStart: 0
     rangeLength: 6
   position:
-  - 9.876015625e+2
-  - 8.5858203125e+2
+  - 1.020296875e+3
+  - 8.44078125e+2
   width: 2.2e+2
   connections:
     indexes:
     - location: 33
       length: 1
+    - location: 40
+      length: 1
+    - location: 44
+      length: 1
+    - location: 46
+      length: 1
+    - location: 77
+      length: 1
+    - location: 80
+      length: 1
   _effectiveHeight: 1.12e+2
 - ID: 33
-  text: Teleportation
+  text: Able to teleport short distances
   formattingOptions: []
   position:
-  - 1.04941796875e+3
-  - 1.00631640625e+3
+  - 9.8262109375e+2
+  - 7.8933203125e+2
+  width: 1.3e+2
+  connections:
+    indexes:
+    - location: 32
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 34
+  text: ''
+  formattingOptions: []
+  position:
+  - 1.5675546875e+3
+  - 9.879609375e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 35
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 35
+  text: ''
+  formattingOptions: []
+  position:
+  - 2.038609375e+3
+  - 9.7839453125e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 34
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 36
+  text: Tubes, cages, miiky fluid. shelves after shelves of objects with labels
+  formattingOptions: []
+  position:
+  - 2.1255078125e+2
+  - 9.375703125e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 12
+      length: 1
+    - location: 78
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 37
+  text: He's quick - d20 FLIGHT
+  formattingOptions: []
+  position:
+  - 9.8198046875e+2
+  - 1.05059765625e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 40
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 38
+  text: Gentle unless provoked
+  formattingOptions: []
+  position:
+  - 1.0206640625e+3
+  - 1.112140625e+3
+  width: 1.4e+2
+  connections:
+    indexes:
+    - location: 40
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 39
+  text: good at hiding
+  formattingOptions: []
+  position:
+  - 1.13355078125e+3
+  - 1.07602734375e+3
+  width: 9e+1
+  connections:
+    indexes:
+    - location: 40
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 40
+  text: Aspects
+  fillColorRGB:
+    red: 8.93993e-1
+    green: 9.92872e-1
+    blue: 1e+0
+  formattingOptions: []
+  position:
+  - 1.14115234375e+3
+  - 1.00458203125e+3
+  width: 6e+1
+  connections:
+    indexes:
+    - location: 32
+      length: 1
+    - location: 37
+      length: 3
+    - location: 41
+      length: 3
+    - location: 45
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 41
+  text: Fascinated by shiny objects
+  formattingOptions: []
+  position:
+  - 1.18844921875e+3
+  - 1.128796875e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 40
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 42
+  text: usually hungry
+  formattingOptions: []
+  position:
+  - 1.2487734375e+3
+  - 1.02718359375e+3
+  width: 9e+1
+  connections:
+    indexes:
+    - location: 40
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 43
+  text: mimics a member of the group
+  formattingOptions: []
+  position:
+  - 1.23408203125e+3
+  - 1.0795390625e+3
+  width: 1.1e+2
+  connections:
+    indexes:
+    - location: 40
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 44
+  text: Able to heal by touching
+  formattingOptions: []
+  position:
+  - 1.265984375e+3
+  - 8.1536328125e+2
   width: 1.6e+2
   connections:
     indexes:
     - location: 32
       length: 1
   _effectiveHeight: 1.4e+1
+- ID: 45
+  text: ignorant of social norms
+  formattingOptions: []
+  position:
+  - 1.238828125e+3
+  - 9.85484375e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 40
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 46
+  text: 7 psychic energy tokens
+  formattingOptions: []
+  position:
+  - 1.28312890625e+3
+  - 8.721328125e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 32
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 47
+  text: Moves with grace
+  formattingOptions: []
+  position:
+  - 1.520015625e+3
+  - 4.7417578125e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 14
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 48
+  text: Jimmy King
+  fillColorRGB:
+    red: 8.93993e-1
+    green: 9.92872e-1
+    blue: 1e+0
+  formattingOptions:
+  - options: 1
+    rangeStart: 0
+    rangeLength: 10
+  position:
+  - 1.04581640625e+3
+  - 7.1169921875e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 15
+      length: 1
+    - location: 52
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 14
+  text: 'The Wild Man
+
+
+    Haunting the local woods since the 80s.
+
+    Tall, hairy, dressed in rags, smells...
+
+    Known for eating small animals, pets, and local game.
+
+    Seems especially interested in the Circle Q.
+
+    (Need to get him to his spaceship hidden in the Storage Locker)
+
+    Science experiment'
+  fillColorRGB:
+    red: 8.93993e-1
+    green: 9.92872e-1
+    blue: 1e+0
+  formattingOptions:
+  - options: 1
+    rangeStart: 0
+    rangeLength: 13
+  position:
+  - 1.2456875e+3
+  - 4.7912890625e+2
+  width: 2.2e+2
+  connections:
+    indexes:
+    - location: 47
+      length: 1
+    - location: 49
+      length: 2
+    - location: 52
+      length: 2
+    - location: 57
+      length: 1
+    - location: 59
+      length: 4
+  _effectiveHeight: 1.54e+2
+- ID: 49
+  text: Can teleport
+  formattingOptions: []
+  position:
+  - 1.540203125e+3
+  - 5.1249609375e+2
+  width: 9e+1
+  connections:
+    indexes:
+    - location: 14
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 50
+  text: Absence of sound around cabin
+  formattingOptions: []
+  position:
+  - 1.5764296875e+3
+  - 5.483515625e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 14
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 51
+  text: '1987'
+  formattingOptions: []
+  position:
+  - 5.3144921875e+2
+  - 1.2308203125e+2
+  width: 7e+1
+  connections:
+    indexes:
+    - location: 54
+      length: 3
+    - location: 81
+      length: 2
+  _effectiveHeight: 1.4e+1
+- ID: 52
+  text: '"Leave My Dad Alone"'
+  formattingOptions: []
+  position:
+  - 1.2458125e+3
+  - 6.66671875e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 14
+      length: 1
+    - location: 48
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 53
+  text: Eyes reflective live a cat's eyes in darkness
+  formattingOptions: []
+  position:
+  - 1.53191796875e+3
+  - 4.1831640625e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 14
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 54
+  text: 8 bit PC revolution, Mac / Amiga have been out.
+  formattingOptions: []
+  position:
+  - 5.7028125e+2
+  - 6.338671875e+1
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 51
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 55
+  text: Regan president
+  formattingOptions: []
+  position:
+  - 6.5401953125e+2
+  - 1.1075e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 51
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 56
+  text: Gorbachev
+  formattingOptions: []
+  position:
+  - 6.4069921875e+2
+  - 1.7136328125e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 51
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 57
+  text: at the CircleQ, "I was ... born made. here. there. Points towards circle Q"  Under.
+    Lab. Science Experiment.
+  formattingOptions: []
+  position:
+  - 1.565375e+3
+  - 5.93125e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 14
+      length: 1
+  _effectiveHeight: 5.6e+1
+- ID: 58
+  text: used to be a scientist at the lab
+  formattingOptions: []
+  position:
+  - 9.7572265625e+2
+  - 4.6671875e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 10
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 59
+  text: When Jimmy Hurt, I hurt
+  formattingOptions: []
+  position:
+  - 1.56711328125e+3
+  - 6.7291015625e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 14
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 60
+  text: Claws / murder weapon
+  formattingOptions: []
+  position:
+  - 1.465921875e+3
+  - 3.8175e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 14
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 61
+  text: Sickness every day.
+  formattingOptions: []
+  position:
+  - 1.5361796875e+3
+  - 7.0775390625e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 14
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 62
+  text: Need medicine from the lab
+  formattingOptions: []
+  position:
+  - 1.50799609375e+3
+  - 7.4523828125e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 14
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 63
+  text: Wild man bristles.  "He Guard. Lab Guard". Entrance inside, he keep
+  formattingOptions: []
+  position:
+  - 9.946640625e+2
+  - 1.554453125e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 11
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 64
+  text: doesn't know Jimmy is a clone.  "That bastard"
+  formattingOptions: []
+  position:
+  - 1.17811328125e+3
+  - 1.920546875e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 11
+      length: 1
+    - location: 66
+      length: 2
+  _effectiveHeight: 2.8e+1
+- ID: 65
+  text: '"placed here to protect this location. Call it a storage locker. when certain
+    programs produce an unwanted resource, it is stored somewhere."'
+  formattingOptions: []
+  position:
+  - 1.22146484375e+3
+  - 3.1384765625e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 11
+      length: 1
+    - location: 69
+      length: 2
+  _effectiveHeight: 8.4e+1
+- ID: 66
+  text: That mutt outside they, before I got here, not as secure. That man, Mister
+    King.
+  formattingOptions: []
+  position:
+  - 1.19202734375e+3
+  - 1.0196875e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 64
+      length: 1
+  _effectiveHeight: 5.6e+1
+- ID: 67
+  text: 'That wild man got out before I got here.
+
+    Tasked with keeping the collection in good shape. He did not do a good job'
+  formattingOptions: []
+  position:
+  - 1.37748828125e+3
+  - 1.585078125e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 64
+      length: 1
+    - location: 76
+      length: 1
+  _effectiveHeight: 7e+1
+- ID: 68
+  text: if you tell anyone I helped you, your family will never been heard from again
+  formattingOptions: []
+  position:
+  - 1.0258203125e+3
+  - 3.971875e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 11
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 69
+  text: FBI? Why did they not inform me?
+  formattingOptions: []
+  position:
+  - 1.2260703125e+3
+  - 2.584296875e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 65
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 70
+  text: I will get your medicine. Bring your dog. Follow me.
+  formattingOptions: []
+  position:
+  - 1.40959375e+3
+  - 3.138203125e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 65
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 71
+  text: Hidden door in soda storage, keypad, long string, long stairway downstairs
+    (metal).  Down 5 or 6 floors
+  formattingOptions: []
+  position:
+  - 4.3308984375e+2
+  - 8.636953125e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 12
+      length: 1
+    - location: 72
+      length: 1
+  _effectiveHeight: 5.6e+1
+- ID: 72
+  text: Hand scanner
+  formattingOptions: []
+  position:
+  - 4.193671875e+2
+  - 9.6067578125e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 71
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 73
+  text: Reason the town exists
+  formattingOptions: []
+  position:
+  - 6.101640625e+2
+  - 8.6366015625e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 12
+      length: 1
+    - location: 74
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 74
+  text: why else whould you live out here.
+  formattingOptions: []
+  position:
+  - 6.331484375e+2
+  - 9.0121875e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 73
+      length: 1
+    - location: 75
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 75
+  text: 'Most are completely unaware.  '
+  formattingOptions: []
+  position:
+  - 6.0786328125e+2
+  - 9.5626171875e+2
+  width: 1.2e+2
+  connections:
+    indexes:
+    - location: 74
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 76
+  text: 'Protocol indicates I should turn you over. But them acting without '
+  formattingOptions: []
+  position:
+  - 1.38721484375e+3
+  - 7.88828125e+1
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 67
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 77
+  text: Telekenisis
+  formattingOptions: []
+  position:
+  - 1.16308984375e+3
+  - 7.797421875e+2
+  width: 7e+1
+  connections:
+    indexes:
+    - location: 32
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 78
+  text: 'Cracked Cylinder (wild man)
+
+    smaler empty cylinder (jimmy)'
+  formattingOptions: []
+  position:
+  - 3.9290625e+2
+  - 1.0369765625e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 36
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 79
+  text: made the drug for Jimmy
+  formattingOptions: []
+  position:
+  - 1.061953125e+3
+  - 5.1519140625e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 10
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 80
+  text: occasionally a droplet of blood
+  formattingOptions: []
+  position:
+  - 1.2801640625e+3
+  - 9.2862890625e+2
+  width: 1.7e+2
+  connections:
+    indexes:
+    - location: 32
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 81
+  text: Koosh ball, Rubik's cube, Transformers / masters of the Universe, care bears
+  formattingOptions: []
+  position:
+  - 3.723828125e+2
+  - 5.390625e+1
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 51
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 82
+  text: Solidly GenX - parents most likely smoked. family station wagon, free-range
+    latch-key
+  formattingOptions: []
+  position:
+  - 3.98578125e+2
+  - 1.5484375e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 51
+      length: 1
+  _effectiveHeight: 4.2e+1

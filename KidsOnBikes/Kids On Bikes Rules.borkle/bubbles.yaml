@@ -4,11 +4,14 @@
     red: 8.93993e-1
     green: 9.92872e-1
     blue: 1e+0
-  formattingOptions: []
+  formattingOptions:
+  - options: 1
+    rangeStart: 0
+    rangeLength: 17
   position:
-  - 1.74015625e+2
-  - 1.947890625e+2
-  width: 1.1e+2
+  - 4.39314903846153e+1
+  - 1.72475360576923e+2
+  width: 1.2e+2
   connections:
     indexes:
     - location: 2
@@ -18,8 +21,8 @@
   text: Introduce early in the first session
   formattingOptions: []
   position:
-  - 1.155e+2
-  - 2.5314453125e+2
+  - -1.0775240384616e+0
+  - 2.5810546875e+2
   width: 1.6e+2
   connections:
     indexes:
@@ -32,8 +35,8 @@
   text: co-controlled by all the players
   formattingOptions: []
   position:
-  - 3.0081640625e+2
-  - 2.1629296875e+2
+  - 1.43650841346153e+1
+  - 1.23925180288462e+2
   width: 1.7e+2
   connections:
     indexes:
@@ -44,8 +47,8 @@
   text: When first introduced, give some traits / aspects (on cards)
   formattingOptions: []
   position:
-  - 7.780859375e+1
-  - 3.254453125e+2
+  - 4.57953725961538e+1
+  - 3.25469350961538e+2
   width: 1.6e+2
   connections:
     indexes:
@@ -58,8 +61,8 @@
   text: Two per player recommended
   formattingOptions: []
   position:
-  - 3.655078125e+1
-  - 4.066640625e+2
+  - 4.53756009615375e+0
+  - 4.06688100961538e+2
   width: 1.7e+2
   connections:
     indexes:
@@ -72,9 +75,9 @@
   text: personality traits
   formattingOptions: []
   position:
-  - 2.39125e+2
-  - 4.32875e+2
-  width: 1.6e+2
+  - 2.11612980769231e+2
+  - 4.22763822115384e+2
+  width: 1e+2
   connections:
     indexes:
     - location: 4
@@ -84,8 +87,8 @@
   text: patterns in their behavior
   formattingOptions: []
   position:
-  - 3.060078125e+2
-  - 3.963203125e+2
+  - 2.48958533653846e+2
+  - 3.68618990384615e+2
   width: 1.6e+2
   connections:
     indexes:
@@ -96,9 +99,9 @@
   text: powers
   formattingOptions: []
   position:
-  - 2.7484765625e+2
-  - 5.1411328125e+2
-  width: 1.6e+2
+  - 2.42651141826923e+2
+  - 5.14317608173077e+2
+  width: 1e+2
   connections:
     indexes:
     - location: 4
@@ -108,8 +111,8 @@
   text: Psychic Energy Tokens
   formattingOptions: []
   position:
-  - 2.5608984375e+2
-  - 3.4054296875e+2
+  - 2.27664362980769e+2
+  - 3.16708834134615e+2
   width: 1.6e+2
   connections:
     indexes:
@@ -122,9 +125,9 @@
   text: Start with 7
   formattingOptions: []
   position:
-  - 3.6630859375e+2
-  - 3.019765625e+2
-  width: 1.6e+2
+  - 1.97387319711538e+2
+  - 2.69828125e+2
+  width: 1e+2
   connections:
     indexes:
     - location: 9
@@ -134,8 +137,8 @@
   text: When an aspect comes up that the player can do, they control the narration
   formattingOptions: []
   position:
-  - 1.34921875e+1
-  - 4.7860546875e+2
+  - -1.85210336538462e+1
+  - 4.78629507211538e+2
   width: 1.6e+2
   connections:
     indexes:
@@ -149,8 +152,8 @@
     '
   formattingOptions: []
   position:
-  - 1.11234375e+2
-  - 5.70453125e+2
+  - 7.92211538461538e+1
+  - 5.70477163461538e+2
   width: 1.6e+2
   connections:
     indexes:
@@ -161,8 +164,8 @@
   text: Game is a sequence of scenes
   formattingOptions: []
   position:
-  - 3.3115234375e+2
-  - 3.373046875e+1
+  - 3.75884915865384e+2
+  - 1.75465745192307e+1
   width: 1.6e+2
   connections:
     indexes:
@@ -173,8 +176,8 @@
   text: No need to slog through uninteresting things, like 9 periods of school
   formattingOptions: []
   position:
-  - 4.064921875e+2
-  - 9.4734375e+1
+  - 4.51224759615384e+2
+  - 7.85504807692307e+1
   width: 1.6e+2
   connections:
     indexes:
@@ -187,8 +190,8 @@
   text: ACTION!
   formattingOptions: []
   position:
-  - 5.6355078125e+2
-  - 4.593359375e+1
+  - 6.08283353365384e+2
+  - 2.97496995192307e+1
   width: 9e+1
   connections:
     indexes:
@@ -199,8 +202,8 @@
   text: EXCITEMENT!
   formattingOptions: []
   position:
-  - 6.2804296875e+2
-  - 8.85234375e+1
+  - 6.72775540865384e+2
+  - 7.23395432692307e+1
   width: 9e+1
   connections:
     indexes:
@@ -211,8 +214,8 @@
   text: INTRIGUE!
   formattingOptions: []
   position:
-  - 6.4212890625e+2
-  - 1.3675e+2
+  - 6.86861478365384e+2
+  - 1.20566105769231e+2
   width: 9e+1
   connections:
     indexes:
@@ -230,8 +233,8 @@
     rangeStart: 0
     rangeLength: 11
   position:
-  - 6.36434495192308e+2
-  - 2.45142728365385e+2
+  - 6.96118990384616e+2
+  - 3.23694411057693e+2
   width: 1.6e+2
   connections:
     indexes:
@@ -244,8 +247,8 @@
   text: Any time you do something with the risk of failure
   formattingOptions: []
   position:
-  - 6.3176171875e+2
-  - 3.006015625e+2
+  - 6.91812800480769e+2
+  - 3.79336538461539e+2
   width: 1.6e+2
   connections:
     indexes:
@@ -258,8 +261,8 @@
   text: GM Sets a difficulty
   formattingOptions: []
   position:
-  - 6.1867578125e+2
-  - 3.56984375e+2
+  - 7.21830829326923e+2
+  - 4.32807692307693e+2
   width: 1.6e+2
   connections:
     indexes:
@@ -272,8 +275,8 @@
   text: Roll the appropriate die and add any modifiers
   formattingOptions: []
   position:
-  - 6.58782752403846e+2
-  - 4.04306790865384e+2
+  - 7.18833834134615e+2
+  - 4.83041766826923e+2
   width: 1.6e+2
   connections:
     indexes:
@@ -292,8 +295,8 @@
     perhaps influenced by external forces
   formattingOptions: []
   position:
-  - 8.37941105769231e+2
-  - 4.41716646634615e+2
+  - 8.979921875e+2
+  - 5.20451622596154e+2
   width: 1.6e+2
   connections:
     indexes:
@@ -311,8 +314,8 @@
     rangeStart: 0
     rangeLength: 15
   position:
-  - 6.17569110576922e+2
-  - 8.51832331730767e+2
+  - 9.56926081730769e+2
+  - 9.45687499999998e+2
   width: 1e+2
   connections:
     indexes:
@@ -325,8 +328,8 @@
   text: ''
   formattingOptions: []
   position:
-  - 1.84551983173077e+3
-  - 1.87364723557692e+3
+  - 2.50932992788462e+3
+  - 1.85746334134615e+3
   width: 1.6e+2
   connections:
     indexes:
@@ -337,8 +340,8 @@
   text: ''
   formattingOptions: []
   position:
-  - 8.98590745192307e+2
-  - 1.88526382211538e+3
+  - 1.2983203125e+3
+  - 2.20776382211538e+3
   width: 1.6e+2
   connections:
     indexes:
@@ -356,8 +359,8 @@
     rangeStart: 0
     rangeLength: 6
   position:
-  - 6.17055288461538e+2
-  - 7.60789662692315e+2
+  - 9.56412259615384e+2
+  - 8.55005407884622e+2
   width: 6e+1
   connections:
     indexes:
@@ -372,8 +375,8 @@
   text: Book Smarts
   formattingOptions: []
   position:
-  - 4.97106370192307e+2
-  - 6.88704326923106e+2
+  - 8.36463341346153e+2
+  - 7.82559495192336e+2
   width: 8e+1
   connections:
     indexes:
@@ -384,8 +387,8 @@
   text: How quickly can solve academic problems
   formattingOptions: []
   position:
-  - 5.58536658653845e+2
-  - 6.20041466346183e+2
+  - 8.97893629807692e+2
+  - 7.13896634615413e+2
   width: 1.3e+2
   connections:
     indexes:
@@ -396,8 +399,8 @@
   text: How well they understand problems
   formattingOptions: []
   position:
-  - 6.69065504807692e+2
-  - 6.6074158653849e+2
+  - 1.00842247596154e+3
+  - 7.54596754807721e+2
   width: 1.6e+2
   connections:
     indexes:
@@ -415,8 +418,8 @@
     rangeStart: 0
     rangeLength: 5
   position:
-  - 7.52067307692307e+2
-  - 7.83103365384644e+2
+  - 1.09142427884615e+3
+  - 8.76958533653875e+2
   width: 6e+1
   connections:
     indexes:
@@ -438,8 +441,8 @@
     rangeStart: 0
     rangeLength: 5
   position:
-  - 7.54221754807692e+2
-  - 9.0165204326926e+2
+  - 1.09357872596154e+3
+  - 9.9550721153849e+2
   width: 6e+1
   connections:
     indexes:
@@ -459,8 +462,8 @@
     rangeStart: 0
     rangeLength: 6
   position:
-  - 7.30057091346153e+2
-  - 9.93181490384644e+2
+  - 1.0694140625e+3
+  - 1.08703665865387e+3
   width: 6e+1
   connections:
     indexes:
@@ -480,8 +483,8 @@
     rangeStart: 0
     rangeLength: 5
   position:
-  - 5.74498197115384e+2
-  - 9.6710877403849e+2
+  - 9.1385516826923e+2
+  - 1.06096394230772e+3
   width: 6e+1
   connections:
     indexes:
@@ -503,8 +506,8 @@
     rangeStart: 0
     rangeLength: 4
   position:
-  - 4.8256610576923e+2
-  - 8.37096754807721e+2
+  - 8.21923076923076e+2
+  - 9.30951923076952e+2
   width: 6e+1
   connections:
     indexes:
@@ -517,8 +520,8 @@
   text: Brute Strength
   formattingOptions: []
   position:
-  - 7.40724158653846e+2
-  - 7.31066105769261e+2
+  - 1.08008112980769e+3
+  - 8.24921274038491e+2
   width: 9e+1
   connections:
     indexes:
@@ -529,8 +532,8 @@
   text: How much can lift or how much damage they can take
   formattingOptions: []
   position:
-  - 8.47923677884615e+2
-  - 7.74894230769261e+2
+  - 1.18728064903846e+3
+  - 8.68749399038492e+2
   width: 1.6e+2
   connections:
     indexes:
@@ -541,8 +544,8 @@
   text: Physical Intimidation
   formattingOptions: []
   position:
-  - 8.31418269230769e+2
-  - 8.26282451923107e+2
+  - 1.17077524038461e+3
+  - 9.20137620192338e+2
   width: 1.2e+2
   connections:
     indexes:
@@ -553,8 +556,8 @@
   text: How good a combatant
   formattingOptions: []
   position:
-  - 8.32587139423076e+2
-  - 8.82568509615415e+2
+  - 1.17194411057692e+3
+  - 9.76423677884645e+2
   width: 1.6e+2
   connections:
     indexes:
@@ -565,8 +568,8 @@
   text: Can learn combat / weapons easier
   formattingOptions: []
   position:
-  - 8.29663461538461e+2
-  - 9.255703117308e+2
+  - 1.16902043269231e+3
+  - 1.01942548000003e+3
   width: 1.6e+2
   connections:
     indexes:
@@ -577,8 +580,8 @@
   text: How fast they are
   formattingOptions: []
   position:
-  - 6.85438701923076e+2
-  - 1.0545276442308e+3
+  - 1.02479567307692e+3
+  - 1.14838281250003e+3
   width: 1.1e+2
   connections:
     indexes:
@@ -589,8 +592,8 @@
   text: How skilled at evading problems
   formattingOptions: []
   position:
-  - 8.26165865384615e+2
-  - 1.02836478365388e+3
+  - 1.16552283653846e+3
+  - 1.12221995192311e+3
   width: 1.2e+2
   connections:
     indexes:
@@ -603,8 +606,8 @@
   text: litrally and figuratively
   formattingOptions: []
   position:
-  - 8.03662860576923e+2
-  - 1.10426622596157e+3
+  - 1.14301983173077e+3
+  - 1.1981213942308e+3
   width: 1.3e+2
   connections:
     indexes:
@@ -615,8 +618,8 @@
   text: Social Adeptness
   formattingOptions: []
   position:
-  - 4.44525240384615e+2
-  - 9.28178484807729e+2
+  - 7.83882211538461e+2
+  - 1.02203365307696e+3
   width: 1e+2
   connections:
     indexes:
@@ -627,8 +630,8 @@
   text: How good at reading emotions
   formattingOptions: []
   position:
-  - 5.01929086538461e+2
-  - 1.02420011942314e+3
+  - 8.41286057692307e+2
+  - 1.11805528769237e+3
   width: 1.2e+2
   connections:
     indexes:
@@ -642,8 +645,8 @@
     rangeStart: 57
     rangeLength: 8
   position:
-  - 3.77256610576922e+2
-  - 9.60912860576989e+2
+  - 7.16613581730769e+2
+  - 1.05476802884622e+3
   width: 1.6e+2
   connections:
     indexes:
@@ -654,8 +657,8 @@
   text: How hard to break emotionally or physically
   formattingOptions: []
   position:
-  - 3.65624999999999e+2
-  - 7.63448918269297e+2
+  - 7.04981971153846e+2
+  - 8.57304086538528e+2
   width: 1.6e+2
   connections:
     indexes:
@@ -666,8 +669,8 @@
   text: High grits able to keep a level head in the worst situations
   formattingOptions: []
   position:
-  - 3.20570913461538e+2
-  - 8.16324518461604e+2
+  - 6.59927884615384e+2
+  - 9.10179686730835e+2
   width: 1.4e+2
   connections:
     indexes:
@@ -678,8 +681,8 @@
   text: Street-smarts too
   formattingOptions: []
   position:
-  - 3.65513822115384e+2
-  - 8.81225360576983e+2
+  - 7.0487079326923e+2
+  - 9.75080528846213e+2
   width: 1.1e+2
   connections:
     indexes:
@@ -697,8 +700,8 @@
     rangeStart: 0
     rangeLength: 8
   position:
-  - 4.27959735576924e+2
-  - 1.18301021634621e+3
+  - 5.07824519230756e+2
+  - 2.20870793269292e+2
   width: 6e+1
   connections:
     indexes:
@@ -709,8 +712,8 @@
   text: d20 - Superb
   formattingOptions: []
   position:
-  - 4.46385216346155e+2
-  - 1.11165204250006e+3
+  - 5.26249999999987e+2
+  - 1.50245792500067e+2
   width: 1.1e+2
   connections:
     indexes:
@@ -721,8 +724,8 @@
   text: d12 - impressive
   formattingOptions: []
   position:
-  - 5.13013822115386e+2
-  - 1.15222596153849e+3
+  - 5.92878605769218e+2
+  - 1.90819711538495e+2
   width: 1.1e+2
   connections:
     indexes:
@@ -733,8 +736,8 @@
   text: d10 - above average
   formattingOptions: []
   position:
-  - 5.08551682692309e+2
-  - 1.21563942307695e+3
+  - 5.88416466346141e+2
+  - 2.54233173076956e+2
   width: 1.2e+2
   connections:
     indexes:
@@ -745,8 +748,8 @@
   text: d8 - below average
   formattingOptions: []
   position:
-  - 4.07689302884616e+2
-  - 1.26894771634618e+3
+  - 4.87554086538448e+2
+  - 3.07541466346187e+2
   width: 1.1e+2
   connections:
     indexes:
@@ -757,8 +760,8 @@
   text: d6 - bad
   formattingOptions: []
   position:
-  - 3.18134014423078e+2
-  - 1.2305823317308e+3
+  - 3.9799879807691e+2
+  - 2.69176081730802e+2
   width: 1.1e+2
   connections:
     indexes:
@@ -769,8 +772,8 @@
   text: d4 - terrible
   formattingOptions: []
   position:
-  - 2.98103966346155e+2
-  - 1.15809435096157e+3
+  - 3.77968749999987e+2
+  - 1.96688100961571e+2
   width: 1.1e+2
   connections:
     indexes:
@@ -788,8 +791,8 @@
     rangeStart: 0
     rangeLength: 17
   position:
-  - 6.59411057692309e+2
-  - 1.52832271326921e+3
+  - 1.01572415865385e+3
+  - 1.42585576615383e+3
   width: 1.1e+2
   connections:
     indexes:
@@ -807,8 +810,8 @@
     rangeStart: 85
     rangeLength: 29
   position:
-  - 4.15366586538463e+2
-  - 1.3933407451923e+3
+  - 7.71319110576924e+2
+  - 1.29124038461538e+3
   width: 2.7e+2
   connections:
     indexes:
@@ -827,8 +830,8 @@
     rangeStart: 78
     rangeLength: 112
   position:
-  - 3.63716947115386e+2
-  - 1.49011959134615e+3
+  - 7.19669471153847e+2
+  - 1.38801923076923e+3
   width: 2.7e+2
   connections:
     indexes:
@@ -847,8 +850,8 @@
     rangeStart: 80
     rangeLength: 103
   position:
-  - 4.18620793269232e+2
-  - 1.611390625e+3
+  - 7.74573317307693e+2
+  - 1.50929026442307e+3
   width: 2.7e+2
   connections:
     indexes:
@@ -867,8 +870,8 @@
     rangeStart: 81
     rangeLength: 100
   position:
-  - 7.10808293269232e+2
-  - 1.35761358173077e+3
+  - 1.06676081730769e+3
+  - 1.25551322115384e+3
   width: 2.7e+2
   connections:
     indexes:
@@ -887,8 +890,8 @@
     rangeStart: 92
     rangeLength: 144
   position:
-  - 7.97226562500002e+2
-  - 1.45137860576924e+3
+  - 1.15317908653846e+3
+  - 1.34927824519232e+3
   width: 2.7e+2
   connections:
     indexes:
@@ -907,8 +910,8 @@
     rangeStart: 99
     rangeLength: 94
   position:
-  - 7.91811899038464e+2
-  - 1.55248437192311e+3
+  - 1.14776442307692e+3
+  - 1.45038401134618e+3
   width: 2.7e+2
   connections:
     indexes:
@@ -926,8 +929,8 @@
     rangeStart: 64
     rangeLength: 88
   position:
-  - 7.34543269230771e+2
-  - 1.63294411057695e+3
+  - 1.09049579326923e+3
+  - 1.53084375000003e+3
   width: 2.7e+2
   connections:
     indexes:
@@ -938,8 +941,8 @@
   text: Deceit and Lying
   formattingOptions: []
   position:
-  - 3.83554687500002e+2
-  - 1.03926922769229e+3
+  - 7.22911658653848e+2
+  - 1.13312439596152e+3
   width: 1e+2
   connections:
     indexes:
@@ -957,8 +960,8 @@
     rangeStart: 0
     rangeLength: 15
   position:
-  - 8.58112980769233e+2
-  - 2.4128846153845e+2
+  - 9.18164062500002e+2
+  - 3.20023437499989e+2
   width: 1e+2
   connections:
     indexes:
@@ -982,8 +985,8 @@
     rangeStart: 0
     rangeLength: 14
   position:
-  - 8.60871394230772e+2
-  - 2.77529447115373e+2
+  - 9.20922475961541e+2
+  - 3.56264423076912e+2
   width: 1e+2
   connections:
     indexes:
@@ -998,8 +1001,8 @@
   text: Have time to think about the best course of action and work with your friends
   formattingOptions: []
   position:
-  - 7.72659254807695e+2
-  - 1.64638822115373e+2
+  - 8.32710336538464e+2
+  - 2.43373798076912e+2
   width: 1.6e+2
   connections:
     indexes:
@@ -1010,8 +1013,8 @@
   text: Choices made quickly under bad conditions or under pressure
   formattingOptions: []
   position:
-  - 8.41868990384618e+2
-  - 3.28139423076912e+2
+  - 9.03001802884618e+2
+  - 4.0692548076922e+2
   width: 1.6e+2
   connections:
     indexes:
@@ -1022,8 +1025,8 @@
   text: Muscle your way in
   formattingOptions: []
   position:
-  - 8.4347055288462e+2
-  - 7.3170312500003e+2
+  - 1.18282752403847e+3
+  - 8.2555829326926e+2
   width: 1.6e+2
   connections:
     indexes:
@@ -1034,8 +1037,8 @@
   text: Crack the safe
   formattingOptions: []
   position:
-  - 5.28125000000005e+2
-  - 6.6294110576926e+2
+  - 8.67481971153851e+2
+  - 7.56796274038491e+2
   width: 9e+1
   connections:
     indexes:
@@ -1046,8 +1049,8 @@
   text: Can take half value of stat die.
   formattingOptions: []
   position:
-  - 9.72016225961543e+2
-  - 1.39560697115409e+2
+  - 1.04716346153847e+3
+  - 2.28773437500025e+2
   width: 1.4e+2
   connections:
     indexes:
@@ -1061,8 +1064,8 @@
     without rolling
   formattingOptions: []
   position:
-  - 9.84936899038466e+2
-  - 2.10260814230801e+2
+  - 1.04498798076924e+3
+  - 2.8899579019234e+2
   width: 1.6e+2
   connections:
     indexes:
@@ -1077,8 +1080,8 @@
     Adults: +1 Grit, +1 Brains'
   formattingOptions: []
   position:
-  - 4.54978966346159e+2
-  - 4.42511418269262e+2
+  - 5.14269831730774e+2
+  - 5.38370793269262e+2
   width: 1.7e+2
   connections:
     indexes:
@@ -1089,20 +1092,22 @@
   text: Can spend adversity tokens, each token being a +1
   formattingOptions: []
   position:
-  - 4.86084735576928e+2
-  - 3.902307692308e+2
+  - 5.33849158653852e+2
+  - 4.257776442308e+2
   width: 1.6e+2
   connections:
     indexes:
     - location: 21
+      length: 1
+    - location: 110
       length: 1
   _effectiveHeight: 2.8e+1
 - ID: 75
   text: Can transfer adversity tokens
   formattingOptions: []
   position:
-  - 8.42773437500006e+2
-  - 1.11003004807723e+2
+  - 9.02824519230775e+2
+  - 1.89737980769262e+2
   width: 1.3e+2
   connections:
     indexes:
@@ -1120,8 +1125,8 @@
     rangeStart: 0
     rangeLength: 30
   position:
-  - 8.714453125e+2
-  - 1.18949158346151e+3
+  - 9.13161057692302e+1
+  - 9.80780645961506e+2
   width: 2e+2
   connections:
     indexes:
@@ -1142,8 +1147,8 @@
     rangeStart: 70
     rangeLength: 20
   position:
-  - 6.02695312499981e+2
-  - 5.02541467884448e+2
+  - 6.66000600961519e+2
+  - 5.97721756345987e+2
   width: 2.1e+2
   connections:
     indexes:
@@ -1154,8 +1159,8 @@
   text: Cannot take half value
   formattingOptions: []
   position:
-  - 9.93701923076904e+2
-  - 4.03737379807526e+2
+  - 1.05375300480767e+3
+  - 4.82472355769065e+2
   width: 1.6e+2
   connections:
     indexes:
@@ -1166,8 +1171,8 @@
   text: Can't transfer adversity tokens
   formattingOptions: []
   position:
-  - 1.04392427884613e+3
-  - 3.52499399038295e+2
+  - 1.1039753605769e+3
+  - 4.31234374999834e+2
   width: 1.6e+2
   connections:
     indexes:
@@ -1178,8 +1183,8 @@
   text: Consequence of a failure are less weighty
   formattingOptions: []
   position:
-  - 1.01935997596152e+3
-  - 2.85128605769065e+2
+  - 1.07941105769229e+3
+  - 3.63863581730604e+2
   width: 1.6e+2
   connections:
     indexes:
@@ -1194,8 +1199,8 @@
     rangeStart: 0
     rangeLength: 13
   position:
-  - 1.0964302884615e+3
-  - 9.93953727499842e+2
+  - 3.16301081730734e+2
+  - 7.85242789999842e+2
   width: 2.2e+2
   connections:
     indexes:
@@ -1209,8 +1214,8 @@
     rangeStart: 0
     rangeLength: 8
   position:
-  - 1.0989723557692e+3
-  - 1.05063942307676e+3
+  - 3.18843149038426e+2
+  - 8.41928485576765e+2
   width: 2.2e+2
   connections:
     indexes:
@@ -1224,8 +1229,8 @@
     rangeStart: 0
     rangeLength: 8
   position:
-  - 1.0999879807692e+3
-  - 1.09278786057678e+3
+  - 3.19858774038427e+2
+  - 8.84076923076785e+2
   width: 2.2e+2
   connections:
     indexes:
@@ -1239,8 +1244,8 @@
     rangeStart: 0
     rangeLength: 2
   position:
-  - 1.10059495192304e+3
-  - 1.13580168269217e+3
+  - 3.20465745192273e+2
+  - 9.27090745192172e+2
   width: 2.2e+2
   connections:
     indexes:
@@ -1255,8 +1260,8 @@
     rangeStart: 0
     rangeLength: 8
   position:
-  - 1.10089843749997e+3
-  - 1.16601802884602e+3
+  - 3.20769230769196e+2
+  - 9.57307091346018e+2
   width: 2.2e+2
   connections:
     indexes:
@@ -1272,8 +1277,8 @@
     rangeStart: 0
     rangeLength: 8
   position:
-  - 1.10055588942304e+3
-  - 1.22276081730751e+3
+  - 3.20426682692273e+2
+  - 1.01404987980751e+3
   width: 2.2e+2
   connections:
     indexes:
@@ -1288,8 +1293,8 @@
     rangeStart: 0
     rangeLength: 10
   position:
-  - 1.10077223557688e+3
-  - 1.32321454326905e+3
+  - 3.20643028846113e+2
+  - 1.11450360576905e+3
   width: 2.2e+2
   connections:
     indexes:
@@ -1304,11 +1309,740 @@
     rangeStart: 0
     rangeLength: 12
   position:
-  - 1.10208533653842e+3
-  - 1.39075360576905e+3
+  - 3.21956129807652e+2
+  - 1.18204266826905e+3
   width: 2.2e+2
   connections:
     indexes:
     - location: 76
       length: 1
   _effectiveHeight: 4.2e+1
+- ID: 89
+  text: ''
+  formattingOptions: []
+  position:
+  - 1.28905949519229e+3
+  - 2.30445853519229e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 90
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 90
+  text: ''
+  formattingOptions: []
+  position:
+  - 1.29451923076922e+3
+  - 2.56220192307686e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 89
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 91
+  text: Combat
+  fillColorRGB:
+    red: 8.96043e-1
+    green: 9.97437e-1
+    blue: 9.42763e-1
+  formattingOptions:
+  - options: 1
+    rangeStart: 0
+    rangeLength: 6
+  position:
+  - 3.402674278846e+2
+  - 1.51887259615379e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 92
+      length: 1
+    - location: 94
+      length: 4
+    - location: 99
+      length: 1
+    - location: 104
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 92
+  text: functions like other stat checks
+  formattingOptions: []
+  position:
+  - 3.22166466346144e+2
+  - 1.4458016826924e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 91
+      length: 1
+    - location: 93
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 93
+  text: Sometimes rolling against another character to determine success
+  formattingOptions: []
+  position:
+  - 3.67947716346145e+2
+  - 1.36778185096163e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 92
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 94
+  text: 'You Could:
+
+    * stand firm an take hit (Brawn)
+
+    * attack first (Fight)
+
+    * Talk the attacker out of it (difficult Charm)
+
+    * Intimidate attacker (Brawn, difficult Grit)
+
+    * Run (Flight)
+
+    * Stand ground and dodge (difficult Fight)'
+  formattingOptions:
+  - options: 1
+    rangeStart: 0
+    rangeLength: 11
+  position:
+  - 6.97415865384525e+1
+  - 1.44434435096163e+3
+  width: 2.4e+2
+  connections:
+    indexes:
+    - location: 91
+      length: 1
+  _effectiveHeight: 9.8e+1
+- ID: 95
+  text: 'Between players must be consensual '
+  formattingOptions: []
+  position:
+  - 5.01929086538452e+2
+  - 1.46287500153855e+3
+  width: 1.3e+2
+  connections:
+    indexes:
+    - location: 91
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 96
+  text: Physical Damage
+  fillColorRGB:
+    red: 1e+0
+    green: 9.0283e-1
+    blue: 9.76506e-1
+  formattingOptions: []
+  position:
+  - 1.75189302884606e+2
+  - 1.57078966500012e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 91
+      length: 1
+    - location: 98
+      length: 1
+    - location: 102
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 97
+  text: Projectile Damage
+  fillColorRGB:
+    red: 1e+0
+    green: 9.0283e-1
+    blue: 9.76506e-1
+  formattingOptions: []
+  position:
+  - 2.9868389423076e+2
+  - 1.62035997596166e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 91
+      length: 1
+    - location: 101
+      length: 1
+    - location: 103
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 98
+  text: fistfight, knives, bats
+  formattingOptions: []
+  position:
+  - 5.09405048076832e+1
+  - 1.60056730769243e+3
+  width: 1.3e+2
+  connections:
+    indexes:
+    - location: 96
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 99
+  text: 'consequences: there are no safe fights - any time physical conflict occurs,
+    a character might die or be injured'
+  formattingOptions: []
+  position:
+  - 4.79819711538452e+2
+  - 1.5589387019232e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 91
+      length: 1
+    - location: 100
+      length: 1
+  _effectiveHeight: 7e+1
+- ID: 100
+  text: There are no pulled punches or called shots
+  formattingOptions: []
+  position:
+  - 4.83356370192298e+2
+  - 1.67500240384628e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 99
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 101
+  text: guns. also rocks, bows/arrows
+  formattingOptions: []
+  position:
+  - 2.45096153846144e+2
+  - 1.65232812500013e+3
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 97
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 102
+  text: 'Roll attacker''s Fight against defender''s Brawn (stay and fight back) or
+    Flight (run away!)
+
+    Roll separate attack and defense for each character'
+  formattingOptions: []
+  position:
+  - 5.95492788461446e+1
+  - 1.63410697115397e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 96
+      length: 1
+  _effectiveHeight: 8.4e+1
+- ID: 103
+  text: Roll attacker's Fight against defender's stat, e.g. Flight (diving out of
+    the way) or Brawn (taking the shot)
+  formattingOptions: []
+  position:
+  - 2.86240985576914e+2
+  - 1.69627944711551e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 97
+      length: 1
+  _effectiveHeight: 5.6e+1
+- ID: 104
+  text: Results
+  fillColorRGB:
+    red: 8.96043e-1
+    green: 9.97437e-1
+    blue: 9.42763e-1
+  formattingOptions: []
+  position:
+  - 3.64032451922999e+1
+  - 2.01026081730772e+3
+  width: 6e+1
+  connections:
+    indexes:
+    - location: 91
+      length: 1
+    - location: 105
+      length: 5
+  _effectiveHeight: 1.4e+1
+- ID: 105
+  text: 'Defender >= attacker - Defender narrates the outcome
+
+    Defender is uninjured'
+  formattingOptions:
+  - options: 1
+    rangeStart: 0
+    rangeLength: 20
+  position:
+  - 2.35204326923069e+2
+  - 1.79468088942307e+3
+  width: 2.8e+2
+  connections:
+    indexes:
+    - location: 104
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 106
+  text: 'attacker > by 1 - 3 - attacker explains how they attack, defender narrates
+    what they do to mitigate the harm
+
+    defender is hurt, but only temporarily'
+  formattingOptions:
+  - options: 1
+    rangeStart: 0
+    rangeLength: 19
+  position:
+  - 2.36150841346147e+2
+  - 1.85110216346151e+3
+  width: 2.8e+2
+  connections:
+    indexes:
+    - location: 104
+      length: 1
+  _effectiveHeight: 5.6e+1
+- ID: 107
+  text: 'attacker > by 4 - 6 - Attacker explains the attack, defender explains respond.
+    Attacker then explains how this barely mitigates the harm
+
+    defender is fairly hurt, need medical attention soon before it causes permanent
+    damage. Dazed / concussed'
+  formattingOptions:
+  - options: 1
+    rangeStart: 0
+    rangeLength: 19
+  position:
+  - 2.35745192307686e+2
+  - 1.95389362980767e+3
+  width: 2.8e+2
+  connections:
+    indexes:
+    - location: 104
+      length: 1
+  _effectiveHeight: 8.4e+1
+- ID: 108
+  text: 'attacker > by 7 - 9 - attacker explains their attack, defender explains how
+    they respond. Attacker can alter any of the details as they''re being explained
+    then how it fails to prevent harm
+
+    The defender is badly hurt, need professional care immediatel. They''re unconscious
+    and will be badly concussed when they wake up. Bones are broken'
+  formattingOptions:
+  - options: 1
+    rangeStart: 0
+    rangeLength: 19
+  position:
+  - 2.34681490384608e+2
+  - 2.06789002403839e+3
+  width: 2.8e+2
+  connections:
+    indexes:
+    - location: 104
+      length: 1
+  _effectiveHeight: 9.8e+1
+- ID: 109
+  text: 'Attacker > by 10+ - Attacker has full control over the narrative.  Explain
+    what the defender does in response to the attack, and how ineffective it is
+
+    The defender is dead or quite nearly dead, beaten so badly that only immediate
+    medical attention can help, but will be permanent effects'
+  formattingOptions:
+  - options: 1
+    rangeStart: 0
+    rangeLength: 17
+  position:
+  - 2.37385817307685e+2
+  - 2.1885270448076e+3
+  width: 2.9e+2
+  connections:
+    indexes:
+    - location: 104
+      length: 1
+  _effectiveHeight: 8.4e+1
+- ID: 110
+  text: c.f. page 60 for modifiers based on strengths
+  formattingOptions: []
+  position:
+  - 5.13605765384599e+2
+  - 4.73343751538384e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 74
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 111
+  text: Character Creation
+  fillColorRGB:
+    red: 8.93993e-1
+    green: 9.92872e-1
+    blue: 1e+0
+  formattingOptions:
+  - options: 1
+    rangeStart: 0
+    rangeLength: 18
+  position:
+  - 1.37580468749999e+3
+  - 1.2428425480773e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 117
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 112
+  text: 1. Select a trope
+  formattingOptions:
+  - options: 1
+    rangeStart: 0
+    rangeLength: 17
+  position:
+  - 1.56116285673075e+3
+  - 1.19464544807719e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 117
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 113
+  text: '2. make trope selections: age, strengths, flaws, first name'
+  formattingOptions:
+  - options: 1
+    rangeStart: 0
+    rangeLength: 59
+  position:
+  - 1.64564543269229e+3
+  - 1.54230168269285e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 117
+      length: 2
+  _effectiveHeight: 4.2e+1
+- ID: 114
+  text: 3. introduce yourself
+  formattingOptions:
+  - options: 1
+    rangeStart: 0
+    rangeLength: 21
+  position:
+  - 1.64459975961537e+3
+  - 2.2861117788467e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 117
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 115
+  text: 4. Answer questions bout your relationships with the other chracters
+  formattingOptions:
+  - options: 1
+    rangeStart: 0
+    rangeLength: 68
+  position:
+  - 1.61453665865383e+3
+  - 2.77105769230824e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 117
+      length: 1
+    - location: 120
+      length: 1
+    - location: 124
+      length: 2
+    - location: 129
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 116
+  text: '5. Complete finishing touches: motivatios, fears, backpacks, last name, trop-specific
+    questions'
+  formattingOptions:
+  - options: 1
+    rangeStart: 0
+    rangeLength: 95
+  position:
+  - 1.41961778846152e+3
+  - 2.22574519230823e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 117
+      length: 1
+    - location: 131
+      length: 3
+  _effectiveHeight: 5.6e+1
+- ID: 117
+  text: Process overview
+  formattingOptions: []
+  position:
+  - 1.46894170673075e+3
+  - 1.76946514423131e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 111
+      length: 6
+  _effectiveHeight: 1.4e+1
+- ID: 118
+  text: 'Strenghts have mehanical advantanges.
+
+    Flaws help develop character personality.
+
+    Choose 2 each'
+  formattingOptions: []
+  position:
+  - 1.85470793269229e+3
+  - 1.36706129807747e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 113
+      length: 1
+    - location: 119
+      length: 1
+  _effectiveHeight: 7e+1
+- ID: 119
+  text: either from trope sheet, or page 59 (strengths) or 62 (flaws)
+  formattingOptions: []
+  position:
+  - 1.86395673076922e+3
+  - 6.3848557692362e+1
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 118
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 120
+  text: based on what you hear during introductions
+  formattingOptions: []
+  position:
+  - 1.84535396634614e+3
+  - 3.23409855769285e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 115
+      length: 1
+    - location: 121
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 121
+  text: (Can circles up some NPCs here too - parents, siblings, rivals, authority
+    figures, etc)
+  formattingOptions: []
+  position:
+  - 1.85049218749998e+3
+  - 2.55888822115439e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 120
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 122
+  text: 'For character you know:
+
+    * decide if relationship is mostly postive or negative
+
+    * d20 on list (pg 56  or 57), choose another if question isn''t approprite
+
+    * cross question off the list'
+  formattingOptions:
+  - options: 2
+    rangeStart: 0
+    rangeLength: 24
+  position:
+  - 1.84605408653845e+3
+  - 3.8181430288467e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 124
+      length: 1
+  _effectiveHeight: 9.8e+1
+- ID: 123
+  text: 'For character you don''t know:
+
+    * d20 on list pg 58
+
+    * chose another if not appropriate
+
+    * cross question off the list'
+  formattingOptions:
+  - options: 2
+    rangeStart: 0
+    rangeLength: 30
+  position:
+  - 1.82880949519229e+3
+  - 5.29125000000054e+2
+  width: 1.8e+2
+  connections:
+    indexes:
+    - location: 124
+      length: 1
+  _effectiveHeight: 7e+1
+- ID: 124
+  text: Quickstart
+  fillColorRGB:
+    red: 8.96043e-1
+    green: 9.97437e-1
+    blue: 9.42763e-1
+  formattingOptions: []
+  position:
+  - 1.73459374999999e+3
+  - 3.67640625000054e+2
+  width: 7e+1
+  connections:
+    indexes:
+    - location: 115
+      length: 1
+    - location: 122
+      length: 2
+  _effectiveHeight: 1.4e+1
+- ID: 125
+  text: One-Sided Questions
+  fillColorRGB:
+    red: 8.96043e-1
+    green: 9.97437e-1
+    blue: 9.42763e-1
+  formattingOptions: []
+  position:
+  - 1.57299819711537e+3
+  - 4.95588341346211e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 115
+      length: 1
+    - location: 126
+      length: 3
+  _effectiveHeight: 1.4e+1
+- ID: 126
+  text: Each will answer a question about each other chartacter
+  formattingOptions: []
+  position:
+  - 1.48821153846152e+3
+  - 4.38421875000057e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 125
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 127
+  text: "For character you know:\n* if feel mostly positive, d20 and answer question
+    on pg 56\n* if feel mostly negative,d 20 and answer question on pg 57\n* Have
+    them answer a question about you from the other list (e.g. negative if you answered
+    positive, \n* cross out the question"
+  formattingOptions:
+  - options: 2
+    rangeStart: 0
+    rangeLength: 24
+  position:
+  - 1.42119531249999e+3
+  - 5.48427884615442e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 125
+      length: 1
+  _effectiveHeight: 1.68e+2
+- ID: 128
+  text: 'For character you don''t know:
+
+    * d20 and answer question from page 58
+
+    * cross off question
+
+    * have them answer a question about you from the same list
+
+    * cross that one out'
+  formattingOptions:
+  - options: 2
+    rangeStart: 0
+    rangeLength: 30
+  position:
+  - 1.61784795673075e+3
+  - 5.74743990384673e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 125
+      length: 1
+  _effectiveHeight: 1.26e+2
+- ID: 129
+  text: Complete Questions
+  fillColorRGB:
+    red: 8.96043e-1
+    green: 9.97437e-1
+    blue: 9.42763e-1
+  formattingOptions: []
+  position:
+  - 1.42570853365383e+3
+  - 3.16210336538519e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 115
+      length: 1
+    - location: 130
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 130
+  text: on page 20.  2x questions about each character they know, and 1x about one
+    they don't know
+  formattingOptions: []
+  position:
+  - 1.4629080528846e+3
+  - 3.43085336538519e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 129
+      length: 1
+  _effectiveHeight: 5.6e+1
+- ID: 131
+  text: 'motivation: something that strongly motivates you, things that can drive
+    most of your decisions'
+  formattingOptions: []
+  position:
+  - 1.22227704326921e+3
+  - 1.44626802884674e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 116
+      length: 1
+  _effectiveHeight: 5.6e+1
+- ID: 132
+  text: 'Fears: what scares you.  There could be mechanical effects'
+  formattingOptions: []
+  position:
+  - 1.23533052499998e+3
+  - 2.1926923230774e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 116
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 133
+  text: 'Backpack: what items never without.  What tangible and intangible resources
+    do you have (flashlights, walkie talkies, swiss army knife, boy-scout guide, lucky
+    Weeble, etc)'
+  formattingOptions: []
+  position:
+  - 1.24957872596152e+3
+  - 2.93593149038504e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 116
+      length: 1
+  _effectiveHeight: 9.8e+1
