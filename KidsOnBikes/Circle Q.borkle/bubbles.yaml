@@ -132,7 +132,7 @@
     rangeStart: 0
     rangeLength: 12
   position:
-  - 1.007546875e+3
+  - 1.25906321022727e+3
   - 1.873046875e+1
   width: 1.6e+2
   connections:
@@ -159,7 +159,7 @@
     rangeStart: 0
     rangeLength: 25
   position:
-  - 1.5765078125e+3
+  - 1.82802414772727e+3
   - 1.58125e+1
   width: 1.6e+2
   connections:
@@ -183,7 +183,7 @@
     rangeStart: 9
     rangeLength: 13
   position:
-  - 1.05275e+3
+  - 1.30426633522727e+3
   - 5.5640234375e+2
   width: 1.6e+2
   connections:
@@ -217,7 +217,7 @@
     rangeStart: 0
     rangeLength: 31
   position:
-  - 1.03313671875e+3
+  - 1.28465305397727e+3
   - 2.356875e+2
   width: 1.6e+2
   connections:
@@ -265,7 +265,7 @@
   text: Son actually a clone of wild man
   formattingOptions: []
   position:
-  - 1.0060234375e+3
+  - 1.25753977272727e+3
   - 6.3982421875e+2
   width: 1.6e+2
   connections:
@@ -528,7 +528,7 @@
     rangeStart: 0
     rangeLength: 6
   position:
-  - 1.020296875e+3
+  - 1.27181321022727e+3
   - 8.44078125e+2
   width: 2.2e+2
   connections:
@@ -550,7 +550,7 @@
   text: Able to teleport short distances
   formattingOptions: []
   position:
-  - 9.8262109375e+2
+  - 1.23413742897727e+3
   - 7.8933203125e+2
   width: 1.3e+2
   connections:
@@ -562,7 +562,7 @@
   text: ''
   formattingOptions: []
   position:
-  - 1.5675546875e+3
+  - 1.81907102272727e+3
   - 9.879609375e+2
   width: 1.6e+2
   connections:
@@ -574,7 +574,7 @@
   text: ''
   formattingOptions: []
   position:
-  - 2.038609375e+3
+  - 2.29012571022727e+3
   - 9.7839453125e+2
   width: 1.6e+2
   connections:
@@ -600,7 +600,7 @@
   text: He's quick - d20 FLIGHT
   formattingOptions: []
   position:
-  - 9.8198046875e+2
+  - 1.23349680397727e+3
   - 1.05059765625e+3
   width: 1.6e+2
   connections:
@@ -612,7 +612,7 @@
   text: Gentle unless provoked
   formattingOptions: []
   position:
-  - 1.0206640625e+3
+  - 1.27218039772727e+3
   - 1.112140625e+3
   width: 1.4e+2
   connections:
@@ -624,7 +624,7 @@
   text: good at hiding
   formattingOptions: []
   position:
-  - 1.13355078125e+3
+  - 1.38506711647727e+3
   - 1.07602734375e+3
   width: 9e+1
   connections:
@@ -640,7 +640,7 @@
     blue: 1e+0
   formattingOptions: []
   position:
-  - 1.14115234375e+3
+  - 1.39266867897727e+3
   - 1.00458203125e+3
   width: 6e+1
   connections:
@@ -658,7 +658,7 @@
   text: Fascinated by shiny objects
   formattingOptions: []
   position:
-  - 1.18844921875e+3
+  - 1.43996555397727e+3
   - 1.128796875e+3
   width: 1.6e+2
   connections:
@@ -670,7 +670,7 @@
   text: usually hungry
   formattingOptions: []
   position:
-  - 1.2487734375e+3
+  - 1.50028977272727e+3
   - 1.02718359375e+3
   width: 9e+1
   connections:
@@ -682,7 +682,7 @@
   text: mimics a member of the group
   formattingOptions: []
   position:
-  - 1.23408203125e+3
+  - 1.48559836647727e+3
   - 1.0795390625e+3
   width: 1.1e+2
   connections:
@@ -694,7 +694,7 @@
   text: Able to heal by touching
   formattingOptions: []
   position:
-  - 1.265984375e+3
+  - 1.51750071022727e+3
   - 8.1536328125e+2
   width: 1.6e+2
   connections:
@@ -706,7 +706,7 @@
   text: ignorant of social norms
   formattingOptions: []
   position:
-  - 1.238828125e+3
+  - 1.49034446022727e+3
   - 9.85484375e+2
   width: 1.6e+2
   connections:
@@ -718,7 +718,7 @@
   text: 7 psychic energy tokens
   formattingOptions: []
   position:
-  - 1.28312890625e+3
+  - 1.53464524147727e+3
   - 8.721328125e+2
   width: 1.6e+2
   connections:
@@ -730,7 +730,7 @@
   text: Moves with grace
   formattingOptions: []
   position:
-  - 1.520015625e+3
+  - 1.77153196022727e+3
   - 4.7417578125e+2
   width: 1.6e+2
   connections:
@@ -749,7 +749,7 @@
     rangeStart: 0
     rangeLength: 10
   position:
-  - 1.04581640625e+3
+  - 1.29733274147727e+3
   - 7.1169921875e+2
   width: 1.6e+2
   connections:
@@ -783,7 +783,7 @@
     rangeStart: 0
     rangeLength: 13
   position:
-  - 1.2456875e+3
+  - 1.49720383522727e+3
   - 4.7912890625e+2
   width: 2.2e+2
   connections:
@@ -803,7 +803,7 @@
   text: Can teleport
   formattingOptions: []
   position:
-  - 1.540203125e+3
+  - 1.79171946022727e+3
   - 5.1249609375e+2
   width: 9e+1
   connections:
@@ -815,7 +815,7 @@
   text: Absence of sound around cabin
   formattingOptions: []
   position:
-  - 1.5764296875e+3
+  - 1.82794602272727e+3
   - 5.483515625e+2
   width: 1.6e+2
   connections:
@@ -841,7 +841,7 @@
   text: '"Leave My Dad Alone"'
   formattingOptions: []
   position:
-  - 1.2458125e+3
+  - 1.49732883522727e+3
   - 6.66671875e+2
   width: 1.6e+2
   connections:
@@ -855,7 +855,7 @@
   text: Eyes reflective live a cat's eyes in darkness
   formattingOptions: []
   position:
-  - 1.53191796875e+3
+  - 1.78343430397727e+3
   - 4.1831640625e+2
   width: 1.6e+2
   connections:
@@ -904,7 +904,7 @@
     Lab. Science Experiment.
   formattingOptions: []
   position:
-  - 1.565375e+3
+  - 1.81689133522727e+3
   - 5.93125e+2
   width: 1.6e+2
   connections:
@@ -916,7 +916,7 @@
   text: used to be a scientist at the lab
   formattingOptions: []
   position:
-  - 9.7572265625e+2
+  - 1.22723899147727e+3
   - 4.6671875e+2
   width: 1.6e+2
   connections:
@@ -928,7 +928,7 @@
   text: When Jimmy Hurt, I hurt
   formattingOptions: []
   position:
-  - 1.56711328125e+3
+  - 1.81862961647727e+3
   - 6.7291015625e+2
   width: 1.6e+2
   connections:
@@ -940,7 +940,7 @@
   text: Claws / murder weapon
   formattingOptions: []
   position:
-  - 1.465921875e+3
+  - 1.71743821022727e+3
   - 3.8175e+2
   width: 1.6e+2
   connections:
@@ -952,7 +952,7 @@
   text: Sickness every day.
   formattingOptions: []
   position:
-  - 1.5361796875e+3
+  - 1.78769602272727e+3
   - 7.0775390625e+2
   width: 1.6e+2
   connections:
@@ -964,7 +964,7 @@
   text: Need medicine from the lab
   formattingOptions: []
   position:
-  - 1.50799609375e+3
+  - 1.75951242897727e+3
   - 7.4523828125e+2
   width: 1.6e+2
   connections:
@@ -976,7 +976,7 @@
   text: Wild man bristles.  "He Guard. Lab Guard". Entrance inside, he keep
   formattingOptions: []
   position:
-  - 9.946640625e+2
+  - 1.24618039772727e+3
   - 1.554453125e+2
   width: 1.6e+2
   connections:
@@ -988,7 +988,7 @@
   text: doesn't know Jimmy is a clone.  "That bastard"
   formattingOptions: []
   position:
-  - 1.17811328125e+3
+  - 1.42962961647727e+3
   - 1.920546875e+2
   width: 1.6e+2
   connections:
@@ -1003,7 +1003,7 @@
     programs produce an unwanted resource, it is stored somewhere."'
   formattingOptions: []
   position:
-  - 1.22146484375e+3
+  - 1.47298117897727e+3
   - 3.1384765625e+2
   width: 1.6e+2
   connections:
@@ -1018,7 +1018,7 @@
     King.
   formattingOptions: []
   position:
-  - 1.19202734375e+3
+  - 1.44354367897727e+3
   - 1.0196875e+2
   width: 1.6e+2
   connections:
@@ -1032,7 +1032,7 @@
     Tasked with keeping the collection in good shape. He did not do a good job'
   formattingOptions: []
   position:
-  - 1.37748828125e+3
+  - 1.62900461647727e+3
   - 1.585078125e+2
   width: 1.6e+2
   connections:
@@ -1046,7 +1046,7 @@
   text: if you tell anyone I helped you, your family will never been heard from again
   formattingOptions: []
   position:
-  - 1.0258203125e+3
+  - 1.27733664772727e+3
   - 3.971875e+2
   width: 1.6e+2
   connections:
@@ -1058,7 +1058,7 @@
   text: FBI? Why did they not inform me?
   formattingOptions: []
   position:
-  - 1.2260703125e+3
+  - 1.47758664772727e+3
   - 2.584296875e+2
   width: 1.6e+2
   connections:
@@ -1070,7 +1070,7 @@
   text: I will get your medicine. Bring your dog. Follow me.
   formattingOptions: []
   position:
-  - 1.40959375e+3
+  - 1.66111008522727e+3
   - 3.138203125e+2
   width: 1.6e+2
   connections:
@@ -1149,7 +1149,7 @@
   text: 'Protocol indicates I should turn you over. But them acting without '
   formattingOptions: []
   position:
-  - 1.38721484375e+3
+  - 1.63873117897727e+3
   - 7.88828125e+1
   width: 1.6e+2
   connections:
@@ -1161,7 +1161,7 @@
   text: Telekenisis
   formattingOptions: []
   position:
-  - 1.16308984375e+3
+  - 1.41460617897727e+3
   - 7.797421875e+2
   width: 7e+1
   connections:
@@ -1187,7 +1187,7 @@
   text: made the drug for Jimmy
   formattingOptions: []
   position:
-  - 1.061953125e+3
+  - 1.31346946022727e+3
   - 5.1519140625e+2
   width: 1.6e+2
   connections:
@@ -1199,7 +1199,7 @@
   text: occasionally a droplet of blood
   formattingOptions: []
   position:
-  - 1.2801640625e+3
+  - 1.53168039772727e+3
   - 9.2862890625e+2
   width: 1.7e+2
   connections:
@@ -1248,3 +1248,86 @@
     - location: 51
       length: 1
   _effectiveHeight: 5.6e+1
+- ID: 84
+  text: POSSIBLE SCENES
+  fillColorRGB:
+    red: 8.93993e-1
+    green: 9.92872e-1
+    blue: 1e+0
+  formattingOptions:
+  - options: 1
+    rangeStart: 0
+    rangeLength: 15
+  position:
+  - 9.30568181818186e+2
+  - 1.61593039772774e+2
+  width: 1.3e+2
+  connections:
+    indexes:
+    - location: 85
+      length: 5
+  _effectiveHeight: 1.4e+1
+- ID: 85
+  text: Officer / megaphone / Allison
+  formattingOptions: []
+  position:
+  - 9.43345170454549e+2
+  - 6.4590198863682e+1
+  width: 1.2e+2
+  connections:
+    indexes:
+    - location: 84
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 86
+  text: 'Getting Jimmy away from the house
+
+    "Leave my dad alone!"'
+  formattingOptions: []
+  position:
+  - 8.7654829545455e+2
+  - 2.13638494318228e+2
+  width: 1.2e+2
+  connections:
+    indexes:
+    - location: 84
+      length: 1
+  _effectiveHeight: 5.6e+1
+- ID: 87
+  text: Getting Sparky
+  formattingOptions: []
+  position:
+  - 1.02221946022728e+3
+  - 1.18095170454591e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 84
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 88
+  text: Encounter with Wild Man
+  formattingOptions: []
+  position:
+  - 1.09861150568182e+3
+  - 1.82743607954591e+2
+  width: 9e+1
+  connections:
+    indexes:
+    - location: 84
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 89
+  text: 'Downstairs at the Circle Q
+
+    "Storage Locker"'
+  formattingOptions: []
+  position:
+  - 1.04691051136364e+3
+  - 2.47036931818228e+2
+  width: 1.1e+2
+  connections:
+    indexes:
+    - location: 84
+      length: 1
+  _effectiveHeight: 4.2e+1
