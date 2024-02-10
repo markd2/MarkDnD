@@ -1,0 +1,266 @@
+- ID: 1
+  text: 'MICHAEL CARTWRIGHT
+
+    (Zack)'
+  fillColorRGB:
+    red: 8.93993e-1
+    green: 9.92872e-1
+    blue: 1e+0
+  formattingOptions:
+  - options: 1
+    rangeStart: 0
+    rangeLength: 18
+  position:
+  - 9.788984375e+2
+  - 5.6314453125e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 15
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 2
+  text: 'ALLISON REYNOLDS
+
+    (Shannon)'
+  fillColorRGB:
+    red: 8.93993e-1
+    green: 9.92872e-1
+    blue: 1e+0
+  formattingOptions:
+  - options: 1
+    rangeStart: 0
+    rangeLength: 16
+  position:
+  - 8.8594140625e+2
+  - 5.462890625e+1
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 12
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 3
+  text: 'ALAN KELMP
+
+    (Mkey)'
+  fillColorRGB:
+    red: 8.93993e-1
+    green: 9.92872e-1
+    blue: 1e+0
+  formattingOptions:
+  - options: 1
+    rangeStart: 0
+    rangeLength: 10
+  position:
+  - 2.6434765625e+2
+  - 5.5045703125e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 9
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 4
+  text: 'GRACE ELLIS
+
+    (Emily)'
+  fillColorRGB:
+    red: 8.93993e-1
+    green: 9.92872e-1
+    blue: 1e+0
+  formattingOptions:
+  - options: 1
+    rangeStart: 0
+    rangeLength: 11
+  position:
+  - 1.859921875e+2
+  - 3.198828125e+1
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 6
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 5
+  text: '?????
+
+    (Step)'
+  fillColorRGB:
+    red: 8.93993e-1
+    green: 9.92872e-1
+    blue: 1e+0
+  formattingOptions:
+  - options: 1
+    rangeStart: 0
+    rangeLength: 5
+  position:
+  - 5.7059765625e+2
+  - 3.7491796875e+2
+  width: 1.6e+2
+  connections:
+    indexes: []
+  _effectiveHeight: 2.8e+1
+- ID: 6
+  text: 'Trope: Plastic Beauty'
+  formattingOptions: []
+  position:
+  - 1.4717578125e+2
+  - 9.23828125e+1
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 4
+      length: 1
+    - location: 7
+      length: 2
+  _effectiveHeight: 1.4e+1
+- ID: 7
+  text: "\u2022 Cool under pressure\n\u2022 Intuitive\n\u2022 Demanding\n* Vindictive\n*
+    Rebellious"
+  formattingOptions: []
+  position:
+  - 5.60078125e+1
+  - 1.4431640625e+2
+  width: 1.3e+2
+  connections:
+    indexes:
+    - location: 6
+      length: 1
+  _effectiveHeight: 7e+1
+- ID: 8
+  text: 'Motivation: Being in Control
+
+    Fears: Scared of dark places, being uncool, being caught by parents'
+  formattingOptions: []
+  position:
+  - 3.139296875e+2
+  - 1.538125e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 6
+      length: 1
+  _effectiveHeight: 5.6e+1
+- ID: 9
+  text: 'Trope: Funny Sidekick'
+  formattingOptions: []
+  position:
+  - 2.4926953125e+2
+  - 6.144375e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 3
+      length: 1
+    - location: 10
+      length: 2
+  _effectiveHeight: 1.4e+1
+- ID: 10
+  text: "\u2022 Easy-going\n\u2022 Loyal\n\u2022 Absent-minded\n\u2022 Clumsy\n\u2022
+    Reellious"
+  formattingOptions: []
+  position:
+  - 1.42703125e+2
+  - 6.47171875e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 9
+      length: 1
+  _effectiveHeight: 7e+1
+- ID: 11
+  text: 'Motivation: Friend group that enjoys having me around
+
+    Fears: being alone and forgotten. Being actually disliked'
+  formattingOptions: []
+  position:
+  - 3.5258203125e+2
+  - 6.577890625e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 9
+      length: 1
+  _effectiveHeight: 7e+1
+- ID: 12
+  text: 'Trope: Lonely Weirdo'
+  formattingOptions: []
+  position:
+  - 8.3741015625e+2
+  - 1.1107421875e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 2
+      length: 1
+    - location: 13
+      length: 2
+  _effectiveHeight: 1.4e+1
+- ID: 13
+  text: "\u2022 Blunt\n* Disobedient\n\u2022 Cool under pressure\n\u2022 Prepared\n\u2022
+    Rebellious"
+  formattingOptions: []
+  position:
+  - 7.8117578125e+2
+  - 1.6276171875e+2
+  width: 1.3e+2
+  connections:
+    indexes:
+    - location: 12
+      length: 1
+  _effectiveHeight: 7e+1
+- ID: 14
+  text: 'Motivation: Hide mom''s disappearnce five years ago (going to get cigarettes).
+
+    Fear: being alone and left behind'
+  formattingOptions: []
+  position:
+  - 9.6201171875e+2
+  - 1.6308203125e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 12
+      length: 1
+  _effectiveHeight: 7e+1
+- ID: 15
+  text: 'Trope: Bully'
+  formattingOptions: []
+  position:
+  - 9.86359375e+2
+  - 6.2032421875e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 1
+      length: 1
+    - location: 16
+      length: 2
+  _effectiveHeight: 1.4e+1
+- ID: 16
+  text: "\u2022 Wealthy\n\u2022 Lucky\n\u2022 Petty\n\u2022 Ignorant\n\u2022 Rebellious"
+  formattingOptions: []
+  position:
+  - 9.122578125e+2
+  - 6.65046875e+2
+  width: 1e+2
+  connections:
+    indexes:
+    - location: 15
+      length: 1
+  _effectiveHeight: 7e+1
+- ID: 17
+  text: 'Motivation: To be seen. Attention from Emily.
+
+    Fear; being alone'
+  formattingOptions: []
+  position:
+  - 1.03055859375e+3
+  - 6.8064453125e+2
+  width: 1.4e+2
+  connections:
+    indexes:
+    - location: 15
+      length: 1
+  _effectiveHeight: 4.2e+1
