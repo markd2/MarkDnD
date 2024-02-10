@@ -21,8 +21,8 @@
   text: Introduce early in the first session
   formattingOptions: []
   position:
-  - -1.0775240384616e+0
-  - 2.5810546875e+2
+  - 2.69823717948717e+1
+  - 2.40930989583333e+2
   width: 1.6e+2
   connections:
     indexes:
@@ -137,8 +137,8 @@
   text: When an aspect comes up that the player can do, they control the narration
   formattingOptions: []
   position:
-  - -1.85210336538462e+1
-  - 4.78629507211538e+2
+  - 1.23220653044871e+1
+  - 4.70579377003205e+2
   width: 1.6e+2
   connections:
     indexes:
@@ -351,8 +351,8 @@
   text: Book Smarts
   formattingOptions: []
   position:
-  - 8.36463341346153e+2
-  - 7.82559495192336e+2
+  - 8.12908653846153e+2
+  - 8.08656500400669e+2
   width: 8e+1
   connections:
     indexes:
@@ -363,8 +363,8 @@
   text: How quickly can solve academic problems
   formattingOptions: []
   position:
-  - 8.97893629807692e+2
-  - 7.13896634615413e+2
+  - 9.52747145432692e+2
+  - 7.08183743990413e+2
   width: 1.3e+2
   connections:
     indexes:
@@ -375,8 +375,8 @@
   text: How well they understand problems
   formattingOptions: []
   position:
-  - 1.00842247596154e+3
-  - 7.54596754807721e+2
+  - 1.09400515825321e+3
+  - 7.50052483974388e+2
   width: 1.6e+2
   connections:
     indexes:
@@ -606,8 +606,8 @@
   text: How good at reading emotions
   formattingOptions: []
   position:
-  - 8.41286057692307e+2
-  - 1.11805528769237e+3
+  - 8.5712915665064e+2
+  - 1.12773953248404e+3
   width: 1.2e+2
   connections:
     indexes:
@@ -1013,8 +1013,8 @@
   text: Crack the safe
   formattingOptions: []
   position:
-  - 8.67481971153851e+2
-  - 7.56796274038491e+2
+  - 8.55834835737184e+2
+  - 7.76620492788491e+2
   width: 9e+1
   connections:
     indexes:
@@ -1998,3 +1998,13 @@
     - location: 116
       length: 1
   _effectiveHeight: 9.8e+1
+- ID: 134
+  text: ''
+  formattingOptions: []
+  position:
+  - 8.84974609374999e+2
+  - 3.80084635416621e+1
+  width: 1.6e+2
+  connections:
+    indexes: []
+  _effectiveHeight: 1.4e+1
