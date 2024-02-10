@@ -32,3 +32,12 @@ but kind of belived, now the rock thing has pulled in.
 
 (Plus geodes popular in late 70s and 80s)
 
+mikey: young childhood 80s
+shannon: younger still
+emily:
+zach: younger
+
+made a thing (bot) for building out backstories - gave it two sentences, and
+have it flesh it out. Gave a 7 or 8 concepts and wanted to do 5 or 6 of them.
+Picking this one, and asking more questions, it's terrible at names.
+
