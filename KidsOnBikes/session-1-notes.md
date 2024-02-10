@@ -400,11 +400,25 @@ Police line, do not cross.
 GRACE - chief kelley.
 murder investigation
 
+----------
 
 Lines and Veils
   - tripophobia, 
   - Emily - broken with horror
   - Rewind
 
+----------
 
-   
+SOME ADDITIONAL ENCOUNTER IDEAS
+
+* officer, megaphone, Mahmoud shoulder stiffen
+  - but why?
+
+* getting $KID away from the house
+
+* Parking lot - get Skippy
+
+* Encounter with Wild Man
+
+* Downstairs in the gas station
+
