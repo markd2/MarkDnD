@@ -98,10 +98,13 @@ build (jock), it's all a little awkward)
      - what lengths would you go to to defend this character?
      - from what? (from GRACE or MICHAEL to be honest) - who are the biggest
        preditors in the room.  I could see ALAN  being a why can't we get
-       along kind of person.  Like a verbal threat - a lot, fades into background           and doesn't have a lot to lose. From a physical threat, would have a
+       along kind of person.  Like a verbal threat - a lot, fades into
+       background and doesn't have a lot to lose. From a physical
+       threat, would have a
        low grit / low fight / high flight / high brawn and charm.  The
        lengths against a physical threat is grabbing and getting out of there,
        not standing in the way.
+Backpack:
    - snacks, poptarps potato skin, surge,
    - playing card and guidebook to magic picks
    - hardy boys infinity clue
@@ -199,7 +202,7 @@ Zack:
 A little misunderstood, I have to spend a lot of my time in school
 correcting people, just because i'm a rich kid, doesn't mean I can
 be cool, and be nice to people. I could be nice if I wanted to. I could.
-And I think everyone is made that my parents bascially employ them.
+And I think everyone is mad that my parents bascially employ them.
 Not my problem.
 A madonna tank
   - Motivation - is to be seen, his house is huge and it's so empty,
@@ -224,7 +227,7 @@ A madonna tank
         he's trying.
   - ALLISON - positive, for the bully need an offset (17)
     - what aspect of this character's personality do you use a model for your
-      own.  I respect how DGF ALLISON has.  I really appreciate it, she seems
+      own.  I respect how DGAF ALLISON has.  I really appreciate it, she seems
       cool because she like effortless does not care about people, and something
       I try to embody - is not caring about people.
   - Backpack 
@@ -244,7 +247,6 @@ Brunch Club
 
 (and then others)
 
-
 and then, how did you end up in the Brunch Club.
 
 Mahmoud Shirari - owner of the Circle Q
@@ -260,7 +262,7 @@ ALLISON - Goes to the exxon, part of the pickup zone. Very strong, as a result
    the place to get sodas for free, and a place get zippo fluid without
    getting shit from anybody. Maybe why I'm there.
    Sometimes take quarters out of my fight quarters, when no one is around.
-   Don't want them to know.  Obsessed with GALEN'S QUESTION
+   Don't want them to know.  Obsessed with GALEN'S QUEST
    "AAA" on the leaderboard, nobody knows who it is.
 GRACE - the circle q is where i change my clothes, get out of the dowdy clothes
    my parents let me wear and in to the cool clothes, and where i change out,
@@ -339,13 +341,17 @@ the walls.
 
 ALLISON: her jam
 GRACE: Parents forcing me to be here for some kind.
-MICHAEL: coerced by GRACE, or I did some mean girls thing to somebody.
-   threw my drink at someone, frozen Smurfee..  The history teacher
+MICHAEL:  did some mean girls thing to somebody.
+   threw my drink at someone, frozen Smurfee..  The history teacher (killian)
    giving the english teacher a hard time, and I couldn't control it.
 ALAN: After lunch when Mr Cox brought in the cassette with some of the MacGuyver
    on it, he skipped the next couple of periods to keep watching episodess,
    didn't even realize that classes were going on. Full on ADHD moment, school
    is ending, by then faculty knew that he peaced out.
+LOOMIS: Foster kid, everyone expected trouble. 
+   Mister Killian marked question wrong on a quiz, and I got it right, and
+   i very took that didn't win the argument in class, I let the air out of
+   his tires.  But someone saw me and tattled.
 
 ----------
 
@@ -358,13 +364,14 @@ What is the school mascot
 
 ----------
 
-
 Clean up check
 Brawn - 5
+
 4 GRACE - 1 == 2
 3 ALLISON - 9
 3 MICHAEL - 7
 3 ALAN - 10 
+4 LOOMIS - 2
 
 spalsh it?  going up last.
   "not even supposed to be here"
@@ -385,7 +392,7 @@ trail behind, don't want to behind - can't possibly be alone wiht allan
 but at distance - that was such an event, way bigger than it needed
 to be.  Once going to be alone there, tag alog, and the middle of the group.
 
-how far is from the Q to HS.  CLose enough to walk in modelst heels,
+how far is from the Q to HS.  Close enough to walk in modelst heels,
 pumps. 5-10 mintues.
 
 GRACE walking really slow.
@@ -396,11 +403,12 @@ GRACE: fake it
 allison is passing you.  "really, you're coughing?"  THere is no
  acklwnedlge, just judgment and silent walking.
 GRACE: while stopped, reapplied lipstick.
+LOOMIS: Try to get a snack off of ALAN - gets a poptart.
 
 Police line, do not cross.
 
 GRACE - chief kelley.
-murder investigation
+  murder investigation
 
 ----------
 
