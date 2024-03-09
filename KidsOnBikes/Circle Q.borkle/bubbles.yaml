@@ -159,11 +159,13 @@
     rangeStart: 0
     rangeLength: 25
   position:
-  - 1.82802414772727e+3
-  - 1.58125e+1
+  - 1.82087571022727e+3
+  - 1.46015625e+1
   width: 1.6e+2
   connections:
-    indexes: []
+    indexes:
+    - location: 99
+      length: 1
   _effectiveHeight: 1.4e+2
 - ID: 10
   text: 'Mr. King
@@ -574,7 +576,7 @@
   text: ''
   formattingOptions: []
   position:
-  - 2.29012571022727e+3
+  - 2.62446555397727e+3
   - 9.7839453125e+2
   width: 1.6e+2
   connections:
@@ -694,8 +696,8 @@
   text: Able to heal by touching
   formattingOptions: []
   position:
-  - 1.51750071022727e+3
-  - 8.1536328125e+2
+  - 1.51723117897727e+3
+  - 8.3753515625e+2
   width: 1.6e+2
   connections:
     indexes:
@@ -718,8 +720,8 @@
   text: 7 psychic energy tokens
   formattingOptions: []
   position:
-  - 1.53464524147727e+3
-  - 8.721328125e+2
+  - 1.52277805397727e+3
+  - 8.90546875e+2
   width: 1.6e+2
   connections:
     indexes:
@@ -739,7 +741,10 @@
       length: 1
   _effectiveHeight: 1.4e+1
 - ID: 48
-  text: Jimmy King
+  text: 'Jimmy King
+
+
+    Looks like a younger wild man.'
   fillColorRGB:
     red: 8.93993e-1
     green: 9.92872e-1
@@ -747,10 +752,13 @@
   formattingOptions:
   - options: 1
     rangeStart: 0
-    rangeLength: 10
+    rangeLength: 11
+  - options: 1
+    rangeStart: 11
+    rangeLength: 1
   position:
   - 1.29733274147727e+3
-  - 7.1169921875e+2
+  - 7.1144921875e+2
   width: 1.6e+2
   connections:
     indexes:
@@ -758,9 +766,9 @@
       length: 1
     - location: 52
       length: 1
-  _effectiveHeight: 1.4e+1
+  _effectiveHeight: 5.6e+1
 - ID: 14
-  text: 'The Wild Man
+  text: 'The Wild Man (Frank)
 
 
     Haunting the local woods since the 80s.
@@ -773,7 +781,9 @@
 
     (Need to get him to his spaceship hidden in the Storage Locker)
 
-    Science experiment'
+    Science experiment
+
+    '
   fillColorRGB:
     red: 8.93993e-1
     green: 9.92872e-1
@@ -781,7 +791,7 @@
   formattingOptions:
   - options: 1
     rangeStart: 0
-    rangeLength: 13
+    rangeLength: 21
   position:
   - 1.49720383522727e+3
   - 4.7912890625e+2
@@ -798,13 +808,15 @@
       length: 1
     - location: 59
       length: 4
-  _effectiveHeight: 1.54e+2
+    - location: 95
+      length: 2
+  _effectiveHeight: 1.68e+2
 - ID: 49
   text: Can teleport
   formattingOptions: []
   position:
-  - 1.79171946022727e+3
-  - 5.1249609375e+2
+  - 1.79471946022727e+3
+  - 5.13046875e+2
   width: 9e+1
   connections:
     indexes:
@@ -841,8 +853,8 @@
   text: '"Leave My Dad Alone"'
   formattingOptions: []
   position:
-  - 1.49732883522727e+3
-  - 6.66671875e+2
+  - 1.43169211647727e+3
+  - 6.6551953125e+2
   width: 1.6e+2
   connections:
     indexes:
@@ -1199,8 +1211,8 @@
   text: occasionally a droplet of blood
   formattingOptions: []
   position:
-  - 1.53168039772727e+3
-  - 9.2862890625e+2
+  - 1.51985227272727e+3
+  - 9.2934375e+2
   width: 1.7e+2
   connections:
     indexes:
@@ -1331,3 +1343,202 @@
     - location: 84
       length: 1
   _effectiveHeight: 4.2e+1
+- ID: 90
+  text: ''
+  formattingOptions: []
+  position:
+  - 1.8172109375e+3
+  - 8.92015625e+2
+  width: 1.6e+2
+  connections:
+    indexes: []
+  _effectiveHeight: 1.4e+1
+- ID: 91
+  text: Minor / Emergent NPCs
+  fillColorRGB:
+    red: 8.96043e-1
+    green: 9.97437e-1
+    blue: 9.42763e-1
+  formattingOptions:
+  - options: 1
+    rangeStart: 0
+    rangeLength: 21
+  position:
+  - 2.1466640625e+3
+  - 9.2390625e+1
+  width: 2.5e+2
+  connections:
+    indexes: []
+  _effectiveHeight: 1.4e+1
+- ID: 92
+  text: 'Dan and June Brown
+
+    * LOOMIS''s foster parents
+
+    * Church goers, awkward relationship with LOOMIS
+
+    * Older, kids grown (including son John)
+
+    * Have a room that John doesn''t use (lives in Ohio)
+
+    * They''re kind of tired and worn.  LOOMIS stays out of their hair and they let
+    him do his own thing
+
+    * "way better than being under an overpass"'
+  formattingOptions:
+  - options: 1
+    rangeStart: 0
+    rangeLength: 19
+  position:
+  - 2.1343359375e+3
+  - 1.6908203125e+2
+  width: 1.6e+2
+  connections:
+    indexes: []
+  _effectiveHeight: 1.96e+2
+- ID: 93
+  text: Favorite Teachers
+  formattingOptions:
+  - options: 1
+    rangeStart: 0
+    rangeLength: 17
+  position:
+  - 2.33523828125e+3
+  - 2.0156640625e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 94
+      length: 1
+  _effectiveHeight: 1.4e+1
+- ID: 94
+  text: '"Dr" Jill Bohn
+
+    * Civics teacher
+
+    * LOOMIS''s favorite
+
+    * LOOMIS loves the levers of power / ties in to his conspiracy theories
+
+    * Not sure if she''s actually a doctor, but everyone calls her that'
+  formattingOptions:
+  - options: 1
+    rangeStart: 0
+    rangeLength: 15
+  position:
+  - 2.3254765625e+3
+  - 2.752890625e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 93
+      length: 1
+  _effectiveHeight: 1.26e+2
+- ID: 95
+  text: Officer Kelly really wants to pin this on him
+  formattingOptions: []
+  position:
+  - 1.52524609375e+3
+  - 4.2269140625e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 14
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 96
+  text: '6''2", thin, which adds to the weirdness of the vibe. Clothes apprpriately
+    dingy for his lifestyle, but not ragged.
+
+    Has a beared, not quick to smile, and also not mean or grimicing.
+
+    Vegetarian'
+  formattingOptions:
+  - options: 2
+    rangeStart: 0
+    rangeLength: 181
+  - options: 2
+    rangeStart: 181
+    rangeLength: 10
+  position:
+  - 1.581109375e+3
+  - 6.958046875e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 14
+      length: 1
+  _effectiveHeight: 1.26e+2
+- ID: 97
+  text: 'Dr. Chelsey Myers
+
+    * Knows ALAN
+
+    * Runs the hospital, wasn''t planning on working saturday, but available for off-hours
+    emergencies
+
+    * Murder is infrequent enough
+
+    * From out of town, in part to pay off student debt. Go to a rural place, government
+    pays off part of your loans
+
+    * Doesn''t love serving a small time, wants to get back t othe city
+
+    * Been here six-seven years
+
+    * Knows everyone, but still an outsider'
+  formattingOptions:
+  - options: 1
+    rangeStart: 0
+    rangeLength: 18
+  position:
+  - 2.1352265625e+3
+  - 4.6219140625e+2
+  width: 2.4e+2
+  connections:
+    indexes: []
+  _effectiveHeight: 1.82e+2
+- ID: 98
+  text: 'Stephanie ______
+
+    * Student
+
+    * Goody two shoes, "fugly slut"
+
+    * Straight-As, valedictorian, super nice to teachers, "I Brought you an apple
+    from home"
+
+    * varsity cheer caption
+
+    * MICHAEL hates here, and she''s also his other best friend
+
+    * ALAN didn''t have a beef until overheard her gossiping with her friend group
+    about everybody, including him (in a disparaging way). Him not realizing there
+    was some kind of beef.  She doesn''t know that
+
+    * MICHAEL is part of that friend group'
+  formattingOptions:
+  - options: 1
+    rangeStart: 0
+    rangeLength: 17
+  position:
+  - 2.20768359375e+3
+  - 7.211171875e+2
+  width: 2.1e+2
+  connections:
+    indexes: []
+  _effectiveHeight: 2.24e+2
+- ID: 99
+  text: 'LOOMIS found his DD-256 (honorably discharge form) in bottom of file cabinet.
+
+    Also a Karate dojo certificate from Washington DC'
+  formattingOptions: []
+  position:
+  - 1.88505859375e+3
+  - 2.0257421875e+2
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 9
+      length: 1
+  _effectiveHeight: 7e+1

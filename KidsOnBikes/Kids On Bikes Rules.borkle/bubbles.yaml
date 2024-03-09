@@ -1711,14 +1711,14 @@
       length: 1
   _effectiveHeight: 4.2e+1
 - ID: 116
-  text: '5. Complete finishing touches: motivation, fears, backpacks, last name, trop-specific
+  text: '5. Complete finishing touches: motivation, fears, backpacks, last name, trope-specific
     questions'
   formattingOptions:
   - options: 1
     rangeStart: 0
-    rangeLength: 95
+    rangeLength: 96
   position:
-  - 1.41961778846152e+3
+  - 1.41939051573425e+3
   - 2.22574519230823e+2
   width: 1.6e+2
   connections:
@@ -2008,3 +2008,179 @@
   connections:
     indexes: []
   _effectiveHeight: 1.4e+1
+- ID: 135
+  text: Strengths of the Group
+  fillColorRGB:
+    red: 1e+0
+    green: 9.0283e-1
+    blue: 9.76506e-1
+  formattingOptions:
+  - options: 1
+    rangeStart: 0
+    rangeLength: 22
+  position:
+  - 8.35117187499979e+2
+  - 1.8856271288635e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 136
+      length: 9
+  _effectiveHeight: 1.4e+1
+- ID: 136
+  text: 'Cool under Pressure
+
+    Can spend 1 adversary token to take half the die''s value on a snap decision'
+  formattingOptions:
+  - options: 1
+    rangeStart: 0
+    rangeLength: 19
+  position:
+  - 7.53899147727252e+2
+  - 1.70513352272713e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 135
+      length: 1
+  _effectiveHeight: 5.6e+1
+- ID: 137
+  text: 'Easy-Going
+
+    Gain 2 adversity tokens'
+  formattingOptions:
+  - options: 1
+    rangeStart: 0
+    rangeLength: 10
+  position:
+  - 9.50965909090888e+2
+  - 1.71310227272713e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 135
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 138
+  text: 'Intuitive
+
+    Can spend 1 AT to ask the GM about the surroundings, an NPC, etc
+
+    GM must answer honestly'
+  formattingOptions:
+  - options: 1
+    rangeStart: 0
+    rangeLength: 10
+  position:
+  - 1.03865411931816e+3
+  - 1.76459374999986e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 135
+      length: 1
+  _effectiveHeight: 7e+1
+- ID: 139
+  text: 'Loyal
+
+    Each of the adversity tokens you spend to help friends gives +2'
+  formattingOptions:
+  - options: 1
+    rangeStart: 0
+    rangeLength: 5
+  position:
+  - 6.33338068181797e+2
+  - 1.78473579545441e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 135
+      length: 1
+  _effectiveHeight: 5.6e+1
+- ID: 140
+  text: 'Lucky
+
+    Can spend 2 AT to re-roll a stat check'
+  formattingOptions:
+  - options: 1
+    rangeStart: 0
+    rangeLength: 6
+  position:
+  - 6.23103693181797e+2
+  - 1.8816214488635e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 135
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 141
+  text: 'Prepared
+
+    Can spend 2 AT to just happen to have one commonplace item with you'
+  formattingOptions:
+  - options: 1
+    rangeStart: 0
+    rangeLength: 9
+  position:
+  - 1.06597301136362e+3
+  - 1.91221803977259e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 135
+      length: 1
+  _effectiveHeight: 5.6e+1
+- ID: 142
+  text: 'Rebellious
+
+    +3 when pursauding or resisting persuasion from chldren.
+
+    +3 when resisting persuasion from adults'
+  formattingOptions:
+  - options: 1
+    rangeStart: 0
+    rangeLength: 11
+  position:
+  - 9.62446732954525e+2
+  - 2.00157883522713e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 135
+      length: 1
+  _effectiveHeight: 8.4e+1
+- ID: 143
+  text: 'Treasure Hunter
+
+    Spend 1 AT to find a useful item in your surrounding'
+  formattingOptions:
+  - options: 1
+    rangeStart: 0
+    rangeLength: 16
+  position:
+  - 6.31949573863616e+2
+  - 1.9851761363635e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 135
+      length: 1
+  _effectiveHeight: 4.2e+1
+- ID: 144
+  text: 'Wealthy
+
+    Can spend money as if a higher age bracket'
+  formattingOptions:
+  - options: 1
+    rangeStart: 0
+    rangeLength: 8
+  position:
+  - 7.62262073863616e+2
+  - 2.07944815340895e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 135
+      length: 1
+  _effectiveHeight: 4.2e+1

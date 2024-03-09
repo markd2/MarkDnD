@@ -127,11 +127,11 @@ Specific-questions:
 
 Life:  
   - Fostered by someone at the church.  Would explain him knowing GRACE
-    - taken at the church, been awkward since my both belifes and knowledge/
+    - taken at the church, been awkward since my both beliefs and knowledge/
       experience don't line up at all.  BUT they gave me a room and a bed,
       and I can't possibly complain
     - like Dan and Jane Brown - older, their kids are grown, we have this room
-     that John doesn't use, he has kids in ohio, we'd love to hae you
+      that John doesn't use, he has kids in ohio, we'd love to hae you
     - kind of tired and worn, stay out of their hair, and they let me do
       my own thing.  Way better than being under an overpass
 
@@ -194,7 +194,7 @@ ALLISON is nodding in agreement with mahmoud.
 
 LOOMIS looking around, indication of what
   - trying to case the scene, skirting the tape, looking for evidence
-    of the body who was murdered.  DOn't think Loomis has thought through
+    of the body who was murdered.  Don't think Loomis has thought through
     when sees the body.  Recently had close exposure to another crime scene
     looking for clues
   
@@ -217,7 +217,7 @@ ALAN - when been to the clinic, before school, and visit folks / bring from
 house, his instructions, you stand there, touch nothihg, talk to nobody,
 we got medical stuff going on here, don't mess it it up. 
 
-what does MICAHEL do? telling grace what my order, and talking too lout
+what does MICAHEL do? telling grace what my order, and talking too loud
 
 door.
 Difficulty 10 FLIGHT
@@ -258,15 +258,15 @@ how far from cars
 
 "We can hear everything you're saying, just leave"
 
-GRACE: "dod they think the guy who eats dogs did this?"
-MICHAEL: if he eats dogs, he's up for anhthing, so maybe we should go
+GRACE: "do they think the guy who eats dogs did this?"
+MICHAEL: if he eats dogs, he's up for anything, so maybe we should go
    before he kills us.  
 LOOMIS: Its just convenient when follow the rules. you stole smurfess
 GRACE: we paid for it
 L: looking at a dead body, lost my appetite
-L looks like a you issue.  
+L: looks like a you issue.  
   You know that kid jimmy king,
-:OMG is jummy dead
+:OMG is jimmy dead
 L: It's mister king.  There was a hole in his head. it was so gross
 
 ALAN - seeing if the body goes to the clinic or the morgue
@@ -298,52 +298,52 @@ back to the school
 car is idling.
 
 how big is the school.
-G:
+GRACE:
   - has a like a side door you can get in to
   - he's looking for us, knows we're missing, pretend going to the bathroom,
     "We just went to the bathroom mr kelly"
-M: do you think Jimmy knows?  
-G: I think it just happened.  I dunno,   new key, you should tell him
+MICHAEL: do you think Jimmy knows?  
+GRACE: I think it just happened.  I dunno,   new key, you should tell him
    might be good news.  You're new
-M: that would be respect fuk to let him know
-L: whatever.  going to grab one of my lucky rocks in the bag
-G: Jimy is inside, not in your backpack
-L: I'm not stupid.  I jut don't know
+MICHAEL: that would be respect fuk to let him know
+LOOMIS: whatever.  going to grab one of my lucky rocks in the bag
+GRACE: Jimmy is inside, not in your backpack
+LOOMIS: I'm not stupid.  I just don't know
    if that's the move
-M: should we ask him?
-L: I don't want him, and his dad's just gone.
+MICHAEL: should we ask him?
+LOOMIS: I don't want him, and his dad's just gone.
 (you're a foster kid, you probably get it)
   - rocks was not a good idea
-L: some parents better off not being here.  We shoujld get back into
+LOOMIS: some parents better off not being here.  We should get back into
    the cleaning stuff
-G: we should not kill people's parents
-M: back to parents
-G: I think I need to tell your foster parents you think foster parents are
+GRACE: we should not kill people's parents
+MICHAEL: back to parents
+GRACE: I think I need to tell your foster parents you think foster parents are
    ok.
-G: Get the busted up wire hanger, untwist it, jimmy
+GRACE: Get the busted up wire hanger, untwist it, jimmy
 
 Mr Kilian didn't even notice them.
 
-G: I don't trust him to be nice. A part of me is "he's gonna kill Jimmy too:
+GRACE: I don't trust him to be nice. A part of me is "he's gonna kill Jimmy too:
    "I guess that's taken car off"
 
-L: door is totaly open.
-H: We can change our grades.
-L: looks in for some good conspiracy stuff
+LOOMIS: door is totaly open.
+MICHAEL: We can change our grades.
+LOOMIS: looks in for some good conspiracy stuff
 
-G: I'll keep watch, you look at the gradebook.
-M: rummage around the office, find  binder, and look like it's got stuff
+GRACE: I'll keep watch, you look at the gradebook.
+MICHAEL: rummage around the office, find  binder, and look like it's got stuff
   in 
 
 can you fail stephanie.
 Grades are in ink
 
-M: Change mine to a 
+MICHAEL: Change mine to a 
 
-G: anything a 50 something, turn into an 80, as the leading 10 position
+GRACE: anything a 50 something, turn into an 80, as the leading 10 position
    try to adjust where to adjust the test, but homework assignments.
    can do the homework and f up the test.
-M: looking over the shoulder. That's so smart.  I was going to chagne the
+MICHAEL: looking over the shoulder. That's so smart.  I was going to chagne the
    letter.
 
 and find stephine that bitch, change to an.  Forge his handwriting to be
@@ -352,15 +352,15 @@ insubordinate.
 me michael and stephanie, will flip back and see how hard the hand.
 
 Grit roll - DC 8 or he will notice the number changes
-  G - got a three.
+  GRACE - got a three.
 
 handwriting, very precise.
 
 decide not to change the 
 
-M: the whole campaign is about Stephanie
+MICHAEL: the whole campaign is about Stephanie
 
-G: is there whiteout.  Any completemnt
+GRACE: is there whiteout.  Any completemnt
 
 Stephanie person:
   - G/M goody too shoes, fugly slut - why she pisses of off. Stright A's,
@@ -378,7 +378,7 @@ Stephanie person:
 Grit role - DC 6
   - got a 2
 
-mister Killian hows up
+mister Killian shows up
 
 6 brains - ALLISON
  - 3 ma
@@ -431,14 +431,14 @@ DC 8 brains roll
   - 10
 
 Personal
-karate dojo in wasing dc.
+karate dojo in washington dc.
 
-honorobably discharge  DD 256
+Defence Department DD-256 form, honorobably discharged.
 
 
 ----------
 
-wonderful job weaving your nonsense into everything
+wonderful job weaving our nonsense into everything
 
 web of the zodiac killer / rozencranze and guildensterm
 
