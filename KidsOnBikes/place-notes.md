@@ -53,6 +53,11 @@ Places
             - English Teacher
             - Smartest person in the world (according to MICHAEL)
                 - "knows I'm an idiot, but we have great conversations"
+        - "Dr" Jill Bohn
+          - Civics teacher
+          - LOOMIS's favorite
+          - LOOMIS loves the levers of power / ties in to his conspiracy theories
+          - Not sure if she's actually a doctor, but everyone calls her that
 
 - Carson Creek Assembly of God
     - Run by Pastor Ellis
@@ -63,6 +68,25 @@ Places
     - only a couple of beds (small town)
     - Mr. and Mrs. Kelmp pretty much keep it running, doing everything except the
       actual doctoring
+   - Dr. Chelsey Myers
+     - Knows ALAN
+     -Dr in the hospital, wasn't planning on working saturday, but
+      available for off-hours emergencies
+   - Murder is infrequent enough
+   - From out of town, in part to pay off student debt. Go to a rural
+     place, government pays off part of your loans
+   - Doesn't love serving a small time, wants to get back t othe city
+   - Been here six-seven years
+   - Knows everyone, but still an outsider
 
 - plus other things you'd find in a small town
+
+- Dan and June Brown
+  - LOOMIS's foster parents
+  - Church goers, awkward relationship with LOOMIS
+  - Older, kids grown (including son John)
+  - Have a room that John doesn't use (lives in Ohio)
+  - They're kind of tired and worn.  LOOMIS stays out of their hair
+     and they let him do his own thing
+  - "way better than being under an overpass"
 

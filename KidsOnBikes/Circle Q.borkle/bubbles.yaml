@@ -7,7 +7,7 @@
   formattingOptions: []
   position:
   - 6.817578125e+1
-  - 6.008203125e+1
+  - 5.9826349431818e+1
   width: 2.7e+2
   connections:
     indexes: []
@@ -24,7 +24,7 @@
     rangeLength: 16
   position:
   - 3.5173828125e+2
-  - 4.8892578125e+2
+  - 4.88670099431818e+2
   width: 1.6e+2
   connections:
     indexes:
@@ -44,7 +44,7 @@
   formattingOptions: []
   position:
   - 1.69859375e+2
-  - 3.937578125e+2
+  - 3.93502130681818e+2
   width: 1.6e+2
   connections:
     indexes:
@@ -56,7 +56,7 @@
   formattingOptions: []
   position:
   - 2.4279296875e+2
-  - 3.35609375e+2
+  - 3.35353693181818e+2
   width: 1.6e+2
   connections:
     indexes:
@@ -74,7 +74,7 @@
   formattingOptions: []
   position:
   - 4.82724330357143e+2
-  - 3.18704241071428e+2
+  - 3.18448559253246e+2
   width: 1.6e+2
   connections:
     indexes:
@@ -88,7 +88,7 @@
   formattingOptions: []
   position:
   - 6.0188671875e+2
-  - 2.513125e+2
+  - 2.51056818181818e+2
   width: 1.6e+2
   connections:
     indexes:
@@ -104,7 +104,7 @@
   formattingOptions: []
   position:
   - 3.4008984375e+2
-  - 6.147578125e+2
+  - 6.14502130681818e+2
   width: 1.6e+2
   connections:
     indexes:
@@ -133,7 +133,7 @@
     rangeLength: 12
   position:
   - 1.25906321022727e+3
-  - 1.873046875e+1
+  - 1.8474786931818e+1
   width: 1.6e+2
   connections:
     indexes: []
@@ -160,19 +160,21 @@
     rangeLength: 25
   position:
   - 1.82087571022727e+3
-  - 1.46015625e+1
+  - 1.4345880681818e+1
   width: 1.6e+2
   connections:
     indexes:
     - location: 99
-      length: 1
+      length: 2
   _effectiveHeight: 1.4e+2
 - ID: 10
   text: 'Mr. King
 
     Murder victim
 
-    Abusive alcoholic father of one of the local kids'
+    Abusive alcoholic father of one of the local kids.
+
+    Researcher. Actually Dr. King'
   fillColorRGB:
     red: 8.93993e-1
     green: 9.92872e-1
@@ -185,9 +187,9 @@
     rangeStart: 9
     rangeLength: 13
   position:
-  - 1.30426633522727e+3
-  - 5.5640234375e+2
-  width: 1.6e+2
+  - 1.25442649147727e+3
+  - 5.45115411931818e+2
+  width: 1.8e+2
   connections:
     indexes:
     - location: 15
@@ -196,7 +198,7 @@
       length: 1
     - location: 79
       length: 1
-  _effectiveHeight: 5.6e+1
+  _effectiveHeight: 7e+1
 - ID: 11
   text: '(Lt. Colonel) Mahmoud Shariari
 
@@ -219,8 +221,8 @@
     rangeStart: 0
     rangeLength: 31
   position:
-  - 1.28465305397727e+3
-  - 2.356875e+2
+  - 1.28163742897727e+3
+  - 2.26345880681818e+2
   width: 1.6e+2
   connections:
     indexes:
@@ -236,7 +238,7 @@
   formattingOptions: []
   position:
   - 3.93640625e+2
-  - 7.7841796875e+2
+  - 7.78162286931818e+2
   width: 1.2e+2
   connections:
     indexes:
@@ -256,7 +258,7 @@
   formattingOptions: []
   position:
   - 2.5595703125e+2
-  - 8.4903125e+2
+  - 8.48775568181818e+2
   width: 1.6e+2
   connections:
     indexes:
@@ -268,7 +270,7 @@
   formattingOptions: []
   position:
   - 1.25753977272727e+3
-  - 6.3982421875e+2
+  - 6.39568536931818e+2
   width: 1.6e+2
   connections:
     indexes:
@@ -291,7 +293,7 @@
     rangeLength: 13
   position:
   - 4.7902734375e+2
-  - 6.7926171875e+2
+  - 6.79006036931818e+2
   width: 1.6e+2
   connections:
     indexes:
@@ -305,7 +307,7 @@
   formattingOptions: []
   position:
   - 2.24546875e+2
-  - 6.8622265625e+2
+  - 6.85966974431818e+2
   width: 1.6e+2
   connections:
     indexes:
@@ -319,7 +321,7 @@
   formattingOptions: []
   position:
   - 3.6291015625e+2
-  - 2.3083984375e+2
+  - 2.30584161931818e+2
   width: 1.6e+2
   connections:
     indexes:
@@ -337,7 +339,7 @@
   formattingOptions: []
   position:
   - 5.685625e+2
-  - 3.8904296875e+2
+  - 3.88787286931818e+2
   width: 1.6e+2
   connections:
     indexes:
@@ -353,7 +355,7 @@
   formattingOptions: []
   position:
   - 6.985e+2
-  - 3.0898046875e+2
+  - 3.08724786931818e+2
   width: 1.6e+2
   connections:
     indexes:
@@ -365,7 +367,7 @@
   formattingOptions: []
   position:
   - 1.9084375e+2
-  - 7.499765625e+2
+  - 7.49720880681818e+2
   width: 1e+2
   connections:
     indexes:
@@ -380,8 +382,8 @@
     blue: 9.42763e-1
   formattingOptions: []
   position:
-  - 5.20092075892857e+2
-  - 5.4096484375e+2
+  - 5.10933695211039e+2
+  - 5.24409446022727e+2
   width: 1.6e+2
   connections:
     indexes:
@@ -396,8 +398,8 @@
   text: Tallest building in town at 3 stories
   formattingOptions: []
   position:
-  - 5.60078125e+2
-  - 5.9346484375e+2
+  - 5.38508522727273e+2
+  - 5.93830610795454e+2
   width: 1.6e+2
   connections:
     indexes:
@@ -409,7 +411,7 @@
   formattingOptions: []
   position:
   - 1.832890625e+2
-  - 2.5798046875e+2
+  - 2.57724786931818e+2
   width: 1.6e+2
   connections:
     indexes:
@@ -423,7 +425,7 @@
   formattingOptions: []
   position:
   - 6.581328125e+2
-  - 4.5511328125e+2
+  - 4.54857599431818e+2
   width: 2.1e+2
   connections:
     indexes:
@@ -435,7 +437,7 @@
   formattingOptions: []
   position:
   - 7.644765625e+2
-  - 3.7113671875e+2
+  - 3.70881036931818e+2
   width: 1.6e+2
   connections:
     indexes:
@@ -447,7 +449,7 @@
   formattingOptions: []
   position:
   - 7.283828125e+2
-  - 5.620078125e+2
+  - 5.61752130681818e+2
   width: 1.6e+2
   connections:
     indexes:
@@ -461,7 +463,7 @@
   formattingOptions: []
   position:
   - 7.4203125e+2
-  - 6.285078125e+2
+  - 6.28252130681818e+2
   width: 1.6e+2
   connections:
     indexes:
@@ -477,7 +479,7 @@
   formattingOptions: []
   position:
   - 1.8321875e+2
-  - 5.303984375e+2
+  - 5.30142755681818e+2
   width: 1.1e+2
   connections:
     indexes:
@@ -491,7 +493,7 @@
   formattingOptions: []
   position:
   - 7.12265625e+1
-  - 5.73578125e+2
+  - 5.73322443181818e+2
   width: 1.6e+2
   connections:
     indexes:
@@ -503,7 +505,7 @@
   formattingOptions: []
   position:
   - 8.976953125e+1
-  - 4.635859375e+2
+  - 4.63330255681818e+2
   width: 1.6e+2
   connections:
     indexes:
@@ -531,7 +533,7 @@
     rangeLength: 6
   position:
   - 1.27181321022727e+3
-  - 8.44078125e+2
+  - 8.43822443181818e+2
   width: 2.2e+2
   connections:
     indexes:
@@ -553,7 +555,7 @@
   formattingOptions: []
   position:
   - 1.23413742897727e+3
-  - 7.8933203125e+2
+  - 7.89076349431818e+2
   width: 1.3e+2
   connections:
     indexes:
@@ -565,7 +567,7 @@
   formattingOptions: []
   position:
   - 1.81907102272727e+3
-  - 9.879609375e+2
+  - 9.87705255681818e+2
   width: 1.6e+2
   connections:
     indexes:
@@ -576,8 +578,8 @@
   text: ''
   formattingOptions: []
   position:
-  - 2.62446555397727e+3
-  - 9.7839453125e+2
+  - 2.66451633522727e+3
+  - 9.78138849431818e+2
   width: 1.6e+2
   connections:
     indexes:
@@ -589,7 +591,7 @@
   formattingOptions: []
   position:
   - 2.1255078125e+2
-  - 9.375703125e+2
+  - 9.37314630681818e+2
   width: 1.6e+2
   connections:
     indexes:
@@ -602,8 +604,8 @@
   text: He's quick - d20 FLIGHT
   formattingOptions: []
   position:
-  - 1.23349680397727e+3
-  - 1.05059765625e+3
+  - 1.21255930397727e+3
+  - 1.03046271306818e+3
   width: 1.6e+2
   connections:
     indexes:
@@ -611,23 +613,23 @@
       length: 1
   _effectiveHeight: 1.4e+1
 - ID: 38
-  text: Gentle unless provoked
+  text: Gentle unless provoked - ALAN
   formattingOptions: []
   position:
-  - 1.27218039772727e+3
-  - 1.112140625e+3
-  width: 1.4e+2
+  - 1.30236505681818e+3
+  - 1.10640198863636e+3
+  width: 1.8e+2
   connections:
     indexes:
     - location: 40
       length: 1
   _effectiveHeight: 1.4e+1
 - ID: 39
-  text: good at hiding
+  text: 'good at hiding '
   formattingOptions: []
   position:
-  - 1.38506711647727e+3
-  - 1.07602734375e+3
+  - 1.27310333806818e+3
+  - 9.90622514204546e+2
   width: 9e+1
   connections:
     indexes:
@@ -642,8 +644,8 @@
     blue: 1e+0
   formattingOptions: []
   position:
-  - 1.39266867897727e+3
-  - 1.00458203125e+3
+  - 1.39377308238636e+3
+  - 1.02170916193182e+3
   width: 6e+1
   connections:
     indexes:
@@ -657,36 +659,36 @@
       length: 1
   _effectiveHeight: 1.4e+1
 - ID: 41
-  text: Fascinated by shiny objects
+  text: Fascinated by shiny objects - SHANNON
   formattingOptions: []
   position:
-  - 1.43996555397727e+3
-  - 1.128796875e+3
+  - 1.50428373579545e+3
+  - 1.12166974431818e+3
+  width: 1.6e+2
+  connections:
+    indexes:
+    - location: 40
+      length: 1
+  _effectiveHeight: 2.8e+1
+- ID: 42
+  text: usually hungry - LOOMIS
+  formattingOptions: []
+  position:
+  - 1.5200625e+3
+  - 1.01049325284091e+3
   width: 1.6e+2
   connections:
     indexes:
     - location: 40
       length: 1
   _effectiveHeight: 1.4e+1
-- ID: 42
-  text: usually hungry
-  formattingOptions: []
-  position:
-  - 1.50028977272727e+3
-  - 1.02718359375e+3
-  width: 9e+1
-  connections:
-    indexes:
-    - location: 40
-      length: 1
-  _effectiveHeight: 1.4e+1
 - ID: 43
-  text: mimics a member of the group
+  text: mimics a member of the group - ZACH
   formattingOptions: []
   position:
-  - 1.48559836647727e+3
-  - 1.0795390625e+3
-  width: 1.1e+2
+  - 1.51756924715909e+3
+  - 1.04532741477273e+3
+  width: 1.3e+2
   connections:
     indexes:
     - location: 40
@@ -697,7 +699,7 @@
   formattingOptions: []
   position:
   - 1.51723117897727e+3
-  - 8.3753515625e+2
+  - 8.37279474431818e+2
   width: 1.6e+2
   connections:
     indexes:
@@ -705,23 +707,23 @@
       length: 1
   _effectiveHeight: 1.4e+1
 - ID: 45
-  text: ignorant of social norms
+  text: ignorant of social norms - GRACE
   formattingOptions: []
   position:
-  - 1.49034446022727e+3
-  - 9.85484375e+2
+  - 1.49066761363636e+3
+  - 9.62913352272727e+2
   width: 1.6e+2
   connections:
     indexes:
     - location: 40
       length: 1
-  _effectiveHeight: 1.4e+1
+  _effectiveHeight: 2.8e+1
 - ID: 46
   text: 7 psychic energy tokens
   formattingOptions: []
   position:
   - 1.52277805397727e+3
-  - 8.90546875e+2
+  - 8.90291193181818e+2
   width: 1.6e+2
   connections:
     indexes:
@@ -733,7 +735,7 @@
   formattingOptions: []
   position:
   - 1.77153196022727e+3
-  - 4.7417578125e+2
+  - 4.73920099431818e+2
   width: 1.6e+2
   connections:
     indexes:
@@ -758,7 +760,7 @@
     rangeLength: 1
   position:
   - 1.29733274147727e+3
-  - 7.1144921875e+2
+  - 7.11193536931818e+2
   width: 1.6e+2
   connections:
     indexes:
@@ -794,7 +796,7 @@
     rangeLength: 21
   position:
   - 1.49720383522727e+3
-  - 4.7912890625e+2
+  - 4.78873224431818e+2
   width: 2.2e+2
   connections:
     indexes:
@@ -816,7 +818,7 @@
   formattingOptions: []
   position:
   - 1.79471946022727e+3
-  - 5.13046875e+2
+  - 5.12791193181818e+2
   width: 9e+1
   connections:
     indexes:
@@ -828,7 +830,7 @@
   formattingOptions: []
   position:
   - 1.82794602272727e+3
-  - 5.483515625e+2
+  - 5.48095880681818e+2
   width: 1.6e+2
   connections:
     indexes:
@@ -840,7 +842,7 @@
   formattingOptions: []
   position:
   - 5.3144921875e+2
-  - 1.2308203125e+2
+  - 1.22826349431818e+2
   width: 7e+1
   connections:
     indexes:
@@ -854,7 +856,7 @@
   formattingOptions: []
   position:
   - 1.43169211647727e+3
-  - 6.6551953125e+2
+  - 6.65263849431818e+2
   width: 1.6e+2
   connections:
     indexes:
@@ -868,7 +870,7 @@
   formattingOptions: []
   position:
   - 1.78343430397727e+3
-  - 4.1831640625e+2
+  - 4.18060724431818e+2
   width: 1.6e+2
   connections:
     indexes:
@@ -880,7 +882,7 @@
   formattingOptions: []
   position:
   - 5.38330915178571e+2
-  - 4.41372767857143e+1
+  - 4.38815949675323e+1
   width: 1.6e+2
   connections:
     indexes:
@@ -892,7 +894,7 @@
   formattingOptions: []
   position:
   - 6.5401953125e+2
-  - 1.18785714285714e+2
+  - 1.18530032467532e+2
   width: 1.6e+2
   connections:
     indexes:
@@ -904,7 +906,7 @@
   formattingOptions: []
   position:
   - 6.4069921875e+2
-  - 1.7136328125e+2
+  - 1.71107599431818e+2
   width: 1.6e+2
   connections:
     indexes:
@@ -917,7 +919,7 @@
   formattingOptions: []
   position:
   - 1.81689133522727e+3
-  - 5.93125e+2
+  - 5.92869318181818e+2
   width: 1.6e+2
   connections:
     indexes:
@@ -929,7 +931,7 @@
   formattingOptions: []
   position:
   - 1.22723899147727e+3
-  - 4.6671875e+2
+  - 4.55134943181818e+2
   width: 1.6e+2
   connections:
     indexes:
@@ -941,7 +943,7 @@
   formattingOptions: []
   position:
   - 1.81862961647727e+3
-  - 6.7291015625e+2
+  - 6.72654474431818e+2
   width: 1.6e+2
   connections:
     indexes:
@@ -953,7 +955,7 @@
   formattingOptions: []
   position:
   - 1.71743821022727e+3
-  - 3.8175e+2
+  - 3.81494318181818e+2
   width: 1.6e+2
   connections:
     indexes:
@@ -965,7 +967,7 @@
   formattingOptions: []
   position:
   - 1.78769602272727e+3
-  - 7.0775390625e+2
+  - 7.07498224431818e+2
   width: 1.6e+2
   connections:
     indexes:
@@ -977,7 +979,7 @@
   formattingOptions: []
   position:
   - 1.75951242897727e+3
-  - 7.4523828125e+2
+  - 7.44982599431818e+2
   width: 1.6e+2
   connections:
     indexes:
@@ -988,8 +990,8 @@
   text: Wild man bristles.  "He Guard. Lab Guard". Entrance inside, he keep
   formattingOptions: []
   position:
-  - 1.24618039772727e+3
-  - 1.554453125e+2
+  - 1.24286008522727e+3
+  - 1.50599786931818e+2
   width: 1.6e+2
   connections:
     indexes:
@@ -1000,8 +1002,8 @@
   text: doesn't know Jimmy is a clone.  "That bastard"
   formattingOptions: []
   position:
-  - 1.42962961647727e+3
-  - 1.920546875e+2
+  - 1.42936008522727e+3
+  - 1.83287286931818e+2
   width: 1.6e+2
   connections:
     indexes:
@@ -1016,7 +1018,7 @@
   formattingOptions: []
   position:
   - 1.47298117897727e+3
-  - 3.1384765625e+2
+  - 3.13591974431818e+2
   width: 1.6e+2
   connections:
     indexes:
@@ -1031,7 +1033,7 @@
   formattingOptions: []
   position:
   - 1.44354367897727e+3
-  - 1.0196875e+2
+  - 1.01713068181818e+2
   width: 1.6e+2
   connections:
     indexes:
@@ -1041,11 +1043,12 @@
 - ID: 67
   text: 'That wild man got out before I got here.
 
-    Tasked with keeping the collection in good shape. He did not do a good job'
+    Dr. King. Tasked with keeping the collection in good shape. He did not do a good
+    job'
   formattingOptions: []
   position:
-  - 1.62900461647727e+3
-  - 1.585078125e+2
+  - 1.62873117897727e+3
+  - 1.47861505681818e+2
   width: 1.6e+2
   connections:
     indexes:
@@ -1053,13 +1056,13 @@
       length: 1
     - location: 76
       length: 1
-  _effectiveHeight: 7e+1
+  _effectiveHeight: 8.4e+1
 - ID: 68
   text: if you tell anyone I helped you, your family will never been heard from again
   formattingOptions: []
   position:
-  - 1.27733664772727e+3
-  - 3.971875e+2
+  - 1.24423899147727e+3
+  - 3.79779474431818e+2
   width: 1.6e+2
   connections:
     indexes:
@@ -1071,7 +1074,7 @@
   formattingOptions: []
   position:
   - 1.47758664772727e+3
-  - 2.584296875e+2
+  - 2.58174005681818e+2
   width: 1.6e+2
   connections:
     indexes:
@@ -1083,7 +1086,7 @@
   formattingOptions: []
   position:
   - 1.66111008522727e+3
-  - 3.138203125e+2
+  - 3.13564630681818e+2
   width: 1.6e+2
   connections:
     indexes:
@@ -1096,7 +1099,7 @@
   formattingOptions: []
   position:
   - 4.3308984375e+2
-  - 8.636953125e+2
+  - 8.63439630681818e+2
   width: 1.6e+2
   connections:
     indexes:
@@ -1110,7 +1113,7 @@
   formattingOptions: []
   position:
   - 4.193671875e+2
-  - 9.6067578125e+2
+  - 9.60420099431818e+2
   width: 1e+2
   connections:
     indexes:
@@ -1122,7 +1125,7 @@
   formattingOptions: []
   position:
   - 6.101640625e+2
-  - 8.6366015625e+2
+  - 8.63404474431818e+2
   width: 1.6e+2
   connections:
     indexes:
@@ -1136,7 +1139,7 @@
   formattingOptions: []
   position:
   - 6.331484375e+2
-  - 9.0121875e+2
+  - 9.00963068181818e+2
   width: 1.6e+2
   connections:
     indexes:
@@ -1150,7 +1153,7 @@
   formattingOptions: []
   position:
   - 6.0786328125e+2
-  - 9.5626171875e+2
+  - 9.56006036931818e+2
   width: 1.2e+2
   connections:
     indexes:
@@ -1162,7 +1165,7 @@
   formattingOptions: []
   position:
   - 1.63873117897727e+3
-  - 7.88828125e+1
+  - 7.8627130681818e+1
   width: 1.6e+2
   connections:
     indexes:
@@ -1174,7 +1177,7 @@
   formattingOptions: []
   position:
   - 1.41460617897727e+3
-  - 7.797421875e+2
+  - 7.79486505681818e+2
   width: 7e+1
   connections:
     indexes:
@@ -1188,7 +1191,7 @@
   formattingOptions: []
   position:
   - 3.9290625e+2
-  - 1.0369765625e+3
+  - 1.03672088068182e+3
   width: 1.6e+2
   connections:
     indexes:
@@ -1199,8 +1202,8 @@
   text: made the drug for Jimmy
   formattingOptions: []
   position:
-  - 1.31346946022727e+3
-  - 5.1519140625e+2
+  - 1.32494602272727e+3
+  - 5.08568536931818e+2
   width: 1.6e+2
   connections:
     indexes:
@@ -1212,7 +1215,7 @@
   formattingOptions: []
   position:
   - 1.51985227272727e+3
-  - 9.2934375e+2
+  - 9.29088068181818e+2
   width: 1.7e+2
   connections:
     indexes:
@@ -1224,7 +1227,7 @@
   formattingOptions: []
   position:
   - 3.605078125e+2
-  - 4.07700892857143e+1
+  - 4.05144074675323e+1
   width: 1.6e+2
   connections:
     indexes:
@@ -1237,7 +1240,7 @@
   formattingOptions: []
   position:
   - 7.35564732142857e+2
-  - 4.66741071428571e+1
+  - 4.64184253246751e+1
   width: 1.6e+2
   connections:
     indexes:
@@ -1253,7 +1256,7 @@
   formattingOptions: []
   position:
   - 3.46314174107147e+2
-  - 1.27950330535777e+2
+  - 1.27694648717595e+2
   width: 1.6e+2
   connections:
     indexes:
@@ -1272,7 +1275,7 @@
     rangeLength: 15
   position:
   - 9.30568181818186e+2
-  - 1.61593039772774e+2
+  - 1.61337357954592e+2
   width: 1.3e+2
   connections:
     indexes:
@@ -1284,7 +1287,7 @@
   formattingOptions: []
   position:
   - 9.43345170454549e+2
-  - 6.4590198863682e+1
+  - 6.43345170455e+1
   width: 1.2e+2
   connections:
     indexes:
@@ -1298,7 +1301,7 @@
   formattingOptions: []
   position:
   - 8.7654829545455e+2
-  - 2.13638494318228e+2
+  - 2.13382812500046e+2
   width: 1.2e+2
   connections:
     indexes:
@@ -1310,7 +1313,7 @@
   formattingOptions: []
   position:
   - 1.02221946022728e+3
-  - 1.18095170454591e+2
+  - 1.17839488636409e+2
   width: 1e+2
   connections:
     indexes:
@@ -1322,7 +1325,7 @@
   formattingOptions: []
   position:
   - 1.09861150568182e+3
-  - 1.82743607954591e+2
+  - 1.82487926136409e+2
   width: 9e+1
   connections:
     indexes:
@@ -1336,7 +1339,7 @@
   formattingOptions: []
   position:
   - 1.04691051136364e+3
-  - 2.47036931818228e+2
+  - 2.46781250000046e+2
   width: 1.1e+2
   connections:
     indexes:
@@ -1348,7 +1351,7 @@
   formattingOptions: []
   position:
   - 1.8172109375e+3
-  - 8.92015625e+2
+  - 8.91759943181818e+2
   width: 1.6e+2
   connections:
     indexes: []
@@ -1364,8 +1367,8 @@
     rangeStart: 0
     rangeLength: 21
   position:
-  - 2.1466640625e+3
-  - 9.2390625e+1
+  - 2.18671484375e+3
+  - 9.2134943181818e+1
   width: 2.5e+2
   connections:
     indexes: []
@@ -1390,8 +1393,8 @@
     rangeStart: 0
     rangeLength: 19
   position:
-  - 2.1343359375e+3
-  - 1.6908203125e+2
+  - 2.17438671875e+3
+  - 1.68826349431818e+2
   width: 1.6e+2
   connections:
     indexes: []
@@ -1403,8 +1406,8 @@
     rangeStart: 0
     rangeLength: 17
   position:
-  - 2.33523828125e+3
-  - 2.0156640625e+2
+  - 2.3752890625e+3
+  - 2.01310724431818e+2
   width: 1.6e+2
   connections:
     indexes:
@@ -1426,8 +1429,8 @@
     rangeStart: 0
     rangeLength: 15
   position:
-  - 2.3254765625e+3
-  - 2.752890625e+2
+  - 2.36552734375e+3
+  - 2.75033380681818e+2
   width: 1.6e+2
   connections:
     indexes:
@@ -1439,7 +1442,7 @@
   formattingOptions: []
   position:
   - 1.52524609375e+3
-  - 4.2269140625e+2
+  - 4.22435724431818e+2
   width: 1.6e+2
   connections:
     indexes:
@@ -1462,7 +1465,7 @@
     rangeLength: 10
   position:
   - 1.581109375e+3
-  - 6.958046875e+2
+  - 6.95549005681818e+2
   width: 1.6e+2
   connections:
     indexes:
@@ -1474,8 +1477,8 @@
 
     * Knows ALAN
 
-    * Runs the hospital, wasn''t planning on working saturday, but available for off-hours
-    emergencies
+    * Works at the hospital, wasn''t planning on working saturday, but available for
+    off-hours emergencies
 
     * Murder is infrequent enough
 
@@ -1492,8 +1495,8 @@
     rangeStart: 0
     rangeLength: 18
   position:
-  - 2.1352265625e+3
-  - 4.6219140625e+2
+  - 2.17527734375e+3
+  - 4.61935724431818e+2
   width: 2.4e+2
   connections:
     indexes: []
@@ -1522,8 +1525,8 @@
     rangeStart: 0
     rangeLength: 17
   position:
-  - 2.20768359375e+3
-  - 7.211171875e+2
+  - 2.247734375e+3
+  - 7.20861505681818e+2
   width: 2.1e+2
   connections:
     indexes: []
@@ -1535,10 +1538,22 @@
   formattingOptions: []
   position:
   - 1.88505859375e+3
-  - 2.0257421875e+2
+  - 2.02318536931818e+2
   width: 1.6e+2
   connections:
     indexes:
     - location: 9
       length: 1
   _effectiveHeight: 7e+1
+- ID: 100
+  text: Tall, crew-cut,. pretty swole
+  formattingOptions: []
+  position:
+  - 2.011640625e+3
+  - 1.9134943181818e+1
+  width: 1.1e+2
+  connections:
+    indexes:
+    - location: 9
+      length: 1
+  _effectiveHeight: 2.8e+1

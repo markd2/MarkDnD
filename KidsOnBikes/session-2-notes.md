@@ -1,9 +1,9 @@
 # Session 2
 
 GRACE ELLIS
-ALAN KELMP
-ALLISON RENYOLDS
 MICHAEL CARTWRIGHT
+ALLISON RENYOLDS
+ALAN KELMP
 LOOMIS HELLGROVE
 
 * Zach - MICHAEL CARTWRIGHT has "true blue" in his backpack - what was that again?
@@ -447,3 +447,5 @@ web of the zodiac killer / rozencranze and guildensterm
 8th graders are the meanist of the children.
 
 "send them to war at age 14"
+
+talked past cops, and the 
