@@ -166,7 +166,7 @@ key for the next test.  grace: let's not risk it.
 ----------
 
 what did you do.  there was
-alan - there was a moment alone with the fing body of his dad, that's when
+ALAN - there was a moment alone with the fing body of his dad, that's when
     up close and draping an arm over his shoulder. when adults started
    showing up again.  non-confrontataional.
     feet away.
@@ -234,7 +234,7 @@ alan raises his hand.  "this isn't class, you can jsut say it"
   - point that jummy didn't run off, chased two men in black suits, said
     catch it."
 
-grace - i bet jimmy killed his dad.  why would the fbi be chasing hes a searial killer
+ograce - i bet jimmy killed his dad.  why would the fbi be chasing hes a searial killer
 
 loommis - he didn't crate the situation.  he'd be a scary serial killer, he could
  kill a dad, or a teacher, so the fbi has to put a stop to it.
