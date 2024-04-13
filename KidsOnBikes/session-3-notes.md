@@ -36,8 +36,10 @@ needed scenes
     - "help.  you're the only one i can trust.  jk"
     - smells vaguely of lemon
       - maybe hiding out in one of the closed legs of the royal bridge mall
-    - to michael perhaps (you're strong, rich, and have the goons on your side)
-
+    - to michael
+      - Wild Man: "Why these two (Michael / Grace). They are not good people
+        like Allison and Alan.  This Loomis. I do not know you"
+      - Jimmy: "Because he's mean. And rich. and popular"
 
 ----------
 
