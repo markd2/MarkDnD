@@ -11,7 +11,7 @@ Cast: (Sparky power)
 GRACE ELLIS  (ignorant of social norms)
 ALAN KELMP  (Gentle unles provoked)
 ALLISON RENYOLDS  (Fascinated by shiny objects)
-MICHAEL CARTWRIGH  (Mimics a member of the group)
+MICHAEL CARTWRIGHT  (Mimics a member of the group)
 LOOMIS HELLGROVE  (Usually hungry)
 
 Recap:
@@ -177,7 +177,7 @@ wear on all the odd number buttons
 
 hallway
 
-Grace is definitely is doing, yelling at Alan, we shoudl never have brought
+Grace is definitely is doing, yelling at Alan, we should never have brought
 the dog, letting alan have it.
 
 hallway.
@@ -475,4 +475,69 @@ name of the badge that came in, and the couple of lines after.
 ----------
 
 Michael gets into a fist-fight
+
+grace: do you have a hat to hide that you look a little messed up.
+  - sweatshirt hoodie
+
+Grace: you know what, do a makeover.  montage!
+  - get these sluffing aliens ready for prom
+
+During the montage, trying to make them look good, skills of 13 year old
+who shoplifted her makeup.  During the moment, asking, so like does
+mr killing.
+
+"knows I am alien, but does not know for sure about jimmy"
+
+walking through the school.  Say something, "trying to find someone still
+missing and captain guy, and talking about ranks"
+
+US air force, leaving me alone, I don't know why.
+
+Grace: the air force knows you're here and haven't done anything
+
+Alan: when not leaving you alone. negative or positive?  "let's just
+  say negative"
+
+underground giant vault, big vault.
+
+"things mankind really should not have"
+
+Alan: so like bombs.
+
+The place called hawaii.
+
+"Killian has his own things he's dealing with first"
+
+Loomis: spill the Tea
+
+Kilina  - 10 year ago, took over the area, mahmooud 2 years later
+
+undergroind?  Portal, yes
+
+"capture and exploit rather than let me"
+
+TLA  4A-CGS.  They have money. They have power.
+
+Alan: need get to the circle Q, past mahoud.
+
+Allison - talk to Mahmoud. Would he let us downstairs.
+
+Grace: if I was like hey I need to give allison a makeover because she's
+  so frumpy.  More than the usual time.  talk him into the basement
+  thing?
+
+Allison resurfaces, just have a conversation with mahmoud, and reason with
+him.
+
+Loomis - think so too.  Have a conversation.
+
+in charge of the portal to an alien place.  Is he an alien.
+  Mahmoud doesn't know.  can get to it from his basement.
+
+----------
+
+got there makeup going on, should be recognizable.
+
+
+
 
